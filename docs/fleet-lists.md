@@ -299,8 +299,8 @@ the Fleet Lists to give you a mis-match of
 Imperial, Chaos, Eldar and Ork cut-throats.
 
 > ## Breaking the Rules
-> The rules of Battlefleet Gothic, including
-> the scenarios and fleet lists, are there to
+> The [rules of Battlefleet Gothic](the-rules.md), including
+> the [scenarios](scenarions.md) and fleet lists, are there to
 > help players who want to fight battles
 > with immense starships. If you want to
 > change something, write your own rules
@@ -317,8 +317,8 @@ Imperial, Chaos, Eldar and Ork cut-throats.
 > Darkness that add new ships and fleets.
 > There are also entire homebrew rulesets
 > that change the mechanics of the game
-> itself like Battlefleet Gothic XR or
-> Battlefleet Heresy.
+> itself like <a href="https://files.spawningpool.net/index.php?b=docs%2FVault2.0.-.TTRPG-Gamebooks%2FWarhammer%2F40k%2FBattlefleet+Gothic%2FBFG-XR" target="_new">Battlefleet Gothic XR</a> or
+> <a href="https://rr30k.com/battlefleet-heresy/" target="_new">Battlefleet Heresy</a>.
 > 
 > Or if you have any ideas that you think
 > other people will enjoy playing, why not
