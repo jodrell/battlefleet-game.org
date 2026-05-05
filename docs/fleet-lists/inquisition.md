@@ -74,7 +74,7 @@ can be purchased for +25 points.
 ## Capital Ships
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/inquisitorial-cruiser.pdf" target="_new">Inquisitorial Cruiser (pg. 144)</a></strong></td><td><strong>270 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="../ships/inquisition/inquisitorial-cruiser.pdf" target="_new">Inquisitorial Cruiser</a></strong></td><td><strong>270 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -84,7 +84,7 @@ takes the place of a battlecruiser or strike cruiser
 in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/blackship.pdf" target="_new">Inquisition Blackship (pg. 142)</a></strong></td><td><strong>300 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="../ships/inquisition/blackship.pdf" target="_new">Inquisition Blackship</a></strong></td><td><strong>300 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -93,7 +93,7 @@ a special vessel does not count toward or against
 other ship limits in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/inquisition/grey-knights-strike-cruiser.pdf" target="_new">Grey Knights Strike Cruiser (pg. 145)</a></strong></td><td><strong>165 pts</strong></td></tr>
+<tr><td><strong><a href="../ships/inquisition/grey-knights-strike-cruiser.pdf" target="_new">Grey Knights Strike Cruiser</a></strong></td><td><strong>165 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -102,7 +102,7 @@ one Grey Knights Strike Cruiser may be taken
 for every 500 points in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/grey-knights-battle-barge.pdf" target="_new">Grey Knights Battle barge (pg. 141)</a></strong></td><td><strong>440 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="../ships/inquisition/grey-knights-battle-barge.pdf" target="_new">Grey Knights Battle barge</a></strong></td><td><strong>440 pts</strong></td></tr>
 </tbody></table>
 
 
