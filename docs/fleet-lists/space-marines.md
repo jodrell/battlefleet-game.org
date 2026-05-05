@@ -314,14 +314,14 @@ cruiser at the listed cost, plus an additional +35
 points for its Space Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
+<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -331,12 +331,22 @@ points for its Space Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td><td>45 pts</td></tr>
-<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
+<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
+  <td>45 pts</td>
+</tr>
+
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)</a></td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)</a></td>
+  <td>35 pts</td>
+</tr>
 </tbody></table>
 
 ### Ordnance
@@ -411,7 +421,7 @@ carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-b
 include one Fortress-Monastery.*
 
 <table class=fleet-list><tbody>
-<tr><td>Fortress-Monastery (<a target="_new" title="Open Page 108 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=108">pg. 108</a>)</td><td>1000 pts</td></tr>
+<tr><td><a href="#fortress-monastery_1">Fortress-Monastery</a></td><td>1000 pts</td></tr>
 </tbody></table>
 
 
@@ -445,15 +455,15 @@ cost, plus an additional +35 points for its Space
 Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
+<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruisers (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -463,9 +473,9 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
+<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -607,17 +617,16 @@ cost, plus an additional +35 points for its Space
 Marine crew.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) Venerable battle barge (<a target="_new" title="Open Page 100 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=100">pg. 100</a>)</td><td>varies</td></tr>
-<tr><td>Battle barge (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td><td>425 pts</td></tr>
+<tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
+<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Strike cruiser (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td><td>145 pts</td></tr>
+<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruiser</a></td><td>145 pts</td></tr>
 </tbody></table>
-
 
 ### Escorts
 
@@ -625,13 +634,26 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>Nova class Frigate (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td><td>50 pts</td></tr>
-<tr><td>Gladius class Frigate (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td><td>45 pts</td></tr>
-<tr><td>Hunter class Destroyer (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Firestorm) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) . 45 pts</td><td></td></tr>
-<tr><td>Rapid strike vessel (Falchion) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Sword) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td><td>40 pts</td></tr>
-<tr><td>Rapid strike vessel (Cobra) (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td><td>35 pts</td></tr>
+<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
+  <td>45 pts</td>
+</tr>
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Falchion)</a></td>
+  <td>40 pts</td>
+</tr>
+
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)</a></td>
+  <td>40 pts</td>
+</tr>
+<tr>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)</a></td>
+  <td>35 pts</td>
+</tr>
 </tbody></table>
 
 ### Ordnance

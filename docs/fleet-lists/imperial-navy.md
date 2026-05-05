@@ -476,7 +476,7 @@ Endeavour class light cruisers in the fleet._
 > the Imperial Navy, and only in the most
 > desperate of circumstances, but an invasion
 > the size of [Abaddon’s Thirteenth Black
-> Crusade](abaddons-13th-black-crusade.md) without doubt qualifies as exactly
+> Crusade](../abaddons-13th-black-crusade.md) without doubt qualifies as exactly
 > that – the most dire of circumstances, the
 > most desperate of times.
 >
