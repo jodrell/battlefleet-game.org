@@ -300,7 +300,7 @@ Imperial, Chaos, Eldar and Ork cut-throats.
 
 > ## Breaking the Rules
 > The [rules of Battlefleet Gothic](the-rules.md), including
-> the [scenarios](scenarions.md) and fleet lists, are there to
+> the [scenarios](scenarios.md) and fleet lists, are there to
 > help players who want to fight battles
 > with immense starships. If you want to
 > change something, write your own rules
