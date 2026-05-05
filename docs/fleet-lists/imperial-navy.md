@@ -134,11 +134,11 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Emperor class battleship (<a target="_new" title="Open Page 51 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=51">pg. 51</a>)</td>
+  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Retribution class battleship (<a target="_new" title="Open Page 52 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=52">pg. 52</a>)</td>
+  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 </tbody></table>
@@ -150,11 +150,11 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Mars class battlecruiser (<a target="_new" title="Open Page 59 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=59">pg. 59</a>)</td>
+  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td>Overlord class battlecruiser (<a target="_new" title="Open Page 64 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=64">pg. 64</a>)</td>
+  <td><a href="../ships/imperial-navy/overlord-class-battlecruiser.pdf" target="_new">Overlord class battlecruiser</a></td>
   <td>220 pts</td>
 </tr>
 </tbody></table>
@@ -163,27 +163,27 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Dictator class cruiser (<a target="_new" title="Open Page 65 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=65">pg. 65</a>)</td>
+  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td>Dominator class cruiser (<a target="_new" title="Open Page 66 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=66">pg. 66</a>)</td>
+  <td><a href="../ships/imperial-navy/dominator-class-cruiser.pdf" target="_new">Dominator class cruiser</a></td>
   <td>190 pts</td>
 </tr>
 <tr>
-  <td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td>
+  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td>Gothic class cruiser (<a target="_new" title="Open Page 68 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=68">pg. 68</a>)</td>
+  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td>
+  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Dauntless class light cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td>
+  <td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 </tbody></table>
@@ -195,15 +195,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Firestorm class frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td>
+  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm class frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td>Sword class frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td>
+  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td>Cobra class destroyer (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td>
+  <td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra class destroyer</a></td>
   <td>30 pts</td>
 </tr>
 </tbody></table>
@@ -289,15 +289,15 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Apocalypse class battleship (<a target="_new" title="Open Page 50 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=50">pg. 50</a>)</td>
+  <td><a href="../ships/imperial-navy/apocalypse-class-battleship.pdf" target="_new">Apocalypse class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Emperor class battleship (<a target="_new" title="Open Page 51 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=51">pg. 51</a>)</td>
+  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Retribution class battleship (<a target="_new" title="Open Page 52 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=52">pg. 52</a>)</td>
+  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 </tbody></table>
@@ -311,27 +311,27 @@ fielding battleships.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Exorcist class grand cruiser (<a target="_new" title="Open Page 57 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=57">pg. 57</a>)</td>
+  <td><a href="../ships/imperial-navy/exorcist-class-grand-cruiser.pdf" target="_new">Exorcist class grand cruiser</a></td>
   <td>230 pts</td>
 </tr>
 <tr>
-  <td>Vengeance class grand cruiser (<a target="_new" title="Open Page 56 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=56">pg. 56</a>)</td>
+  <td><a href="../ships/imperial-navy/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td>
   <td>230 pts</td>
 </tr>
 <tr>
-  <td>Avenger class grand cruiser (<a target="_new" title="Open Page 58 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=58">pg. 58</a>)</td>
+  <td><a href="../ships/imperial-navy/avenger-class-grand-cruiser.pdf" target="_new">Avenger class grand cruiser</a></td>
   <td>200 pts</td>
 </tr>
 <tr>
-  <td>Mars class battlecruiser (<a target="_new" title="Open Page 59 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=59">pg. 59</a>)</td>
+  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td>Armageddon class battlecruiser (<a target="_new" title="Open Page 63 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=63">pg. 63</a>)</td>
+  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 <tr>
-  <td>Overlord class battlecruiser (<a target="_new" title="Open Page 64 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=64">pg. 64</a>)</td>
+  <td><a href="../ships/imperial-navy/overlord-class-battlecruiser.pdf" target="_new">Overlord class battlecruiser</a></td>
   <td>220 pts</td>
 </tr>
 </tbody></table>
@@ -340,35 +340,35 @@ fielding battleships.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Dictator class cruiser (<a target="_new" title="Open Page 65 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=65">pg. 65</a>)</td>
+  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td>
+  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td>Gothic class cruiser (<a target="_new" title="Open Page 68 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=68">pg. 68</a>)</td>
+  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td>
+  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Dauntless class light cruiser (<a target="_new" title="Open Page 75 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=75">pg. 75</a>)</td>
+  <td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 70 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=70">pg. 70</a>)</td>
+  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour Class Light Cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td>Endurance Class Light Cruiser* (<a target="_new" title="Open Page 72 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=72">pg. 72</a>)</td>
+  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance Class Light Cruiser*</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td>Defiant Class Light Cruiser* (<a target="_new" title="Open Page 74 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=74">pg. 74</a>)</td>
+  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant Class Light Cruiser*</a></td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -380,15 +380,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Firestorm class frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td>
+  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm class frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td>Sword class frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td>
+  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td>Cobra class destroyer (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td>
+  <td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra class destroyer</a></td>
   <td>30 pts</td>
 </tr>
 </tbody></table>
@@ -475,26 +475,26 @@ Endeavour class light cruisers in the fleet._
 > Reserve fleets are used only reluctantly by
 > the Imperial Navy, and only in the most
 > desperate of circumstances, but an invasion
-> the size of Abaddon’s Thirteenth Black
-> Crusade without doubt qualifies as exactly
+> the size of [Abaddon’s Thirteenth Black
+> Crusade](abaddons-13th-black-crusade.md) without doubt qualifies as exactly
 > that – the most dire of circumstances, the
 > most desperate of times.
 >
 > If you wish, you may use a Battlefleet
 > Obscura Reserve Fleet, picked using the
 > fleet list opposite. In addition, you may of
-> course use the Reserves rule to pick other
+> course use [the Reserves rule](../fleet-lists.md#reserves) to pick other
 > Imperial vessels not found in your own fleet
 > list. However, since a reserve fleet also draws
 > on very old or scarce vessels, you may also
 > use your reserve choices to select any of the
-> following Chaos vessels if you so wish.
+> following [Chaos](chaos.md) vessels if you so wish.
 >
-> * Repulsive class grand cruiser (<a target="_new" title="Open Page 255 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=255">pg. 255</a>)
-> * Executor class grand cruiser (<a target="_new" title="Open Page 257 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=257">pg. 257</a>)
-> * Hades class heavy cruiser (<a target="_new" title="Open Page 260 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=260">pg. 260</a>)
-> * Murder class cruiser (<a target="_new" title="Open Page 265 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=265">pg. 265</a>)
-> * Carnage class cruiser (<a target="_new" title="Open Page 263 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=263">pg. 263</a>)
+> * <a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a>
+> * <a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a>
+> * <a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a>
+> * <a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a>
+> * <a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a>
 >
 > These ‘reserve’ vessels are picked in the
 > normal manner, so for every three vessels
@@ -641,19 +641,19 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Apocalypse class battleship (<a target="_new" title="Open Page 50 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=50">pg. 50</a>)</td>
+  <td><a href="../ships/imperial-navy/apocalypse-class-battleship.pdf" target="_new">Apocalypse class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Emperor class battleship (<a target="_new" title="Open Page 51 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=51">pg. 51</a>)</td>
+  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Oberon class battleship (<a target="_new" title="Open Page 54 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=54">pg. 54</a>)</td>
+  <td><a href="../ships/imperial-navy/oberon-class-battleship.pdf" target="_new">Oberon class battleship</a></td>
   <td>335 pts</td>
 </tr>
 <tr>
-  <td>Space Marine Battle barge* (<a target="_new" title="Open Page 102 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=102">pg. 102</a>)</td>
+  <td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Space Marine Battle barge*</a></td>
   <td>425 pts</td>
 </tr>
 </tbody></table>
@@ -665,11 +665,11 @@ fleet for every cruiser.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Mars class battlecruiser (<a target="_new" title="Open Page 59 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=59">pg. 59</a>)</td>
+  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td>Armageddon class battlecruiser (<a target="_new" title="Open Page 63 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=63">pg. 63</a>)</td>
+  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 </tbody></table>
@@ -678,35 +678,35 @@ fleet for every cruiser.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Dictator class cruiser (<a target="_new" title="Open Page 65 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=65">pg. 65</a>)</td>
+  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td>
+  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td>Gothic class cruiser (<a target="_new" title="Open Page 68 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=68">pg. 68</a>)</td>
+  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td>
+  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Space Marine Strike Cruiser* (<a target="_new" title="Open Page 103 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=103">pg. 103</a>)</td>
+  <td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Space Marine Strike Cruiser*</a></td>
   <td>145 pts</td>
 </tr>
 <tr>
-  <td>Endeavour class light cruiser (<a target="_new" title="Open Page 70 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=70">pg. 70</a>)</td>
+  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td>Endurance class light cruiser** (<a target="_new" title="Open Page 72 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=72">pg. 72</a>)</td>
+  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance class light cruiser**</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td>Defiant class light cruiser** (<a target="_new" title="Open Page 74 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=74">pg. 74</a>)</td>
+  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant class light cruiser**</a></td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -718,35 +718,35 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Firestorm Class Frigate (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>)</td>
+  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm Class Frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td>Falchion Class Frigate (<a target="_new" title="Open Page 78 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=78">pg. 78</a>)</td>
+  <td><a href="../ships/imperial-navy/falchion-class-frigate.pdf" target="_new">Falchion Class Frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td>Nova Class Frigate* (<a target="_new" title="Open Page 105 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=105">pg. 105</a>)</td>
+  <td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova Class Frigate*</a></td>
   <td>50 pts</td>
 </tr>
 <tr>
-  <td>Rapid Strike Vessel (Firestorm)* (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) </td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)*</a></td>
   <td>45 pts</td>
 </tr>
 <tr>
-  <td>Gladius Class Frigate* (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td>
+  <td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius Class Frigate*</a></td>
   <td>45 pts</td>
 </tr>
 <tr>
-  <td>Hunter Class Destroyer* (<a target="_new" title="Open Page 107 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=107">pg. 107</a>)</td>
+  <td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer*</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td>Rapid Strike Vessel (Sword)* (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)*</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td>Rapid Strike Vessel (Cobra)* (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 82 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=82">pg. 82</a>)</td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)*</a></td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
@@ -896,19 +896,19 @@ the fleet.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>(0-1) Emperor class battleship (<a target="_new" title="Open Page 51 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=51">pg. 51</a>)</td>
+  <td>(0-1) <a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td>Retribution class battleship (<a target="_new" title="Open Page 52 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=52">pg. 52</a>)</td>
+  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 <tr>
-  <td>Victory class battleship (<a target="_new" title="Open Page 53 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=53">pg. 53</a>)</td>
+  <td><a href="../ships/imperial-navy/victory-class-battleship.pdf" target="_new">Victory class battleship</a></td>
   <td>345 pts</td>
 </tr>
 <tr>
-  <td>Vanquisher class battleship (<a target="_new" title="Open Page 55 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=55">pg. 55</a>)</td>
+  <td><a href="../ships/imperial-navy/vanquisher-class-battleship.pdf" target="_new">Vanquisher class battleship</a></td>
   <td>300 pts</td>
 </tr>
 </tbody></table>
@@ -920,15 +920,15 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Dominion class battlecruiser (<a target="_new" title="Open Page 60 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=60">pg. 60</a>)</td>
+  <td><a href="../ships/imperial-navy/dominion-class-battlecruiser.pdf" target="_new">Dominion class battlecruiser</a></td>
   <td>260 pts</td>
 </tr>
 <tr>
-  <td>Mercury class battlecruiser (<a target="_new" title="Open Page 62 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=62">pg. 62</a>)</td>
+  <td><a href="../ships/imperial-navy/mercury-class-battlecruiser.pdf" target="_new">Mercury class battlecruiser</a></td>
   <td>255 pts</td>
 </tr>
 <tr>
-  <td>Armageddon class battlecruiser (<a target="_new" title="Open Page 63 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=63">pg. 63</a>)</td>
+  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 </tbody></table>
@@ -940,31 +940,31 @@ Endurance light cruisers taken in a Bakka fleet.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Dominator class cruiser (<a target="_new" title="Open Page 66 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=66">pg. 66</a>)</td>
+  <td><a href="../ships/imperial-navy/dominator-class-cruiser.pdf" target="_new">Dominator class cruiser</a></td>
   <td>190 pts</td>
 </tr>
 <tr>
-  <td>Tyrant class cruiser (<a target="_new" title="Open Page 67 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=67">pg. 67</a>)</td>
+  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td>Gothic class cruiser (<a target="_new" title="Open Page 68 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=68">pg. 68</a>)</td>
+  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Lunar class cruiser (<a target="_new" title="Open Page 69 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=69">pg. 69</a>)</td>
+  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td>Endeavour Class Light Cruiser (<a target="_new" title="Open Page 71 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=71">pg. 71</a>)</td>
+  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser-bakka.pdf" target="_new">Endeavour Class Light Cruiser</a></td>
   <td>115 pts</td>
 </tr>
 <tr>
-  <td>Endurance Class Light Cruiser (<a target="_new" title="Open Page 73 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=73">pg. 73</a>)</td>
+  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser-bakka.pdf" target="_new">Endurance Class Light Cruiser</a></td>
   <td>115 pts</td>
 </tr>
 <tr>
-  <td>Siluria Class Light Cruiser (<a target="_new" title="Open Page 76 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=76">pg. 76</a>)</td>
+  <td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td>
   <td>100 pts</td>
 </tr>
 </tbody></table>
@@ -976,15 +976,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>Havoc class frigate (<a target="_new" title="Open Page 79 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=79">pg. 79</a>)</td>
+  <td><a href="../ships/imperial-navy/havoc-class-frigate.pdf" target="_new">Havoc class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td>Sword class frigate (<a target="_new" title="Open Page 80 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=80">pg. 80</a>)</td>
+  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td>Viper class destroyer (<a target="_new" title="Open Page 81 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=81">pg. 81</a>)</td>
+  <td><a href="../ships/imperial-navy/viper-class-destroyer.pdf" target="_new">Viper class destroyer</a></td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
@@ -1007,7 +1007,7 @@ Mechanicus have a close relationship with the
 fleet.*
 
 In a Bakka fleet list, cruisers from the Adeptus
-Mechanicus f leet list may be taken instead
+Mechanicus fleet list may be taken instead
 of and in the same manner as Imperial Navy
 battlecruisers, counting as battlecruisers against
 any fleet limits in all respects. They utilize all
@@ -1034,14 +1034,14 @@ or grand cruisers) always count toward the twelvecruiser fleet limit.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>(0-1) Jovian class battlecruiser (<a target="_new" title="Open Page 61 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=61">pg. 61</a>)</td>
+  <td>(0-1) <a href="../ships/imperial-navy/jovian-class-battlecruiser.pdf" target="_new">Jovian class battlecruiser</a></td>
   <td>260 pts</td>
 </tr>
 </tbody></table>
 
 One cannot take as reserves the reserves of
-another f leet list. As such, ships such as the
-Jovian that are part of the reserve f leet of
+another fleet list. As such, ships such as the
+Jovian that are part of the reserve fleet of
 Battlefleet Bakka cannot be used as reserves of
 another fleet list.
 
