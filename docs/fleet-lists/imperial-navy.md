@@ -730,8 +730,8 @@ fleet in squadrons of 2–6.*
   <td>50 pts</td>
 </tr>
 <tr>
-  <td>Rapid Strike Vessel (Firestorm)* (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) ... 45 pts</td>
-  <td></td>
+  <td>Rapid Strike Vessel (Firestorm)* (<a target="_new" title="Open Page 104 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=104">pg. 104</a>) (<a target="_new" title="Open Page 77 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=77">pg. 77</a>) </td>
+  <td>45 pts</td>
 </tr>
 <tr>
   <td>Gladius Class Frigate* (<a target="_new" title="Open Page 106 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=106">pg. 106</a>)</td>
