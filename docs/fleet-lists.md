@@ -456,8 +456,8 @@ an Imperial fleet is allowed to immediately
 have a single Space Marine battle barge in its
 fleet list in the course of a campaign with no
 fleet prerequisites and regardless of reserves
-if it expends an [appeal](campaign-rules.md#6-appeals) roll against the Space
-Marines table on pg [???] of the rulebook and
+if it expends an [appeal](campaign-rules.md#6-appeals) roll against [the Space
+Marines table](assets/p157.pdf) <!-- on pg [???] of the rulebook  -->and
 rolls a 2D6 roll of 2, even if that fleet is not
 from the Segmentum Solar fleet list.
 
@@ -485,7 +485,7 @@ alliance between the Imperial Navy and the
 Eldar. Some ships in particular have rules that
 allow them to ally with any number of fleets
 or even fleets on both sides of a battle, such
-as the Demiurg on pg. [???]–[???]. In all cases
+as the Demiurg<!-- on pg. [???]–[???] -->. In all cases
 these follow the standard rules for reserves
 in that no more than one allied vessel may be
 taken for every three core vessels in the fleet.

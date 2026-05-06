@@ -762,7 +762,7 @@ To determine the total strength of the
 attacking forces, make D3+5 rolls against
 the table below from the attacker’s fleet list.
 Alternatively, the attacker may use one of the
-alternate threat tables on [???]
+alternate threat tables on [???][^1]
 
 | D6 ROLL | RESULT |
 | :-: | --- |
@@ -779,10 +779,10 @@ more, no less. Up to 100 points worth of ships
 may be taken to defend the convoy for every
 two normal transports (or their equivalent)
 taken, or 150 points if the attacker uses one of
-the alternate tables on [???] p.83. Before any
+the alternate tables on [???] p.83[^1]. Before any
 escorting vessels are taken, at least two each
-of armed freighters and Q-ships from [???]
-p.159-160 of Armada as well as two Rogue
+of armed freighters and Q-ships <!-- from [???]
+p.159-160 of Armada --> as well as two Rogue
 Trader fast clippers must be included in the
 fleet, with each pair of armed freighters or
 fast clippers counting as the value of a single
@@ -794,8 +794,8 @@ upon. No more than two heavy transports
 may be taken, with each costing 40 points
 and replacing two regular transports. Any of
 the alternate transport variants listed on the
-Rogue Traders fleet list or in [???] Armada
-may be taken, but Q-ships and escort carriers
+Rogue Traders fleet list<!-- or in [???] Armada
+may be taken -->, but Q-ships and escort carriers
 have zero transport value. After all transport
 variants are selected, any remaining available
 points may be spent normally on fleet
@@ -817,8 +817,8 @@ fashion.
 
 Set-up for both the attacking and defending
 players are in the same manner as described
-in the Convoy scenario on [???] of the
-Remastered Rulebook.
+in the [Convoy scenario](../scenarios/convoy.md)<!-- on [???] of the
+Remastered Rulebook -->.
 
 ### First Turn
 
@@ -833,8 +833,8 @@ turn.
 ### Special Rules
 
 The rules for this scenario are as described
-on [???] p.74 of the Battlefleet Gothic
-Rulebook. In addition, at the beginning of
+on [[???] p.74 of the Battlefleet Gothic
+Rulebook](../scenarios/convoy.md). In addition, at the beginning of
 each defending player’s turn after the first
 turn, the defending player rolls 2D6 against
 the following table. Unless otherwise stated,
@@ -869,8 +869,8 @@ disengaged.
 ### Victory Conditions
 
 Victory conditions are similar to those
-described on [???] p.75 of the Battlefleet
-Gothic Rulebook. However, use instead the
+described on [[???] p.75 of the Battlefleet
+Gothic Rulebook](../scenarios/convoy.md). However, use instead the
 table below to determine victory conditions.
 The point value of each transport that
 escapes is applied to the defender’s tally when
@@ -914,9 +914,9 @@ mix of between two to six vessels. This fleet is
 then split as evenly as possible, labelled Force
 1 and Force 2. In addition to the 50% of the
 hunting fleet available to the raiders, they
-may purchase up to D6×10 orbital defences
-from [???] p.141-144 of the Battlefleet Gothic
-Rulebook.
+may purchase up to D6×10 [orbital defences](planetary-defences.md).
+<!--from [???] p.141-144 of the Battlefleet Gothic
+Rulebook. -->
 
 ### Battlezone
 This scenario takes place near a pirate haven
@@ -1296,14 +1296,14 @@ force may start the game on the table with
 the Space Hulk or may enter the table at the
 start of the second turn in any mix and order
 desired. The attacking player sets up in the
-same manner as described on p.75 [???] of the
-Battlefleet Gothic Rulebook.
+same manner as described [on p.75 [???] of the
+Battlefleet Gothic Rulebook](../scenarios/convoy.md#victory-conditions).
 
 ### First Turn
 
 The defending player takes the first turn
-in the same manner as described on [???]
-p.74 of the Battlefleet Gothic Rulebook. The
+in the same manner as described [on [???]
+p.74 of the Battlefleet Gothic Rulebook](../scenarios/convoy.md#first-turn). The
 defending player may decide how many ships
 start the first turn on his or her short table
 edge, and how many enter on the start of the
@@ -1392,9 +1392,9 @@ mutually agreed-upon fashion.
 ### Set-up
 
 Both primary fleets set up on opposite long
-table edges in the same manner as the Cruiser
-Clash scenario on [???] p.68 of the Battlefleet
-Gothic Rulebook. The third fleet does not set
+table edges in the same manner as the [Cruiser
+Clash scenario](../scenarios/cruiser-clash.md)<!-- on [???] p.68 of the Battlefleet
+Gothic Rulebook -->. The third fleet does not set
 up for D3 turns. When it does set up, it does
 so anywhere along a random short table edge.
 
@@ -1463,3 +1463,5 @@ earn more victory points than they lose before
 the end of the battle. Player #3 only wins the
 battle if both other players lose more victory
 points than they earn.
+
+[^1]: Editor's note: it is unclear what the "[???]" above is supposed to refer to

@@ -663,7 +663,7 @@ Navy vessels are equipped with their own
 standard ordnance (even if they have Space
 Marine Captains) and cannot be given any form
 of Space Marine upgrade. This includes those
-listed on the table on [???] p.157 of the rulebook.
+listed on [the table on [???] p.157 of the rulebook](assets/p157.pdf).
 
 ### Attack Rating
 
@@ -734,7 +734,7 @@ Any launch bays on a Venerable battle barge have their launch capacity halved (r
 For example, an Imperial Mars battlecruiser with two launch bays each side is reduced to one
 each side, and a Chaos Styx heavy cruiser with three launch bays on each side is reduced to two
 each side. The launch bays are configured to carry [Thunderhawks](#thunderhawk-gunships) following the rules detailed
-beforehand and on [???] of Armada, and they cannot be used to launch any other form of [attack
+beforehand<!-- and on [???] of Armada -->, and they cannot be used to launch any other form of [attack
 craft](../the-ordnance-phase.md#attack-craft). This is a compulsory [refit](../campaign-rules.md#refits) that applies to all Venerable battle barges equipped with launch
 bays. A Venerable battle barge not equipped with launch bays cannot take Thunderhawks.
 

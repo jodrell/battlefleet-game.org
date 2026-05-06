@@ -243,7 +243,7 @@ makes contact with an [asteroid field](../the-battlefield.md#asteroid-fields) or
 
 When playing the defender in [scenarios](../scenarios.md) that
 call for [planetary defences](planetary-defences.md), Orks have access
-to all the defences listed on [???] pp.141-146
+to all the defences listed <!-- on [???] pp.141-146 -->
 in the rulebook. These can be represented
 as captured Imperial or Chaos defences, or
 weapon emplacements installed on small
@@ -253,8 +253,8 @@ Brute ramships or gunships that have more
 dakka bolted on to defend ‘da planet! In place
 of the Imperial Blackstone Fortress, substitute
 a non-moving Space Hulk using the same
-(unchanged) profile and point cost listed on
-[???] p.145.
+(unchanged) profile and point cost<!-- listed on
+[???] p.145 -->.
 
 ## Ork Pirates: Cyclops Cluster Fleet List
 
@@ -1231,8 +1231,8 @@ nearby, instead the hulk breaks up into
 
 On a warp drive implosion result the hulk is
 hurled back into the Warp. Replace the hulk
-with a [Warp rift](../the-battlefield.md#warp-rifts) [???] (celestial phenomena,
-p45). Any ships caught in the rift are affected
+with a [Warp rift](../the-battlefield.md#warp-rifts)<!-- [???] (celestial phenomena,
+p45) -->. Any ships caught in the rift are affected
 immediately.
 
 ### Ork Hulk Critical Hits Table
@@ -1284,9 +1284,9 @@ engaging in battles in the same way as other
 fleets. The [Third Armageddon War](../the-third-armageddon-war.md) represents
 one such conflict where the Orks participate
 as full fleets, rather than just raiders.
-History, rules and background for the Third
+<!-- History, rules and background for the Third
 Armageddon War are presented on [???] of the
-Remastered Rulebook.
+Remastered Rulebook. -->
 
 ## Roks
 

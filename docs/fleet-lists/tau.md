@@ -227,15 +227,15 @@ planetary defence.
 In a campaign, a Tau fleet commander earns
 promotions (re-rolls) in the same manner as
 Imperials. The Tau fleet has access to the same
-refits and crew skills as Imperial and Chaos
-fleets on pp.156-157 [???] of the rulebook.
+[refits](../campaign-rules.md#refits) and [crew skills](../campaign-rules.md#crew-skills) as Imperial and Chaos
+fleets<!-- on pp.156-157 [???] of the rulebook -->.
 Ships not able to take a particular refit rolled
 randomly may re-roll the result.
 
-They do not have access to the special torpedo
-refit table listed on pg. 19, though they may
-use Torpedo Bombers and Orbital Mines as
-listed on pgs. 22–23.
+They do not have access to the [special torpedo](refits.md#special-torpedos)
+refit table<!-- listed on pg. 19 -->, though they may
+use [Torpedo Bombers](../the-ordnance-phase.md#torpedo-bombers) and [Orbital Mines](refits.md#orbital-mines)<!-- as
+listed on pgs. 22–23 -->.
 
 ## Allies, Subjects & Mercenaries
 

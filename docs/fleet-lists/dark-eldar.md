@@ -32,8 +32,7 @@ purposes.
 ## Dark Eldar Leadership
 
 All Dark Eldar ships add +1 to the Leadership
-score generated on the [Leadership table](../the-rules.md#leadership)
-<!--on [???] page 10 of the Battlefleet Gothic
+score generated on the [Leadership table](../the-rules.md#leadership)<!--on [???] page 10 of the Battlefleet Gothic
 Rulebook -->, giving them a leadership value of
 between 7 and 10.
 
@@ -421,9 +420,8 @@ remain unchanged.
 In a campaign, a Dark Eldar
 fleet commander earns
 promotions (re-rolls) in the
-same manner as the Eldar
-as listed on pg. [???] of the
-rulebook.
+same manner as the [Eldar](eldar.md#eldar-in-campaigns)<!--as listed on pg. [???] of the
+rulebook -->.
 
 ### Eldar Promotions (all Types of Eldar)
 
