@@ -1,7 +1,5 @@
 # Eldar
 
-*This page is a work in progress!*
-
 ## Special Rules
 
 ### Eldar Leadership

@@ -1,7 +1,5 @@
 # Adeptus Mechanicus
 
-*This page is a work in progress!*
-
 ## Special Rules
 
 Adeptus Mechanicus vessels follow all rules

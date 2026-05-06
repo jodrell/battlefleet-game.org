@@ -1,7 +1,5 @@
 # Space Marines
 
-*This page is a work in progress!*
-
 ## Space Marine Leadership
 
 Space Marines are highly organised, efficient

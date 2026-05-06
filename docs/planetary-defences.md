@@ -33,7 +33,7 @@ Orbital defences or ships that count as
 defences may be placed in [squadrons](squadrons.md),
 with 1HP defences grouped in up to six
 units and larger defences grouped in
-up to four. A Ramilies Star Fort cannot
+up to four. A [Ramilies Star Fort](fleet-lists/planetary-defences.md#ramilies-class-star-fort) cannot
 squadron with other orbital defences.
 
 Stationary planetary defences may be placed

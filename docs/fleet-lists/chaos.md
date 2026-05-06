@@ -1,7 +1,5 @@
 # Chaos
 
-*This page is a work in progress!*
-
 ## Special Rules
 
 ### Attack Rating

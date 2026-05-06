@@ -1,7 +1,5 @@
 # Rogue Traders
 
-*This page is a work in progress!*
-
 ## Commander
 
 ### 0-2 Veteran Rogue Traders

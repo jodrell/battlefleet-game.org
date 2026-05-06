@@ -1,7 +1,5 @@
 # Planetary Defences
 
-*This page is a work in progress!*
-
 As well as relying upon the intervention of
 interstellar warships, a planetary system may
 also be protected by local defences. The first of
@@ -217,32 +215,32 @@ make Special Orders normally.
 ## High Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>Orbital defence laser platform (<a target="_new" title="Open Page 489 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=489">pg. 489</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital torpedo launcher (<a target="_new" title="Open Page 490 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=490">pg. 490</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital weapons platform (<a target="_new" title="Open Page 491 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=491">pg. 491</a>)</td><td>30 pts</td></tr>
-<tr><td>Orbital mine (<a target="_new" title="Open Page 492 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=492">pg. 492</a>)</td><td>5 pts</td></tr>
-<tr><td>0-2 Minefields (<a target="_new" title="Open Page 493 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=493">pg. 493</a>)</td><td>40 pts</td></tr>
-<tr><td>0-6 Fire ships (<a target="_new" title="Open Page 496 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=496">pg. 496</a>)</td><td>10 pts</td></tr>
-<tr><td>System ship (<a target="_new" title="Open Page 495 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=495">pg. 495</a>)</td><td>20 pts</td></tr>
-<tr><td>Defence monitor (<a target="_new" title="Open Page 494 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=494">pg. 494</a>)</td><td>60 pts</td></tr>
-<tr><td>Orbital dock (<a target="_new" title="Open Page 488 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=488">pg. 488</a>)</td><td>90 pts</td></tr>
-<tr><td>Space station (<a target="_new" title="Open Page 487 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=487">pg. 487</a>)</td><td>150 pts</td></tr>
-<tr><td>Blackstone fortress (<a target="_new" title="Open Page 486 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=486">pg. 486</a>)</td><td>400 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/orbital-defence-laser-platform.pdf" target="_new">Orbital defence laser platform</a></td><td>30 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/orbital-torpedo-launcher.pdf" target="_new">Orbital torpedo launcher</a></td><td>30 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/orbital-weapons-platform.pdf" target="_new">Orbital weapons platform</a></td><td>30 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/orbital-mine.pdf" target="_new">Orbital mine</a></td><td>5 pts</td></tr>
+<tr><td>0-2 <a href="../ships/high-orbit-defences/minefield.pdf" target="_new">Minefields</a></td><td>40 pts</td></tr>
+<tr><td>0-6 <a href="../ships/high-orbit-defences/fire-ship.pdf" target="_new">Fire ships</a></td><td>10 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/system-ship.pdf" target="_new">System ship</a></td><td>20 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/defence-monitor.pdf" target="_new">Defence monitor</a></td><td>60 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/orbital-dock.pdf" target="_new">Orbital dock</a></td><td>90 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/space-station.pdf" target="_new">Space station</a></td><td>150 pts</td></tr>
+<tr><td><a href="../ships/high-orbit-defences/blackstone-fortress.pdf" target="_new">Blackstone fortress</a></td><td>400 pts</td></tr>
 </tbody></table>
 
 ## Low Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>0-8 Defence laser silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>15 pts</td></tr>
-<tr><td>0-8 Missile silos (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>5 pts</td></tr>
-<tr><td>0-4 Air bases (<a target="_new" title="Open Page 497 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=497">pg. 497</a>)</td><td>20 pts</td></tr>
+<tr><td>0-8 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Defence laser silos</a></td><td>15 pts</td></tr>
+<tr><td>0-8 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Missile silos</a></td><td>5 pts</td></tr>
+<tr><td>0-4 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Air bases</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 ## Ramilies Class Star Fort
 
 ### Quadrants
 
-The Ramilies star fort is so large that its
+The [Ramilies star fort](ships/high-orbit-defences/ramilies-class-star-fort.pdf) is so large that its
 weapons, hits and defences are divided up into
 four ‘quadrants’ representing the different
 sides of the space station. When the star fort

@@ -1,6 +1,3 @@
-
-*This page is a work in progress!*
-
 ## Introduction
 
 **In the [Rulebook](index.md), you learned how to play the basic

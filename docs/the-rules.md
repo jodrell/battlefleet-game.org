@@ -818,7 +818,7 @@ next to the model with the appropriate symbol
 face uppermost as a reminder. A ship or [defence](planetary-defences.md)
 can never be on more than one special order at
 a time unless specifically described otherwise
-in its special rules, such as a Ramilies Star Fort.
+in its special rules, such as a [Ramilies Star Fort](fleet-lists/planetary-defences.md#ramilies-class-star-fort).
 
 With all of the orders except [*Brace For
 Impact!*](#brace-for-impact) you must make the check in
