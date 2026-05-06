@@ -255,7 +255,7 @@ moves in from.
 
 #### Templates
 
-[Nova cannons](../the-shooting-phase.md#nova-cannon) and Armageddon guns can
+[Nova cannons](../the-shooting-phase.md#nova-cannon) and [Armageddon guns](chaos.md#the-armageddon-gun) can
 score a ‘full on’ D6 hits only against the
 quadrant most under the centre hole of the
 marker when it hits.
