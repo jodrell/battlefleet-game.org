@@ -174,8 +174,8 @@ the previous page.
 
 When a Thunderhawk Annihilator comes in
 contact with an enemy ship’s base, they attack
-it like [bombers](../the-ordnance-phase.md#bombers) as described for bombers on
-[???] of the Remastered Rulebook, even if they
+it like [bombers](../the-ordnance-phase.md#bombers)<!-- as described for bombers on
+[???] of the Remastered Rulebook -->, even if they
 have used their [resilience](../the-ordnance-phase.md#resilient-attack-craft) to remain in play.
 
 As they behave as both fighters and bombers,
@@ -249,9 +249,9 @@ addition to a normal teleport attack that turn.
 
 In a campaign, the Space Marine fleet has
 access to the same [refits and crew skills](../campaign-rules.md#general-upgrades)
-as Imperial fleets on [???] of the rulebook.
+as Imperial fleets<!-- on [???] of the rulebook -->.
 Space Marines may roll [appeals](../campaign-rules.md#6-appeals) against the
-Space Marines table on [???] if desired. Ships
+Space Marines table <!-- on [???] --> if desired. Ships
 earned as a result of rolling against this table
 are considered to be “for free” and do not
 count against fleet restrictions. For example,
@@ -373,7 +373,7 @@ Dark Angels. While not strictly a Crusading Chapter, this list is particularly s
 Angels, since it represents their famously secretive method of operation. Other Chapters, such
 as the Imperial Fists, the Crimson Fists and so on, occasionally launch Crusades though not
 exclusively, so they can be equally well represented by this fleet list or the Codex Astartes fleet
-list on [???] of Armada.
+list<!-- on [???] of Armada -->.
 
 ### Fleet Commander
 
@@ -688,7 +688,7 @@ taken in this manner, the fleet can have up
 to twelve cruisers. However, in the course of
 a campaign, a Dominion Fleet cannot take
 reinforcements from the Space Marines table
-listed on [???] of the Battlefleet Gothic rulebook.
+<!--listed on [??? -->] of the Battlefleet Gothic rulebook.
 
 ## Venerable Battle Barge
 

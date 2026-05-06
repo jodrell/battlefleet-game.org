@@ -33,8 +33,8 @@ purposes.
 
 All Dark Eldar ships add +1 to the Leadership
 score generated on the [Leadership table](../the-rules.md#leadership)
-on [???] page 10 of the Battlefleet Gothic
-Rulebook, giving them a leadership value of
+<!--on [???] page 10 of the Battlefleet Gothic
+Rulebook -->, giving them a leadership value of
 between 7 and 10.
 
 Dark Eldar ships can make a [leadership check](../the-rules.md#taking-command-checks)

@@ -324,7 +324,7 @@ bay strength, just like attack craft squadrons.
 This means they are launched from the ship's
 stem at the end of the Movement Phase and
 move according to the normal behaviour of
-Orbital Mines on pg. [???]. Note that orbital
+Orbital Mines<!-- on pg. [???] -->. Note that orbital
 mines cannot be formed into waves.
 
 Orbital mines are not subject to ordnance

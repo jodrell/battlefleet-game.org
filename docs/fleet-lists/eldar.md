@@ -5,8 +5,8 @@
 ### Eldar Leadership
 
 All Eldar ships add + 1 to the [Leadership](../the-rules.md#leadership) score
-generated on the Leadership table on pg. [???]
-of the Remastered [Rulebook](../the-rules.md), giving them a
+generated on the [Leadership table](../the-rules.md#starting-leadership-values) <!-- on pg. [???]
+of the Remastered [Rulebook](../the-rules.md)-->, giving them a
 Leadership value between 7 and 10.
 
 ### Eldar Attack Rating
@@ -572,7 +572,7 @@ outcome that results in a [planet](../the-battlefield.md#planets).
 
 The Craftworld template is placed on the table in
 the same manner as a planet using the [Planetary
-assault](../scenarios/planetary-assault.md) rules on [???] p.76 of the Rulebook.
+assault](../scenarios/planetary-assault.md) rules<!-- on [???] p.76 of the Rulebook -->.
 The defender can choose to place ships and
 squadrons either on patrol or on standby in high
 orbit, or within the craftworld’s gravity (low

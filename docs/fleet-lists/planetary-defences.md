@@ -96,8 +96,7 @@ to any planetary defences provided by the
 specific scenario. This allows for the use of
 larger planetary defences such as major fleet
 bases and the like, for which the profile and
-point cost of an Imperial Blackstone Fortress
-on p.145 [???] of the rulebook may be used.
+point cost of an Imperial [Blackstone Fortress](ships/high-orbit-defences/blackstone-fortress.pdf) <!-- on p.145 [???] of the rulebook  -->may be used.
 However, these additional defences come
 directly from the points allowed against
 his or her fleet list. This means trading off
@@ -330,7 +329,7 @@ Ramilies](#ramilies-class-star-fort-critical-hits-table).
 The various quadrants of a Ramilies Star Fort
 automatically count as massing turrets (unless
 [crippled](../the-shooting-phase.md#crippled-ships) or destroyed, following all normal
-rules for [massing turrets](../the-ordnance-phase.md#massing-turrets) on [???]). However,
+rules for [massing turrets](../the-ordnance-phase.md#massing-turrets)<!-- on [???] -->). However,
 only the quadrants adjacent to it can mass
 turrets with a given quadrant, giving it a
 maximum of +2 turrets. This is in addition to
@@ -410,8 +409,8 @@ Even while fully docked the ship can still be
 targeted and attacked separately to the fort,
 although it counts as being in close formation
 with the fort for [massed turret](../the-ordnance-phase.md#massing-turrets) fire with the
-benefits and dangers that brings. For more
-detail see [???] page 158.
+benefits and dangers that brings. <!-- For more
+detail see [???] page 158. -->
 
 ### Special Orders
 
@@ -495,8 +494,7 @@ earned apply to all quadrants.
 
 ### Special Torpedo Refits
 
-A Ramilies can purchase [special torpedoes](../fleet-lists/refits.md#special-torpedoes)
-from [???] on p.156-157 of Armada. However,
+A Ramilies can purchase [special torpedoes](../fleet-lists/refits.md#special-torpedoes)<!--from [???] on p.156-157 of Armada -->. However,
 if the Basilica takes [critical damage](../the-shooting-phase.md#critical-hits) while
 armed with torpedoes affected by critical
 damage (such as [vortex torpedoes](../fleet-lists/refits.md#vortex-torpedoes)), BOTH
@@ -549,5 +547,5 @@ what happens to the vast wreck.
 | :-: | :-: | --- |
 | 1–2 | 0 | **Wrecked:** The main structure of the stations survives somehow with parts intact and even some pockets of atmosphere. Venting gases and wreckage block line of fire across the wrecked fort, treat any movement through it as moving through an [asteroid field](../the-battlefield.md#asteroid-fields). |
 | 3 | 0 | **Structural Collapse:** The area is filled with huge chunks of wreckage as the fort comes apart. Place a 15 cm diameter [asteroid field](../the-battlefield.md#asteroid-fields) where it was. |
-| 4–5 | 2D6 | **Hyper-plasma Meltdown:** The sophisticated reactor of the Ramilies goes critical in spectacular style. Resolve eight [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship within 4D6 cm. All [ordnance](../the-ordnance-phase.md) within that distance is removed. All other ships, defences and ordnance markers on the table suffer the effects of a [solar flare](../the-battlefield.md#solar-flares) centred on the fort, as noted on [???] p47 of the Battlefleet Gothic rulebook. Finally the fort itself is replaced by 2D6 [blast markers](../the-shooting-phase.md#blast-markers). |
-| 6 | 0 | **Warpbubble Implosion:** The Ramilies is drawn into the Warp by an instantaneous collapse of its warp bubble generator. Resolve four [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship and [ordnance marker](../the-ordnance-phase.md) within 4D6 cm. Then replace the Ramilies with a [Warp Rift](../the-battlefield.md#warp-rifts) as detailed on [???] p45 of the Battlelfleet Gothic rulebook. All [ordnance](../the-ordnance-phase.md) and ships on the table top are then immediately drawn 15 cm towards the Rift and, if moved into it, will be affected as noted in the [Celestial Phenomena](../the-battlefield.md#celestial-phenomena) rules. |
+| 4–5 | 2D6 | **Hyper-plasma Meltdown:** The sophisticated reactor of the Ramilies goes critical in spectacular style. Resolve eight [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship within 4D6 cm. All [ordnance](../the-ordnance-phase.md) within that distance is removed. All other ships, defences and ordnance markers on the table suffer the effects of a [solar flare](../the-battlefield.md#solar-flares) centred on the fort<!-- , as noted on [???] p47 of the Battlefleet Gothic rulebook -->. Finally the fort itself is replaced by 2D6 [blast markers](../the-shooting-phase.md#blast-markers). |
+| 6 | 0 | **Warpbubble Implosion:** The Ramilies is drawn into the Warp by an instantaneous collapse of its warp bubble generator. Resolve four [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship and [ordnance marker](../the-ordnance-phase.md) within 4D6 cm. Then replace the Ramilies with a [Warp Rift](../the-battlefield.md#warp-rifts) <!-- as detailed on [???] p45 of the Battlelfleet Gothic rulebook -->. All [ordnance](../the-ordnance-phase.md) and ships on the table top are then immediately drawn 15 cm towards the Rift and, if moved into it, will be affected as noted in the [Celestial Phenomena](../the-battlefield.md#celestial-phenomena) rules. |

@@ -795,7 +795,7 @@ Warmaster in any Chaos Fleet worth more than
 </tbody></table>
 
 Abaddon receives one re-roll per turn, in
-addition see his special rules on pg. 72[??]
+addition see his [special rules](#abaddon-the-despoiler-scourge-of-the-gothic-sector)<!-- on pg. 72[??] -->.
 
 #### Chaos Lords
 
@@ -2152,8 +2152,8 @@ ships nearby, instead the hulk breaks up into
 [asteroid field](../the-battlefield.md#asteroid-fields) D3 × 5 cm wide and long. On a
 warp drive implosion result the hulk is hurled
 back into the Warp. Replace the hulk with a
-[Warp rift](../the-battlefield.md#warp-rifts) (Celestial Phenomena, Remastered
-Rulebook, pg. &lt;?&gt;) [???]. Any ships caught in
+[Warp rift](../the-battlefield.md#warp-rifts)<!-- (Celestial Phenomena, Remastered
+Rulebook, pg. &lt;?&gt;) [???] -->. Any ships caught in
 the rift are affected immediately.
 
 #### Using Chaos Space Hulks

@@ -95,7 +95,7 @@ they have something to gain by forming a
 temporary alliance. Whether their own goals
 actually benefit their erstwhile comrades is
 usually debatable. Any game that includes a
-Rogue Trader cruiser must include a [sub-plot](../scenarios.md#sub-plots) from [???] p.82-84 in the Rulebook.
+Rogue Trader cruiser must include a [sub-plot](../scenarios.md#sub-plots)<!-- from [???] p.82-84 in the Rulebook -->.
 This can be imagined as representing the
 Rogue Trader’s own vested interest. As such,
 if the owning player fails the sub-plot, the
@@ -139,8 +139,8 @@ space, and successful Rogue Traders tend to
 be as experienced as the most veteran Naval
 captains. To represent this each Rogue Trader
 cruiser and escort squadron may roll one
-random [crew skill](../campaign-rules.md#crew-skills) on [???] in the Remastered
-Rulebook for +10% point value. In addition,
+random [crew skill](../campaign-rules.md#crew-skills)<!-- on [???] in the Remastered
+Rulebook --> for +10% point value. In addition,
 each Rogue Trader vessel may roll randomly
 against the Xenotech System table below for
 +15 points per cruiser or +5 points per escort.
@@ -172,7 +172,7 @@ have an [attack (initiative) rating] of 3.
 #### Xenos Allies
 
 The rules listed on this fleet list take the
-place of those listed on [???] concerning
+place of those <!-- listed on [???] --> concerning
 incorporating Kroot or Demiurg vessels into a
 fleet accompanied by a Rogue Trader cruiser.
 
@@ -182,19 +182,19 @@ A Rogue Trader fleet more often than not
 operates in wilderness space far from support
 or assistance should the need arise. Any game
 using the Rogue Trader fleet list must include
-a [sub-plot](../scenarios.md#sub-plots) from [???]-[???] of the Remastered
-Rulebook.
+a [sub-plot](../scenarios.md#sub-plots)<!-- from [???]-[???] of the Remastered
+Rulebook -->.
 
 #### The Best Money Can Buy
 
-The Xenotech Systems refits listed on [???] can
+The Xenotech Systems refits <!-- listed on [???] --> can
 only be used by Rogue Trader cruisers and
 escorts, not by other reserves or allied vessels
 in the fleet. Over the course of a campaign,
 Rogue Trader cruisers cannot earn additional
 refits from the Xenotech list and must use the
-refit tables listed on [???] of the Remastered
-Rulebook. Rogue Traders that join the fleet
+refit tables<!-- listed on [???] of the Remastered
+Rulebook -->. Rogue Traders that join the fleet
 over the course of a campaign may start by
 taking one refit from the Xenotech list for the
 appropriate point cost for rolling randomly or
@@ -381,7 +381,7 @@ of 3.
 ### Pirates in scenarios
 
 When selecting scenarios, Pirates always roll
-against the Raid table on [???] of the Rulebook.
+against the [Raid table](../scenarios.md#raids)<!-- on [???] of the Rulebook -->.
 However, if the Pirate fleet is the attacker and
 has a fleet of 1,500 points or greater, they may
 elect to play a [Planetary Assault](../scenarios/planetary-assault.md) on a D6 roll
@@ -390,8 +390,8 @@ of 6.
 ### Pirates in campaigns
 
 For [campaigns](../campaign-rules.md), pirate fleets operate from
-a pirate base as described on [???] of the
-Rulebook. They have very limited access
+a [pirate base](../campaign-rules.md/#attacking-pirate-bases)<!-- as described on [???] of the
+Rulebook -->. They have very limited access
 to formal shipyards and cannot earn refits
 in the course of a campaign, but they may
 instead earn crew skills in the manner other
@@ -646,8 +646,7 @@ husbands the overstretched resources of the Imperial Navy, it brings no
 profit to the hapless Rogue Trader!**
 
 The following threat tables are intended for
-use as alternatives with the [Convoy scenario](../scenarios/convoy.md)
-on [???] in the Remastered Rulebook. If used,
+use as alternatives with the [Convoy scenario](../scenarios/convoy.md)<!--on [???] in the Remastered Rulebook -->. If used,
 the defending player may add up to +50 points
 worth of ships to whatever point value is
 allowed in the scenario to defend the convoy

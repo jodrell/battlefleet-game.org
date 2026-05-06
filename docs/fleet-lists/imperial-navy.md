@@ -74,8 +74,8 @@ separate points value.
 ### Imperial Navy in Campaigns
 
 The Imperial Navy uses the default rules in
-[campaigns](../campaign-rules.md) as presented in the Battlefleet
-Gothic Remastered Rulebook on [pg [???]](../campaign-rules.md).
+[campaigns as presented in the Battlefleet
+Gothic Remastered Rulebook](../campaign-rules.md)<!-- on [pg [???]](../campaign-rules.md)-->.
 
 ## Segmentum Obscurus: Gothic Sector Fleet List
 

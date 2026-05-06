@@ -159,8 +159,8 @@ some higher objective that may be obscured
 by the current conflict at-hand. In addition
 to any [sub-plots](../scenarios.md#sub-plots) rolled normally, the fleet
 led by an Inquisitor must take a [Secret Ploys](../scenarios.md#secret-ploys-roll-of-5-6)
-sub-plot rolled randomly from [???] p.84 of the
-Battlefleet Gothic Rulebook.
+sub-plot rolled randomly<!-- from [???] p.84 of the
+Battlefleet Gothic Rulebook -->.
 
 ## Reserves and Allies
 
@@ -374,7 +374,7 @@ Khorne do not double boarding values against
 this ship, etc. Rules for Chaos Space Marines
 still apply normally, and any other special
 rules and effects such as the Forces of Chaos
-listed on p.158 [???] of the Rulebook remain
+<!--listed on p.158 [???] of the Rulebook --> remain
 unaffected.
 
 An Ordo Malleus Inquisitor will only
@@ -395,7 +395,7 @@ addition to its reserves and/or allies rules.
 For no change in their cost, a fleet led by an
 Ordo Malleus Inquisitor may take as reserves
 any Chaos ship listed in the Bastion Fleet
-List on p.29 [???] of Armada. These vessels
+List<!-- on p.29 [???] of Armada -->. These vessels
 are free of the “Strange Happenings” special
 rule as long as the Inquisitor’s ship remains
 in play, but the fleet may not take any Grey

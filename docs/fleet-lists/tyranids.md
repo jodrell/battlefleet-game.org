@@ -729,7 +729,7 @@ Ships equipped with assault boat launch bays can
 exchange all their launch bays for spore mine
 launchers. Each launch bay can launch one megaspore mine In the [Ordnance phase](../the-ordnance-phase.md) Mega-spore
 mines follow all movement and ordnance rules
-mines do on [???] of the Remastered Rulebook,
+[mines](ships/high-orbit-defences/orbital-mine.pdf) do<!-- on [???] of the Remastered Rulebook -->,
 but when rolling against armour to inflict hits,
 it inflicts that number of fire criticals instead.
 Not intended for escorts.
