@@ -434,7 +434,7 @@ unmodified from their normal profiles.*
 <tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius Class Frigate (pg. 106)</a></td><td>40 pts</td></tr>
 <tr><td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword Class Frigate (pg. 80)</a></td><td>35 pts</td></tr>
 <tr><td><a href="../ships/imperial-navy/falchion-class-frigate.pdf" target="_new">Falchion Class Frigate (pg. 78)</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer (pg. 107)</a></td><td>35 pts</td></tr>
+<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer (pg. 107)</a></td><td>35 pts</td></tr>
 <tr><td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra Class Destroyer (pg. 82)</a></td><td>30 pts</td></tr>
 </tbody></table>
 

@@ -33,7 +33,7 @@ Rogue Trader escort squadron.
 > Trader fleet, as a cruiser and an escort
 > respectively.
 > 
-> <table class=fleet-list><tbody><tr><td><a href="../ships/rogue-traders/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+> <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ## Capital Ships
 
