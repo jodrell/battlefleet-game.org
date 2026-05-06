@@ -457,7 +457,7 @@ have a single Space Marine battle barge in its
 fleet list in the course of a campaign with no
 fleet prerequisites and regardless of reserves
 if it expends an [appeal](campaign-rules.md#6-appeals) roll against [the Space
-Marines table](assets/p157.pdf) <!-- on pg [???] of the rulebook  -->and
+Marines table](fleet-lists/assets/p157.pdf) <!-- on pg [???] of the rulebook  -->and
 rolls a 2D6 roll of 2, even if that fleet is not
 from the Segmentum Solar fleet list.
 

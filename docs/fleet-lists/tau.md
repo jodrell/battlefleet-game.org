@@ -232,7 +232,7 @@ fleets<!-- on pp.156-157 [???] of the rulebook -->.
 Ships not able to take a particular refit rolled
 randomly may re-roll the result.
 
-They do not have access to the [special torpedo](refits.md#special-torpedos)
+They do not have access to the [special torpedo](refits.md#special-torpedoes)
 refit table<!-- listed on pg. 19 -->, though they may
 use [Torpedo Bombers](../the-ordnance-phase.md#torpedo-bombers) and [Orbital Mines](refits.md#orbital-mines)<!-- as
 listed on pgs. 22–23 -->.
