@@ -2,6 +2,9 @@
 
 Steps to build the site:
 
-1. install `python` & `pip`
-2. Use `pip` to install `mkdocs-material`
-3. Run `mkdocs serve` (site will be running on http://localhost:8000/)
+* Install `python` & `pip`
+* Use `pip` to install `mkdocs-material`
+
+On macOS with [Homebrew](https://brew.sh), you can just run `brew install mkdocs-material`.
+
+* Run `mkdocs serve` (site will be running on http://localhost:8000/)
