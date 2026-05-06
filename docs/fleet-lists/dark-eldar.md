@@ -532,7 +532,7 @@ below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td>Torture class cruiser (<a target="_new" title="Open Page 338 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=338">pg. 338</a>)</td><td>210 pts</td></tr>
+<tr><td><a href="../ships/dark-eldar/torture-class-cruiser.pdf" target="_new">Torture class cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -562,7 +562,7 @@ fleets must contain at least three escorts for every
 capital ship taken.*
 
 <table class=fleet-list><tbody>
-<tr><td>Corsair Class Escort (<a target="_new" title="Open Page 339 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=339">pg. 339</a>)</td><td>50 pts</td></tr>
+<tr><td><a href="../ships/dark-eldar/corsair-class-escort.pdf" target="_new">Corsair Class Escort</a></td><td>50 pts</td></tr>
 </tbody></table>
 
 
