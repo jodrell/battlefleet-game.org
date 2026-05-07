@@ -71,7 +71,7 @@ chance of accidental collisions in Gothic.
 This is deliberate – amidst the vast
 gulfs of space the chances of actually
 getting that close to another ship (unless
-deliberately trying to ram it) are tiny.
+deliberately trying to [ram](the-movement-phase.md#all-ahead-full-ramming-speed) it) are tiny.
 
 ## The Shooting Phase
 
@@ -83,7 +83,7 @@ in, but may not count it as being in both.
 **Halted Ships:** Sometimes a combination
 of [critical damage](the-shooting-phase.md#critical-hits) and [Blast markers](the-shooting-phase.md#blast-markers) will
 bring a ship to a halt, or a ship may be
-using a gravity well to remain stationary.
+using a [gravity well](the-battlefield.md#typical-gravity-wells) to remain stationary.
 In either of these cases use the Defences
 column on the [Gunnery table](the-shooting-phase.md#gunnery-table) if they are
 fired at – a halted ship is just a sitting target.
@@ -91,7 +91,7 @@ fired at – a halted ship is just a sitting target.
 **Blast Markers:** These take effect as soon
 as they are placed, and will even affect
 subsequent shooting by the same ship in the
-same [Shooting Phase]((the-shooting-phase.md) (here’s a hint: always fire
+same [Shooting Phase](the-shooting-phase.md) (here’s a hint: always fire
 your [weapons batteries](the-shooting-phase.md#direct-firing-weapons-batteries) before [lances](the-shooting-phase.md#direct-firing-lances)). A ship
 that moves away from [Blast markers](the-shooting-phase.md#blast-markers) in contact
 with its base always suffers the 5 cm speed
@@ -99,15 +99,15 @@ penalty, even if it moves directly away and not
 through the markers – the buffeting it receives
 still limits its speed. Being slowed down by
 [Blast markers](the-shooting-phase.md#blast-markers) does not reduce the distance
-a capital ship must move before turning, or
+a [capital ship](the-rules.md#capital-ships) must move before [turning](the-movement-phase.md#turning), or
 the half speed distance the ship must travel.
 
 ## The Ordnance Phase
 
 **Moving Ordnance:** It’s important to
 appreciate that [ordnance](the-ordnance-phase.md) always moves
-in both players’ turns. Although attack
-craft can opt not to move in an [Ordnance
+in both players’ turns. Although [attack
+craft](the-ordnance-phase.md#attack-craft) can opt not to move in an [Ordnance
 Phase](the-ordnance-phase.md), [torpedoes](the-ordnance-phase.md#torpedoes) must move their
 full speed each Ordnance Phase.
 
