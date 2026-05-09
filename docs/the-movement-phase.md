@@ -409,7 +409,7 @@ remains in play but may
 not fire, launch [ordnance](the-ordnance-phase.md)
 or attempt to use [special
 orders](the-rules.md#special-orders) (except [*Brace for
-Impact!*]) during the turn.
+Impact!*](the-rules.md#brace-for-impact) during the turn.
 
 Any ship or squadron that,
 through a combination
