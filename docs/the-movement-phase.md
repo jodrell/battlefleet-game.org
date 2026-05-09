@@ -369,9 +369,9 @@ Phase with the following modifiers:
 
 | CIRCUMSTANCE | MODIFIER |
 | --- | :-: |
-| Each Blast Marker within 5 cm | +1 |
-| Any celestial phenomena within 15 cm | +3* |
-| Each enemy ship or Ordnance | marker within 15 cm | -1 |
+| Each [Blast Marker](the-shooting-phase.md#blast-markers) within 5 cm | +1 |
+| Any [celestial phenomena](the-battlefield.md#celestial-phenomena) within 15 cm | +3* |
+| Each enemy ship or [Ordnance](the-ordnance-phase.md) marker within 15 cm | -1 |
 
 *\*This is for a [tabletop feature](the-battlefield.md#tabletop-features) such as
 an [asteroid field](the-battlefield.md#asteroid-fields) or [planet](the-battlefield.md#planets). If a [tabletop
