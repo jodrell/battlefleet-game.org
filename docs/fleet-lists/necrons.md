@@ -197,7 +197,7 @@ Necron drives are capable of interstellar travel
 without the need to enter the Warp. The
 drive is fired whenever [*All Ahead Full*](../the-rules.md#all-ahead-full) orders
 are issued; instead of obeying the normal
-rules for this order the ship gains D6 ! 10 cm
+rules for this order the ship gains D6 x 10 cm
 additional movement and can make a turn for
 every 20 cm it travels.
 
