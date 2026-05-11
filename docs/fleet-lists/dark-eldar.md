@@ -411,7 +411,7 @@ their lair.
 An [Eldar Haven](eldar.md#haven-space-station) <!-- (pg. 320) --> may be used as a
 Dark Eldar pirate base. When used as such,
 trade bombers for [Slavebringer assault boats](#attack-craft)
-and [Pulsar Lances](eldar.md#pulsar-lance) for [Shadow Lances](#shadow-lance) at
+and [Pulsar Lances](eldar.md#pulsar-lance) for [Shadow Lances](eldar.md#shadow-lance) at
 no change in cost. All other characteristics
 remain unchanged.
 
