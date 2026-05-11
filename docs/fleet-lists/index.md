@@ -201,7 +201,7 @@ to represent it. This helps both players to
 remember exactly what each ship is armed
 with and stops players getting a nasty surprise
 halfway through the battle ("It's a [nova
-cannon](../the-shooting-phase#nova-cannon) is it? I see ... ").
+cannon](../the-shooting-phase.md#nova-cannon) is it? I see ... ").
 
 ### Ship class variants
 
