@@ -20,8 +20,6 @@ theme:
   logo: assets/image--004.png
   favicon: assets/favicon.png
   features:
-    - navigation.instant
-    - navigation.instant.prefetch
     - navigation.indexes
     - navigation.top
     - navigation.tracking
