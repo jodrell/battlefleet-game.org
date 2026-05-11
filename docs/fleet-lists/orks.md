@@ -1151,6 +1151,7 @@ another defence, against which it rolls 2D6.
 Having an Ork Warlord aboard a space hulk
 does not double its [boarding](../the-end-phase.md#boarding-actions) value. Also, the
 Warlord’s upgrades are modified as noted:
+
 * Looted Torpedoes and Maniac Gunners
 upgrades can be used to affect only one
 weapon system or torpedo battery per
@@ -1158,9 +1159,12 @@ turn. Which system is being affected
 must be nominated before the roll is made
 for its effectiveness – the re-roll can’t be
 transferred elsewhere afterwards!
+
 * Extra Powerfields costs +50 pts instead of +25.
+
 * Mad Meks enables the hulk to ignore the
 effects of a critical hit on a D6 roll of 6.
+
 * Mega-armoured Boarding Parties is unchanged.
 
 ### Movement

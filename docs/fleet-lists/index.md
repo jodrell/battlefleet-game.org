@@ -40,8 +40,8 @@ sections:
 ### Fleet Commander.
 
 Your fleet can be led by a commander, e.g. an
-Imperial Admiral, Chaos Warmaster, Eldar
-Pirate Prince, Ork Warlord or Tau Kor’o.
+[Imperial](imperial-navy.md) Admiral, [Chaos](chaos.md) Warmaster, [Eldar](eldar.md)
+Pirate Prince, [Ork](orks.md) Warlord or [Tau](tau.md) Kor’o.
 
 Your Fleet Commander's [leadership](../the-rules.md#leadership)
 supersedes that of the vessel it is assigned to,
@@ -49,7 +49,7 @@ even if it is lower!
 
 The Fleet Commander can be assigned to
 a ship any time before the game, even after
-rolling up the Leadership values for your
+rolling up the [Leadership](../the-rules.md#leadership) values for your
 vessels. If any restrictions apply, these are
 noted in the fleet lists (like placing the
 Commander on the most expensive ship or
@@ -67,33 +67,34 @@ compulsory.
 Some fleets also have unique command
 structures which give them special bonuses.
 For example, having the option to take extra
-commanders for more re-rolls or better
-leadership. The different options for your Fleet
+commanders for more [re-rolls](../the-rules.md#re-rolls) or better
+[leadership](../the-rules.md#leadership). The different options for your Fleet
 Commanders are given in this section of the list.
 
 > #### Fleet Commander Re-rolls
+>
 > Fleet Commanders may have a number
 > of Fleet Commander [re-rolls](../the-rules.md#re-rolls) available
 > to them, as indicated in the Fleet
 > Commander section of the fleet list.
 > Each of these re-rolls can only be used
 > once per game and allows you to re-roll
-> a failed [Command check](../the-rules.md#taking-command-checks) or Leadership
-> test for a ship or squadron in their fleet.
+> a failed [Command check](../the-rules.md#taking-command-checks) or [Leadership
+> test](../the-rules.md#other-leadership-tests) for a ship or squadron in their fleet.
 > Remember that you can only use one reroll at a time, so it is not possible to use
 > several re-rolls on the same Leadership
 > test. If the Fleet Commander's flagship
-> suffers a Bridge Smashed critical hit, any
+> suffers a Bridge Smashed [critical hit](../the-shooting-phase.md#critical-hits), any
 > remaining Fleet Commander re-rolls
 > are lost for the remainder of the battle.
 
 Just like ship’s captains and crews, Chaos
 Lords, Ork Warlords, etc. can gain experience
-(leadership) in a [campaign](../campaign-rules.md). Note that
+([leadership](../the-rules.md#leadership)) in a [campaign](../campaign-rules.md). Note that
 improvements can only be based on the ship’s
 or commander’s natural leadership, not on
 any bonuses gained by the ship itself. For
-example, an Emperor battleship with a natural
+example, an [Emperor battleship](ships/imperial-navy/emperor-class-battleship.pdf) with a natural
 Ld 7 is effectively Ld 8 in battle because of
 its inherent +1 Ld bonus, but it can only gain
 crew skills once its natural Leadership is at
@@ -101,7 +102,7 @@ least Ld 8. Crew skills can only be gained by
 ships, not Fleet Commanders
 
 If a ship containing a fleet commander,
-Warlord, Mark of Chaos, etc. is destroyed, the
+Warlord, [Mark of Chaos](chaos.md#marks-of-chaos), etc. is destroyed, the
 cost of any embarked commanders or other
 improvements are included in the [Victory
 Points](../scenarios/index.md#victory-points) earned by the enemy, even if it can be
@@ -109,14 +110,14 @@ assumed the fleet commander escaped to fight
 another day.
 
 If a Fleet Commander with particular bonuses
-(such as Chaos Marks or Ork benefits) moves
+(such as [Chaos Marks](chaos.md#marks-of-chaos) or Ork benefits) moves
 to another ship that already has particular
 crew skills, they may be combined as long as
 they do not contradict each other. For
 example, a Chaos fleet commander with a
-Mark of Slaanesh using the 13th Black
-Crusade fleet list cannot use as a flagship a
-vessel with the Mark of Khorne. Crew skills
+[Mark of Slaanesh](chaos.md#chaos-lords_4) using the [13th Black
+Crusade fleet list](chaos.md#abaddons-13th-black-crusade-black-crusade-fleet-list) cannot use as a flagship a
+vessel with the [Mark of Khorne](chaos.md#chaos-lords_3). Crew skills
 also cannot be multiplied; an Ork Warboss
 Fleet Commander with Mad Meks that moves
 to another ship that ship already had Mad
@@ -199,8 +200,8 @@ model assembled with two lance batteries
 to represent it. This helps both players to
 remember exactly what each ship is armed
 with and stops players getting a nasty surprise
-halfway through the battle ("It's a nova
-cannon is it? I see ... ").
+halfway through the battle ("It's a [nova
+cannon](../the-shooting-phase#nova-cannon) is it? I see ... ").
 
 ### Ship class variants
 
@@ -248,7 +249,7 @@ the escorts must be divided so no escort is
 operating without at least one other escort in
 a squadron. This rule exempts escorts that are
 allowed to operate alone, such as transports or
-Tau Messenger ships.
+[Tau](tau.md) Messenger ships.
 
 **Cruisers, heavy cruisers and battlecruisers**
 may be formed into squadrons of two to four

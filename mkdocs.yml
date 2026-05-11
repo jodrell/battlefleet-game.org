@@ -4,6 +4,7 @@ site_description: "Online version of the Battlefleet Gothic: Remastered Rulebook
 
 theme:
   name: material
+  language: en
   palette:
     - scheme: default
       primary: black
@@ -18,15 +19,14 @@ theme:
   custom_dir: overrides
   logo: assets/image--004.png
   favicon: assets/favicon.png
-  features:  
+  features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.indexes
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
-    - navigation.sections
-    - navigation.expand
+    - navigation.tracking
+    - navigation.path
+  
 extra:
   generator: false
 
@@ -46,40 +46,7 @@ validation:
   absolute_links: ignore
 
 nav:
-  - Home:
-    - index.md
-    - the-rules.md
-    - the-turn.md
-    - the-movement-phase.md
-    - the-shooting-phase.md
-    - the-ordnance-phase.md
-    - the-end-phase.md
-    - squadrons.md
-    - planetary-defences.md
-    - the-battlefield.md
-    - scenarios.md
-    - the-third-armageddon-war.md
-    - abaddons-13th-black-crusade.md
-    - campaign-rules.md
-    - andy-chambers-notes.md
-    - Fleet Lists:
-      - fleet-lists.md
-      - fleet-lists/refits.md
-      - fleet-lists/imperial-navy.md
-      - fleet-lists/space-marines.md
-      - fleet-lists/adeptus-mechanicus.md
-      - fleet-lists/inquisition.md
-      - fleet-lists/rogue-traders.md
-      - fleet-lists/chaos.md
-      - fleet-lists/eldar.md
-      - fleet-lists/dark-eldar.md
-      - fleet-lists/orks.md
-      - fleet-lists/necrons.md
-      - fleet-lists/tyranids.md
-      - fleet-lists/tau.md
-      - fleet-lists/planetary-defences.md
-      - fleet-lists/additional-vessels.md
-    - colophon.md
+  - Home: index.md
   - the-rules.md
   - the-turn.md
   - the-movement-phase.md
@@ -90,7 +57,7 @@ nav:
   - planetary-defences.md
   - the-battlefield.md
   - Scenarios:
-    - scenarios.md
+    - scenarios/index.md
     - scenarios/cruiser-clash.md
     - scenarios/the-bait.md
     - scenarios/the-raiders.md
@@ -103,12 +70,12 @@ nav:
     - scenarios/fleet-engagement.md
   - campaign-rules.md
   - The Third Armageddon War:
-    - the-third-armageddon-war.md
+    - the-third-armageddon-war/index.md
     - the-third-armageddon-war/the-gauntlet.md
     - the-third-armageddon-war/parols-bait.md
     - the-third-armageddon-war/pelucidar.md
   - "Abaddon's 13th Black Crusade":
-    - abaddons-13th-black-crusade.md
+    - abaddons-13th-black-crusade/index.md
     - abaddons-13th-black-crusade/chance-encounter.md
     - abaddons-13th-black-crusade/rearguard-attack.md
     - abaddons-13th-black-crusade/alien-intervention.md
@@ -118,7 +85,7 @@ nav:
     - abaddons-13th-black-crusade/macharias-end.md
   - andy-chambers-notes.md
   - Fleet Lists:
-    - fleet-lists.md
+    - fleet-lists/index.md
     - fleet-lists/refits.md
     - fleet-lists/imperial-navy.md
     - fleet-lists/space-marines.md
