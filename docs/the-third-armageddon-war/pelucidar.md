@@ -94,7 +94,7 @@ The battle lasts until the Imperial fleet is destroyed or has disengaged
 
 ## Victory Conditions
 
-The Imperial player scores [Victory points](../scenarios.md#victory-points) for destroying and crippling Ork ships as normal, but
+The Imperial player scores [Victory points](../scenarios/index.md#victory-points) for destroying and crippling Ork ships as normal, but
 not for ‘Holding the Field’. In addition, the Victory Points for any Imperial ship that is destroyed
 or disengages is deducted from his total. The Ork player receives no Victory Points in this battle.
 The Imperial player must earn at least 2000 Victory Points at the end of the battle

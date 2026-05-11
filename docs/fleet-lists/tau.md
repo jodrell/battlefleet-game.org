@@ -9,7 +9,7 @@ rulebooks concerning [leadership](../the-rules.md#leadership), [movement](../the
 
 ## Attack Rating
 
-Tau have a starting [attack or initiative rating](../scenarios.md#using-an-attack-rating)
+Tau have a starting [attack or initiative rating](../scenarios/index.md#using-an-attack-rating)
 of 2.
 
 ## Teleport Attacks
@@ -76,7 +76,7 @@ in game terms – ships do not start a game
 attached to their parent ship, and can never be
 docked during a game. Likewise, the number
 of gravitic hooks is unimportant when
-calculating [victory points](../scenarios.md#victory-points) (your opponent
+calculating [victory points](../scenarios/index.md#victory-points) (your opponent
 does not get VPs for surviving escorts just
 because there aren't enough gravitic hooks to
 notionally transport them to safety).
@@ -749,7 +749,7 @@ reasons entirely unrelated to their relationship to the Tau.
 ### Attack Rating
 
 The Demiurg fleet has an [Attack or Initiative
-rating](../scenarios.md#using-an-attack-rating) of 2.
+rating](../scenarios/index.md#using-an-attack-rating) of 2.
 
 ### Leadership
 
@@ -798,7 +798,7 @@ attempt to [disengage](../the-movement-phase.md#disengaging-from-combat) unless 
 less remaining. Though their point cost remains
 unchanged, Strongholds are worth 400 points,
 Bastions are worth 300 points and Citadels are
-worth 200 points when determining [Victory Points](../scenarios.md#victory-points).
+worth 200 points when determining [Victory Points](../scenarios/index.md#victory-points).
 
 #### Mercenaries
 

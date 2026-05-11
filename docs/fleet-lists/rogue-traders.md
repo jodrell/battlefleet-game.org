@@ -95,11 +95,11 @@ they have something to gain by forming a
 temporary alliance. Whether their own goals
 actually benefit their erstwhile comrades is
 usually debatable. Any game that includes a
-Rogue Trader cruiser must include a [sub-plot](../scenarios.md#sub-plots)<!-- from [???] p.82-84 in the Rulebook -->.
+Rogue Trader cruiser must include a [sub-plot](../scenarios/index.md#sub-plots)<!-- from [???] p.82-84 in the Rulebook -->.
 This can be imagined as representing the
 Rogue Trader’s own vested interest. As such,
 if the owning player fails the sub-plot, the
-enemy earns [victory points](../scenarios.md#victory-points) as if the Rogue
+enemy earns [victory points](../scenarios/index.md#victory-points) as if the Rogue
 Trader cruiser was crippled (in addition
 to any [renown](../campaign-rules.md#renown) gained or lost normally). If
 the Rogue Trader was actually [crippled](../the-shooting-phase.md#crippled-ships) in
@@ -116,7 +116,7 @@ renown in addition to any gained normally.
 
 If the Rogue Trader [disengages](../the-movement-phase.md#disengaging-from-combat) and you
 complete the sub-plot, the enemy gains no
-[victory points](../scenarios.md#victory-points) for the Rogue Trader cruiser,
+[victory points](../scenarios/index.md#victory-points) for the Rogue Trader cruiser,
 regardless of its condition. However, if it
 disengages and the owning player fails the
 sub-plot, it counts as being destroyed for
@@ -182,7 +182,7 @@ A Rogue Trader fleet more often than not
 operates in wilderness space far from support
 or assistance should the need arise. Any game
 using the Rogue Trader fleet list must include
-a [sub-plot](../scenarios.md#sub-plots)<!-- from [???]-[???] of the Remastered
+a [sub-plot](../scenarios/index.md#sub-plots)<!-- from [???]-[???] of the Remastered
 Rulebook -->.
 
 #### The Best Money Can Buy
@@ -375,13 +375,13 @@ unmodified starting leadership will be from
 
 ### Attack rating
 
-Pirate fleets have an [attack or initiative rating](../scenarios.md#using-an-attack-rating)
+Pirate fleets have an [attack or initiative rating](../scenarios/index.md#using-an-attack-rating)
 of 3.
 
 ### Pirates in scenarios
 
 When selecting scenarios, Pirates always roll
-against the [Raid table](../scenarios.md#raids)<!-- on [???] of the Rulebook -->.
+against the [Raid table](../scenarios/index.md#raids)<!-- on [???] of the Rulebook -->.
 However, if the Pirate fleet is the attacker and
 has a fleet of 1,500 points or greater, they may
 elect to play a [Planetary Assault](../scenarios/planetary-assault.md) on a D6 roll
@@ -567,7 +567,7 @@ hollowed-out asteroids they travel abroad in
 caravans that function both as [capital ships](../the-rules.md#capital-ships)
 and impromptu trading posts. Using only
 this profile, two or three may be used as a
-substitution for an enemy in any [scenario](../scenarios.md)
+substitution for an enemy in any [scenario](../scenarios/index.md)
 where the chosen or randomly selected
 threat is a capital ship of a given point limit.
 Additionally, up to four ships in a Rogue
@@ -1089,7 +1089,7 @@ edge or are destroyed.
 
 ### Victory Conditions
 
-[Victory points](../scenarios.md#victory-points) are calculated normally. In
+[Victory points](../scenarios/index.md#victory-points) are calculated normally. In
 addition, the defender earns a major victory
 (+1 [renown](../campaign-rules.md#renown)) if the cruiser departs the opposite
 short table edge without being crippled. The
@@ -1227,7 +1227,7 @@ destroyed.
 
 ### Victory Conditions
 
-[Victory points](../scenarios.md#victory-points) are calculated normally.
+[Victory points](../scenarios/index.md#victory-points) are calculated normally.
 In addition, the player that captures the
 derelict ship and navigates it off the table
 earns a major victory (+2 [renown](../campaign-rules.md#renown)), even if it
@@ -1341,7 +1341,7 @@ edges for any reason, it counts as destroyed.
 
 ### Victory Conditions
 
-[Victory points](../scenarios.md#victory-points) are calculated normally. In
+[Victory points](../scenarios/index.md#victory-points) are calculated normally. In
 addition, if the Space Hulk is safely navigated
 off the opposite table edge, the defending
 player earns a major victory (+1 [renown](../campaign-rules.md#renown))
@@ -1444,7 +1444,7 @@ but one fleet disengages or is destroyed.
 
 ### Victory Conditions
 
-[Victory points](../scenarios.md#victory-points) are calculated normally.
+[Victory points](../scenarios/index.md#victory-points) are calculated normally.
 Escorts count for victory points individually
 instead of per squadron. Capital ships count
 normally. However, their full value in victory

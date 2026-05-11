@@ -5,7 +5,7 @@
 The Dark Eldar use the following special
 rules. Note: unless specifically stated
 otherwise, the Dark Eldar do NOT use any
-of the special rules for Eldar Corsairs. Where
+of the special rules for [Eldar Corsairs](eldar.md). Where
 the Dark Eldar do use such rules, these are
 re-printed below to avoid confusion.
 
@@ -19,11 +19,11 @@ ease horrifying to the crews of Imperial
 vessels, leaden by comparison. Because of
 this, Dark Eldar ships do not need to pass
 a [Command check](../the-rules.md#taking-command-checks) in order to use [*Come to
-New Heading*] special orders and count as
+New Heading*](../the-rules.md#come-to-new-heading) special orders and count as
 automatically passing any Command check
 to do so. In addition, Dark Eldar cruisers have
 no minimum required movement, even before
-turning, but are unable to use the [*Burn Retros*]
+turning, but are unable to use the [*Burn Retros*](../the-rules.md#burn-retros)
 special order. Note: All Eldar ships still fall
 under the restriction that if a ship moves less
 than 5 cm it counts as a defence for shooting
@@ -106,7 +106,7 @@ Shadowfields save against the shell hit of the
 rolls. For example, if an Dark Eldar vessel
 is hit and fails to save, it must immediately
 take as many hits as the damage roll allocates
-unless it successfully braced beforehand.
+unless it successfully [braced](../the-rules.md#brace-for-impact) beforehand.
 
 Dark Eldar must determine if they wish to [brace](../the-rules.md#brace-for-impact)
 against damage they may face BEFORE rolling
@@ -328,7 +328,7 @@ beginning of each of the Dark Eldar player’s
 turn he must remove any Impalers from the
 table (these are assumed to have been forced to
 return to their parent ship due to lack of fuel).
-He may of course attempt to [*reload ordnance*]
+He may of course attempt to [*reload ordnance*](../the-rules.md#reload-ordnance)
 during the turn in order to relaunch said
 Impalers (i.e. he reloads ordnance as quickly
 as possible to ‘turn around’ the Impalers and
@@ -346,7 +346,7 @@ are permitted to launch or have in play.
 
 If the Impaler is removed (either by turrets,
 enemy ordnance, attack craft and so on), the
-Dark Eldar vessel must reload ordnance as
+Dark Eldar vessel must [reload ordnance](../the-rules.md#reload-ordnance) as
 normal before being able to fire it again (it is
 assumed that a damaged module limps back
 to its parent vessel and must await hurried
@@ -363,17 +363,17 @@ from the squadron loses its Impaler. This
 does mean you have to keep track of which
 Impalers come from which squadron.
 
-#### Leech Torpedoes
+### Leech Torpedoes
 
 Dark Eldar ships armed with [torpedoes](../the-ordnance-phase.md#torpedoes)
 may use leech torpedoes at no extra cost.
 These must be loaded with a specific [*Reload
-Ordnance*] roll, although a ship may start the
+Ordnance*](../the-rules.md#reload-ordnance) roll, although a ship may start the
 scenario with them in the tubes by writing a
 note on the ship sheet. Leech torpedoes cause
 no damage other than a single, automatic
 [critical hit](../the-shooting-phase.md#critical-hits) (do not roll against armour). [*Brace
-for Impact*] can be used against this normally.
+for Impact*](../the-rules.md#brace-for-impact) can be used against this normally.
 Escorts are not automatically destroyed by
 this critical hit.
 
@@ -381,7 +381,7 @@ Do not roll for the effect of this critical hit,
 instead the leech torpedo immediately causes
 a -10 cm speed reduction on its target. A
 leech torpedo hit also prevents the target
-from executing any [*All Ahead Full*] special
+from executing any [*All Ahead Full*](../the-rules.md#all-ahead-full) special
 orders. Only one -10cm speed penalty applies
 regardless of the number attached – the effect
 is not cumulative. However, all leech hits on
@@ -408,10 +408,10 @@ their lair.
 
 ## Eldar Haven
 
-An Eldar Haven (<a target="_new" title="Open Page 320 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=320">pg. 320</a>) may be used as a
+An [Eldar Haven](eldar,md#haven-space-station) <!-- (pg. 320) --> may be used as a
 Dark Eldar pirate base. When used as such,
-trade bombers for Slavebringer assault boats
-and Pulsar Lances for Shadow Lances at
+trade bombers for [Slavebringer assault boats](#attack-craft)
+and [Pulsar Lances](eldar.md#pulsar-lance) for [Shadow Lances](#shadow-lance) at
 no change in cost. All other characteristics
 remain unchanged.
 
@@ -447,7 +447,7 @@ from serving together in the crucible of war. Roll on the following table:*
 
 | D6 roll | Skill |
 | :-: | --- |
-| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock On*] Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s leadership. |
+| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock On*](../the-rules.md#lock-on) Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s leadership. |
 | 2 | **Warlock:** A renowned Seer accompanies the vessel, disclosing fragments of possibility to the ship's captain. This vessel may always attempt to go on [Special Orders](../the-rules.md#special-orders), even if another ship or squadron in the fleet has failed a command check this turn. |
 | 3 | **Excellent Pilots:** Even the [bomber](../the-ordnance-phase.md#bombers) pilots assigned to this ship number several ‘Aces’ amongst its crew. Bombers launched by this vessel may survive being intercepted by enemy fighters utilizing the ‘[Resilient Attack Craft](../the-ordnance-phase.md#resilient-attack-craft)’ 4+ save rule in the same manner as Dark Eldar fighters. As they are not fighters themselves, they still ignore other types of ordnance normally. Fighters from this vessel are always moved before enemy attack craft in the [ordnance phase](../the-ordnance-phase.md). Re-roll this result if the ship does not carry attack craft. |
 | 4 | **Battle Stance:** Dark Eldar Wyches or even the dreaded Harlequins have been enticed to join your vessel. This ship may re-roll the dice in a [boarding action](../the-end-phase.md#boarding-actions). The second roll stands (even if less!). |
@@ -463,8 +463,8 @@ the power generators and energy relays in some fashion. Roll on the following ta
 | :-: | --- |
 | 1 | Roll again. |
 | 2 | **Polarization Field:** A low-level energy bubble surrounds the ship, channelling the debris of space around the vessel. The ship does not suffer a hit for moving through **blast markers** and ignores all effects of **solar flares**. |
-| 3 | **Drunken Weave:** An intricate system of particle flow rudders and graviton impellers are fitted to the vessel, allowing for drastic evasive manoeuvres. The ship gains a 6+ save on a D6 against any damage it takes without requiring a [Command Check](../the-rules.md#taking-command-checks). This does not count as being [braced](../the-rules.md#brace-for-impact), but the ship may not use this save when on [*Brace For Impact*] Special Orders or attempt to go on [*Brace For Impact*] special orders against any round of shooting or event of taking damage if this save fails. |
-| 4 | **Phoenix Sails:** Hyper-efficient materials of exceeding purity are used to replace the mainsails, squeezing extra energy from the solar wind. Add an additional +1D6 cm speed when on [*All Ahead Full*] special orders. |
+| 3 | **Drunken Weave:** An intricate system of particle flow rudders and graviton impellers are fitted to the vessel, allowing for drastic evasive manoeuvres. The ship gains a 6+ save on a D6 against any damage it takes without requiring a [Command Check](../the-rules.md#taking-command-checks). This does not count as being [braced](../the-rules.md#brace-for-impact), but the ship may not use this save when on [*Brace For Impact*](../the-rules.md#brace-for-impact) Special Orders or attempt to go on *Brace For Impact* special orders against any round of shooting or event of taking damage if this save fails. |
+| 4 | **Phoenix Sails:** Hyper-efficient materials of exceeding purity are used to replace the mainsails, squeezing extra energy from the solar wind. Add an additional +1D6 cm speed when on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
 | 5 | Roll again. |
 | 6 | **Stream Flow Enhancers:** A dramatic re-rig of the ship’s sails and control surfaces give the captain much greater control over his or her vessel. Add +5 cm to the speed. |
 
@@ -578,5 +578,5 @@ Slavebringer assault boats.
 Ships with torpedo tubes are armed with both
 Eldar torpedoes and [Leech torpedoes](#leech-torpedoes), though
 the Leech torpedoes must be loaded with a
-separate reload ordnance roll as described in
+separate [reload ordnance](../the-rules.md#reload-ordnance) roll as described in
 the special rules.

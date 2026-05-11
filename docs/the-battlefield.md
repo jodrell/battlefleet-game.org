@@ -130,7 +130,7 @@ all the celestial phenomena
 on the table. His opponent
 can then pick which table
 edge to deploy from. Many of
-the [scenarios](scenarios.md) require you to
+the [scenarios](scenarios/index.md) require you to
 roll for choice of table edges,
 but if one player has set up
 the celestial phenomena
@@ -922,7 +922,7 @@ rolled for the interference level, all ships suffer
 -3 to their Leadership for the rest of the turn.
 
 In addition to the reduced Leadership for the
-interference, [Fleet Commanders](fleet-lists.md#fleet-commander) may only use
+interference, [Fleet Commanders](fleet-lists/index.md#fleet-commander) may only use
 their [re-rolls](the-rules.md#re-rolls) for [Command checks](the-rules.md#taking-command-checks) for their
 own ship or [squadron](squadrons.md) during radiation bursts.
 

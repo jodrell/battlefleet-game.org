@@ -59,5 +59,5 @@ disengages or is destroyed.
 
 ## Victory Conditions
 
-Standard [victory points](../scenarios.md#victory-points) are earned
+Standard [victory points](../scenarios/index.md#victory-points) are earned
 for ships crippled or destroyed.

@@ -21,7 +21,7 @@ Imperial Navy.**
 ### Attack Rating
 
 The Imperial Navy have a starting [attack or
-initiative rating](../scenarios.md#attack-ratings) of 2.
+initiative rating](../scenarios/index.md#attack-ratings) of 2.
 
 ### Ordnance
 
@@ -474,14 +474,14 @@ Endeavour class light cruisers in the fleet._
 > the Imperial Navy, and only in the most
 > desperate of circumstances, but an invasion
 > the size of [Abaddon’s Thirteenth Black
-> Crusade](../abaddons-13th-black-crusade.md) without doubt qualifies as exactly
+> Crusade](../abaddons-13th-black-crusade/index.md) without doubt qualifies as exactly
 > that – the most dire of circumstances, the
 > most desperate of times.
 >
 > If you wish, you may use a Battlefleet
 > Obscura Reserve Fleet, picked using the
 > fleet list opposite. In addition, you may of
-> course use [the Reserves rule](../fleet-lists.md#reserves) to pick other
+> course use [the Reserves rule](../fleet-lists/index.md#reserves) to pick other
 > Imperial vessels not found in your own fleet
 > list. However, since a reserve fleet also draws
 > on very old or scarce vessels, you may also

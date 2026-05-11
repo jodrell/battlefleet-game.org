@@ -140,7 +140,7 @@ used.
 
 ## Scenarios
 
-[Scenarios](../scenarios.md) may be rolled normally in any
+[Scenarios](../scenarios/index.md) may be rolled normally in any
 agreed-upon fashion. If a [Convoy Run](../scenarios/convoy.md) scenario
 is rolled and the defending fleet list includes an
 Inquisition Blackship, this vessel may be used as
@@ -157,8 +157,8 @@ the Blackship counts against the escorting fleet!
 Inquisitors are almost always in pursuit of
 some higher objective that may be obscured
 by the current conflict at-hand. In addition
-to any [sub-plots](../scenarios.md#sub-plots) rolled normally, the fleet
-led by an Inquisitor must take a [Secret Ploys](../scenarios.md#secret-ploys-roll-of-5-6)
+to any [sub-plots](../scenarios/index.md#sub-plots) rolled normally, the fleet
+led by an Inquisitor must take a [Secret Ploys](../scenarios/index.md#secret-ploys-roll-of-5-6)
 sub-plot rolled randomly<!-- from [???] p.84 of the
 Battlefleet Gothic Rulebook -->.
 

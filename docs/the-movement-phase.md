@@ -447,7 +447,7 @@ normal rules. This prevents
 an escort squadron from
 disengaging one or two
 vessels to keep [leadership](the-rules.md#leadership) or
-[victory point](scenarios.md#victory-points) benefits, then
+[victory point](scenarios/index.md#victory-points) benefits, then
 pushing the rest of them in
 a suicide run at the enemy.
 
@@ -471,7 +471,7 @@ its point value for the enemy,
 or 25% if it is crippled before
 it disengages. This is NOT in
 addition to the 25% [victory
-point](scenarios.md#victory-points) value if it remains
+point](scenarios/index.md#victory-points) value if it remains
 on the table at the end of
 the game but is [crippled](the-shooting-phase.md#crippled-ships).
 

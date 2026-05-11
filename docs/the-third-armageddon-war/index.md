@@ -2,11 +2,11 @@
 
 ## Armageddon Sector
 
-![](assets/image--428.png)
-![](assets/image--430.png)
-![](assets/image--432.png)
-![](assets/image--434.png)
-![](assets/image--436.png)
+![](../assets/image--428.png)
+![](../assets/image--430.png)
+![](../assets/image--432.png)
+![](../assets/image--434.png)
+![](../assets/image--436.png)
 
 ### Key to Sub-Sector Maps
 
@@ -22,6 +22,6 @@
 
 ## Scenarios
 
-* [Scenario One: The Gauntlet](the-third-armageddon-war/the-gauntlet.md)
-* [Scenario Two: Parol’s Bait](the-third-armageddon-war/parols-bait.md)
-* [Scenario Three: Pelucidar](the-third-armageddon-war/pelucidar.md)
+* [Scenario One: The Gauntlet](the-gauntlet.md)
+* [Scenario Two: Parol’s Bait](parols-bait.md)
+* [Scenario Three: Pelucidar](pelucidar.md)

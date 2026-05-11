@@ -241,7 +241,7 @@ phenomena](../the-battlefield.md#celestial-phenomena) it is orbiting near. If th
 makes contact with an [asteroid field](../the-battlefield.md#asteroid-fields) or the
 [planet](../the-battlefield.md#planets) edge in this manner, it is destroyed!
 
-When playing the defender in [scenarios](../scenarios.md) that
+When playing the defender in [scenarios](../scenarios/index.md) that
 call for [planetary defences](planetary-defences.md), Orks have access
 to all the defences listed <!-- on [???] pp.141-146 -->
 in the rulebook. These can be represented
@@ -368,7 +368,7 @@ preparing for, an Ork Waaagh! and may be used instead of
 the Ork pirate fleet list. The Waaagh! Fleet list is particularly
 appropriate for using with Ork fleets which are fighting battle
 scenarios, especially planetary assaults and fleet actions, such
-as those conducted throughout the Third Armageddon War.
+as those conducted throughout the [Third Armageddon War](../the-third-armageddon-war/index.md).
 
 ### Warlord
 
@@ -505,7 +505,7 @@ fleet.*
 
 
 Ork Roks may also be purchased with points for
-[planetary defences](planetary-defences.md), in [scenarios](../scenarios.md) where these are
+[planetary defences](planetary-defences.md), in [scenarios](../scenarios/index.md) where these are
 used. Ork Roks may be [squadroned](../squadrons.md) with up to
 three other Roks (total squadron size of four),
 but not with any other vessels.
@@ -1267,7 +1267,7 @@ allocation for the scenario, but the hulk itself
 is not considered part of the fleet registry.
 In these scenarios, the [low orbit table](../the-battlefield.md#fighting-in-low-orbit) will
 actually represent very close range passes on
-the hulk, so the normal [victory conditions](../scenarios.md#victory-points)
+the hulk, so the normal [victory conditions](../scenarios/index.md#victory-points)
 remain the same as far as assault points or
 the Exterminator are concerned. Also, should
 the space hulk be destroyed then the attacker
@@ -1281,7 +1281,7 @@ Alternatively, by using the full [Waaagh!](../fleet-lists/orks.md#third-armagedd
 [Clanz](#ork-clanz-ere-we-go-ere-we-go-ere-we-go) Fleet lists, Ork players can participate
 fully in a campaign, conquering systems and
 engaging in battles in the same way as other
-fleets. The [Third Armageddon War](../the-third-armageddon-war.md) represents
+fleets. The [Third Armageddon War](../the-third-armageddon-war/index.md) represents
 one such conflict where the Orks participate
 as full fleets, rather than just raiders.
 <!-- History, rules and background for the Third

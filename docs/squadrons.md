@@ -324,7 +324,7 @@ If a [capital ship](the-rules.md#capital-ships) squadron
 [disengages](the-movement-phase.md#disengaging-from-combat) in its entirety,
 each capital ship calculates
 its percentage destroyed for
-[victory points](scenarios.md#victory-points) separately
+[victory points](scenarios/index.md#victory-points) separately
 and not in the same
 manner as escorts.
 

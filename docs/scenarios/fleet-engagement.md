@@ -121,4 +121,4 @@ The game lasts until one fleet disengages or is destroyed.
 
 ## Victory Conditions
 
-Both fleets score [victory points](../scenarios.md#victory-points) as normal and the fleet with the highest victory points total wins.
+Both fleets score [victory points](../scenarios/index.md#victory-points) as normal and the fleet with the highest victory points total wins.

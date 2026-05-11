@@ -62,7 +62,7 @@ one fleet has all its ships destroyed.
 
 ## Victory Conditions
 
-Normal [victory points](../scenarios.md#victory-points) are not used in this
+Normal [victory points](../scenarios/index.md#victory-points) are not used in this
 scenario. Instead, at the end of the game,
 each player scores 1 point for each point of
 [damage](../the-shooting-phase.md#damage) they have inflicted on the enemy
@@ -97,7 +97,7 @@ able to take cruisers with [nova cannons](../the-shooting-phase.md#nova-cannon)
 and [launch bays](../the-ordnance-phase.md#launching-ordnance) if you want. Alternatively,
 you could allow each player one cruiser
 with launch bays in their fleet, or some
-other restriction. Refer to the [Fleet lists](../fleet-lists.md) for
+other restriction. Refer to the [Fleet lists](../fleet-lists/index.md) for
 the points values of different cruisers.
 
 As another alternative, the players can pick
@@ -140,5 +140,5 @@ the [Fleet Engagement on pg. 142](fleet-engagement.md#set-up).
 ### Victory Conditions
 
 Rather than adding up damage points, you
-can use the [victory points](../scenarios.md#victory-points) system in the
-introduction to the [Scenarios](../scenarios.md) section.
+can use the [victory points](../scenarios/index.md#victory-points) system in the
+introduction to the [Scenarios](../scenarios/index.md) section.

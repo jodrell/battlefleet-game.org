@@ -1389,7 +1389,7 @@ attack runs.
 
 Hulks cannot be fired upon or [boarded](the-end-phase.md#boarding-actions) by
 friendly vessels or [ordnance](the-ordnance-phase.md) in an attempt to deny
-[victory points](scenarios.md#victory-points) to the enemy or induce [catastrophic
+[victory points](scenarios/index.md#victory-points) to the enemy or induce [catastrophic
 damage](the-shooting-phase.md#catastrophic-damage). [Torpedoes](the-ordnance-phase.md#torpedoes) that hit a friendly hulk
 still inflict hits normally, but torpedoes cannot
 be deliberately aimed at friendly hulks.

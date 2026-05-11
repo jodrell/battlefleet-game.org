@@ -1,6 +1,6 @@
 # Planetary Defences
 
-In certain [scenarios](scenarios.md), one player may be allowed
+In certain [scenarios](scenarios/index.md), one player may be allowed
 to select planetary defences as part of their forces,
 generally to assist in defending a [planet](the-battlefield.md#planets) against
 an attacking enemy fleet. All races use some
@@ -41,7 +41,7 @@ in base contact if desired, but they can
 never be stacked or have their bases overlap
 other stationary planetary defences.
 
-When desired, the defender in a [scenario](scenarios.md)
+When desired, the defender in a [scenario](scenarios/index.md)
 may spend up to one-third of his allocated
 point value on planetary defences, in addition
 to any planetary defences provided by the
@@ -51,7 +51,7 @@ fleet bases and the like, for which the profile
 and point cost of an Imperial Blackstone
 Fortress may be used. However, these
 additional defences come directly from the
-points allowed against his or her [fleet list](fleet-lists.md).
+points allowed against his or her [fleet list](fleet-lists/index.md).
 
 Stationary defences and vessels used as
 planetary defences such as Defence Monitors
@@ -60,7 +60,7 @@ have a leadership value just as other normal
 planetary defences do not, with the exception
 that they [*Reload Ordnance*](the-rules.md#reload-ordnance) (where applicable)
 on a nominal leadership of 7 unless specifically
-stated otherwise in their [fleet lists](fleet-lists.md) or special
+stated otherwise in their [fleet lists](fleet-lists/index.md) or special
 rules. This means that they cannot take on any
 [special orders](the-rules.md#special-orders) except [*Reload Ordnance*](the-rules.md#reload-ordnance), though
 they may also attempt to [*Brace For Impact!*](the-rules.md#brace-for-impact)

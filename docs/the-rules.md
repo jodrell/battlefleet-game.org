@@ -263,7 +263,7 @@ not to. Note: To aid in pre-measuring, use a
 couple of empty flying bases with bearing
 compasses dropped over the stems.
 
-**Secrecy of Fleet Lists:** [Fleet lists](fleet-lists.md) are not
+**Secrecy of Fleet Lists:** [Fleet lists](fleet-lists/index.md) are not
 normally secret. However, to add a degree
 of subtlety to a [campaign](campaign-rules.md), fleet lists may
 be kept secret until the end of the game (or
@@ -274,7 +274,7 @@ your opponent wishes to see your fleet
 list, both players must then immediately
 reveal their fleet lists to each other.
 
-**Secrecy of Sub-plots:** [Sub-plots](scenarios.md#sub-plots) are normally
+**Secrecy of Sub-plots:** [Sub-plots](scenarios/index.md#sub-plots) are normally
 rolled for in front of both players at the
 beginning of the game. However, sub-plots
 may be kept secret in the same manner

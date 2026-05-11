@@ -177,13 +177,13 @@ from their own fleet register.
 ## The Commander
 
 Each player’s fleet has
-a [commander](fleet-lists.md#fleet-commander) (or an
+a [commander](fleet-lists/index.md#fleet-commander) (or an
 appropriately named leader
 for their race) who represents
 the player himself. Over
 the course of the campaign,
 your commander will
-collect [renown points](scenarios.md#renown) and
+collect [renown points](scenarios/index.md#renown) and
 gain in rank, and at the
 end of the campaign the
 commander with the highest
@@ -192,9 +192,9 @@ renown is the winner.
 Once you’ve filled in your
 fleet register, you need to
 fill in the details of your
-[commander](fleet-lists.md#fleet-commander). He’ll need a
+[commander](fleet-lists/index.md#fleet-commander). He’ll need a
 name, and starts off with
-1 point of [renown](scenarios.md#renown) and one
+1 point of [renown](scenarios/index.md#renown) and one
 [re-roll](the-rules.md#re-rolls). In addition, you must
 pick one ship in your fleet
 as his flagship. If this ship is
@@ -319,13 +319,13 @@ If one player has more systems than the other
 his forces are stretched more thinly, so the
 player with fewer systems gains a +1 bonus to
 the dice roll. You may want to incorporate the
-attack ratings from the [scenarios](scenarios.md) introduction,
+attack ratings from the [scenarios](scenarios/index.md) introduction,
 where you roll a number of dice, picking the
 highest one, to determine the initiative.
 
 ### 2. Receive Orders
 
-Although [fleet commanders](fleet-lists.md#fleet-commander) have a large
+Although [fleet commanders](fleet-lists/index.md#fleet-commander) have a large
 measure of autonomy, higher command still
 sends down the orders telling them what
 they must achieve next. In effect, the players
@@ -349,7 +349,7 @@ fight a battle or a raid (if both are this
 status then roll to see who decides).
 
 **Decide Scenario:** Roll on the tables below
-to determine which [scenario](scenarios.md) is to be played,
+to determine which [scenario](scenarios/index.md) is to be played,
 or if both player agree you can pick one
 from those listed for the type of scenario.
 
@@ -374,7 +374,7 @@ from those listed for the type of scenario.
 | 5-6 | [Fleet Engagement](scenarios/fleet-engagement.md) |
 
 <a name="decide-location"></a>**Decide Location:** The attacker must select
-the system in which the [scenario](scenarios.md) will take
+the system in which the [scenario](scenarios/index.md) will take
 place. The system must be connected to one
 already controlled by the player via a warp
 route. If no systems are already held, any
@@ -410,7 +410,7 @@ Both players must now pick their fleets using
 ships from their [fleet register](campaign-rules.md#starting-fleets-the-fleet-register). The total
 value of the ships you pick may not exceed
 the points total you and your opponent have
-decided for the [scenario](scenarios.md) you are to play. Note
+decided for the [scenario](scenarios/index.md) you are to play. Note
 that you can’t change the details of ships on
 the register or adjust their points value at this
 stage – the ships you pick must come from
@@ -418,7 +418,7 @@ your register and not be changed in any way.
 
 **Fight the Battle:** With the build-up
 completed all you need do now is roll for a
-[sub-plot](scenarios.md#sub-plots) and then get fighting (hurrah!).
+[sub-plot](scenarios/index.md#sub-plots) and then get fighting (hurrah!).
 
 > #### Attacking Pirate Bases
 > 
@@ -427,7 +427,7 @@ completed all you need do now is roll for a
 > pirate base. If an Ork or Eldar player’s
 > opponent with a rank of Admiral or
 > higher (or its equivalent for other races)
-> gains the initiative for a [scenario](scenarios.md),
+> gains the initiative for a [scenario](scenarios/index.md),
 > then he can attempt to attack the base
 > instead of playing a normal scenario.
 > 
@@ -439,7 +439,7 @@ completed all you need do now is roll for a
 > it is hidden in must be revealed. If the
 > player fails to find the base (i.e. fails
 > to roll under the defender’s renown)
-> then play a normal [scenario](scenarios.md). Once you
+> then play a normal [scenario](scenarios/index.md). Once you
 > know the location of the base you don’t
 > have to find it again (you can reveal its
 > location to other players too if you want).
@@ -494,7 +494,7 @@ affect your ability to repair ships, etc.).
 
 ### 2. Adjust Renown
 
-[Renown](scenarios.md#renown) is a measure of the
+[Renown](scenarios/index.md#renown) is a measure of the
 fame or infamy enjoyed by
 you, the fleet commander.
 Players start the campaign
@@ -508,7 +508,7 @@ player that has earned the
 most renown is the winner!
 Note that you can gain or
 lose renown even if your
-[commander](fleet-lists.md#fleet-commander) was not present
+[commander](fleet-lists/index.md#fleet-commander) was not present
 during the scenario (i.e. his
 flagship did not take part).
 
@@ -545,7 +545,7 @@ Your rank determines how
 many [re-rolls](the-rules.md#re-rolls) or [Marks of
 Chaos](fleet-lists/chaos.md#marks-of-chaos) you receive in the
 scenarios that you fight.
-[Tau](fleet-lists/tau.md) [fleet commanders](fleet-lists.md#fleet-commander)
+[Tau](fleet-lists/tau.md) [fleet commanders](fleet-lists/index.md#fleet-commander)
 use the [Imperial table](campaign-rules.md#imperial-promotions-all-imperials-except-mechanicus-fleets)
 for their promotions.
 

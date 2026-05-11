@@ -214,7 +214,7 @@ of its [Movement phase](../the-movement-phase.md) any Necron ship may
 perform a 'fade out' [disengage](../the-movement-phase.md#disengaging-from-combat) automatically.
 
 At the end of a game, including normal
-[Victory points](../scenarios.md#victory-points), count up the Necron losses
+[Victory points](../scenarios/index.md#victory-points), count up the Necron losses
 using the following modifiers:
 
 * Any capital ship that disengages with no

@@ -17,7 +17,7 @@ a Space Marine ship, use the table here.
 ## Attack Rating
 
 Space Marines have a starting [attack or
-initiative rating](../scenarios.md#using-an-attack-rating) of 3.
+initiative rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
 ## Boarding Actions and Hit-&-run Attacks
 
@@ -501,7 +501,7 @@ with a billion tons of fortress monastery in tow!
 
 A Space Marine Crusade fleet will not take
 ships from or provide ships to any other fleet
-list as [reserves](../fleet-lists.md#reserves) or allies, including [Imperial Navy](imperial-navy.md),
+list as [reserves](../fleet-lists/index.md#reserves) or allies, including [Imperial Navy](imperial-navy.md),
 [Rogue Trader](rogue-traders.md) or [Adeptus Mechanicus](adeptus-mechanicus.md) fleet lists.
 
 ### Scenarios

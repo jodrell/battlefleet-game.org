@@ -71,7 +71,7 @@ play regardless of the outcome.
 The game lasts for six turns.
 
 ## Victory Conditions
-Both players score [victory points](../scenarios.md#victory-points) for
+Both players score [victory points](../scenarios/index.md#victory-points) for
 destroying and crippling enemy ships as
 normal. In addition, the attacker scores
 victory points equal to the points value of any

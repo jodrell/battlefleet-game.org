@@ -13,8 +13,8 @@ is naturally dissipated.
 The End Phase is also a
 good opportunity to tidy
 up the table top, count
-[victory points](scenarios.md#victory-points), check up on
-[scenario](scenarios.md) victory conditions
+[victory points](scenarios/index.md#victory-points), check up on
+[scenario](scenarios/index.md) victory conditions
 and break out the biscuits.
 The End Phase works in
 the following order:

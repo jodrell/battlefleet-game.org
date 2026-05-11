@@ -72,7 +72,7 @@ is destroyed or disengages.
 
 ## Victory Conditions
 
-Standard [Victory Points](../scenarios.md#victory-points) are earned for ships
+Standard [Victory Points](../scenarios/index.md#victory-points) are earned for ships
 crippled, destroyed or disengaged. In addition,
 the Orks gain bonus Victory Points equal to
 half the points value of any reinforcements

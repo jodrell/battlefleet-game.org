@@ -6,7 +6,7 @@ to the fleet of an individual race. However,
 there are some vessels which are employed
 by almost all races – most commonly the
 smaller support and transport vessels which
-might be linked to a specific [scenario](../scenarios.md). In most
+might be linked to a specific [scenario](../scenarios/index.md). In most
 cases, such ships are fairly universal across
 the different races, and so a single profile
 and set of rules is usable by any fleet. The

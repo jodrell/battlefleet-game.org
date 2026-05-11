@@ -2,29 +2,29 @@
 
 ## 13th Black Crusade
 
-![](assets/image--472.png)
+![](../assets/image--472.png)
 
-![](assets/image--474.png)
+![](../assets/image--474.png)
 
-![](assets/image--476.png)
+![](../assets/image--476.png)
 
-![](assets/image--478.png)
+![](../assets/image--478.png)
 
-![](assets/image--480.png)
+![](../assets/image--480.png)
 
-![](assets/image--481.png)
+![](../assets/image--481.png)
 
-![](assets/image--483.png)
+![](../assets/image--483.png)
 
-![](assets/image--485.png)
+![](../assets/image--485.png)
 
-![](assets/image--487.png)
+![](../assets/image--487.png)
 
-![](assets/image--489.png)
+![](../assets/image--489.png)
 
-![](assets/image--490.png)
+![](../assets/image--490.png)
 
-![](assets/image--491.png)
+![](../assets/image--491.png)
 
 
 ### Key to Sub-Sector Maps
@@ -41,10 +41,10 @@
 
 ## Scenarios
 
-* [Scenario One: Chance Encounter](abaddons-13th-black-crusade/chance-encounter.md)
-* [Scenario Two: Rearguard Attack](abaddons-13th-black-crusade/rearguard-attack.md)
-* [Scenario Three: Alien Intervention](abaddons-13th-black-crusade/alien-intervention.md)
-* [Scenario Four: Above Belis Corona](abaddons-13th-black-crusade/above-belis-corona.md)
-* [Scenario Five: Daemon Blockade](abaddons-13th-black-crusade/daemon-blockade.md)
-* [Scenario Six: Navigate the Storm](abaddons-13th-black-crusade/navigate-the-storm.md)
-* [Scenario Seven: Macharia's End](abaddons-13th-black-crusade/macharias-end.md)
+* [Scenario One: Chance Encounter](chance-encounter.md)
+* [Scenario Two: Rearguard Attack](rearguard-attack.md)
+* [Scenario Three: Alien Intervention](alien-intervention.md)
+* [Scenario Four: Above Belis Corona](above-belis-corona.md)
+* [Scenario Five: Daemon Blockade](daemon-blockade.md)
+* [Scenario Six: Navigate the Storm](navigate-the-storm.md)
+* [Scenario Seven: Macharia's End](macharias-end.md)

@@ -12,7 +12,7 @@ Leadership value between 7 and 10.
 ### Eldar Attack Rating
 
 An Eldar fleet containing any Craftworld Eldar
-vessels has an [attack (or initiative) rating](../scenarios.md#using-an-attack-rating) of 3.
+vessels has an [attack (or initiative) rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
 An Eldar Corsair fleet containing no Craftworld
 Eldar vessels has an attack (or initiative) rating of 4.
@@ -817,7 +817,7 @@ more Assault Points.
 
 Add up the Assault Points earned by the
 attacker and add +1 to the total for every 500
-[Victory Points](../scenarios.md#victory-points) (rounding down) scored by the
+[Victory Points](../scenarios/index.md#victory-points) (rounding down) scored by the
 attacker for destroying or [crippling](../the-shooting-phase.md#crippled-ships) ships and
 [planetary defenses](planetary-defences.md). Deduct -1 Assault Point
 for every 500 Victory Points (rounding up)
@@ -1301,7 +1301,7 @@ for starships to traverse. The owning player
 may use the Webway to summon additional
 warships to its aid. Any number of ships may
 be purchased against the fleet's total at 50%
-cost, but they count as [reserves](../fleet-lists.md#reserves) and start off
+cost, but they count as [reserves](../fleet-lists/index.md#reserves) and start off
 the table. Beginning turn 2, after the Eldar
 fleet moves roll a D6. On a 5+, one capital ship
 or escort squadron appears along the table

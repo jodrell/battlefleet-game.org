@@ -1,6 +1,6 @@
-## Introduction
+## Fleet Lists
 
-**In the [Rulebook](index.md), you learned how to play the basic
+**In the [Rulebook](../index.md), you learned how to play the basic
 game. The Fleets book will add the different fleets
 of the Warhammer 40,000 universe, and put you
 in command of their warships in deadly combat
@@ -14,16 +14,16 @@ fleet list, including when and how to include commanders and
 squadrons, everything you ever wanted to know about reserves,
 allies and which races hate each other the most.
 
-**[The Refits](fleet-lists/refits.md)** will give you a list of alternative torpedo variants that
+**[The Refits](refits.md)** will give you a list of alternative torpedo variants that
 are available to every fleet; and additionally the rules for torpedo
 bombers and orbital mines.
 
 **The different fleets** are the largest section of this book and give
 you every fleet and every ship that were ever officially (*and semiofficially, e.g. the 2010 Errata/FAQ*) included in the game.
 
-Lastly, **the [Planetary Defences](fleet-lists/planetary-defences.md)** and **[Additional Ships](fleet-lists/additional-vessels.md)** give you
+Lastly, **the [Planetary Defences](planetary-defences.md)** and **[Additional Ships](additional-vessels.md)** give you
 exactly what they sound like: [defences](planetary-defences.md) usable by most races when
-they are defenders in a [scenario](scenarios.md) and additional ships not part of
+they are defenders in a [scenario](../scenarios/index.md) and additional ships not part of
 any warfleet.
 
 ## Fleet Lists
@@ -43,7 +43,7 @@ Your fleet can be led by a commander, e.g. an
 Imperial Admiral, Chaos Warmaster, Eldar
 Pirate Prince, Ork Warlord or Tau Kor’o.
 
-Your Fleet Commander's [leadership](the-rules.md#leadership)
+Your Fleet Commander's [leadership](../the-rules.md#leadership)
 supersedes that of the vessel it is assigned to,
 even if it is lower!
 
@@ -73,12 +73,12 @@ Commanders are given in this section of the list.
 
 > #### Fleet Commander Re-rolls
 > Fleet Commanders may have a number
-> of Fleet Commander [re-rolls](the-rules.md#re-rolls) available
+> of Fleet Commander [re-rolls](../the-rules.md#re-rolls) available
 > to them, as indicated in the Fleet
 > Commander section of the fleet list.
 > Each of these re-rolls can only be used
 > once per game and allows you to re-roll
-> a failed [Command check](the-rules.md#taking-command-checks) or Leadership
+> a failed [Command check](../the-rules.md#taking-command-checks) or Leadership
 > test for a ship or squadron in their fleet.
 > Remember that you can only use one reroll at a time, so it is not possible to use
 > several re-rolls on the same Leadership
@@ -89,7 +89,7 @@ Commanders are given in this section of the list.
 
 Just like ship’s captains and crews, Chaos
 Lords, Ork Warlords, etc. can gain experience
-(leadership) in a [campaign](campaign-rules.md). Note that
+(leadership) in a [campaign](../campaign-rules.md). Note that
 improvements can only be based on the ship’s
 or commander’s natural leadership, not on
 any bonuses gained by the ship itself. For
@@ -104,7 +104,7 @@ If a ship containing a fleet commander,
 Warlord, Mark of Chaos, etc. is destroyed, the
 cost of any embarked commanders or other
 improvements are included in the [Victory
-Points](scenarios.md#victory-points) earned by the enemy, even if it can be
+Points](../scenarios/index.md#victory-points) earned by the enemy, even if it can be
 assumed the fleet commander escaped to fight
 another day.
 
@@ -164,7 +164,7 @@ points – that's ten Cobras for every Desolator!
 When you fight a battle, you normally pick a
 fleet to an agreed points limit. For example,
 you may agree with your opponent to play a
-1,500 points [Fleet Engagement](scenarios/fleet-engagement.md), which means
+1,500 points [Fleet Engagement](../scenarios/fleet-engagement.md), which means
 you each pick a fleet worth up to 1,500 point
 in total. A 500-1,000 points battle can be
 fought in a couple of hours, while battles
@@ -175,15 +175,15 @@ to play and if you want a larger engagement,
 you'd better have some sleeping arrangements
 sorted out!
 
-In most [scenarios](scenarios.md), the fleets are not picked to
-equal points values, or have [additional vessels](fleet-lists/additional-vessels.md)
+In most [scenarios](../scenarios/index.md), the fleets are not picked to
+equal points values, or have [additional vessels](additional-vessels.md)
 worth a random number of points. Where
 this is the case, the scenario will tell you what
 proportion of points one side has to the other.
 
 ## Using the Fleet Lists
 
-When you know what size battle and [scenario](scenarios.md)
+When you know what size battle and [scenario](../scenarios/index.md)
 you are playing, you can start selecting ships.
 As you pick ships to include in your fleet,
 simply add up their points value until you
@@ -222,7 +222,7 @@ multiple examples of any class variant.
 ## Forming up the Fleet
 
 **Escort ships** normally must be formed into
-[squadrons](squadrons.md) of between two and six ships each.
+[squadrons](../squadrons.md) of between two and six ships each.
 The escorts in a squadron do not have to all be
 of the same class.
 
@@ -296,8 +296,8 @@ the Fleet Lists to give you a mis-match of
 Imperial, Chaos, Eldar and Ork cut-throats.
 
 > ## Breaking the Rules
-> The [rules of Battlefleet Gothic](the-rules.md), including
-> the [scenarios](scenarios.md) and fleet lists, are there to
+> The [rules of Battlefleet Gothic](../the-rules.md), including
+> the [scenarios](../scenarios/index.md) and fleet lists, are there to
 > help players who want to fight battles
 > with immense starships. If you want to
 > change something, write your own rules
@@ -456,8 +456,8 @@ an Imperial fleet is allowed to immediately
 have a single Space Marine battle barge in its
 fleet list in the course of a campaign with no
 fleet prerequisites and regardless of reserves
-if it expends an [appeal](campaign-rules.md#6-appeals) roll against [the Space
-Marines table](fleet-lists/assets/p157.pdf) <!-- on pg [???] of the rulebook  -->and
+if it expends an [appeal](../campaign-rules.md#6-appeals) roll against [the Space
+Marines table](assets/p157.pdf) <!-- on pg [???] of the rulebook  -->and
 rolls a 2D6 roll of 2, even if that fleet is not
 from the Segmentum Solar fleet list.
 

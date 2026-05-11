@@ -131,7 +131,7 @@ periods of time, Mechanicus vessels will on
 occasion suffer adverse, unanticipated
 consequences that in some cases may
 endanger the entire ship and its crew. In
-addition to any [subplots](../scenarios.md#sub-plots) that may be taken
+addition to any [subplots](../scenarios/index.md#sub-plots) that may be taken
 normally as desired, a fleet including any
 Adeptus Mechanicus capital ships must roll a
 single D6 against the following subplot table:

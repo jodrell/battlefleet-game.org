@@ -74,7 +74,7 @@ or until one fleet disengages.
 
 ## Victory Conditions
 
-Both fleets score [victory points](../scenarios.md#victory-points) as normal
+Both fleets score [victory points](../scenarios/index.md#victory-points) as normal
 and the fleet with the highest victory
 points total at the end of the battle wins.
 

@@ -1,3 +1,10 @@
+---
+hide:
+    - path
+    - navigation
+    - toc
+---
+
 # Table of Contents
 
 * [Introduction](the-rules.md)
@@ -51,16 +58,16 @@
     * [Planets](the-battlefield.md#planets)
     * [Tabletop Effects](the-battlefield.md#tabletop-effects)
     * [Fighting in low Orbit](the-battlefield.md#fighting-in-low-orbit)
-* [Scenarios](scenarios.md)
-    * [Choosing a Scenario](scenarios.md#choosing-a-scenario)
-    * [Using an Attack Rating](scenarios.md#using-an-attack-rating)
-    * [Determining Attackers and Defenders](scenarios.md#determining-attackers-and-defenders)
-    * [The Scenarios](scenarios.md#the-scenarios)
-    * [Victory Points](scenarios.md#victory-points)
-    * [Sub-Plots](scenarios.md#sub-plots)
-    * [Legacies of War (Roll of 1-2)](scenarios.md#legacies-of-war-roll-of-1-2)
-    * [Chance Circumstances (Roll of 3-4)](scenarios.md#chance-circumstances-roll-of-3-4)
-    * [Secret Ploys (Roll of 5-6)](scenarios.md#secret-ploys-roll-of-5-6)
+* [Scenarios](scenarios/index.md)
+    * [Choosing a Scenario](scenarios/index.md#choosing-a-scenario)
+    * [Using an Attack Rating](scenarios/index.md#using-an-attack-rating)
+    * [Determining Attackers and Defenders](scenarios/index.md#determining-attackers-and-defenders)
+    * [The Scenarios](scenarios/index.md#the-scenarios)
+    * [Victory Points](scenarios/index.md#victory-points)
+    * [Sub-Plots](scenarios/index.md#sub-plots)
+    * [Legacies of War (Roll of 1-2)](scenarios/index.md#legacies-of-war-roll-of-1-2)
+    * [Chance Circumstances (Roll of 3-4)](scenarios/index.md#chance-circumstances-roll-of-3-4)
+    * [Secret Ploys (Roll of 5-6)](scenarios/index.md#secret-ploys-roll-of-5-6)
     * [Scenario One: Cruiser Clash](scenarios/cruiser-clash.md)
     * [Scenario Two: The Bait](scenarios/the-bait.md)
     * [Scenario Three: The Raiders](scenarios/the-raiders.md)
@@ -84,13 +91,13 @@
     * [General Upgrades](campaign-rules.md#general-upgrades)
     * [The Sub-Sector Maps](campaign-rules.md#the-sub-sector-maps)
     * [Gothic Sector](campaign-rules.md#gothic-sector)
-* [The Third Armageddon War](the-third-armageddon-war.md)
-    * [Armageddon Sector](the-third-armageddon-war.md#armageddon-sector)
+* [The Third Armageddon War](the-third-armageddon-war/index.md)
+    * [Armageddon Sector](the-third-armageddon-war/index.md#armageddon-sector)
     * [Scenario One: The Gauntlet](the-third-armageddon-war/the-gauntlet.md)
     * [Scenario Two: Parol’s Bait](the-third-armageddon-war/parols-bait.md)
     * [Scenario Three: Pelucidar](the-third-armageddon-war/pelucidar.md)
-* [Abaddon's 13th Black Crusade](abaddons-13th-black-crusade.md)
-    * [13th Black Crusade](abaddons-13th-black-crusade.md#13th-black-crusade)
+* [Abaddon's 13th Black Crusade](abaddons-13th-black-crusade/index.md)
+    * [13th Black Crusade](abaddons-13th-black-crusade/index.md#13th-black-crusade)
     * [Scenario One: Chance Encounter](abaddons-13th-black-crusade/chance-encounter.md)
     * [Scenario Two: Rearguard Attack](abaddons-13th-black-crusade/rearguard-attack.md)
     * [Scenario Three: Alien Intervention](abaddons-13th-black-crusade/alien-intervention.md)
@@ -105,7 +112,7 @@
     * [The Shooting Phase](andy-chambers-notes.md#the-shooting-phase)
     * [The Ordnance Phase](andy-chambers-notes.md#the-ordnance-phase)
     * [The End Phase](andy-chambers-notes.md#the-end-phase)
-* [Fleet Lists](fleet-lists.md)
+* [Fleet Lists](fleet-lists/index.md)
     * [Refits](fleet-lists/refits.md)
     * [Imperial Navy](fleet-lists/imperial-navy.md)
     * [Space Marines](fleet-lists/space-marines.md)

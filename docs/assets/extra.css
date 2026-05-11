@@ -25,3 +25,13 @@ article img {
         columns: 2;
     }
 }
+
+@media screen and (min-width: 60em) {
+    #table-of-contents + ul {
+        columns: 3;
+    }
+}
+
+main div:first-child {
+    margin-top: 0;
+}

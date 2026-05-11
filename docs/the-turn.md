@@ -61,7 +61,7 @@ will always get the first turn.
 Fighting all sorts of
 different battles is covered
 in more detail in the
-[Scenarios](scenarios.md) section later.
+[Scenarios](scenarios/index.md) section later.
 
 ## Ending The Battle
 
@@ -86,7 +86,7 @@ amount of time to play in.
 Different ways of ending
 the battle are discussed
 in more detail in the
-[Scenarios](scenarios.md) section.
+[Scenarios](scenarios/index.md) section.
 
 ## Exceptions
 
