@@ -26,9 +26,15 @@ them with armed freighters and pay 80 points,
 or replace them all with armed freighters and
 pay 160 points.
 
+* [Q-Ship](ships/additional-vessels/q-ship.pdf)
+* [Armed Freighter](ships/additional-vessels/armed-freighter.pdf)
+* [Escort Carrier](ships/additional-vessels/escort-carrier.pdf)
+
 # Heavy Transports
 
 If you want to use heavy transports just
 swap two ordinary transports for each heavy
 transport. Up to a third of the transports in
 your fleet may be heavy transports.
+
+* [Heavy Transport](ships/additional-vessels/heavy-transport.pdf)

@@ -3,7 +3,7 @@
 As well as relying upon the intervention of
 interstellar warships, a planetary system may
 also be protected by local defences. The first of
-these are the high orbit defences, that are capable
+these are the [high orbit defences](#high-orbit-defences), that are capable
 of attacking enemy ships as they approach the
 planet. These defence platforms are armed with
 ship weaponry, such as gun batteries and torpedo
@@ -22,7 +22,7 @@ also use system defence vessels. Unlike larger
 warships, these ships have no warp engines
 and are therefore confined to the system.
 They are slow compared to the sleek frigates
-and destroyers of the Imperial Navy, but their
+and destroyers of the [Imperial Navy](imperial-navy.md), but their
 guns are still potent enough to damage the
 largest enemy vessels.
 
@@ -33,8 +33,8 @@ six units and larger defences grouped in up to
 four.
 
 In addition to high orbit defences, a planet
-may also have a number of ground-based laser
-silos, missile batteries and airfields which can
+may also have a number of [ground-based laser
+silos, missile batteries and airfields](#low-orbit-defences) which can
 attack ships that enter low orbit, intent on
 bombarding the planet's surface or deploying
 troops for a planetary assault.
@@ -46,7 +46,7 @@ stationary planetary defences.
 
 ## High Orbit Defences
 
-High orbit defences may be placed around a
+[High orbit defences](#high-orbit-defences_1) may be placed around a
 planet or its moons. They must be deployed
 within the planet or moon's gravity well (ie,
 10 cm for a small planet, 15cm for a medium
@@ -54,7 +54,7 @@ one, etc.).
 
 ## Low Orbit Defences
 
-Low orbit defences may only be deployed
+[Low orbit defences](#low-orbit-defences_1) may only be deployed
 on the [low orbit table](../the-battlefield.md#fighting-in-low-orbit). They are all ground-based, so must be placed along the table edge
 which has been designated as representing the
 ground. Laser and missile silos have a front
@@ -75,7 +75,7 @@ defences in Battlefleet Gothic:
 
 ### Scenario driven
 
-Some scenarios specify that the defender can
+Some [scenarios](../scenarios/index.md) specify that the defender can
 spend a certain amount on planetary defences.
 In this case, the player with planetary defences
 chooses from the planetary defences list up to
@@ -107,8 +107,8 @@ defences.
 
 As well as in special scenarios, you can also
 use the following method to play battles using
-planetary defences. If you generate a planet as
-a celestial phenomenon, you can also give it
+planetary defences. If you generate a [planet](../the-battlefield.md#planets) as
+a [celestial phenomenon](../the-battlefield.md#celestial-phenomena), you can also give it
 planetary defences if you wish. A small planet
 will have D6-2 orbital defences, a medium
 sized planet will have D6-1 planetary defences
@@ -130,7 +130,7 @@ you can combine them to buy an orbital dock
 (90 points).
 
 Alternatively, you can decide beforehand
-that you'll be fighting near to a planet, in
+that you'll be fighting near to a [planet](../the-battlefield.md#planets), in
 which case the defending player may buy
 planetary defences out of their normal points
 value - a small planet can have no more than
@@ -190,7 +190,7 @@ planetary defences such as Defence Monitors
 or system ships do not roll for leadership or
 have a [leadership](../the-rules.md#leadership) value just as other normal
 planetary defences do not, with the exception
-that they reload ordnance (where applicable)
+that they [reload ordnance](../the-rules.md#reload-ordnance) (where applicable)
 on a nominal leadership of 7 unless
 specifically stated otherwise in their fleet lists
 or special rules.
@@ -209,7 +209,7 @@ Ships that are targeted as defences but
 otherwise are not normally restricted to
 planetary defences, such as Ork Roks, Kroot
 Warspheres, etc., are treated as ships and can
-make Special Orders normally.
+make [Special Orders](../the-rules.md#special-orders) normally.
 
 ## High Orbit Defences
 
@@ -393,7 +393,7 @@ not per quadrant.
 Friendly ships in contact with the Ramilies
 model can halt their [movement](../the-movement-phase.md) just as if they
 were in a gravity well. If they wish to turn they
-may use [*Burn Retros*] special orders without
+may use [*Burn Retros*](../the-rules.md#burn-retros) special orders without
 taking a Command check to do so.
 
 If a ship is in contact with one of the four
@@ -420,9 +420,9 @@ superior to even that of a warship. To
 represent this a Ramilies can use the following
 combat orders:
 
-* [*Reload Ordnance*]
-* [*Lock On*]
-* [*Brace for Impact*]
+* [*Reload Ordnance*](../the-rules.md#reload-ordnance)
+* [*Lock On*](../the-rules.md#lock-on)
+* [*Brace for Impact*](../the-rules.md#brace-for-impact)
 
 Ramilies are also typically manned by
 experienced personnel, so their [Leadership](../the-rules.md#leadership) is
@@ -447,11 +447,11 @@ squadrons and then issue special orders to
 each in turn.
 
 *For example, the player wishes to issue
-[]*Reload Ordnance*] orders to the north and east
-quadrants, while [*Locking On*] with the south
+[*Reload Ordnance*](../the-rules.md#reload-ordnance) orders to the north and east
+quadrants, while [*Locking On*](../the-rules.md#lock-on) with the south
 and west. Only two Command checks are made
 for the two pairs of orders. If later in the turn
-the player needed to [*Brace for Impact*] he could
+the player needed to [*Brace for Impact*](../the-rules.md#brace-for-impact) he could
 do so with a single quadrant only, leaving the
 rest free to reload or lock on again next turn.*
 
@@ -459,7 +459,7 @@ Weapons mounted on the central Basilica
 count as operating under the special orders of
 all of the quadrants, so it entirely possible for
 them to be locked on, reloading and braced all
-at the same time. [*Brace for Impact*] orders will
+at the same time. [*Brace for Impact*](../the-rules.md#brace-for-impact) orders will
 halve the firepower and ordnance strength of
 the Basilica weapons as normal.
 
