@@ -344,7 +344,7 @@ Terminator boarding parties may use them
 when conducting a hit and run [teleport
 attack](../the-end-phase.md#teleport-attacks). They roll two dice for its hit and run
 attack and apply both results, including the
-normal +1 bonus for being Space Marines.
+normal +1 bonus for being [Space Marines](space-marines.md).
 Terminators may be used in addition to a
 normal teleport attack that turn.
 
@@ -356,7 +356,7 @@ attacks](../the-end-phase.md#teleport-attacks) apply, except that they may be us
 in addition to a normal teleport attack that
 turn. The player may roll two dice and choose
 which one to use as the result, including the
-normal +1 bonus for being Space Marines.
+normal +1 bonus for being [Space Marines](space-marines.md).
 
 This ship and every Grey Knights vessel in the
 fleet mounts hexagrammic wards throughout
