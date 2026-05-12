@@ -99,7 +99,7 @@ for every 500 points in the fleet.
 <tr><td><strong>(0-1) <a href="../ships/inquisition/grey-knights-battle-barge.pdf" target="_new">Grey Knights Battle barge</a></strong></td><td><strong>440 pts</strong></td></tr>
 </tbody></table>
 
-A Space Marine fleet led by an Ordo Malleus
+A [Space Marine](space-marines.md) fleet led by an Ordo Malleus
 Inquisitor including at least 1000 points of
 Inquisition vessels and Grey Knights strike
 cruisers may include a single Grey Knights
@@ -107,9 +107,9 @@ battle barge.
 
 ## Attack Rating
 
-An Imperial Navy or Adeptus Mechanicus
+An [Imperial Navy](imperial-navy.md) or [Adeptus Mechanicus](adeptus-mechanicus.md)
 fleet led by an Inquisitor Lord has an [attack
-rating](../scenarios/index.md#using-an-attack-rating) of 2. A Space Marine fleet led by an
+rating](../scenarios/index.md#using-an-attack-rating) of 2. A [Space Marine](space-marines.md) fleet led by an
 Inquisitor Lord has an attack rating of 3
 unless a Blackship is accompanying the fleet,
 in which case its attack rating is 2.
