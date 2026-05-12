@@ -342,7 +342,7 @@ party for +50 points.
 Once per turn a vessel equipped with
 Terminator boarding parties may use them
 when conducting a hit and run [teleport
-attack][Hit and Run attacks](../the-end-phase.md#teleport-attacks). They roll two dice for its hit and run
+attack](../the-end-phase.md#teleport-attacks). They roll two dice for its hit and run
 attack and apply both results, including the
 normal +1 bonus for being Space Marines.
 Terminators may be used in addition to a
