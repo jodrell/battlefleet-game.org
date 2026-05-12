@@ -36,7 +36,7 @@ score generated on the [Leadership table](../the-rules.md#leadership)<!--on [???
 Rulebook -->, giving them a leadership value of
 between 7 and 10.
 
-Dark Eldar ships can make a [leadership check](../the-rules.md#taking-command-checks)
+Dark Eldar ships can make a [leadership check](../the-rules.md#other-leadership-tests)
 to ignore all effects of [celestial phenomena](../the-battlefield.md#celestial-phenomena)
 such as [gas clouds](../the-battlefield.md#gas-and-dust-clouds), [solar flares](../the-battlefield.md#solar-flares), etc. Escorts
 may re-roll this result for free.

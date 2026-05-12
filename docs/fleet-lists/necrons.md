@@ -4,8 +4,8 @@
 
 ### Attack Rating
 
-Necrons have a starting attack or initiative
-rating of 4.
+Necrons have a starting [attack or initiative
+rating](../scenarios/index.md#using-an-attack-rating) of 4.
 
 ### Necron Weapons
 

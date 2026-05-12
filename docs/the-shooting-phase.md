@@ -117,7 +117,7 @@ enemy ship or [squadron](squadrons.md).
 However, a ship can always
 fire at whatever targets you
 like if it takes and passes a
-[Leadership test](the-rules.md#taking-command-checks) on 2D6 first.
+[Leadership test](the-rules.md#other-leadership-tests) on 2D6 first.
 
 #### Multiple Targets
 
@@ -169,7 +169,7 @@ Ships with multiple lances in
 a given [fire arc](the-ordnance-phase.md#fighters) may split their
 weapon strength between
 targets but must still make
-a [leadership check](the-rules.md#taking-command-checks) to fire on
+a [leadership check](the-rules.md#other-leadership-tests) to fire on
 any target besides the closest.
 
 *For example, the Agrippa has
@@ -574,7 +574,7 @@ in a given fire arc may
 split their weapon strength
 between two or more
 targets but must still make
-a [leadership check](the-rules.md#taking-command-checks) to fire on
+a [leadership check](the-rules.md#other-leadership-tests) to fire on
 any target besides the closest.
 
 > #### Special Order: [*Lock On*](the-rules.md#lock-on)
@@ -1216,7 +1216,7 @@ separate Movement Phase for
 
 If a ship cannot elect to slow
 down (such as when on [*All
-Ahead Full*] special orders) and
+Ahead Full*](the-rules.md#all-ahead-full) special orders) and
 comes into contact with a Blast
 Marker within the last 5 cm of
 its movement, it must instead
@@ -1395,7 +1395,7 @@ still inflict hits normally, but torpedoes cannot
 be deliberately aimed at friendly hulks.
 
 While enemy ships can choose to fire on a hulk,
-they do not have to pass a [leadership check](the-rules.md#taking-command-checks) to
+they do not have to pass a [leadership check](the-rules.md#other-leadership-tests) to
 ignore one if it is the closest target. A player can
 fire on an enemy hulk if it is not the closest target,
 but it must make a leadership check normally.

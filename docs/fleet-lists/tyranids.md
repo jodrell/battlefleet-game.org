@@ -2,8 +2,8 @@
 
 ## Attack Rating
 
-Tyranids have a starting attack or initiative
-rating of 3.
+Tyranids have a starting [attack or initiative
+rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
 ## Synaptic Control
 
@@ -146,7 +146,7 @@ have destroyed themselves rather than
 succumb to that fate. To represent this, Capital
 ships can attempt to self destruct when
 boarded by Tyranids (not when boarding a
-Tyranid vessel) by passing a [Leadership test](../the-rules.md#taking-command-checks)
+Tyranid vessel) by passing a [Leadership test](../the-rules.md#other-leadership-tests)
 in the [End phase](../the-end-phase.md). If the test is failed the crew
 must face their terrible fate at the hands of the
 Tyranids. If the test is passed roll a D6; on a
@@ -614,7 +614,7 @@ ship gains +5 cm speed.
 The primary propulsion valves and constrictor
 muscles at the rear of the bio-ship have grown
 in size and strength. The ship gains +1D6 when
-on [*All Ahead Full*] special orders.
+on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders.
 
 <table class=fleet-list><tbody>
 <tr><td><strong>4: Psychic Scream</strong></td><td><strong>+20 pts</strong></td></tr>
@@ -715,8 +715,8 @@ modifiers).
 The creature has evolved the capability of
 effectively bringing its weapons to bear on its
 enemies even when following the prerogative of
-the Hive Mind. When on [*All Ahead Full*], [*Burn
-Retros*] or [*Come to New Heading*] special orders,
+the Hive Mind. When on [*All Ahead Full*](../the-rules.md#all-ahead-full), [*Burn
+Retros*](../the-rules.md#burn-retros) or [*Come to New Heading*](../the-rules.md#come-to-new-heading) special orders,
 its pyro-acid batteries and bio-plasma weapons
 are unaffected.
 
@@ -884,7 +884,7 @@ of 10).
 ### [Instinctive Behaviour](#instinctive-behaviour-flowchart)
 
 Escort squadrons in a Tyranid Vanguard fleet
-may take a [Leadership test](../the-rules.md#taking-command-checks) at the start of each
+may take a [Leadership test](../the-rules.md#other-leadership-tests) at the start of each
 turn in order to override their Instinctive
 Behaviour, just as if they were in range of a hive
 ship. Each squadron uses their own Leadership

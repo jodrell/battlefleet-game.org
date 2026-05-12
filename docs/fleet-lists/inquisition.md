@@ -113,8 +113,8 @@ battle barge.
 ## Attack Rating
 
 An Imperial Navy or Adeptus Mechanicus
-fleet led by an Inquisitor Lord has an attack
-rating of 2. A Space Marine fleet led by an
+fleet led by an Inquisitor Lord has an [attack
+rating](../scenarios/index.md#using-an-attack-rating) of 2. A Space Marine fleet led by an
 Inquisitor Lord has an attack rating of 3
 unless a Blackship is accompanying the fleet,
 in which case its attack rating is 2.

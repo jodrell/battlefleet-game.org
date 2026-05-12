@@ -36,7 +36,7 @@ Veneratus.
 ## Attack Rating
 
 The Adeptus Mechanicus have a starting
-attack or initiative rating of 2.
+[attack or initiative rating](../scenarios/index.md#using-an-attack-rating) of 2.
 
 ## Boarding Actions and Hit-and-run-attacks
 
@@ -106,7 +106,7 @@ List. Re-roll any refit that is not applicable to the vessel.
 | 2 | **Advanced Engines:** The ship gains +5cm speed, as well as +1D6 when on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
 | 3 | **Repulsor Shielding:** Ignore all negative effects of having a [blast marker](../the-shooting-phase.md#blast-markers) or [gas clouds](../the-battlefield.md#gas-and-dust-clouds) in contact with the ship's base as it applies to leadership, movement and [repairing critical damage](../the-end-phase.md#damage-control). This effect goes away if the ship suffers “Shields Collapsed” critical damage. |
 | 4 | **Fleet Defence Turrets:** Up to two turrets on the ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each [ordnance phase](../the-ordnance-phase.md), adding +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). These otherwise work exactly as normal turrets do in all other respects. |
-| 5 | **Gyro-stabilized Targeting Matrix:** Ship weapons are reduced to 75% instead of 50%when on [*All Ahead Full*], [*Come To New Heading*] or [*Burn Retros*] special orders. [Nova Cannon](../the-shooting-phase.md#nova-cannon) still cannot fire. |
+| 5 | **Gyro-stabilized Targeting Matrix:** Ship weapons are reduced to 75% instead of 50%when on [*All Ahead Full*], [*Come To New Heading*](../the-rules.md#come-to-new-heading) or [*Burn Retros*](../the-rules.md#burn-retros) special orders. [Nova Cannon](../the-shooting-phase.md#nova-cannon) still cannot fire. |
 | 6 | **Augmented Weapon Relays:** Weapon batteries shift left on the [gunnery table](../the-shooting-phase.md#gunnery-table) before all other modifiers are applied. [Lance](../the-shooting-phase.md#direct-firing-lances) hits count double on rolls of a 6. |
 
 ## The Quest for Knowledge
@@ -139,7 +139,7 @@ single D6 against the following subplot table:
 
 | D6 ROLL | QUEST FOR KNOWLEDGE |
 | :-: | --- |
-| 1 | **Extended Duty:** The Quest for Knowledge can be long and arduous, sometimes seeing the fleet deep in unexplored space far away from logistical support for exceedingly long periods. Roll a D6 for each Mechanicus capital ship. On a 1 it takes D3 damage, on a 2 it suffers -1 Ld to take [*Lock On*] or [*Reload*] special orders. Rolls of 3+ have no effect. You must destroy or cripple more enemy ships than you lose. (+1/0 [renown](../campaign-rules.md#renown)) |
+| 1 | **Extended Duty:** The Quest for Knowledge can be long and arduous, sometimes seeing the fleet deep in unexplored space far away from logistical support for exceedingly long periods. Roll a D6 for each Mechanicus capital ship. On a 1 it takes D3 damage, on a 2 it suffers -1 Ld to take [*Lock On*](../the-rules.md#lock-on) or [*Reload*](../the-rules.md#reload-ordnance) special orders. Rolls of 3+ have no effect. You must destroy or cripple more enemy ships than you lose. (+1/0 [renown](../campaign-rules.md#renown)) |
 | 2 | **Xenos Logic:** Due to unforeseen phenomena, the complex workings within the capital ships of the Adeptus Mechanicus have become unreliable at best and catastrophic at worst. Roll a D6 for each Mechanicus capital ship in the fleet. On a 1, 2 or 3, roll against the [critical damage](../the-shooting-phase.md#critical-hits) table. (+2/-1 renown) |
 | 3 | **Mimic Drive:** The Adeptus Mechanicus encounter partial STC plans for a drive capable of imitating the signature of a capital ship. Add a cruiser to the fleet, keeping its identity a secret. This vessel actually has all the characteristics of a transport ship and is worth zero victory points. If it is fired upon by the enemy, then the mimic drive is proven to be effective. (+1/-1) |
 | 4 | **Sacred Vessel:** The ship is an example of or contains much valued archaeotech and must be protected at any cost. Choose one Mechanicus capital ship in your fleet. This vessel cannot be [crippled](../the-shooting-phase.md#crippled-ships) or destroyed. (+1/-1) |

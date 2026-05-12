@@ -225,7 +225,7 @@ use of planetary defences and the Orks are
 the defender. When used in this manner,
 they follow all rules for planetary defences,
 meaning they automatically pass all [leadership
-checks](../the-rules.md#taking-command-checks) they are required to make but cannot
+checks](../the-rules.md#other-leadership-tests) they are required to make but cannot
 undergo any [Special Orders](../the-rules.md#special-orders) except [*Reload
 Ordnance*](../the-rules.md#reload-ordnance) and [*Brace For Impact*](../the-rules.md#brace-for-impact), for which
 they are Leadership 7 (Yes, 7 and not 6!).
@@ -917,7 +917,7 @@ ship! If a miss is rolled, place a [blast marker](../the-shooting-phase.md#blast
 in base contact with the vessel (even if shields
 are already down) for the hordes of vacuum-frozen snotlings bashing against the exterior
 of the hull. Each hit does not cause damage.
-Instead, the next [leadership check](../the-rules.md#taking-command-checks) or [special
+Instead, the next [leadership check](../the-rules.md#other-leadership-tests) or [special
 order](../the-rules.md#special-orders) made by the ship must be with an extra
 D6 (such as 3D6, or even more when already
 using 3D6, such as when [*All Ahead Full*](../the-rules.md#all-ahead-full) through

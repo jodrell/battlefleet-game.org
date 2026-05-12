@@ -55,7 +55,7 @@ move, fire weapons or launch ordnance.
 They may however attempt to [*Brace for
 Impact!*](../the-rules.md#brace-for-impact) and repair [critical damage](../the-shooting-phase.md#critical-hits). [Turrets](../the-ordnance-phase.md#turrets)
 and [shields](../the-shooting-phase.md#shields) work normally. To go on alert
-status, it must first pass a [Leadership](../the-rules.md#leadership) Test.
+status, it must first pass a [Leadership Test](../the-rules.md#other-leadership-tests).
 Note that this is not a [Command check](../the-rules.md#taking-command-checks), so
 failing with one squadron or ship will not
 prevent you from testing the others. A ship

@@ -157,7 +157,7 @@ includes at least three Rogue Trader escorts.
 | 2 | **Targeting Matrix:** The vessel counts all targets as closing when using the [gunnery table](../the-shooting-phase.md#gunnery-table) within 30cm and ignores right-shift modifiers for shooting greater than 30 cm. |
 | 3 | **Advanced Shielding**: The vessel increases the strength of its [shields](../the-shooting-phase.md#shields) by +1. |
 | 4 | **Ship Defense Grid:** The vessel increases the strength of its [turrets](../the-ordnance-phase.md#turrets) by +1. |
-| 5 | **Advanced Drive Technology:** The vessel adds +5 cm to its speed as well as +1D6 when undergoing [*All Ahead Full*] special orders. |
+| 5 | **Advanced Drive Technology:** The vessel adds +5 cm to its speed as well as +1D6 when undergoing [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
 | 6 | **Gravitic Thrusters:** The vessel can double the maximum rate of its normal turn. |
 
 ## Rogue Trader Exploration Fleet List
@@ -167,7 +167,7 @@ includes at least three Rogue Trader escorts.
 #### Attack Rating
 
 When used with this fleet list, Rogue Traders
-have an [attack (initiative) rating] of 3.
+have an [attack (initiative) rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
 #### Xenos Allies
 
@@ -852,9 +852,9 @@ must be taken for that turn.
 | 7 | The convoy maintains formation discipline and follows your commands. |
 | 8 | Two armed freighters and a Q-ship turn normally towards the nearest enemy contact and travel full distance to engage the enemy! |
 | 9 | The convoy maintains formation discipline and follows your commands. |
-| 10 | A fast clipper panics, and uses [*Comes to new Heading*] to turn directly away from the nearest enemy contact and travels full distance. |
-| 11 | A fast clipper panics and immediately goes [*All Ahead Full*]. |
-| 12 | PANIC! All transport ships test for [*All Ahead Full*] special orders, even if some ships fail. Roll [leadership checks](../the-rules.md#taking-command-checks) for each ship separately with no re-rolls allowed. |
+| 10 | A fast clipper panics, and uses [*Comes to new Heading*](../the-rules.md#come-to-new-heading) to turn directly away from the nearest enemy contact and travels full distance. |
+| 11 | A fast clipper panics and immediately goes [*All Ahead Full*](../the-rules.md#all-ahead-full). |
+| 12 | PANIC! All transport ships test for [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders, even if some ships fail. Roll [leadership checks](../the-rules.md#other-leadership-tests) for each ship separately with no re-rolls allowed. |
 
 ### Game Length
 

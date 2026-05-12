@@ -4,8 +4,8 @@
 
 ### Attack Rating
 
-Chaos fleets have a starting attack or initiative
-rating of 2.
+Chaos fleets have a starting [attack or initiative
+rating](../scenarios/index.md#using-an-attack-rating) of 2.
 
 ### Chaos Commanders
 
@@ -518,7 +518,7 @@ destruction at Kharlos II.
 > 
 > Abaddon’s awesome reputation and dogged determination ensure there are seldom any
 > failures in the chain of command. When there are, the consequences are likely to be dire.
-> Abaddon’s fleet is allowed to re-roll a single [Command check](../the-rules.md#taking-command-checks) or [Leadership test](../the-rules.md#taking-command-checks) each turn.
+> Abaddon’s fleet is allowed to re-roll a single [Command check](../the-rules.md#taking-command-checks) or [Leadership test](../the-rules.md#other-leadership-tests) each turn.
 
 ### Special Rules
 
@@ -1179,7 +1179,7 @@ servants, even those serving his chosen champion.*
 Any ship led by a Lord of Tzeentch (and not
 the Warmaster!) may be granted a Strand of
 Fortune. Once per battle it automatically passes
-a [command check](../the-rules.md#taking-command-checks) or [leadership test](../the-rules.md#taking-command-checks) – no roll
+a [command check](../the-rules.md#taking-command-checks) or [leadership test](../the-rules.md#other-leadership-tests) – no roll
 required.
 
 ### Escorts
@@ -1963,7 +1963,7 @@ The Planet Killer can build up a charge of energy
 mighty enough to deal the deathblow to a planet.
 
 The Planet Killer must declare it is charging over
-three consecutive turns. No [leadership check](../the-rules.md#taking-command-checks) is
+three consecutive turns. No [leadership check](../the-rules.md#other-leadership-tests) is
 required, but the ship may not turn, shoot or go
 on any [special orders](../the-rules.md#special-orders), including [*Brace For Impact*](../the-rules.md#brace-for-impact).
 Once started, the process cannot be stopped and

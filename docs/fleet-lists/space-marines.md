@@ -492,8 +492,8 @@ Guard as part of its point cost.
 
 ### Attack Rating
 
-A Space Marine Crusade Fleet has an attack
-rating of 3. If the fleet includes a fortress-monastery, it has an attack rating of 1; even Space
+A Space Marine Crusade Fleet has an [attack
+rating](../scenarios/index.md#using-an-attack-rating) of 3. If the fleet includes a fortress-monastery, it has an attack rating of 1; even Space
 Marines find it difficult to launch a surprise blitz
 with a billion tons of fortress monastery in tow!
 
@@ -667,8 +667,8 @@ listed on [the table on [???] p.157 of the rulebook](assets/p157.pdf).
 
 ### Attack Rating
 
-A Space Marine Dominion Fleet has an attack
-rating of 3. This is reduced to 2 if the fleet has
+A Space Marine Dominion Fleet has an [attack
+rating](../scenarios/index.md#using-an-attack-rating) of 3. This is reduced to 2 if the fleet has
 any Imperial Navy, Mechanicus or Rogue Trader
 vessels at all.
 

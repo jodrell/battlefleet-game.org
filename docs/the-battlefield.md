@@ -156,7 +156,7 @@ is determined using the
 appropriate [battlezone](the-battlefield.md)
 generator. Roll a D6 to
 determine which of the
-generators to use for this
+[generators](#battlezones) to use for this
 battlefield (or agree on one
 with your opponent) and
 then roll on that generator for
@@ -176,7 +176,7 @@ in your own collection.
 ### Setting Up Celestial Phenomena: Method 3
 
 As a variant, you can use
-the fleets’ attack ratings to
+the fleets’ [attack ratings](scenarios/index.md#using-an-attack-rating) to
 determine which [battlezone](the-battlefield.md)
 the battle is fought in. This
 represents the two fleets
@@ -311,9 +311,9 @@ of catching an emerging foe unaware.
 *\*In all cases a maximum of one [planet](the-battlefield.md#planets) will
 be present on the tabletop: if a second planet
 is generated roll again. Remember to roll
-to see whether a planet has any moons.
+to see whether a planet has any [moons](#moons).
 If a large planet is generated, it will have
-rings around it on a D6 roll of 4 or more.*
+[rings](#ringed-planets) around it on a D6 roll of 4 or more.*
 
 ## Tabletop Features
 
@@ -421,7 +421,7 @@ the same effect as a single
 shields, [Leadership](the-rules.md#leadership) and
 [ordnance](the-ordnance-phase.md)). [Eldar](fleet-lists/eldar.md) and their
 kin can make a [leadership
-check](the-rules.md#taking-command-checks) to ignore all effects of
+check](the-rules.md#other-leadership-tests) to ignore all effects of
 gas clouds, and their [escorts](the-rules.md#escorts)
 may [re-roll](the-rules.md#re-rolls) this result for
 free. If passed, it will take no
@@ -472,15 +472,15 @@ Ships moving through an
 asteroid field, or coming
 into base contact with the
 edge of one, must pass a
-[Leadership test](the-rules.md#taking-command-checks) on 2D6 to
+[Leadership test](the-rules.md#other-leadership-tests) on 2D6 to
 navigate it successfully.
 
 Ships using [*All Ahead
-Full*] special orders make
+Full*](the-rules.md#all-ahead-full) special orders make
 the test on 3D6 instead.
 
 [Escort](the-rules.md#escorts) ships may re-roll the
-[Leadership test](the-rules.md#taking-command-checks) if they fail
+[Leadership test](the-rules.md#other-leadership-tests) if they fail
 it, but the second roll stands
 whether it is successful or
 not. A ship that fails the
@@ -491,7 +491,7 @@ block damage as normal.
 
 [Escort](the-rules.md#escorts) and [capital ship](the-rules.md#capital-ships)
 [squadrons](squadrons.md) make this
-[leadership test](the-rules.md#taking-command-checks) normally, once
+[leadership test](the-rules.md#other-leadership-tests) normally, once
 for the whole squadron. In the
 case of capital ship squadrons
 that fail this test, each ship
@@ -555,7 +555,7 @@ inside an asteroid field.
 
 If you wish to shoot at an
 asteroid field, you must first
-pass a [leadership test](the-rules.md#taking-command-checks) even if
+pass a [leadership test](the-rules.md#other-leadership-tests) even if
 it is the only possible target.
 Treat it as an [Ordnance](the-ordnance-phase.md)
 marker. For every roll of
@@ -613,7 +613,7 @@ into a rift are destroyed.
 
 Ships moving into a warp
 rift must pass a [Leadership
-test](the-rules.md#taking-command-checks) on 3D6 to navigate it
+test](the-rules.md#other-leadership-tests) on 3D6 to navigate it
 successfully. If the ship
 passes the test, it may
 be repositioned up to
@@ -756,7 +756,7 @@ but such a stationary ship uses the defences
 column for [gunnery](the-shooting-phase.md#direct-firing-weapons-batteries) purposes if it elects to
 remain stationary. A ship that enters low
 orbit, however, is removed from play and
-(where the scenario requires it) is placed
+(where the [scenario](scenarios/index.md) requires it) is placed
 on a separate [low orbit table](the-battlefield.md#fighting-in-low-orbit). Ships moving
 up from low orbit are placed touching
 the outer edge of the planet template.
@@ -887,7 +887,7 @@ one [hit](the-shooting-phase.md#damage) and will take [critical damage](the-shoo
 a roll of 4 or more on a D6. Roll a D6 for
 each [Ordnance](the-ordnance-phase.md) marker – on a 4 or more it
 is removed from play. [Eldar](fleet-lists/eldar.md) and their [kin](fleet-lists/dark-eldar.md)
-can make a [leadership check](the-rules.md#taking-command-checks) to ignore all
+can make a [leadership check](the-rules.md#other-leadership-tests) to ignore all
 effects of solar flares, and their [escorts](the-rules.md#escorts) may
 [re-roll](the-rules.md#re-rolls) this result for free. If passed, it will
 take no [damage](the-shooting-phase.md#damage) but instead turn directly
@@ -928,7 +928,7 @@ own ship or [squadron](squadrons.md) during radiation bursts.
 
 ## Fighting in low Orbit
 
-In certain scenarios, ships can enter low
+In certain [scenarios](scenarios/index.md), ships can enter low
 orbit to attack a planet. Achieving low
 orbit is essential to any such attack, since
 a drop ship’s range is very limited and any

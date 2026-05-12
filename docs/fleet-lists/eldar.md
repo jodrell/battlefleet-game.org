@@ -15,7 +15,7 @@ An Eldar fleet containing any Craftworld Eldar
 vessels has an [attack (or initiative) rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
 An Eldar Corsair fleet containing no Craftworld
-Eldar vessels has an attack (or initiative) rating of 4.
+Eldar vessels has an [attack (or initiative) rating](../scenarios/index.md#using-an-attack-rating) of 4.
 
 ### Craftworld & Corsair Vessels
 
@@ -105,7 +105,7 @@ Eldar movement will apply.
 
 #### Celestial Phenomena
 
-Eldar ships can make a [leadership check](../the-rules.md#taking-command-checks) to
+Eldar ships can make a [leadership check](../the-rules.md#other-leadership-tests) to
 ignore all effects of [celestial phenomena](../the-battlefield.md#celestial-phenomena) such
 as [gas clouds](../the-battlefield.md#gas-and-dust-clouds), [solar flares](../the-battlefield.md#solar-flares), etc. Escorts may
 re-roll this result for free.
@@ -507,7 +507,7 @@ trained or specialised crew members are brought in. Roll on the following table.
 | 1 | **Crystal Web:** A sizable colony of crystal spiders have been introduced to the hull, greatly enhancing the ship's chances of survival. If the ship has no [critical damage](../the-shooting-phase.md#critical-hits), roll a number of D6 equal to the number of hits it has remaining, recovering 1HP if any rolls of 6 are made. No more than 1HP can be regained in this manner per turn, regardless of how many rolls of 6 are made. |
 | 2 | **Bonesinger:** A much-respected Bonesinger has joined the ranks of the crew. The ship only suffers [critical damage](../the-shooting-phase.md#critical-hits) on a 5+ instead of a 4+. |
 | 3 | **Mask of the Laughing God:** Special psychic dampers and crossspectrum jammers hide the intentions of the crew. Enemy vessels do not gain +1 [Leadership](../the-rules.md#leadership) for this vessel going under [Special Orders](../the-rules.md#special-orders). |
-| 4 | **Gestalt Spirit Stone:** The ship is incredibly ancient, even by Eldar standards, and its spirit has literally aeons of experience. The vessel ignores all penalties to [leadership tests](../the-rules.md#taking-command-checks), such as [blast markers](../the-shooting-phase.md#blast-markers), Marks of Chaos, etc. |
+| 4 | **Gestalt Spirit Stone:** The ship is incredibly ancient, even by Eldar standards, and its spirit has literally aeons of experience. The vessel ignores all penalties to [leadership tests](../the-rules.md#other-leadership-tests), such as [blast markers](../the-shooting-phase.md#blast-markers), Marks of Chaos, etc. |
 | 5 | **Netherfield:** A refined holofield design coupled with an absorptive masking layer make this ship nearly impossible to target. It grants an additional right column shift to the vessel against all weapons that use the [gunnery table](../the-shooting-phase.md#gunnery-table) (no additional modifier is granted past the far right of the gunnery table). |
 | 6 | **Structural Purity:** The cores of the ship’s wraithbone supports are partially replaced by a fluidic medium that dissipates damage throughout the hull. Before the battle begins, the vessel gains +1HP to its starting damage capacity. |
 
@@ -1126,7 +1126,7 @@ escort squadron within 15 cm.*
 > Prince Yriel must be embarked on a
 > Dragonship equipped with launch bays,
 > even if he is leading a Corsair fleet. A
-> fleet led by him has an attack rating of
+> fleet led by him has an [attack rating](../scenarios/index.md#using-an-attack-rating) of
 > 4, even if it includes Craftworld vessels.
 > He must be embarked aboard the Flame
 > of Asuryan if it is present, in which case
@@ -1276,7 +1276,7 @@ blast markers removed from play normally.
 
 Due to the Eldar’s superior manoeuvrability,
 Eldar ships can dock with a Haven using a
-simple [leadership check](../the-rules.md#taking-command-checks) and do not need to be
+simple [leadership check](../the-rules.md#other-leadership-tests) and do not need to be
 on [special orders](../the-rules.md#special-orders) to do so. Any of the owning
 player's [capital ships](../the-rules.md#capital-ships) that dock with the station
 for one full turn gain two additional dice to

@@ -635,7 +635,7 @@ their effects) as well.
 Blast markers have no effect on the movement
 of the Demiurg ship, nor do they face any
 other negative effects of moving through blast
-markers, though any [leadership checks](../the-rules.md#taking-command-checks) they
+markers, though any [leadership checks](../the-rules.md#other-leadership-tests) they
 were required to make before the movement
 phase are still affected normally by blast markers.
 

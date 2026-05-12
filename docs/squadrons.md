@@ -181,7 +181,7 @@ to shooting and does not
 apply to [ordnance attacks](the-movement-phase.md),
 [boarding actions](the-end-phase.md#boarding-actions), etc.
 
-A [leadership test](the-rules.md#taking-command-checks) cannot
+A [leadership test](the-rules.md#other-leadership-tests) cannot
 be taken to pick out
 individual ships within a
 squadron. This does not
@@ -348,7 +348,7 @@ the normal rules and restrictions for a
 single ship. So, for example, if a squadron
 wants to fire at a target other than its
 closest enemy it must pass a [Leadership
-test](the-rules.md#taking-command-checks) to do so. Any ships in the squadron
+test](the-rules.md#other-leadership-tests) to do so. Any ships in the squadron
 out of range or fire arc of the squadron’s
 primary target may fire on another enemy.
 
