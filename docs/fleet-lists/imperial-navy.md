@@ -1,21 +1,5 @@
 # Imperial Navy
 
-**Almost every ship in the Imperium is
-part of the Imperial fleet controlled
-by the Priesthood: the relative handful
-of vessels that are not, belong to a
-few special organisations such as the
-Adeptus Mechanicus, Space Marine
-Chapters and the Inquisition, or
-a small number of honoured and
-ancient merchant families. Even
-Imperial Guard regiments must rely
-upon the Imperial fleet to transport
-them to distant warzones. This fleet is
-divided into the civilian vessels of the
-Merchant fleet and the warships of the
-Imperial Navy.**
-
 ## Special Rules
 
 ### Attack Rating
