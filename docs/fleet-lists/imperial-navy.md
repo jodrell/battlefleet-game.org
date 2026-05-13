@@ -404,151 +404,153 @@ _*The Endurance and Defiant class light cruisers are rare variants of the Endeav
 combined numbers of Endurance and Defiant class vessels may not exceed the number of
 Endeavour class light cruisers in the fleet._
 
-> #### Battlefleet Cadia
->
-> The constant turmoil surrounding the Cadian gate requires Battlefleet Cadia to be far
-> more active than many other battlefleets. The whole sector exists in an almost perpetual
-> state of readiness, and as such the demands on manpower and resources are huge. Vast
-> numbers of new, inexperienced sailors frequently have to be drawn up to replace those lost
-> in the constant fighting (many of them drawn from worlds within the Cadian system itself
-> such as Vigilatum and Macharia). Because of this, the ships and squadrons of Battlefleet
-> Cadia must roll two dice and pick the lowest score when determining [leadership](../the-rules.md#leadership).
->
-> However, those that survive the harsh first years or military service around the Cadian
-> Gate rapidly mature to become some of the most capable leaders in the Imperium. To
-> represent this, Battlefleet Cadia uses the additional fleet list entry below.
->
-> ##### 0-5 Veteran Captains
->
-> You may include up to five Veteran Captains in your fleet. Each Veteran Captain must be
-> assigned to a particular ship and improves its [leadership](../the-rules.md#leadership) by +1.
->
-> <table class=fleet-list><tbody>
-> <tr>
->   <td>Veteran Captain (Ld +1)</td>
->   <td>+50 pts</td>
-> </tr>
-> </tbody></table>
->
-> You may wait until after rolling for leadership before deciding which ships to assign
-> your veteran captains to. Ships assigned a Veteran Captain must be [squadroned](../squadrons.md) on the
-> tabletop (their skills are too precious to waste on lone ships). Even escort squadrons can
-> have a Veteran Captain assigned to them, in which case the entire squadron receives the
-> leadership bonus. You should still mark out one particular escort as bearing the captain,
-> and if this vessel is destroyed the bonus is lost.
->
-> A Veteran Captain gets one [re-roll](../the-rules.md#re-rolls) which is included in their points cost and can only be
-> used on their own vessel or another vessel in their own squadron.
+!!! note ""
 
-<br>
+    #### Battlefleet Cadia
 
-> #### The Reserve Fleets of Segmentum Obscurus
->
-> As with all highly militarised zones, it is
-> important for the Imperial Navy to maintain
-> substantial reserves of vessels around the Eye
-> of Terror, ready to deploy as reinforcements
-> should the need arise. Whilst it is possible
-> to keep the vessels themselves ready in this
-> manner, Battlefleet Obscura simply does
-> not possess the manpower to keep reserve
-> crews stationed aboard these vessels as well.
-> Instead, whole shipyards are filled with rows
-> of silent, inactive vessels, often representing
-> classes of ship now outdated or scarce. In
-> times of great need these ships will then be
-> brought into service and crewed with sailors
-> from destroyed or crippled vessels or even
-> with hastily mustered new recruits, meaning
-> the crew is unlikely to have any familiarity
-> with their new vessel. As such a posting to
-> a reserve fleet is an unnerving duty, forcing
-> a sailor to enter deep into an unfamiliar
-> vessel which may have lain dormant for
-> centuries. Much superstition surrounds such
-> fleets and perhaps because of this, unusual
-> behaviour of both crew and vessel is rather
-> too commonplace.
->
-> Reserve fleets are used only reluctantly by
-> the Imperial Navy, and only in the most
-> desperate of circumstances, but an invasion
-> the size of [Abaddon’s Thirteenth Black
-> Crusade](../abaddons-13th-black-crusade/index.md) without doubt qualifies as exactly
-> that – the most dire of circumstances, the
-> most desperate of times.
->
-> If you wish, you may use a Battlefleet
-> Obscura Reserve Fleet, picked using the
-> fleet list opposite. In addition, you may of
-> course use [the Reserves rule](../fleet-lists/index.md#reserves) to pick other
-> Imperial vessels not found in your own fleet
-> list. However, since a reserve fleet also draws
-> on very old or scarce vessels, you may also
-> use your reserve choices to select any of the
-> following [Chaos](chaos.md) vessels if you so wish.
->
-> * <a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a>
-> * <a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a>
-> * <a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a>
-> * <a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a>
-> * <a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a>
->
-> These ‘reserve’ vessels are picked in the
-> normal manner, so for every three vessels
-> of a given type which you choose from the
-> main fleet list, you may pick one vessel of
-> that type from another Imperial list, or
-> from the above selection of Chaos vessels
-> (but not both).
->
-> Reserve vessels use all their normal rules
-> and keep their particular ordnance types
-> (i.e. Chaos ordnance is used on Chaos ships
-> picked in a reserve fleet) but you cannot
-> pick any of the ship class variants described
-> since these are described for vessels who
-> have already turned traitor and hence
-> obviously no longer in Imperial service!
->
-> ##### Strange happenings
->
-> In a reserve fleet, all vessels are prone to
-> certain unexpected events, such as mass
-> panic or even mutiny amongst the crew,
-> inexplicable noises, sensor readings and
-> sightings or disconcerting setbacks and
-> failure of machinery. When any ship in a
-> reserve fleet rolls a double for a [command
-> check](../the-rules.md#taking-command-checks) it becomes unreliable for the rest of
-> the game. Unreliable ships will not continue
-> to fight if [crippled](../the-shooting-phase.md#crippled-ships). Crippled ships will
-> attempt to [disengage](../the-movement-phase.md#disengaging-from-combat) every turn and run
-> for the nearest point on the nearest table
-> edge if they fail. If a vessel in a reserve fleet
-> also fails the command check by rolling
-> a double, then not only does it become
-> unreliable but it also may do absolutely
-> nothing during the current turn other than
-> make its minimum move directly ahead.
->
-> Against Chaos fleets, where the followers
-> of the dark gods are able to exert their
-> influence to further unsettle their already
-> nervous opponents, unforeseen events can
-> be even more devastating. When fighting
-> against Chaos fleets, a vessel which has
-> already become unreliable and rolls a second
-> double for a command check must attempt
-> to disengage as soon as possible exactly as if
-> they had been crippled (and will continue to
-> do so for the rest of the game). If the second
-> double is also a failure for the command
-> check, the ship immediately defects and is
-> controlled by the Chaos player for the rest
-> of the game! In this case victory points are
-> awarded to neither player, no matter what
-> the ship’s eventual fate.
+    The constant turmoil surrounding the Cadian gate requires Battlefleet Cadia to be far
+    more active than many other battlefleets. The whole sector exists in an almost perpetual
+    state of readiness, and as such the demands on manpower and resources are huge. Vast
+    numbers of new, inexperienced sailors frequently have to be drawn up to replace those lost
+    in the constant fighting (many of them drawn from worlds within the Cadian system itself
+    such as Vigilatum and Macharia). Because of this, the ships and squadrons of Battlefleet
+    Cadia must roll two dice and pick the lowest score when determining [leadership](../the-rules.md#leadership).
+
+    However, those that survive the harsh first years or military service around the Cadian
+    Gate rapidly mature to become some of the most capable leaders in the Imperium. To
+    represent this, Battlefleet Cadia uses the additional fleet list entry below.
+
+    ##### 0-5 Veteran Captains
+
+    You may include up to five Veteran Captains in your fleet. Each Veteran Captain must be
+    assigned to a particular ship and improves its [leadership](../the-rules.md#leadership) by +1.
+
+    <table class=fleet-list><tbody>
+    <tr>
+    <td>Veteran Captain (Ld +1)</td>
+    <td>+50 pts</td>
+    </tr>
+    </tbody></table>
+
+    You may wait until after rolling for leadership before deciding which ships to assign
+    your veteran captains to. Ships assigned a Veteran Captain must be [squadroned](../squadrons.md) on the
+    tabletop (their skills are too precious to waste on lone ships). Even escort squadrons can
+    have a Veteran Captain assigned to them, in which case the entire squadron receives the
+    leadership bonus. You should still mark out one particular escort as bearing the captain,
+    and if this vessel is destroyed the bonus is lost.
+
+    A Veteran Captain gets one [re-roll](../the-rules.md#re-rolls) which is included in their points cost and can only be
+    used on their own vessel or another vessel in their own squadron.
+
+!!! note ""
+
+    #### The Reserve Fleets of Segmentum Obscurus
+
+    As with all highly militarised zones, it is
+    important for the Imperial Navy to maintain
+    substantial reserves of vessels around the Eye
+    of Terror, ready to deploy as reinforcements
+    should the need arise. Whilst it is possible
+    to keep the vessels themselves ready in this
+    manner, Battlefleet Obscura simply does
+    not possess the manpower to keep reserve
+    crews stationed aboard these vessels as well.
+    Instead, whole shipyards are filled with rows
+    of silent, inactive vessels, often representing
+    classes of ship now outdated or scarce. In
+    times of great need these ships will then be
+    brought into service and crewed with sailors
+    from destroyed or crippled vessels or even
+    with hastily mustered new recruits, meaning
+    the crew is unlikely to have any familiarity
+    with their new vessel. As such a posting to
+    a reserve fleet is an unnerving duty, forcing
+    a sailor to enter deep into an unfamiliar
+    vessel which may have lain dormant for
+    centuries. Much superstition surrounds such
+    fleets and perhaps because of this, unusual
+    behaviour of both crew and vessel is rather
+    too commonplace.
+
+    Reserve fleets are used only reluctantly by
+    the Imperial Navy, and only in the most
+    desperate of circumstances, but an invasion
+    the size of [Abaddon’s Thirteenth Black
+    Crusade](../abaddons-13th-black-crusade/index.md) without doubt qualifies as exactly
+    that – the most dire of circumstances, the
+    most desperate of times.
+
+    If you wish, you may use a Battlefleet
+    Obscura Reserve Fleet, picked using the
+    fleet list opposite. In addition, you may of
+    course use [the Reserves rule](../fleet-lists/index.md#reserves) to pick other
+    Imperial vessels not found in your own fleet
+    list. However, since a reserve fleet also draws
+    on very old or scarce vessels, you may also
+    use your reserve choices to select any of the
+    following [Chaos](chaos.md) vessels if you so wish.
+
+    * <a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a>
+    * <a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a>
+    * <a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a>
+    * <a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a>
+    * <a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a>
+
+    These ‘reserve’ vessels are picked in the
+    normal manner, so for every three vessels
+    of a given type which you choose from the
+    main fleet list, you may pick one vessel of
+    that type from another Imperial list, or
+    from the above selection of Chaos vessels
+    (but not both).
+
+    Reserve vessels use all their normal rules
+    and keep their particular ordnance types
+    (i.e. Chaos ordnance is used on Chaos ships
+    picked in a reserve fleet) but you cannot
+    pick any of the ship class variants described
+    since these are described for vessels who
+    have already turned traitor and hence
+    obviously no longer in Imperial service!
+
+    ##### Strange happenings
+
+    In a reserve fleet, all vessels are prone to
+    certain unexpected events, such as mass
+    panic or even mutiny amongst the crew,
+    inexplicable noises, sensor readings and
+    sightings or disconcerting setbacks and
+    failure of machinery. When any ship in a
+    reserve fleet rolls a double for a [command
+    check](../the-rules.md#taking-command-checks) it becomes unreliable for the rest of
+    the game. Unreliable ships will not continue
+    to fight if [crippled](../the-shooting-phase.md#crippled-ships). Crippled ships will
+    attempt to [disengage](../the-movement-phase.md#disengaging-from-combat) every turn and run
+    for the nearest point on the nearest table
+    edge if they fail. If a vessel in a reserve fleet
+    also fails the command check by rolling
+    a double, then not only does it become
+    unreliable but it also may do absolutely
+    nothing during the current turn other than
+    make its minimum move directly ahead.
+
+    Against Chaos fleets, where the followers
+    of the dark gods are able to exert their
+    influence to further unsettle their already
+    nervous opponents, unforeseen events can
+    be even more devastating. When fighting
+    against Chaos fleets, a vessel which has
+    already become unreliable and rolls a second
+    double for a command check must attempt
+    to disengage as soon as possible exactly as if
+    they had been crippled (and will continue to
+    do so for the rest of the game). If the second
+    double is also a failure for the command
+    check, the ship immediately defects and is
+    controlled by the Chaos player for the rest
+    of the game! In this case victory points are
+    awarded to neither player, no matter what
+    the ship’s eventual fate.
 
 ## Segmentum Solar: Armageddon Sector Fleet List
 
@@ -830,56 +832,60 @@ Rath).
 </tr>
 </tbody></table>
 
-> #### Lord Admiral Rath
->
-> <table class=fleet-list><tbody>
-> <tr>
->   <td>Lord Admiral Rath</td>
->   <td>200 pts</td>
-> </tr>
-> </tbody></table>
->
-> An Imperial Bakka Battlefleet with 1,500
-> points or greater may be led by Lord
-> Admiral Rath, who must always be placed
-> on a battleship, though it not necessarily
-> be the most expensive one present.
->
-> Lord Admiral Rath is Ld 10 and comes
-> with two re-rolls as part of his point
-> cost. His crew is honoured and inspired
-> by the great man’s presence and will
-> fight with great courage and pride; they
-> add +1 to their roll when defending
-> against [boarding actions](../the-end-phase.md#boarding-actions). Respect for
-> him extends to the forge world of Bakka
-> itself, and his flagship receives one [ship
-> refit](../campaign-rules.md#ship-refit) and [weapon refit](../campaign-rules.md#weapons-refit) (rolled randomly)
-> as part of his point cost. In a campaign,
-> a ship so refitted must remain his
-> flagship unless it is destroyed.
+!!! note ""
+
+    #### Lord Admiral Rath
+
+    <table class=fleet-list><tbody>
+    <tr>
+    <td>Lord Admiral Rath</td>
+    <td>200 pts</td>
+    </tr>
+    </tbody></table>
+
+    An Imperial Bakka Battlefleet with 1,500
+    points or greater may be led by Lord
+    Admiral Rath, who must always be placed
+    on a battleship, though it not necessarily
+    be the most expensive one present.
+
+    Lord Admiral Rath is Ld 10 and comes
+    with two re-rolls as part of his point
+    cost. His crew is honoured and inspired
+    by the great man’s presence and will
+    fight with great courage and pride; they
+    add +1 to their roll when defending
+    against [boarding actions](../the-end-phase.md#boarding-actions). Respect for
+    him extends to the forge world of Bakka
+    itself, and his flagship receives one [ship
+    refit](../campaign-rules.md#ship-refit) and [weapon refit](../campaign-rules.md#weapons-refit) (rolled randomly)
+    as part of his point cost. In a campaign,
+    a ship so refitted must remain his
+    flagship unless it is destroyed.
 
 <br>
 
-> #### Emperor battleship *Dominus Astra*
->
-> Emperor class battleships are among the oldest to serve in Imperial Fleets and are commonly
-> used as flagships. Only one member of this class, the venerable *Dominus Astra*, saw action
-> against Hive Fleet Behemoth while serving as Lord Admiral Rath's flagship. The *Dominus
-> Astra* was lost in combat at the Battle of Circe in the Macragge system when an Imperial
-> Fleet of 200 vessels was overwhelmed by Tyranids. In order to cover the disengagement of
-> the surviving twelve Imperial capital ships, Lord Rath ordered the battleship into the heart
-> of the enemy fleet, ripping through their formations with all guns blazing. As the alien
-> hordes closed around the doomed ship, the *Dominus Astra* engaged its warp drives, tearing
-> apart real space, dragging large numbers of the unholy foe into the immaterium and dashing
-> many others onto the rings around the gas giant. The *Dominus Astra* was never officially
-> seen again although rumours abound of a mysterious ghost ship that appears from the warp
-> in time of greatest peril to hurl itself on humanity’s most dangerous enemies.
->
-> As a result of the fallout subsequent to the Gareox Prerogative, this class of vessel is
-> extremely rare in the fleets of Segmentum Tempestus. Bakka fleets may only field a single
-> Emperor battleship, and this only as reserves unless [Admiral Rath](#lord-admiral-rath) leads the fleet, in which
-> case it must be his flagship.
+!!! note ""
+
+    #### Emperor battleship *Dominus Astra*
+
+    Emperor class battleships are among the oldest to serve in Imperial Fleets and are commonly
+    used as flagships. Only one member of this class, the venerable *Dominus Astra*, saw action
+    against Hive Fleet Behemoth while serving as Lord Admiral Rath's flagship. The *Dominus
+    Astra* was lost in combat at the Battle of Circe in the Macragge system when an Imperial
+    Fleet of 200 vessels was overwhelmed by Tyranids. In order to cover the disengagement of
+    the surviving twelve Imperial capital ships, Lord Rath ordered the battleship into the heart
+    of the enemy fleet, ripping through their formations with all guns blazing. As the alien
+    hordes closed around the doomed ship, the *Dominus Astra* engaged its warp drives, tearing
+    apart real space, dragging large numbers of the unholy foe into the immaterium and dashing
+    many others onto the rings around the gas giant. The *Dominus Astra* was never officially
+    seen again although rumours abound of a mysterious ghost ship that appears from the warp
+    in time of greatest peril to hurl itself on humanity’s most dangerous enemies.
+
+    As a result of the fallout subsequent to the Gareox Prerogative, this class of vessel is
+    extremely rare in the fleets of Segmentum Tempestus. Bakka fleets may only field a single
+    Emperor battleship, and this only as reserves unless [Admiral Rath](#lord-admiral-rath) leads the fleet, in which
+    case it must be his flagship.
 
 ### Capital Ships
 

@@ -22,7 +22,7 @@ whole squadron on [special orders](the-rules.md#special-orders). Also, if
 the squadron is made up of [capital ships](the-rules.md#capital-ships)
 with different Leadership values, the highest
 surviving Leadership value in the squadron is
-used for taking Command checks. Remember,
+used for taking [Command checks](the-rules.md#taking-command-checks). Remember,
 in the case of escorts each squadron has a
 single Leadership value.
 
@@ -42,8 +42,8 @@ As is true for individual ships, squadrons
 can only undergo one special order per turn
 (including [*Brace For Impact!*](the-rules.md#brace-for-impact), which replaces
 any special order currently in effect). All
-ships in a squadron are affected by [*Brace For
-Impact!*], not merely the ship actually taking
+ships in a squadron are affected by *Brace For
+Impact!*, not merely the ship actually taking
 fire. This includes [capital ship](the-rules.md#capital-ships) squadrons!
 
 ## Squadron Composition
@@ -62,8 +62,8 @@ of three Cobra class destroyers and three
 Firestorm class frigates. In practice, it’s
 generally a good idea to form squadrons
 from ships of the same class because it
-makes manoeuvring and choosing special
-orders easier – but it’s all a matter of taste.
+makes manoeuvring and choosing [special
+orders](the-rules.md#special-orders) easier – but it’s all a matter of taste.
 
 ## Squadron Formation
 
@@ -99,8 +99,8 @@ ship in the squadron. A ship
 which is out of formation
 must be moved back into
 formation as soon as possible,
-and it may not use special
-orders the squadron uses
+and it may not use [special
+orders](the-rules.md#special-orders) the squadron uses
 until it has done so.
 
 ### Manoeuvring Squadrons

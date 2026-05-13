@@ -1,11 +1,23 @@
 article img {
-  display:block;
+  display: block;
   margin: 0 auto 1em auto;
   width: 67%;
 }
 
+.small-image {
+    max-width: 33% !important;
+    float:right;
+    margin: 0 0 0.5em 0.5em;
+}
+
+.smaller-image {
+    max-width: 17% !important;
+    float:right;
+    margin: 0 0 0.5em 0.5em;
+}
+
 .fleet-list {
-    width:100%;
+    width: 100%;
 }
 
 .fleet-list td {
@@ -13,25 +25,21 @@ article img {
 }
 
 .fleet-list tr td:first-child {
-    text-align:left;
+    text-align: left;
 }
 
 .fleet-list tr td:last-child {
-    text-align:right;
-}
-
-@media screen and (min-width: 40em) {
-    #table-of-contents + ul {
-        columns: 2;
-    }
-}
-
-@media screen and (min-width: 60em) {
-    #table-of-contents + ul {
-        columns: 3;
-    }
+    text-align: right;
 }
 
 main div:first-child {
     margin-top: 0;
+}
+
+#home {
+    display:none;
+}
+
+.admonition h2, .admonition h3 {
+    margin-top: 0.5em;
 }

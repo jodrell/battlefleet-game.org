@@ -19,19 +19,21 @@ A Veteran Rogue Trader gets one re-roll, which
 may be used for his vessel or an accompanying
 Rogue Trader escort squadron.
 
-> ### Notes from Nate Montes
-> 
-> Siluria Class Light Cruisers and Havoc
-> Class Frigates are older, outdated ships,
-> and much more commonly seen outside
-> of the Imperial Navy.
-> 
-> If both players agree before the game,
-> these ships can be included in a Rogue
-> Trader fleet, as a cruiser and an escort
-> respectively.
-> 
-> <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+!!! note ""
+
+    ### Notes from Nate Montes
+
+    Siluria Class Light Cruisers and Havoc
+    Class Frigates are older, outdated ships,
+    and much more commonly seen outside
+    of the Imperial Navy.
+
+    If both players agree before the game,
+    these ships can be included in a Rogue
+    Trader fleet, as a cruiser and an escort
+    respectively.
+
+    <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ## Capital Ships
 
@@ -235,20 +237,22 @@ following the basic profile for this ship.
 <tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour class light cruiser</a></td><td>110 pts</td></tr>
 </tbody></table>
 
-> #### Notes from Nate Montes
-> 
-> Siluria Class Light Cruisers and Havoc
-> Class Frigates are older, outdated ships,
-> and much more commonly seen outside
-> of the Imperial Navy.
-> 
-> If both players agree before the game,
-> these ships can be included in a Rogue
-> Trader fleet, as a cruiser and an escort
-> respectively.
-> 
-> <table class=fleet-list><tbody>
-> <tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+!!! note ""
+
+    #### Notes from Nate Montes
+
+    Siluria Class Light Cruisers and Havoc
+    Class Frigates are older, outdated ships,
+    and much more commonly seen outside
+    of the Imperial Navy.
+
+    If both players agree before the game,
+    these ships can be included in a Rogue
+    Trader fleet, as a cruiser and an escort
+    respectively.
+
+    <table class=fleet-list><tbody>
+    <tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ### Escorts
 
@@ -478,19 +482,21 @@ all types don’t count toward this total.*
 <tr><td><a href="../ships/imperial-navy/transport.pdf" target="_new">Cargo Transport</a></td><td>10 pts</td></tr>
 </tbody></table>
 
-> ### Notes from Nate Montes
-> 
-> Siluria Class Light Cruisers and Havoc
-> Class Frigates are older, outdated ships,
-> and much more commonly seen outside
-> of the Imperial Navy.
-> 
-> If both players agree before the game,
-> these ships can be included in a Rogue
-> Trader fleet, as a cruiser and an escort
-> respectively.
-> 
-> <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+!!! note ""
+
+    #### Notes from Nate Montes
+
+    Siluria Class Light Cruisers and Havoc
+    Class Frigates are older, outdated ships,
+    and much more commonly seen outside
+    of the Imperial Navy.
+
+    If both players agree before the game,
+    these ships can be included in a Rogue
+    Trader fleet, as a cruiser and an escort
+    respectively.
+
+    <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ### Xenos Freebooters, Corsairs and Brigands
 
@@ -535,27 +541,29 @@ from the fleet lists of their respective races.
 
 ### Fra’al Battleship
 
-> ### Notes from Nate Montes
-> 
-> If both players agree before the game, the Fra'al Battleship can exchange its Prow [lance](../the-shooting-phase.md#direct-firing-lances)
-> battery for +20 pts for the [Ether Cannon](../fleet-lists/rogue-traders.md#ether-cannon) it had originally in Battlefleet Gothic Magazine #1.
-> 
-> ##### Ether Cannon
-> 
-> The Ether Cannon has 60 cm range, 2 strength and a Front firing arc. When fired, roll 1D6
-> for each point of strength.
-> 
-> A roll less than or equal to the target vessel's [shield](../the-shooting-phase.md#shields) strength causes 1 point of hull [damage](../the-shooting-phase.md#damage);
-> the shields remain intact.
-> 
-> Rolls higher than the target vessel's shield strength causes 1 point of hull damage; the
-> target's shields are also overloaded and knocked down – mark it with the appropriate
-> number of [blast markers](../the-shooting-phase.md#blast-markers).
-> 
-> Against vessels without shield strength, the Ether Cannon needs a 3+ to hit and causes 1
-> point of damage.
-> 
-> Vessels with [holo-fields](../fleet-lists/eldar.md#holofields) or [shadowfields](../fleet-lists/dark-eldar.md#shadowfields) need a 5+ to be hit. No further save for the holo-fields/shadowfields is allowed.
+!!! note ""
+
+    #### Notes from Nate Montes
+
+    If both players agree before the game, the Fra'al Battleship can exchange its Prow [lance](../the-shooting-phase.md#direct-firing-lances)
+    battery for +20 pts for the [Ether Cannon](../fleet-lists/rogue-traders.md#ether-cannon) it had originally in Battlefleet Gothic Magazine #1.
+
+    ##### Ether Cannon
+
+    The Ether Cannon has 60 cm range, 2 strength and a Front firing arc. When fired, roll 1D6
+    for each point of strength.
+
+    A roll less than or equal to the target vessel's [shield](../the-shooting-phase.md#shields) strength causes 1 point of hull [damage](../the-shooting-phase.md#damage);
+    the shields remain intact.
+
+    Rolls higher than the target vessel's shield strength causes 1 point of hull damage; the
+    target's shields are also overloaded and knocked down – mark it with the appropriate
+    number of [blast markers](../the-shooting-phase.md#blast-markers).
+
+    Against vessels without shield strength, the Ether Cannon needs a 3+ to hit and causes 1
+    point of damage.
+
+    Vessels with [holo-fields](../fleet-lists/eldar.md#holofields) or [shadowfields](../fleet-lists/dark-eldar.md#shadowfields) need a 5+ to be hit. No further save for the holo-fields/shadowfields is allowed.
 
 ### Using Stryxis Caravan Vessels
 

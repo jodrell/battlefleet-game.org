@@ -501,24 +501,26 @@ personal command of the Planet Killer in
 many engagements, although he escaped its
 destruction at Kharlos II.
 
-> ### Abaddon as Fleet Commander
-> 
-> Abaddon can be chosen to act as fleet commander in any game in which the Chaos fleet is
-> worth 1,000 points or more. You may not place a Chaos Lord on the same ship as Abaddon
-> (you don’t get to be a Chaos Lord by spending lots of time near a bloody-tempered
-> maniac!). He has the following characteristics:
-> 
-> **Leadership: 10**
-> 
-> Abaddon is an exceptional commander in all respects. His crew and fleet live in mortal
-> terror of arousing his anger and perform at peak efficiency when he is aboard. He is also
-> aided by the prophecies of the Sorcerer Zaraphiston.
-> 
-> **Re-rolls: 1 per turn.**
-> 
-> Abaddon’s awesome reputation and dogged determination ensure there are seldom any
-> failures in the chain of command. When there are, the consequences are likely to be dire.
-> Abaddon’s fleet is allowed to re-roll a single [Command check](../the-rules.md#taking-command-checks) or [Leadership test](../the-rules.md#other-leadership-tests) each turn.
+!!! note ""
+
+    ### Abaddon as Fleet Commander
+
+    Abaddon can be chosen to act as fleet commander in any game in which the Chaos fleet is
+    worth 1,000 points or more. You may not place a Chaos Lord on the same ship as Abaddon
+    (you don’t get to be a Chaos Lord by spending lots of time near a bloody-tempered
+    maniac!). He has the following characteristics:
+
+    **Leadership: 10**
+
+    Abaddon is an exceptional commander in all respects. His crew and fleet live in mortal
+    terror of arousing his anger and perform at peak efficiency when he is aboard. He is also
+    aided by the prophecies of the Sorcerer Zaraphiston.
+
+    **Re-rolls: 1 per turn.**
+
+    Abaddon’s awesome reputation and dogged determination ensure there are seldom any
+    failures in the chain of command. When there are, the consequences are likely to be dire.
+    Abaddon’s fleet is allowed to re-roll a single [Command check](../the-rules.md#taking-command-checks) or [Leadership test](../the-rules.md#other-leadership-tests) each turn.
 
 ### Special Rules
 

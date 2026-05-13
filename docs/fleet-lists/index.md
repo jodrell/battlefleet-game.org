@@ -71,22 +71,24 @@ commanders for more [re-rolls](../the-rules.md#re-rolls) or better
 [leadership](../the-rules.md#leadership). The different options for your Fleet
 Commanders are given in this section of the list.
 
-> #### Fleet Commander Re-rolls
->
-> Fleet Commanders may have a number
-> of Fleet Commander [re-rolls](../the-rules.md#re-rolls) available
-> to them, as indicated in the Fleet
-> Commander section of the fleet list.
-> Each of these re-rolls can only be used
-> once per game and allows you to re-roll
-> a failed [Command check](../the-rules.md#taking-command-checks) or [Leadership
-> test](../the-rules.md#other-leadership-tests) for a ship or squadron in their fleet.
-> Remember that you can only use one reroll at a time, so it is not possible to use
-> several re-rolls on the same Leadership
-> test. If the Fleet Commander's flagship
-> suffers a Bridge Smashed [critical hit](../the-shooting-phase.md#critical-hits), any
-> remaining Fleet Commander re-rolls
-> are lost for the remainder of the battle.
+!!! note ""
+
+    #### Fleet Commander Re-rolls
+
+    Fleet Commanders may have a number
+    of Fleet Commander [re-rolls](../the-rules.md#re-rolls) available
+    to them, as indicated in the Fleet
+    Commander section of the fleet list.
+    Each of these re-rolls can only be used
+    once per game and allows you to re-roll
+    a failed [Command check](../the-rules.md#taking-command-checks) or [Leadership
+    test](../the-rules.md#other-leadership-tests) for a ship or squadron in their fleet.
+    Remember that you can only use one reroll at a time, so it is not possible to use
+    several re-rolls on the same Leadership
+    test. If the Fleet Commander's flagship
+    suffers a Bridge Smashed [critical hit](../the-shooting-phase.md#critical-hits), any
+    remaining Fleet Commander re-rolls
+    are lost for the remainder of the battle.
 
 Just like ship’s captains and crews, Chaos
 Lords, Ork Warlords, etc. can gain experience
@@ -296,33 +298,35 @@ entirely of escorts, chosen from all four of
 the Fleet Lists to give you a mis-match of
 Imperial, Chaos, Eldar and Ork cut-throats.
 
-> ## Breaking the Rules
-> The [rules of Battlefleet Gothic](../the-rules.md), including
-> the [scenarios](../scenarios/index.md) and fleet lists, are there to
-> help players who want to fight battles
-> with immense starships. If you want to
-> change something, write your own rules
-> for guided torpedoes, invent a scenario,
-> etc, then you should feel free to do so
-> (the Games Design thought police won't
-> come knocking on your door!).
-> 
-> The Battlefleet Gothic community still
-> creates lots of new and exciting content.
-> For example, take a look at the Additional
-> Ships Compendium, Book of Nemesis,
-> Books of the Void or Project Distant
-> Darkness that add new ships and fleets.
-> There are also entire homebrew rulesets
-> that change the mechanics of the game
-> itself like <a href="https://files.spawningpool.net/index.php?b=docs%2FVault2.0.-.TTRPG-Gamebooks%2FWarhammer%2F40k%2FBattlefleet+Gothic%2FBFG-XR" target="_new">Battlefleet Gothic XR</a> or
-> <a href="https://rr30k.com/battlefleet-heresy/" target="_new">Battlefleet Heresy</a>.
-> 
-> Or if you have any ideas that you think
-> other people will enjoy playing, why not
-> go to the [Discord server](https://discord.gg/qUW4qMjdxc), the Facebook
-> group, or head over to the Specialist-Arms
-> forum and share them!
+!!! note ""
+
+    ## Breaking the Rules
+    The [rules of Battlefleet Gothic](../the-rules.md), including
+    the [scenarios](../scenarios/index.md) and fleet lists, are there to
+    help players who want to fight battles
+    with immense starships. If you want to
+    change something, write your own rules
+    for guided torpedoes, invent a scenario,
+    etc, then you should feel free to do so
+    (the Games Design thought police won't
+    come knocking on your door!).
+
+    The Battlefleet Gothic community still
+    creates lots of new and exciting content.
+    For example, take a look at the Additional
+    Ships Compendium, Book of Nemesis,
+    Books of the Void or Project Distant
+    Darkness that add new ships and fleets.
+    There are also entire homebrew rulesets
+    that change the mechanics of the game
+    itself like <a href="https://files.spawningpool.net/index.php?b=docs%2FVault2.0.-.TTRPG-Gamebooks%2FWarhammer%2F40k%2FBattlefleet+Gothic%2FBFG-XR" target="_new">Battlefleet Gothic XR</a> or
+    <a href="https://rr30k.com/battlefleet-heresy/" target="_new">Battlefleet Heresy</a>.
+
+    Or if you have any ideas that you think
+    other people will enjoy playing, why not
+    go to the [Discord server](https://discord.gg/qUW4qMjdxc), the Facebook
+    group, or head over to the Specialist-Arms
+    forum and share them!
 
 ## Reserves
 

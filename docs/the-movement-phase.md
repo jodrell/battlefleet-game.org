@@ -90,48 +90,49 @@ half their speed (due to
 must move the maximum
 possible distance instead.
 
-> #### Special Order: *All Ahead Full*
-> 
-> A ship can move faster
-> than its basic cruising
-> speed by using the
-> [*All Ahead Full*](the-rules.md#all-ahead-full) special
-> order. Using * orders means that
-> a ship cannot [turn](the-movement-phase.md#turning) and
-> its firing ability is less
-> effective, as explained
-> in the [Shooting rules](the-shooting-phase.md).
-> [*All Ahead Full*](the-rules.md#all-ahead-full) orders
-> are most useful for
-> closing in on a distant
-> foe or escaping from
-> a deadly situation.
-> See [pg. 46](the-rules.md#all-ahead-full) for all effects.
+<a name="special-order-all-ahead-full"></a>
+!!! note "Special Order: *All Ahead Full*"
 
-<br>
+    A ship can move faster
+    than its basic cruising
+    speed by using the
+    [*All Ahead Full*](the-rules.md#all-ahead-full) special
+    order. Using * orders means that
+    a ship cannot [turn](the-movement-phase.md#turning) and
+    its firing ability is less
+    effective, as explained
+    in the [Shooting rules](the-shooting-phase.md).
+    [*All Ahead Full*](the-rules.md#all-ahead-full) orders
+    are most useful for
+    closing in on a distant
+    foe or escaping from
+    a deadly situation.
+    See [pg. 46](the-rules.md#all-ahead-full) for all effects.
 
-> #### Special Order: *Burn Retros*
-> 
-> A ship can move
-> slower than half its
-> basic cruising speed by
-> using the [*Burn Retros*](the-rules.md#burn-retros)
-> special order, or even
-> remain stationary
-> (hold station). A ship
-> can make a single [turn](the-movement-phase.md#turning)
-> without having to move
-> forward first but its
-> firing is less effective.
-> [*Burn Retros*](the-rules.md#burn-retros) orders
-> are handy for holding
-> back, when moving at
-> full speed would bring
-> you within range of
-> an enemy’s guns, or
-> would cause a ship to
-> crash into asteroids.
-> See [pg. 46](the-rules.md#burn-retros) for all effects.
+<a name="special-order-burn-retros"></a>
+
+!!! note "Special Order: *Burn Retros*"
+
+    A ship can move
+    slower than half its
+    basic cruising speed by
+    using the [*Burn Retros*](the-rules.md#burn-retros)
+    special order, or even
+    remain stationary
+    (hold station). A ship
+    can make a single [turn](the-movement-phase.md#turning)
+    without having to move
+    forward first but its
+    firing is less effective.
+    [*Burn Retros*](the-rules.md#burn-retros) orders
+    are handy for holding
+    back, when moving at
+    full speed would bring
+    you within range of
+    an enemy’s guns, or
+    would cause a ship to
+    crash into asteroids.
+    See [pg. 46](the-rules.md#burn-retros) for all effects.
 
 ## Turning
 
@@ -188,30 +189,30 @@ point in its move.
 ![Basic Turning 2](assets/image--135.png)
 ![Basic Turning 3](assets/image--136.png)
 
-> #### Special Order: *Come To New Heading*
-> 
-> A ship can turn more
-> sharply by using the
-> [*Come To New Heading*](the-rules.md#come-to-new-heading)
-> special order. It may
-> make an extra turn
-> during its movement.
-> Using *Come To New
-> Heading* means that
-> a ship is less effective
-> in the Shooting Phase
-> as explained in the
-> [Shooting rules](the-shooting-phase.md). *Come
-> To New Heading* orders
-> are best used either
-> for turning to get a
-> more favourable attack
-> angle on an enemy as
-> it attempts to escape,
-> or to outmanoeuvre
-> a larger enemy ship.
-> See [pg. 46](the-rules.md#come-to-new-heading) for all effects.
-<br>
+<a name="special-order-come-to-new-heading"></a>
+!!! note "Special Order: *Come To New Heading*"
+
+    A ship can turn more
+    sharply by using the
+    [*Come To New Heading*](the-rules.md#come-to-new-heading)
+    special order. It may
+    make an extra turn
+    during its movement.
+    Using *Come To New
+    Heading* means that
+    a ship is less effective
+    in the Shooting Phase
+    as explained in the
+    [Shooting rules](the-shooting-phase.md). *Come
+    To New Heading* orders
+    are best used either
+    for turning to get a
+    more favourable attack
+    angle on an enemy as
+    it attempts to escape,
+    or to outmanoeuvre
+    a larger enemy ship.
+    See [pg. 46](the-rules.md#come-to-new-heading) for all effects.
 
 ## All Ahead Full – Ramming Speed!
 
@@ -333,17 +334,19 @@ their full number of starting damage capacity
 to damage the ramming ship as if prow-on, as
 defences are more solidly built than ships are.
 
-> #### Ramming Summary
-> Ramming ship: Roll a number of
-> D6 equal to its starting damage.
->
-> Rammed ship hit from the side or
-> rear: Roll a number of D6 equal
-> to half its starting damage.
->
-> Rammed ship hit from the front
-> or Defence: Roll a number of D6
-> equal to its starting damage.
+!!! note ""
+
+    #### Ramming Summary
+    Ramming ship: Roll a number of
+    D6 equal to its starting damage.
+    
+    Rammed ship hit from the side or
+    rear: Roll a number of D6 equal
+    to half its starting damage.
+    
+    Rammed ship hit from the front
+    or Defence: Roll a number of D6
+    equal to its starting damage.
 
 ## Disengaging from Combat
 

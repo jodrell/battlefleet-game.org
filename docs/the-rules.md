@@ -222,7 +222,7 @@ regardless of the source of the re-roll.
 
 ## The Bearing Compass
 
-![The Bearing Compass](assets/image--092.png)
+![The Bearing Compass](assets/image--092.png){ class=small-image }
 
 A vital instrument in
 the game is the bearing
@@ -647,7 +647,7 @@ rolling leadership, then moving it.
 
 ### All Ahead Full
 
-![](assets/image--110.png)
+![](assets/image--110.png){ class=smaller-image }
 
 A ship going All Ahead
 Full directs more power
@@ -669,7 +669,7 @@ one roll for the whole squadron).
 
 ### Come to New Heading
 
-![](assets/image--111.png)
+![](assets/image--111.png){ class=smaller-image }
 
 The ship sacrifices
 opportunities to fire
@@ -692,7 +692,7 @@ least 10 cm more before turning again.
 
 ### Burn Retros
 
-![](assets/image--112.png)
+![](assets/image--112.png){ class=smaller-image }
 
 The ship directs additional
 energy to its retro thrusters
@@ -713,7 +713,7 @@ and hold position.
 
 ### Lock On
 
-![](assets/image--113.png)
+![](assets/image--113.png){ class=smaller-image }
 
 The ship maintains a
 steady course and draws
@@ -734,7 +734,7 @@ batteries](the-shooting-phase.md#direct-firing-weapons-batteries) during the [Sh
 
 ### Reload Ordnance
 
-![](assets/image--114.png)
+![](assets/image--114.png){ class=smaller-image }
 
 Ships start the game with
 their [ordnance](the-ordnance-phase.md), such as
@@ -756,7 +756,7 @@ reload before it can use its ordnance again.
 
 ### Brace For Impact!
 
-![](assets/image--117.png)
+![](assets/image--117.png){ class=smaller-image }
 
 The captain of the vessel
 orders his crew to brace for
@@ -840,7 +840,7 @@ for any further special orders to be issued.
 
 When rolling special orders, a decision to
 use free command checks (such as with an
-Elite Command Crew or when Orks use [*All
+Elite Command Crew or when [Orks](fleet-lists/orks.md) use [*All
 Ahead Full*](#all-ahead-full) special orders) must be taken
 before a special order is failed. Once special
 orders are failed, no more special orders
@@ -885,11 +885,11 @@ and react quickly. For this reason the ship
 gains a +1 modifier to its [Leadership](#leadership) value
 if any enemy ships are on special orders.
 
-*For example, the Imperial cruiser Agrippa
+*For example, the Imperial cruiser *Agrippa*
 ([Leadership](#leadership) 7) wants to use [*All Ahead Full*](#all-ahead-full)
 orders to catch up with the Chaos cruiser
 Unclean. The Chaos cruiser used [*Lock On*](#lock-on)
-orders last turn so the Agrippa gets a +1
+orders last turn so the *Agrippa* gets a +1
 modifier to its Leadership value. Rolling
 2D6 the Imperial player gets a 2 and 6 for a
 total of 8 and passes its Command check by

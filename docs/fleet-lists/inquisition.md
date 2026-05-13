@@ -367,8 +367,7 @@ affect the leadership of this vessel, Marks of
 Khorne do not double boarding values against
 this ship, etc. Rules for [Chaos Space Marines](chaos.md#chaos-space-marine-crews)
 still apply normally, and any other special
-rules and effects such as the Forces of Chaos
-<!--listed on p.158 [???] of the Rulebook --> remain
+rules and effects such as the [Forces of Chaos](chaos.md#forces-of-chaos-other-appeals) <!--listed on p.158 [???] of the Rulebook --> remain
 unaffected.
 
 An Ordo Malleus Inquisitor will only

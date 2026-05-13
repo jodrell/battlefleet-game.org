@@ -129,22 +129,24 @@ any [special order](../the-rules.md#special-orders) on any ship or defence
 equipped with them, including [*Brace For
 Impact*](../the-rules.md#brace-for-impact).
 
-> ### A Note on Tau Weapon Configurations
-> 
-> Tau rail gun and lance batteries are
-> extremely sophisticated with advanced
-> targeting systems that allow several
-> individual weapons to engage each
-> designated target regardless of their
-> relative positions on the Tau ship.
-> Where individual turrets and batteries
-> may be relatively weak, combining
-> firezones in this manner make Tau
-> railguns and ion cannons fearsome
-> prospects, especially in forward firing
-> arc, where turrets from all over the
-> vessel can combine against a single
-> enemy vessel or squadron.
+!!! note ""
+
+    ### A Note on Tau Weapon Configurations
+
+    Tau rail gun and lance batteries are
+    extremely sophisticated with advanced
+    targeting systems that allow several
+    individual weapons to engage each
+    designated target regardless of their
+    relative positions on the Tau ship.
+    Where individual turrets and batteries
+    may be relatively weak, combining
+    firezones in this manner make Tau
+    railguns and ion cannons fearsome
+    prospects, especially in forward firing
+    arc, where turrets from all over the
+    vessel can combine against a single
+    enemy vessel or squadron.
 
 ## Ordnance
 

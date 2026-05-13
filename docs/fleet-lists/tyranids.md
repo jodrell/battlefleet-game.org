@@ -479,36 +479,38 @@ encourage hive ships and cruisers to attempt
 disengagement, boarding actions or ramming
 when crippled.*
 
-> ### Tyranid Ship Types
-> 
-> Tyranid ships are much more flexible
-> than the ships of other races, as new
-> designs are constantly being evolved
-> and encountered by the Imperium.
-> To represent this, rather than picking
-> a fleet from a selection of pre-set
-> ship classes, a Tyranid player can
-> design certain elements of their ships
-> themselves. The ships are broken down
-> into several categories, based upon
-> their size and role. This gives the ship
-> its basic statistics. It may also be given
-> some ‘fixed’ weapons (including the
-> number of spores it can launch). The
-> rest of the entry details the various
-> weapon options available, which can be
-> purchased at the appropriate points cost
-> as shown in the fleet list.
-> 
-> Each ship is limited as to how many
-> weapon choices it may have on a given
-> location, but where more than one
-> weapon is permitted you may select
-> multiples of the same weapon (e.g. a
-> Tyranid hive ship which can have up
-> to three port/starboard weapons could
-> pick three sets of launch bays if you
-> wish).
+!!! note ""
+
+    ### Tyranid Ship Types
+
+    Tyranid ships are much more flexible
+    than the ships of other races, as new
+    designs are constantly being evolved
+    and encountered by the Imperium.
+    To represent this, rather than picking
+    a fleet from a selection of pre-set
+    ship classes, a Tyranid player can
+    design certain elements of their ships
+    themselves. The ships are broken down
+    into several categories, based upon
+    their size and role. This gives the ship
+    its basic statistics. It may also be given
+    some ‘fixed’ weapons (including the
+    number of spores it can launch). The
+    rest of the entry details the various
+    weapon options available, which can be
+    purchased at the appropriate points cost
+    as shown in the fleet list.
+
+    Each ship is limited as to how many
+    weapon choices it may have on a given
+    location, but where more than one
+    weapon is permitted you may select
+    multiples of the same weapon (e.g. a
+    Tyranid hive ship which can have up
+    to three port/starboard weapons could
+    pick three sets of launch bays if you
+    wish).
 
 ## Critical Hits & Catastrophic Damage
 

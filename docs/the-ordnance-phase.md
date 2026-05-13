@@ -51,69 +51,71 @@ orders](the-rules.md#special-orders) it takes. Keep in mind that being
 [crippled](the-shooting-phase.md#crippled-ships) and/or [braced](the-rules.md#brace-for-impact) still affect torpedo
 launchers and attack craft bays normally.
 
-> #### Fleet Ordnance Limits
->
-> No more [attack craft](the-ordnance-phase.md#attack-craft) markers can
-> be put in play than the number of
-> available launch bays, even if it has
-> successfully [reloaded](the-rules.md#reload-ordnance). Any model or
-> fleet described as not able to run out
-> of ordnance (such as [Ork](fleet-lists/orks.md) Space Hulks,
-> the [Tyranid](fleet-lists/tyranids.md) fleet, etc.) may launch
-> up to twice this number and provide
-> double their number of launch bays
-> to the total amount of markers the
-> fleet may have in play. This total limit
-> applies to the fleet as a whole and not
-> to individual ships in the fleet. Any
-> individual carrier may launch [attack
-> craft](#attack-craft) if they have successfully reloaded
-> (even a partial amount) as long as
-> the total amount of attack craft in
-> play does not exceed the number of
-> available launch bays. This total must
-> take into account reductions caused by
-> ships being [crippled](the-shooting-phase.md#crippled-ships) or lost in battle.
-> 
-> If more [attack craft](the-ordnance-phase.md#attack-craft) remain in play
-> than there are available launch bays,
-> the owning player may not launch
-> any ordnance that turn. However,
-> ordnance in play may be “recalled” by
-> immediately removing it from play
-> in order to launch new markers from
-> the ship’s stem, if it has successfully
-> [reloaded ordnance](the-rules.md#reload-ordnance). Attack craft recalled
-> in this manner must be removed
-> immediately and not expended on other
-> targets, including enemy ordnance.
-> This prevents a carrier from attacking a
-> target to expend its attack craft in play
-> and then launching a new attack craft
-> wave in a single turn. This rule does
-> not apply to [torpedoes](the-ordnance-phase.md#torpedoes), which do not
-> run out and do not have launch limits.
+!!! note ""
 
-<br>
+    #### Fleet Ordnance Limits
 
-> #### Special Order: *Reload Ordnance*
-> 
-> Ordnance needs to be loaded and
-> armed in order to be launched. Ships
-> are considered to start the game
-> with [torpedoes](the-ordnance-phase.md#torpedoes) in tubes and [attack
-> craft](#attack-craft) fuelled and ready to go.
-> 
-> However, once the ship has launched
-> its ordnance it must use the [*Reload
-> Ordnance*](the-rules.md#reload-ordnance) special order before it
-> can launch ordnance again. If the
-> ordnance is successfully reloaded
-> and it may launch ordnance in the
-> [Shooting Phase](the-shooting-phase.md), or keep the ordnance
-> ready for launch in a later turn. Use
-> the fleet roster to keep track of which
-> vessels have ordnance loaded.
+    No more [attack craft](the-ordnance-phase.md#attack-craft) markers can
+    be put in play than the number of
+    available launch bays, even if it has
+    successfully [reloaded](the-rules.md#reload-ordnance). Any model or
+    fleet described as not able to run out
+    of ordnance (such as [Ork](fleet-lists/orks.md) Space Hulks,
+    the [Tyranid](fleet-lists/tyranids.md) fleet, etc.) may launch
+    up to twice this number and provide
+    double their number of launch bays
+    to the total amount of markers the
+    fleet may have in play. This total limit
+    applies to the fleet as a whole and not
+    to individual ships in the fleet. Any
+    individual carrier may launch [attack
+    craft](#attack-craft) if they have successfully reloaded
+    (even a partial amount) as long as
+    the total amount of attack craft in
+    play does not exceed the number of
+    available launch bays. This total must
+    take into account reductions caused by
+    ships being [crippled](the-shooting-phase.md#crippled-ships) or lost in battle.
+
+    If more [attack craft](the-ordnance-phase.md#attack-craft) remain in play
+    than there are available launch bays,
+    the owning player may not launch
+    any ordnance that turn. However,
+    ordnance in play may be “recalled” by
+    immediately removing it from play
+    in order to launch new markers from
+    the ship’s stem, if it has successfully
+    [reloaded ordnance](the-rules.md#reload-ordnance). Attack craft recalled
+    in this manner must be removed
+    immediately and not expended on other
+    targets, including enemy ordnance.
+    This prevents a carrier from attacking a
+    target to expend its attack craft in play
+    and then launching a new attack craft
+    wave in a single turn. This rule does
+    not apply to [torpedoes](the-ordnance-phase.md#torpedoes), which do not
+    run out and do not have launch limits.
+
+!!! note ""
+
+    #### Special Order: *Reload Ordnance*
+
+    Ordnance needs to be loaded and
+    armed in order to be launched. Ships
+    are considered to start the game
+    with [torpedoes](the-ordnance-phase.md#torpedoes) in tubes and [attack
+    craft](#attack-craft) fuelled and ready to go.
+
+    However, once the ship has launched
+    its ordnance it must use the [*Reload
+    Ordnance*](the-rules.md#reload-ordnance) special order before it
+    can launch ordnance again. If the
+    ordnance is successfully reloaded
+    and it may launch ordnance in the
+    [Shooting Phase](the-shooting-phase.md), or keep the ordnance
+    ready for launch in a later turn. Use
+    the fleet roster to keep track of which
+    vessels have ordnance loaded.
 
 ## Moving Ordnance
 
@@ -577,32 +579,34 @@ wave that attacks it in an Ordnance Phase. Note that turrets can be used
 to defend against torpedoes or attack craft but not both in the same phase.
 This makes it possible to overwhelm a target with combined attacks.
 
-> #### Massing turrets
-> 
-> Ships in base contact may mass [turrets](the-ordnance-phase.md#turrets) together, each increasing the turret strength
-> of a ship under attack by 1. Regardless of how many ships are in base contact
-> with each other, no single ship can mass turrets with more than three others,
-> providing a maximum of +3 dice when rolling turrets. The ships that mass turrets
-> with a ship under attack take on the same ordnance restrictions as the ship under
-> attack, such as using turrets to defend against either [attack craft](the-ordnance-phase.md#attack-craft) or [torpedoes](the-ordnance-phase.md#torpedoes)
-> (not both) in a given Ordnance Phase. Only the ship actually being attacked can
-> apply its own turret value as a negative modifier to [bomber](the-ordnance-phase.md#bombers) attack dice rolls.
-> Ships that are braced can mass turrets and have turrets from other
-> ships massed to defend it. Ships that are [crippled](the-shooting-phase.md#crippled-ships) cannot mass turrets
-> but can have turrets from other ships massed to defend it.
-> 
-> A ship with 0 turret strength (such as [Eldar](fleet-lists/eldar.md) or [hulked vessels](the-shooting-phase.md#catastrophic-damage)) cannot offer
-> a bonus to massed turrets, but may itself benefit from massed turrets from
-> a ship with turret strength 1 or more. This applies both to ships desiring
-> to defend a friendly hulk or a fleet defending an allied Eldar vessel.
-> 
-> No more than one ship can be moved at a time for any reason; ships will only be
-> able to benefit from massed turrets after or before the [Movement Phase](the-movement-phase.md) is complete
-> but not during. This does not affect how and in what order ships escorted by [CAP](the-ordnance-phase.md#combat-air-patrol-cap)
-> are moved. An extremely unusual circumstance may occur where a ship extremely
-> near to but not actually touching an enemy ordnance marker has a friendly
-> ship move in base contact with it while it simultaneously contacts the ordnance
-> marker. In this and ONLY this case can it then mass turrets while moving!
+!!! note ""
+
+    #### Massing turrets
+
+    Ships in base contact may mass [turrets](the-ordnance-phase.md#turrets) together, each increasing the turret strength
+    of a ship under attack by 1. Regardless of how many ships are in base contact
+    with each other, no single ship can mass turrets with more than three others,
+    providing a maximum of +3 dice when rolling turrets. The ships that mass turrets
+    with a ship under attack take on the same ordnance restrictions as the ship under
+    attack, such as using turrets to defend against either [attack craft](the-ordnance-phase.md#attack-craft) or [torpedoes](the-ordnance-phase.md#torpedoes)
+    (not both) in a given Ordnance Phase. Only the ship actually being attacked can
+    apply its own turret value as a negative modifier to [bomber](the-ordnance-phase.md#bombers) attack dice rolls.
+    Ships that are braced can mass turrets and have turrets from other
+    ships massed to defend it. Ships that are [crippled](the-shooting-phase.md#crippled-ships) cannot mass turrets
+    but can have turrets from other ships massed to defend it.
+
+    A ship with 0 turret strength (such as [Eldar](fleet-lists/eldar.md) or [hulked vessels](the-shooting-phase.md#catastrophic-damage)) cannot offer
+    a bonus to massed turrets, but may itself benefit from massed turrets from
+    a ship with turret strength 1 or more. This applies both to ships desiring
+    to defend a friendly hulk or a fleet defending an allied Eldar vessel.
+
+    No more than one ship can be moved at a time for any reason; ships will only be
+    able to benefit from massed turrets after or before the [Movement Phase](the-movement-phase.md) is complete
+    but not during. This does not affect how and in what order ships escorted by [CAP](the-ordnance-phase.md#combat-air-patrol-cap)
+    are moved. An extremely unusual circumstance may occur where a ship extremely
+    near to but not actually touching an enemy ordnance marker has a friendly
+    ship move in base contact with it while it simultaneously contacts the ordnance
+    marker. In this and ONLY this case can it then mass turrets while moving!
 
 ### Fighters
 
@@ -787,26 +791,28 @@ have to move any more to do so. For example,
 two Mantas attack an Ork Terror Ship with a
 fighta-bomma in base contact serving as CAP.
 
-> #### Turret Suppression
->
-> Each [fighter](the-ordnance-phase.md#fighters) in a wave of [bombers](the-ordnance-phase.md#bombers)
-> actually attacking a ship will add
-> +1 attack to the total attack run of
-> the wave, regardless of whether they
-> are shot down by [turrets](the-ordnance-phase.md#turrets) or not. The
-> maximum number of bonus attacks
-> that can be added in this way cannot
-> exceed the number of surviving
-> bombers in the wave. There must
-> be at least one surviving bomber
-> in the wave after turret fire to gain
-> these bonus attacks, and fighters are
-> removed before any other type of
-> ordnance. Fighters that never made
-> it because they were intercepted by
-> defending fighters (even those on
-> CAP) don’t add to this suppression
-> bonus. See the following examples:
+!!! note ""
+
+    #### Turret Suppression
+
+    Each [fighter](the-ordnance-phase.md#fighters) in a wave of [bombers](the-ordnance-phase.md#bombers)
+    actually attacking a ship will add
+    +1 attack to the total attack run of
+    the wave, regardless of whether they
+    are shot down by [turrets](the-ordnance-phase.md#turrets) or not. The
+    maximum number of bonus attacks
+    that can be added in this way cannot
+    exceed the number of surviving
+    bombers in the wave. There must
+    be at least one surviving bomber
+    in the wave after turret fire to gain
+    these bonus attacks, and fighters are
+    removed before any other type of
+    ordnance. Fighters that never made
+    it because they were intercepted by
+    defending fighters (even those on
+    CAP) don’t add to this suppression
+    bonus. See the following examples:
 
 *An Emperor battleship (foolishly) launches a
 single wave of three [bombers](the-ordnance-phase.md#bombers) and five [fighters](the-ordnance-phase.md#fighters)

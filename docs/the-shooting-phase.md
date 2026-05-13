@@ -577,35 +577,37 @@ targets but must still make
 a [leadership check](the-rules.md#other-leadership-tests) to fire on
 any target besides the closest.
 
-> #### Special Order: [*Lock On*](the-rules.md#lock-on)
-> 
-> A ship can increase
-> the accuracy of its
-> firing by using the
-> [*Lock On*](the-rules.md#lock-on) special order.
-> The ship may [re-roll](the-rules.md#re-rolls)
-> any dice to hit for
-> [lances](the-shooting-phase.md#direct-firing-lances) and [weapons
-> batteries](#direct-firing-weapons-batteries), during the
-> [Shooting Phase](the-shooting-phase.md). Any
-> dice which missed
-> are simply picked up
-> and rolled again. A
-> ship using [*Lock On*](the-rules.md#lock-on)
-> orders may not turn
-> during its [Movement
-> Phase](the-movement-phase.md) because it must
-> maintain a steady
-> course and direct
-> additional power to its
-> weapon systems. *Lock
-> On* orders are really
-> useful when an enemy
-> vessel is within range
-> and no course changes
-> will be needed to bring
-> weapons to bear.
-> See [pg. 46](the-rules.md#lock-on) for all effects.
+!!! note ""
+
+    #### Special Order: [*Lock On*](the-rules.md#lock-on)
+
+    A ship can increase
+    the accuracy of its
+    firing by using the
+    [*Lock On*](the-rules.md#lock-on) special order.
+    The ship may [re-roll](the-rules.md#re-rolls)
+    any dice to hit for
+    [lances](the-shooting-phase.md#direct-firing-lances) and [weapons
+    batteries](#direct-firing-weapons-batteries), during the
+    [Shooting Phase](the-shooting-phase.md). Any
+    dice which missed
+    are simply picked up
+    and rolled again. A
+    ship using [*Lock On*](the-rules.md#lock-on)
+    orders may not turn
+    during its [Movement
+    Phase](the-movement-phase.md) because it must
+    maintain a steady
+    course and direct
+    additional power to its
+    weapon systems. *Lock
+    On* orders are really
+    useful when an enemy
+    vessel is within range
+    and no course changes
+    will be needed to bring
+    weapons to bear.
+    See [pg. 46](the-rules.md#lock-on) for all effects.
 
 ### Nova Cannon
 
@@ -808,26 +810,28 @@ normally for the save. Being
 [braced](the-rules.md#brace-for-impact) saves against any
 damage taken normally.
 
-> #### Special Order: [*All Ahead Full*](the-rules.md#all-ahead-full) / [*Burn Retros*](the-rules.md#burn-retros) / [*Come To New Heading*](the-rules.md#come-to-new-heading)
-> 
-> A ship using [*All Ahead
-> Full*](the-rules.md#all-ahead-full), [*Burn Retros*](the-rules.md#burn-retros) or
-> [*Come To New Heading*](the-rules.md#come-to-new-heading)
-> special orders sacrifices
-> firing opportunities
-> in order to squeeze
-> more performance
-> out of its engines. In
-> the Shooting Phase,
-> ships on these orders
-> halve their weapons
-> batteries’ Firepower
-> and [lance](the-shooting-phase.md#direct-firing-lances) Strength,
-> rounding up. Nova
-> cannon may not be
-> fired at all. [Ordnance](the-ordnance-phase.md)
-> is unaffected.
-> See [pg. 46](the-rules.md#special-orders) for all effects
+!!! note ""
+
+    #### Special Order: [*All Ahead Full*](the-rules.md#all-ahead-full) / [*Burn Retros*](the-rules.md#burn-retros) / [*Come To New Heading*](the-rules.md#come-to-new-heading)
+
+    A ship using [*All Ahead
+    Full*](the-rules.md#all-ahead-full), [*Burn Retros*](the-rules.md#burn-retros) or
+    [*Come To New Heading*](the-rules.md#come-to-new-heading)
+    special orders sacrifices
+    firing opportunities
+    in order to squeeze
+    more performance
+    out of its engines. In
+    the Shooting Phase,
+    ships on these orders
+    halve their weapons
+    batteries’ Firepower
+    and [lance](the-shooting-phase.md#direct-firing-lances) Strength,
+    rounding up. Nova
+    cannon may not be
+    fired at all. [Ordnance](the-ordnance-phase.md)
+    is unaffected.
+    See [pg. 46](the-rules.md#special-orders) for all effects
 
 ## Damage
 
@@ -890,42 +894,44 @@ Lunar class cruiser has
 crippled when it has suffered
 4 points of damage.*
 
-> #### Special Order: [*Brace For Impact!*](the-rules.md#brace-for-impact)
-> 
-> [*Brace For Impact!*](the-rules.md#brace-for-impact) special orders can be undertaken ANY time a ship faces taking
-> damage before the actual to-hit result is rolled, including when [ramming](the-movement-phase.md#all-ahead-full-ramming-speed) or being
-> rammed or against damage from [asteroid fields](the-battlefield.md#asteroid-fields). It may also be used to protect
-> against [critical damage](the-shooting-phase.md#critical-hits) from any kind of [Hit-and-Run attack](the-end-phase.md#hit-and-run-attacks). A decision to brace
-> for impact must be made before any attempt to shoot (rolling dice) by the opponent
-> is made, including modifier rolls for variable weapons such as Ork Gunz. When
-> being attacked by [ordnance](the-ordnance-phase.md), the decision must be made before rolling [turrets](the-ordnance-phase.md#turrets).
-> 
-> [*Brace For Impact!*](the-rules.md#brace-for-impact) DOES NOT protect against [critical damage](the-shooting-phase.md#critical-hits) caused
-> by hits that were not saved against normally, nor any damage caused
-> during a [boarding action](the-end-phase.md#boarding-actions) (including critical damage).
-> 
-> A ship is placed on [*Brace For Impact!*](the-rules.md#brace-for-impact) orders until the end of its next turn,
-> replacing any other [special order](the-rules.md#special-orders) it may be on currently. However, the special
-> order previously in effect remains so, in that ships that [reloaded ordnance](the-rules.md#reload-ordnance) are
-> still reloaded, a ship or [squadron](squadrons.md) moving [*All Ahead Full*](the-rules.md#all-ahead-full) must continue to do so,
-> etc. Ships and squadrons still cannot take special orders in the next turn.
-> 
-> A ship using [*Brace For Impact!*](the-rules.md#brace-for-impact) orders gains a saving throw of 4+
-> on a D6 against actual damage taken by the ship itself, NOT hits
-> absorbed by [shields](the-shooting-phase.md#shields), reactive armour, [holofields](fleet-lists/eldar.md#holofields), etc.
-> 
-> A ship which uses this special order may not use special orders at all in its next turn
-> and its Firepower, [ordnance](the-ordnance-phase.md) (this effect is cumulative if a capital ship is crippled) and
-> armament Strength is halved, while [Nova Cannons](the-shooting-phase.md#nova-cannon) may not be fired at all. [Turrets](the-ordnance-phase.md#turrets) and
-> [shields](the-shooting-phase.md#shields) are unaffected. [*Brace For Impact!*](the-rules.md#brace-for-impact) only comes into effect against attacks whose Hit
-> rolls are made after the special order has been declared. In other words, you cannot wait
-> to see how accurate a salvo or Nova Cannon shot is before declaring [*Brace For Impact!*](the-rules.md#brace-for-impact)
-> 
-> A ship that fails an attempt to [*Brace For Impact!*](the-rules.md#brace-for-impact) cannot attempt to brace again
-> until the ship, [squadron](squadrons.md), [ordnance](the-ordnance-phase.md) wave or other event causing damage to it
-> completes its attacks, finishes causing damage, resolves its effects, etc. It can
-> however again attempt to brace before the next ship, squadron or ordnance
-> wave attacks it, it faces another potentially damaging event, etc.
+!!! note ""
+
+    #### Special Order: [*Brace For Impact!*](the-rules.md#brace-for-impact)
+
+    [*Brace For Impact!*](the-rules.md#brace-for-impact) special orders can be undertaken ANY time a ship faces taking
+    damage before the actual to-hit result is rolled, including when [ramming](the-movement-phase.md#all-ahead-full-ramming-speed) or being
+    rammed or against damage from [asteroid fields](the-battlefield.md#asteroid-fields). It may also be used to protect
+    against [critical damage](the-shooting-phase.md#critical-hits) from any kind of [Hit-and-Run attack](the-end-phase.md#hit-and-run-attacks). A decision to brace
+    for impact must be made before any attempt to shoot (rolling dice) by the opponent
+    is made, including modifier rolls for variable weapons such as Ork Gunz. When
+    being attacked by [ordnance](the-ordnance-phase.md), the decision must be made before rolling [turrets](the-ordnance-phase.md#turrets).
+
+    [*Brace For Impact!*](the-rules.md#brace-for-impact) DOES NOT protect against [critical damage](the-shooting-phase.md#critical-hits) caused
+    by hits that were not saved against normally, nor any damage caused
+    during a [boarding action](the-end-phase.md#boarding-actions) (including critical damage).
+
+    A ship is placed on [*Brace For Impact!*](the-rules.md#brace-for-impact) orders until the end of its next turn,
+    replacing any other [special order](the-rules.md#special-orders) it may be on currently. However, the special
+    order previously in effect remains so, in that ships that [reloaded ordnance](the-rules.md#reload-ordnance) are
+    still reloaded, a ship or [squadron](squadrons.md) moving [*All Ahead Full*](the-rules.md#all-ahead-full) must continue to do so,
+    etc. Ships and squadrons still cannot take special orders in the next turn.
+
+    A ship using [*Brace For Impact!*](the-rules.md#brace-for-impact) orders gains a saving throw of 4+
+    on a D6 against actual damage taken by the ship itself, NOT hits
+    absorbed by [shields](the-shooting-phase.md#shields), reactive armour, [holofields](fleet-lists/eldar.md#holofields), etc.
+
+    A ship which uses this special order may not use special orders at all in its next turn
+    and its Firepower, [ordnance](the-ordnance-phase.md) (this effect is cumulative if a capital ship is crippled) and
+    armament Strength is halved, while [Nova Cannons](the-shooting-phase.md#nova-cannon) may not be fired at all. [Turrets](the-ordnance-phase.md#turrets) and
+    [shields](the-shooting-phase.md#shields) are unaffected. [*Brace For Impact!*](the-rules.md#brace-for-impact) only comes into effect against attacks whose Hit
+    rolls are made after the special order has been declared. In other words, you cannot wait
+    to see how accurate a salvo or Nova Cannon shot is before declaring [*Brace For Impact!*](the-rules.md#brace-for-impact)
+
+    A ship that fails an attempt to [*Brace For Impact!*](the-rules.md#brace-for-impact) cannot attempt to brace again
+    until the ship, [squadron](squadrons.md), [ordnance](the-ordnance-phase.md) wave or other event causing damage to it
+    completes its attacks, finishes causing damage, resolves its effects, etc. It can
+    however again attempt to brace before the next ship, squadron or ordnance
+    wave attacks it, it faces another potentially damaging event, etc.
 
 ### Critical Hits
 

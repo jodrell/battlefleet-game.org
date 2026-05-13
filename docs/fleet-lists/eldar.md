@@ -1092,45 +1092,45 @@ escort squadron within 15 cm.*
 <tr><td>0-3 Farseers</td><td>+30 pts</td></tr>
 </tbody></table>
 
-
-> ### Prince Yriel, Bearer of the Flame, Autarch of Iyanden
-> 
-> Before becoming one of the most feared
-> corsairs in all of the Imperium, he
-> was the Autarch of Iyanden, supreme
-> commander of its war host and battle
-> fleet. Unlike an Exarch, an Autarch
-> is one that has the ability to step away
-> from the Path of the Warrior, seek
-> out other disciplines and assume a
-> leadership role. Despite his considerable
-> martial prowess and tactical acumen, it
-> was along the Path of the Mariner that
-> he found his true calling.
-> 
-> <table class=fleet-list><tbody><tr><td><strong>Prince Yriel</strong></td><td><strong>150 pts</strong></td></tr></tbody></table>
-> 
-> Prince Yriel has at his disposal the
-> very finest weaponry and resources
-> available to the Iyanden Eldar. Treat
-> this character as an Eldar Hero with the
-> following additions as part of his point
-> cost: he is accompanied by the fiercest
-> members of Yriel’s own pirate warband,
-> which count as an [Aspect Warrior host](#aspect-warrior-hosts).
-> His vessel is equipped with Vampire
-> raiders. He has one re-roll as part of his
-> point cost, but a second or third re-roll
-> can be purchased at +25 points each.
-> 
-> Prince Yriel must be embarked on a
-> Dragonship equipped with launch bays,
-> even if he is leading a Corsair fleet. A
-> fleet led by him has an [attack rating](../scenarios/index.md#using-an-attack-rating) of
-> 4, even if it includes Craftworld vessels.
-> He must be embarked aboard the Flame
-> of Asuryan if it is present, in which case
-> his cost is 125 points.
+!!! note ""
+    ### Prince Yriel, Bearer of the Flame, Autarch of Iyanden
+    
+    Before becoming one of the most feared
+    corsairs in all of the Imperium, he
+    was the Autarch of Iyanden, supreme
+    commander of its war host and battle
+    fleet. Unlike an Exarch, an Autarch
+    is one that has the ability to step away
+    from the Path of the Warrior, seek
+    out other disciplines and assume a
+    leadership role. Despite his considerable
+    martial prowess and tactical acumen, it
+    was along the Path of the Mariner that
+    he found his true calling.
+    
+    <table class=fleet-list><tbody><tr><td><strong>Prince Yriel</strong></td><td><strong>150 pts</strong></td></tr></tbody></table>
+    
+    Prince Yriel has at his disposal the
+    very finest weaponry and resources
+    available to the Iyanden Eldar. Treat
+    this character as an Eldar Hero with the
+    following additions as part of his point
+    cost: he is accompanied by the fiercest
+    members of Yriel’s own pirate warband,
+    which count as an [Aspect Warrior host](#aspect-warrior-hosts).
+    His vessel is equipped with Vampire
+    raiders. He has one re-roll as part of his
+    point cost, but a second or third re-roll
+    can be purchased at +25 points each.
+    
+    Prince Yriel must be embarked on a
+    Dragonship equipped with launch bays,
+    even if he is leading a Corsair fleet. A
+    fleet led by him has an [attack rating](../scenarios/index.md#using-an-attack-rating) of
+    4, even if it includes Craftworld vessels.
+    He must be embarked aboard the Flame
+    of Asuryan if it is present, in which case
+    his cost is 125 points.
 
 ### Capital Ships
 

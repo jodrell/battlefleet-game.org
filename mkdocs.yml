@@ -23,6 +23,7 @@ theme:
     - navigation.indexes
     - navigation.top
     - navigation.path
+    - navigation.expand
   
 extra:
   generator: false
@@ -35,6 +36,9 @@ markdown_extensions:
   - tables
   - attr_list
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: true
       toc_depth: 4
@@ -43,7 +47,7 @@ validation:
   absolute_links: ignore
 
 nav:
-  - Home: index.md
+  - index.md
   - the-rules.md
   - the-turn.md
   - the-movement-phase.md

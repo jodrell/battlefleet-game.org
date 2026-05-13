@@ -420,41 +420,43 @@ your register and not be changed in any way.
 completed all you need do now is roll for a
 [sub-plot](scenarios/index.md#sub-plots) and then get fighting (hurrah!).
 
-> #### Attacking Pirate Bases
-> 
-> [Orks](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md) never get to capture
-> systems, but instead have a secret
-> pirate base. If an Ork or Eldar player’s
-> opponent with a rank of Admiral or
-> higher (or its equivalent for other races)
-> gains the initiative for a [scenario](scenarios/index.md),
-> then he can attempt to attack the base
-> instead of playing a normal scenario.
-> 
-> The attacker must, however, first find
-> the base: roll a D6 and multiply the
-> score by 10. If you roll under the Ork
-> or Eldar side’s [renown](campaign-rules.md#renown), then you’ve
-> tracked down the base and system that
-> it is hidden in must be revealed. If the
-> player fails to find the base (i.e. fails
-> to roll under the defender’s renown)
-> then play a normal [scenario](scenarios/index.md). Once you
-> know the location of the base you don’t
-> have to find it again (you can reveal its
-> location to other players too if you want).
-> 
-> Once the base is found, the player may
-> attack it if he controls the system, or it
-> is in a neutral system. If neither of these
-> conditions apply, then play a normal
-> scenario instead. Assuming you find
-> the base and it is in a location where
-> you can attack it, then play either the
-> [Planetary Assault](scenarios/planetary-assault.md) or the [Exterminatus](scenarios/exterminatus.md)
-> scenario. If the attacker wins then the
-> base is destroyed and can no longer
-> be used by the [Ork](fleet-lists/orks.md) or [Eldar](fleet-lists/eldar.md) player.
+!!! note ""
+
+    #### Attacking Pirate Bases
+
+    [Orks](fleet-lists/orks.md) and [Eldar](fleet-lists/eldar.md) never get to capture
+    systems, but instead have a secret
+    pirate base. If an Ork or Eldar player’s
+    opponent with a rank of Admiral or
+    higher (or its equivalent for other races)
+    gains the initiative for a [scenario](scenarios/index.md),
+    then he can attempt to attack the base
+    instead of playing a normal scenario.
+
+    The attacker must, however, first find
+    the base: roll a D6 and multiply the
+    score by 10. If you roll under the Ork
+    or Eldar side’s [renown](campaign-rules.md#renown), then you’ve
+    tracked down the base and system that
+    it is hidden in must be revealed. If the
+    player fails to find the base (i.e. fails
+    to roll under the defender’s renown)
+    then play a normal [scenario](scenarios/index.md). Once you
+    know the location of the base you don’t
+    have to find it again (you can reveal its
+    location to other players too if you want).
+
+    Once the base is found, the player may
+    attack it if he controls the system, or it
+    is in a neutral system. If neither of these
+    conditions apply, then play a normal
+    scenario instead. Assuming you find
+    the base and it is in a location where
+    you can attack it, then play either the
+    [Planetary Assault](scenarios/planetary-assault.md) or the [Exterminatus](scenarios/exterminatus.md)
+    scenario. If the attacker wins then the
+    base is destroyed and can no longer
+    be used by the [Ork](fleet-lists/orks.md) or [Eldar](fleet-lists/eldar.md) player.
 
 ## Aftermath
 
@@ -715,28 +717,30 @@ case each escort ship is worth 1 damage point.
 | 31-50 | 2 | D6-1 | 3 | 6 | 5 | 1 |
 | 51+ | 3 | D6 | 4 | 12 | 6 | 1 |
 
-> ### Repairing Vessels
-> 
-> An [Imperial](fleet-lists/imperial-navy.md) commander has just won
-> a battle. He now controls a hive world,
-> two Agri-worlds and a penal colony
-> and has 28 [renown](campaign-rules.md#renown) points. During the
-> battle one of his [cruisers](the-rules.md#cruisers) took five points
-> of [damage](the-shooting-phase.md#damage), another took three points of
-> damage and another lost four hits. He
-> also lost two frigates from a [squadron](squadrons.md)
-> of four. With the systems he currently
-> has under his control, the Imperial
-> commander may repair nine points of
-> damage plus D6-2 for his penal colony.
-> He rolls a 4, which gives him a total of
-> 11 repair points. He uses 5 to totally
-> repair the first cruiser and another 3 to
-> repair the second cruiser. He replaces the
-> two lost frigates, meaning he can only
-> repair 1 point of damage on the third
-> cruiser. This cruiser will start its next
-> battle with three hits less than normal.
+!!! note ""
+
+    ### Repairing Vessels
+
+    An [Imperial](fleet-lists/imperial-navy.md) commander has just won
+    a battle. He now controls a hive world,
+    two Agri-worlds and a penal colony
+    and has 28 [renown](campaign-rules.md#renown) points. During the
+    battle one of his [cruisers](the-rules.md#cruisers) took five points
+    of [damage](the-shooting-phase.md#damage), another took three points of
+    damage and another lost four hits. He
+    also lost two frigates from a [squadron](squadrons.md)
+    of four. With the systems he currently
+    has under his control, the Imperial
+    commander may repair nine points of
+    damage plus D6-2 for his penal colony.
+    He rolls a 4, which gives him a total of
+    11 repair points. He uses 5 to totally
+    repair the first cruiser and another 3 to
+    repair the second cruiser. He replaces the
+    two lost frigates, meaning he can only
+    repair 1 point of damage on the third
+    cruiser. This cruiser will start its next
+    battle with three hits less than normal.
 
 <a name="withdrawing"></a>
 **Withdrawing ships:** A player may choose to withdraw ships to get them fully repaired at a

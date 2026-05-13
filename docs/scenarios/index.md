@@ -255,63 +255,65 @@ crippled it is worth victory points equal to 10%
 of its value. An escort squadron is considered
 crippled if it loses half of its ships, rounding up.
 
-> ### Victory Points Summary
-> 
-> **Each enemy ship destroyed**<br>
-> Victory points equal to its points value.
-> 
-> **Each enemy capital ship [crippled](../the-shooting-phase.md#crippled-ships)**<br>
-> Victory points equal to 25% of its points value, (rounded up).
-> 
-> **Each enemy ship [disengaged](../the-movement-phase.md#disengaging-from-combat)**<br>
-> Victory points equal to 25% of the
-> enemy ship’s points value (rounded up)
-> if crippled, or 10% (rounded up) if not.
-> 
-> **Holding the field**<br>
-> Victory points equal to 50% of the
-> points value of each [hulk](../the-shooting-phase.md#catastrophic-damage) (friend or foe)
-> on the tabletop (rounded up).
-> 
-> **Scenario objectives**<br>
-> Victory points are awarded as detailed
-> in the individual scenarios.
+!!! note ""
 
-<br>
+    ### Victory Points Summary
 
-> ### Pre-battle Summary
->
-> 1. Determine Scenario. Choose, randomly generate one or use the attack ratings method.
-> 
-> 2. Decide Attacker and Defender. If needed,
-> randomly decide who is attacking, or use the
-> attack ratings to determine the attacker. If you
-> are using attack ratings to choose a scenario,
-> the player who chooses is the attacker.
-> 
-> 3. Choose Forces. Select your fleet following the
-> instructions in the selected scenario.
-> 
-> 4. Set up [Celestial Phenomena](../the-battlefield.md#celestial-phenomena). Determine
-> the type of [battlezone](../the-battlefield.md) the game is played in
-> and place any celestial phenomena on the
-> tabletop (see pgs. 104–113 for details).
-> 
-> 5. Generate [Leadership](../the-rules.md#leadership). Roll for the
-> Leadership values of your ships and
-> squadrons.
-> 
-> 6. Declare any capital ship [squadrons](../squadrons.md).
-> Assign the [Fleet Commander]\(s) to their
-> ship(s) if you haven't already.
-> 
-> 7. Deploy Fleets. Set up your ships on the
-> table as outlined in the scenario.
-> 
-> 8. Determine First Turn. Find out who has
-> the first turn as detailed in the scenario.
-> 
-> 9. Start Fighting!
+    **Each enemy ship destroyed**<br>
+    Victory points equal to its points value.
+
+    **Each enemy capital ship [crippled](../the-shooting-phase.md#crippled-ships)**<br>
+    Victory points equal to 25% of its points value, (rounded up).
+
+    **Each enemy ship [disengaged](../the-movement-phase.md#disengaging-from-combat)**<br>
+    Victory points equal to 25% of the
+    enemy ship’s points value (rounded up)
+    if crippled, or 10% (rounded up) if not.
+
+    **Holding the field**<br>
+    Victory points equal to 50% of the
+    points value of each [hulk](../the-shooting-phase.md#catastrophic-damage) (friend or foe)
+    on the tabletop (rounded up).
+
+    **Scenario objectives**<br>
+    Victory points are awarded as detailed
+    in the individual scenarios.
+
+!!! note ""
+
+    ### Pre-battle Summary
+
+    1. Determine Scenario. Choose, randomly generate one or use the attack ratings method.
+
+    2. Decide Attacker and Defender. If needed,
+    randomly decide who is attacking, or use the
+    attack ratings to determine the attacker. If you
+    are using attack ratings to choose a scenario,
+    the player who chooses is the attacker.
+
+    3. Choose Forces. Select your fleet following the
+    instructions in the selected scenario.
+
+    4. Set up [Celestial Phenomena](../the-battlefield.md#celestial-phenomena). Determine
+    the type of [battlezone](../the-battlefield.md) the game is played in
+    and place any celestial phenomena on the
+    tabletop (see pgs. 104–113 for details).
+
+    5. Generate [Leadership](../the-rules.md#leadership). Roll for the
+    Leadership values of your ships and
+    squadrons.
+
+    6. Declare any capital ship [squadrons](../squadrons.md).
+    Assign the [Fleet Commander]\(s) to their
+    ship(s) if you haven't already.
+
+    7. Deploy Fleets. Set up your ships on the
+    table as outlined in the scenario.
+
+    8. Determine First Turn. Find out who has
+    the first turn as detailed in the scenario.
+
+    9. Start Fighting!
 
 ## Sub-Plots
 
@@ -338,13 +340,15 @@ you complete your sub-plot objectives.
 | Failed main mission but completed sub-plot | **Heroic Defeat!**<br>You will be remembered for snatching honour from the jaws of defeat. Stories will tell of hopeless odds and unforeseeable circumstances. You will be remembered for your courage and determination. |
 | Failed main mission and sub-plot | **Miserable Defeat!**<br>Your name becomes a watchword for incompetence and failure. If you die, you will not be missed. This is a dark day for your race... |
 
-> ## Renown
-> 
-> If you are playing in a [campaign](../campaign-rules.md), you may gain or lose [renown](../campaign-rules.md#renown) for achieving or
-> failing in your sub-plot objective. This is given in brackets after the objective
-> like this: (renown gained for completion/renown lost for failure). For example,
-> the Extended Duty sub-plot is (+1/0) which means you gain an extra point
-> of Renown for completing it, but you will not lose any if you fail.
+!!! note ""
+
+    ## Renown
+
+    If you are playing in a [campaign](../campaign-rules.md), you may gain or lose [renown](../campaign-rules.md#renown) for achieving or
+    failing in your sub-plot objective. This is given in brackets after the objective
+    like this: (renown gained for completion/renown lost for failure). For example,
+    the Extended Duty sub-plot is (+1/0) which means you gain an extra point
+    of Renown for completing it, but you will not lose any if you fail.
 
 ## Legacies of War (Roll of 1-2)
 
