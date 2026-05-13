@@ -45,25 +45,6 @@ then [submit a pull request](https://github.com/jodrell/bfg/compare).
 [Markdown](https://www.markdownguide.org/getting-started/), the markup language this site uses,
 is very user-friendly and requires little technical knowledge to work with.
 
-## Acknowledgements
-
-Many thanks to the original designers who worked on this game.
-You created something wonderful.
-
-**Game Design and Developement**<br>
-Andy Chambers, Gavin Thorpe, Jervis Johnson, Matt Keefe, Andy
-Hall, Pete Haines, Tim Adcock, Warwick Kinrade
-
-**Original Art**<br>
-John Blanche, Alex Boyd, Wayne England, Des Hanley, Neil
-Hodgson, Nuala Kennedy, Paul Smith, John Wigley
-
-**The 2010 Compendium**<br>
-Bob Henderson, Ray Bell, Nate Montes
-
-**Battlefleet Gothic: Remastered**<br>
-Simon Saier
-
 ## Disclaimer
 
 This website is completely unofficial and in no way endorsed by Games Workshop Limited.
