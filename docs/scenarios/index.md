@@ -342,7 +342,7 @@ you complete your sub-plot objectives.
 
 !!! note ""
 
-    ## Renown
+    ### Renown
 
     If you are playing in a [campaign](../campaign-rules.md), you may gain or lose [renown](../campaign-rules.md#renown) for achieving or
     failing in your sub-plot objective. This is given in brackets after the objective
@@ -350,7 +350,7 @@ you complete your sub-plot objectives.
     the Extended Duty sub-plot is (+1/0) which means you gain an extra point
     of Renown for completing it, but you will not lose any if you fail.
 
-## Legacies of War (Roll of 1-2)
+### Legacies of War (Roll of 1-2)
 
 | Score | Sub-Plot |
 | :-: | --- |
@@ -361,7 +361,7 @@ you complete your sub-plot objectives.
 | 5 | **No Quarter!** As the war dragged on, the battle of attrition escalated to astounding proportions. Often fleets were sent in to battle with no other objective than to blast the enemy out of the stars! <br><br>*Cripple/destroy at least half the points value of the enemy fleet. (+1/-1)* |
 | 6 | **Vendetta:** As the war progressed, worlds were razed and populations were enslaved or killed. Enemy ships became infamous for their exploits so it was a real boost to morale if these vessels could be destroyed.<br><br>*Nominate one enemy capital ship to be the object of your vendetta. Cripple or destroy the nominated capital ship. (+1/-2)* | 
 
-## Chance Circumstances (Roll of 3-4)
+### Chance Circumstances (Roll of 3-4)
 
 | Score | Sub-Plot |
 | :-: | --- |
@@ -372,7 +372,7 @@ you complete your sub-plot objectives.
 | 5 | **Fresh Captain:** Ship captains who proved themselves in battle would often be re-assigned to larger, better armed vessels. This meant that the captain’s previous ship would have to spend time getting used to their new commander. Randomly select one of your capital ships (not including the fleet commander’s vessel). This ship loses -1 [Leadership](../the-rules.md#leadership). <br><br>*The chosen ship must cripple or destroy enemy ships worth equal to or more than its own points value. (+1/-1).* |
 | 6 | **Enemy Plans:** Boarding parties occasionally uncovered enemy plans. Each time you launch a boarding action against an enemy capital ship, roll a D6. On a score of a 4 or more, the enemy plans have been located. Add +1 to the roll if you board the opposing fleet commander’s ship. <br><br>*You must capture the enemy’s battle plans. (+1/-1)* |
 
-## Secret Ploys (Roll of 5-6)
+### Secret Ploys (Roll of 5-6)
 
 | Score | Sub-Plot |
 | :-: | --- |
