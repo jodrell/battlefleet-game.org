@@ -6,12 +6,14 @@ theme:
   name: material
   language: en
   palette:
-    - scheme: default
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: black
       accent: amber
       toggle:
         icon: material/toggle-switch
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       primary: black
       accent: amber
       toggle:
