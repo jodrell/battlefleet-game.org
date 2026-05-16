@@ -52,7 +52,7 @@ may take either the first or second turn.
 
 Attacking ships must move within 30 cm
 of the planet table edge on the [low orbit
-table](../the-battlefield.md#fighting-in-low-orbit to send troops to the surface and
+table](../the-battlefield.md#fighting-in-low-orbit) to send troops to the surface and
 bombard enemy positions. For each turn
 an attacking capital ship spends within
 30 cm of the planet edge, the attacker scores
