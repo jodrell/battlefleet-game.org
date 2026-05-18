@@ -368,7 +368,7 @@ Chapters, who they believe incapable of the same purity which they themselves ma
 meaning they will seldom, if ever, seek the aid of other arms of the Imperium.
 
 As well as true Crusade Chapters, the fleet list above is ideal for representing fleet-based
-Chapters, particularly those that operate from a fortress-monastery, such as the Fire Hawks or
+Chapters, particularly those that operate from a [fortress-monastery](#fortress-monastery_1), such as the Fire Hawks or
 Dark Angels. While not strictly a Crusading Chapter, this list is particularly suited to the Dark
 Angels, since it represents their famously secretive method of operation. Other Chapters, such
 as the Imperial Fists, the Crimson Fists and so on, occasionally launch Crusades though not
@@ -416,15 +416,15 @@ carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-b
 #### 0-1 Fortress-Monastery
 
 *If your fleet is worth at least 2,000 points, it may
-include one Fortress-Monastery.*
+include one [Fortress-Monastery](#fortress-monastery_1).*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="#fortress-monastery_1">Fortress-Monastery</a></td><td>1000 pts</td></tr>
+<tr><td><a href="../ships/space-marines/fortress-monastery.pdf" target="_new">Fortress-Monastery</a></td><td>1000 pts</td></tr>
 </tbody></table>
 
 
 As the base of operations for the entire Chapter,
-the fortress-monastery may purchase re-rolls,
+the [fortress-monastery](#fortress-monastery_1) may purchase [re-rolls](../the-rules.md#re-rolls),
 which it may use for its own [command checks](../the-rules.md#taking-command-checks)
 only. If the Master of the Fleet is assigned to a
 fortress-monastery, its re-rolls are added to those
