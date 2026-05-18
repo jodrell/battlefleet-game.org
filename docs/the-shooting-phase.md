@@ -607,7 +607,7 @@ any target besides the closest.
     and no course changes
     will be needed to bring
     weapons to bear.
-    See [pg. 46](the-rules.md#lock-on) for all effects.
+    See [*Lock On*](the-rules.md#lock-on)<!-- pg. 46 --> for all effects.
 
 ### Nova Cannon
 
@@ -768,8 +768,8 @@ line of sight obstructions
 such as hulks, [minefields](fleet-lists/planetary-defences.md#low-orbit-defences_1)
 or [celestial phenomena](the-battlefield.md#celestial-phenomena), nor
 can they be saved against
-by [holofields](fleet-lists/eldar.md#holofields). See [pg. 70](#catastrophic-damage) for
-more on [catastrophic damage](#catastrophic-damage)
+by [holofields](fleet-lists/eldar.md#holofields). See [Catastrophic Damage](#catastrophic-damage)<!-- pg. 70 --> for
+more on catastrophic damage
 and exploding ships.
 
 [Chaos Marks](fleet-lists/chaos.md#marks-of-chaos) that affect
@@ -780,8 +780,7 @@ implosions, [Solar Flares](the-battlefield.md#solar-flares),
 etc. are also not affected by
 [celestial phenomena](the-battlefield.md#celestial-phenomena) and
 other such line-of-sight
-obstructions. See [pg. 110](the-battlefield.md#asteroid-fields)
-concerning [asteroid fields](the-battlefield.md#asteroid-fields).
+obstructions. See [asteroid fields](the-battlefield.md#asteroid-fields).<!-- pg. 110 concerning asteroid fields. -->
 
 [Exterminatus vessels](scenarios/exterminatus.md#special-rules) used
 in scenarios that require
@@ -831,7 +830,7 @@ damage taken normally.
     cannon may not be
     fired at all. [Ordnance](the-ordnance-phase.md)
     is unaffected.
-    See [pg. 46](the-rules.md#special-orders) for all effects
+    See [*All Ahead Full*](the-rules.md#all-ahead-full)<!-- pg. 46 --> for all effects.
 
 ## Damage
 

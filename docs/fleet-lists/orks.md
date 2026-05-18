@@ -500,7 +500,7 @@ fleet in squadrons of 2–6.*
 fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>Rok (<a target="_new" title="Open Page 374 in the Fleets PDF" href="../../src/BFG Remastered Official Fleets_WIP.pdf#page=374">pg. 374</a>)</td><td>80 pts</td></tr>
+<tr><td><a href="../ships/orks/rok.pdf" target="_new">Rok</a></td><td>80 pts</td></tr>
 </tbody></table>
 
 

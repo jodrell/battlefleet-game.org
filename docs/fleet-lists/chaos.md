@@ -275,7 +275,7 @@ Daemonships cannot be used in squadrons.
 
 Any Daemon ship may have a single [Mark of
 Chaos](chaos.md#marks-of-chaos) with the same effects and cost in points
-as described on pg. 226.
+as described in the [Chaos Incursion Fleet List](#gothic-sector-chaos-incursion-fleet-list)<!-- on pg. 226 -->.
 
 Daemon ship [Leadership](../the-rules.md#leadership) is rolled as normal
 (ie, 1=6, 2,3=7, 4,5=8, 6=9).
@@ -925,13 +925,13 @@ fleet for every two cruisers.*
 
 Any capital ship can be designated as having
 a Chaos Space Marine crew at +35 points. The
-ship will be subject to the Chaos Space Marine
-special rules on pgs. 218–219.
+ship will be subject to the [Chaos Space Marine
+special rules](##chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
 
 Remember, a ship with a Chaos Space Marine
 crew may have a Mark of Chaos, even if a
 Warmaster or Lord does not captain it, but is
-subject to the restriction on pg. 219.
+subject to the restriction on [Chaos Space Marines](#chaos-space-marines-in-battlefleet-gothic)<!-- pg. 219 -->.
 
 For +10 points, battleships and grand cruisers
 with Chaos Space Marine Warmasters, Lords or

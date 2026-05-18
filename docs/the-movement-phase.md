@@ -107,7 +107,7 @@ possible distance instead.
     closing in on a distant
     foe or escaping from
     a deadly situation.
-    See [pg. 46](the-rules.md#all-ahead-full) for all effects.
+    See [*All Ahead Full*](the-rules.md#all-ahead-full)<!-- pg. 46 --> for all effects.
 
 <a name="special-order-burn-retros"></a>
 
@@ -132,7 +132,7 @@ possible distance instead.
     an enemy’s guns, or
     would cause a ship to
     crash into asteroids.
-    See [pg. 46](the-rules.md#burn-retros) for all effects.
+    See [*Burn Retros*](the-rules.md#burn-retros)<!-- pg. 46 --> for all effects.
 
 ## Turning
 
@@ -212,7 +212,7 @@ point in its move.
     it attempts to escape,
     or to outmanoeuvre
     a larger enemy ship.
-    See [pg. 46](the-rules.md#come-to-new-heading) for all effects.
+    See [*Come To New Heading*](the-rules.md#come-to-new-heading)<!-- pg. 46 --> for all effects.
 
 ## All Ahead Full – Ramming Speed!
 

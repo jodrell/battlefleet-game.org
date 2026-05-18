@@ -22,7 +22,7 @@ this fleet you have 10 Transport ships.
 ## Battlezone
 
 Set up a 180 cm × 120 cm table. Each player
-has eight [Warp Rifts (pg. 111)](../the-battlefield.md#warp-rifts) and takes
+has eight [Warp Rifts](../the-battlefield.md#warp-rifts)<!--  (pg. 111) --> and takes
 it in turns to place these on the table.
 Each Warp Rift must be 10 cm at least
 away from any others deployed so far.

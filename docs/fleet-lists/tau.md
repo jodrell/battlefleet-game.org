@@ -246,8 +246,8 @@ mercenaries, selected from the fleet lists as
 normal.
 
 Their special rules, ships and even a separate
-fleet list can be found from pg. 462 and
-onward.
+fleet list can be found [below](#allies-subjects-mercenaries)<!-- from pg. 462 and
+onward -->.
 
 ## Kor’Vattra Merchant Fleet List
 

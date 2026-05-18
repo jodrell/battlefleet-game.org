@@ -28,8 +28,7 @@ not place any celestial phenomena.
 
 Remember to roll for the [Leadership](../the-rules.md#leadership)
 values of your ships before setting
-them up, using the Leadership table
-on [pg. 45](../the-rules.md#starting-leadership-values) (also on the playsheet).
+them up, using the [Leadership table](../the-rules.md#starting-leadership-values)<!-- on [pg. 45] --> (also on the playsheet).
 
 One player rolls a dice. On a 1, 2 or 3
 they set up in the area marked Fleet A
@@ -130,12 +129,12 @@ do this, roll a dice – on a roll of a 1, 2 or 3
 the battle takes place in the [outer reaches](../the-battlefield.md#5-outer-reaches-generator);
 on a 4, 5 or 6 the battle is fought in [deep
 space](../the-battlefield.md#6-deep-space-generator). See the [Celestial Phenomena](../the-battlefield.md#celestial-phenomena) section
-starting on [pg. 104](../the-battlefield.md#celestial-phenomena) for more details.
+<!-- starting on pg. 104 --> for more details.
 
 ### Set-up
 
 You may like to use the Set-up rules for
-the [Fleet Engagement on pg. 142](fleet-engagement.md#set-up).
+the [Fleet Engagement](fleet-engagement.md#set-up)<!-- on pg. 142 -->.
 
 ### Victory Conditions
 

@@ -13,7 +13,7 @@ fighting these different types of battle.**
 
 For your first couple of games we recommend
 you play the [Cruiser Clash](cruiser-clash.md) introductory
-scenario on [pg. 128](cruiser-clash.md) while you get used to
+scenario <!-- on pg. 128 --> while you get used to
 the rules and start building up your fleet.
 Once you have an idea of how the rules
 work you can try out some of the different
