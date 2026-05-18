@@ -144,8 +144,8 @@ carry Thunderhawks may then ONLY carry
 them, and its launch bay capacity is reduced
 by half (rounding up when applicable). This
 also applies for those earned when rolling a
-7 against the Space Marines table on p.157 of
-the rulebook. Escort carriers may never be
+7 against the [Space Marines table](../campaign-rules.md#space-marines-table)<!-- on p.157 of
+the rulebook -->. [Escort carriers](additional-vessels.md#q-ships-armed-freighters-escort-carriers) may never be
 upgraded to carry Thunderhawks!
 
 ### Thunderhawk Annihilator
@@ -663,7 +663,7 @@ Navy vessels are equipped with their own
 standard ordnance (even if they have Space
 Marine Captains) and cannot be given any form
 of Space Marine upgrade. This includes those
-listed on [the table on [???] p.157 of the rulebook](assets/p157.pdf).
+listed in the [Space Marines table](../campaign-rules.md#space-marines-table<!-- on the table on [???] p.157 of the rulebook -->.
 
 ### Attack Rating
 

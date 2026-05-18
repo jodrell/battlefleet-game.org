@@ -37,7 +37,9 @@ of Pelucidar anywhere on the table he
 wishes. He must then deploy his entire fleet
 in the area indicated on the map below.
 
-_(Editor's note: the map is missing in the PDF)_
+!!! note "Editor's note"
+
+    The map is missing in the PDF.
 
 The Ork player moves his ships on
 from any point along his table edge.
