@@ -926,7 +926,7 @@ fleet for every two cruisers.*
 Any capital ship can be designated as having
 a Chaos Space Marine crew at +35 points. The
 ship will be subject to the [Chaos Space Marine
-special rules](##chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
+special rules](#chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
 
 Remember, a ship with a Chaos Space Marine
 crew may have a Mark of Chaos, even if a
