@@ -548,4 +548,17 @@ each other, detailed as follows:
 
 !!! note "Editor's note"
 
-    This page in the PDF is empty.
+    The following was taken from the [2010 FAQ](https://rr30k.com/wp-content/uploads/2020/04/BFG_2010_FAQ.pdf#page=18).
+
+1. Imperials (including [Adeptus Mechanicus](adeptus-mechanicus.md)): will *never* ally with Chaos, Dark Eldar, Craftworld Eldar and Orks. If it allies with or has as allies the Space Marines, it cannot ally with or take as allies ships from *any* other fleet list except Rogue Trader vessels (excluding Xenos ships).
+2. [Chaos](chaos.md) (including Chaos Space Marines): will *never* ally with Imperials, Craftworld Eldar, Corsair Eldar, Space Marines or Tau.
+3. [Tau](tau.md): will *never* ally with Orks, Chaos, Dark Eldar or Space Marines.
+4. [Dark Eldar](dark-eldar.md): will *never* ally with Imperials, Tau or Space Marines.
+5. [Craftworld Eldar](eldar.md): will *never* ally with Imperials, Chaos, Space Marines or Orks.
+6. [Corsair Eldar](eldar.md): will *never* ally with Chaos, Space Marines or Orks.
+7. [Space Marines](space-marines.md): will *only* ally with Imperials (including Adeptus Mechanicus) and Rogue Trader vessels (excluding Xenos ships). A Crusade fleet list will not ally with any fleet.
+8. [Rogue Traders](rogue-traders.md): may ally with any fleet except Tyranids and Necrons but may not take Xenos vessels when allied with Space Marines.
+9. [Orks](orks.md): will *only* ally with Chaos, Dark Eldar and Rogue Traders.
+10. [Demiurg and/or Kroot](tau.md#demiurg-and-kroot-xenos-fleet-list): will *never* ally with Orks or Space Marines. Even when allied with two fleets that are fighting each other, Demiurg and Kroot ships will never fire up on each other.
+11. [Necrons](necrons.md) *do not ally with any fleet*.
+12. [Tyranids](tyranids.md) *do not ally with any fleet*.
