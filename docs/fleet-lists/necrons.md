@@ -15,6 +15,10 @@ the rules outlined below.
 
 #### Sepulchre
 
+!!! note "Editor's note"
+
+    The Sepulchre was previously called a Nightmare Field.
+
 Only utilised by the largest Necron vessel
 in a fleet, a ship carrying a Sepulchre
 automatically gains a [Leadership](../the-rules.md#leadership) of 10.

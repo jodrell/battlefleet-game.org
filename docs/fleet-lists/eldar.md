@@ -184,8 +184,8 @@ this save fails.
 
 They do NOT protect against hits caused by
 celestial phenomena nor any area effects such
-as Warp Drive implosions, Necron Nightmare
-Fields, Chaos Marks of Slaanesh, etc.
+as Warp Drive implosions, [Necron Nightmare
+Fields](necrons.md#sepulchre), Chaos Marks of Slaanesh, etc.
 
 Holofields save against the shell hit of the [nova
 cannon](../the-shooting-phase.md#nova-cannon), meaning both a direct hit from a Nova

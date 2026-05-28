@@ -98,8 +98,8 @@ against the ramming or boarding attempt, NOT
 against any damage suffered if this save fails.
 They do NOT protect against hits caused by
 celestial phenomena nor any area effects such
-as Warp Drive implosions, Necron Nightmare
-Fields, Chaos Marks of Slaanesh, etc.
+as Warp Drive implosions, [Necron Nightmare
+Fields](necrons.md#sepulchre), Chaos Marks of Slaanesh, etc.
 
 Shadowfields save against the shell hit of the
 [nova cannon](../the-shooting-phase.md#nova-cannon), not the subsequent damage
