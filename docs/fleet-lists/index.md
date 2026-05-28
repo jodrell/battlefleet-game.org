@@ -1,4 +1,4 @@
-## Fleet Lists
+# Fleet Lists
 
 **In the [Rulebook](../index.md), you learned how to play the basic
 game. The Fleets book will add the different fleets
