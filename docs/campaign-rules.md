@@ -177,7 +177,7 @@ from their own fleet register.
 ## The Commander
 
 Each player’s fleet has
-a [commander](fleet-lists/index.md#fleet-commander) (or an
+a commander (or an
 appropriately named leader
 for their race) who represents
 the player himself. Over
