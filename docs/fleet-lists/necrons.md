@@ -134,8 +134,8 @@ make Portal attacks.
 
 The unique nature of Necron vessels, combined
 with their incredibly advanced methods of
-manufacture, means perform a fade out [disengage](../the-movement-phase.md#disengaging-from-combat)
-automatically. that they react to damage
+manufacture, means <!-- perform a fade out disengage
+automatically.  -->that they react to damage
 rather differently than other vessels. For this
 reason, Necrons use a special critical hits table.
 
