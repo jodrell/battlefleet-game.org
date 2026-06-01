@@ -2163,9 +2163,9 @@ the rift are affected immediately.
 A Chaos fleet of any size may include one
 Chaos Space Hulk. If taken, it must serve as
 the flagship. It may not be taken in a fleet that
-has the Planet Killer, an Activated Blackstone
-Fortress or ships that must be used as flagships
-such as the *Terminus Est*. It may not take any
+has the [Planet Killer](#the-planet-killer-in-exterminatus), an [Activated Blackstone
+Fortress](ships/chaos/activated-blackstone-fortress.pdf) or ships that must be used as flagships
+such as the [*Terminus Est*](ships/chaos/terminus-est-death-guard-battle-barge.pdf). It may not take any
 Chaos Marks, but other ships still can.
 
 A Chaos fleet including a Space Hulk may

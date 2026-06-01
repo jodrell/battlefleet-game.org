@@ -362,8 +362,8 @@ protect their host creature.
 
 A spore cloud will absorb any hit generated
 by weapons fire except from those that
-specifically ignore [shields](../the-shooting-phase.md#shields), such as Warp
-cannon or Particle Whip rolls of 6. Special
+specifically ignore [shields](../the-shooting-phase.md#shields), such as [Warp
+cannon](ships/chaos/activated-blackstone-fortress.pdf) or [Particle Whip](necrons.md#gauss-particle-whip) rolls of 6. Special
 weapons designed to affect shields will affect
 spore clouds in an identical manner.
 

@@ -182,7 +182,7 @@ The following two exceptions apply:
 
 * It does not save against [hit and run attacks](../the-end-phase.md#hit-and-run-attacks)
 unless the ship is actually braced.
-* Warp cannons ignore reactive hull saves
+* [Warp cannons](ships/chaos/activated-blackstone-fortress.pdf) ignore reactive hull saves
 unless the Necron ship is braced.
 
 If the Necron vessel uses [*Brace for Impact*](../the-rules.md#brace-for-impact)
