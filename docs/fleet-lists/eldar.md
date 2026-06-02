@@ -1232,7 +1232,7 @@ instead of a ship.
 
 An Eldar Haven can attempt [Special Orders](../the-rules.md#special-orders) as
 ships do, though it may only attempt to [*Lock
-On*], [*Reload Ordnance*](../the-rules.md#reload-ordnance) or [*Brace For Impact*](../the-rules.md#brace-for-impact).
+On*](../the-rules.md#lock-on), [*Reload Ordnance*](../the-rules.md#reload-ordnance) or [*Brace For Impact*](../the-rules.md#brace-for-impact).
 
 ### Characteristics
 
