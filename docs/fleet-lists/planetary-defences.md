@@ -250,7 +250,8 @@ fort. Likewise, when [ordnance](../the-ordnance-phase.md) hits it will be
 resolved against the quadrant of the fort it
 moves in from.
 
-![](../assets/quadrants.svg)
+![](../assets/quadrants.svg#only-light)
+![](../assets/quadrants-dark.svg#only-dark)
 
 #### Templates
 
