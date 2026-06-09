@@ -1,2 +1,9 @@
 
-<script async src="https://analytics.tau.uk.com/"></script>  
+<script async src="https://analytics.tau.uk.com/"></script>
+
+<script>
+  // PWA
+  if (navigator.hasOwnProperty("serviceWorker")) {
+    navigator.serviceWorker.register("/service-worker.js", { scope: "/" });
+  }
+</script>
