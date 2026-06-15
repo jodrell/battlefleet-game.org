@@ -304,7 +304,7 @@ crippled if it loses half of its ships, rounding up.
     squadrons.
 
     6. Declare any capital ship [squadrons](../squadrons.md).
-    Assign the [Fleet Commander]\(s) to their
+    Assign the [Fleet Commander](../fleet-lists/index.md#fleet-commander)\(s) to their
     ship(s) if you haven't already.
 
     7. Deploy Fleets. Set up your ships on the
