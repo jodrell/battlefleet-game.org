@@ -7,4 +7,4 @@ Steps to build the site:
 
 On macOS with [Homebrew](https://brew.sh), you can just run `brew install mkdocs-material`.
 
-* Run `mkdocs serve` (site will be running on http://localhost:8000/)
+* Run `mkdocs serve` to run a web server on http://localhost:8000/, or `mkdocs build` to build the site into `site/`.
