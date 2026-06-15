@@ -164,7 +164,7 @@ Mechanicus](adeptus-mechanicus.md) and [Space Marine](space-marines.md) fleets l
 an Inquisitor may always take ships from the
 other two as reserves in the normal manner.
 
-[Imperial Navy] and [Adeptus
+[Imperial Navy](imperial-navy.md) and [Adeptus
 Mechanicus](adeptus-mechanicus.md fleets
 may also take a single [Rogue Trader](rogue-traders.md) cruiser.
 If taken, a Rogue Trader escort squadron may

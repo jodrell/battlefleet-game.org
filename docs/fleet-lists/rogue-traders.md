@@ -697,8 +697,8 @@ other regions near the Eye of Terror or
 Maelstrom, and entire sectors of space near
 the Northern Rim. Warp beasts always attack
 the closest defending ship in range, cannot
-undergo any special orders (including Brace
-For Impact), and automatically pass all tests
+undergo any special orders (including [*Brace
+For Impact*](../the-rules.md#brace-for-impact)), and automatically pass all tests
 they must make against celestial phenomena.
 Each warp beast (3 to 5) rolled on the below
 table is worth a flat 100 victory points.
@@ -1003,7 +1003,7 @@ is not a [command check](../the-rules.md#taking-command-checks) such as for spec
 orders, and ships that fail do not prevent
 others from testing. Units moving out of low
 orbit cannot take special orders in the same
-turn except [*Brace for Impact*].
+turn except [*Brace for Impact*](../the-rules.md#brace-for-impact).
 
 ### Game Length
 

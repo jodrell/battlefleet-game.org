@@ -663,7 +663,7 @@ Navy vessels are equipped with their own
 standard ordnance (even if they have Space
 Marine Captains) and cannot be given any form
 of Space Marine upgrade. This includes those
-listed in the [Space Marines table](../campaign-rules.md#space-marines-table<!-- on the table on [???] p.157 of the rulebook -->.
+listed in the [Space Marines table](../campaign-rules.md#space-marines-table)<!-- on the table on [???] p.157 of the rulebook -->.
 
 ### Attack Rating
 

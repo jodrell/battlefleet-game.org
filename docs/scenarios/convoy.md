@@ -109,7 +109,7 @@ moving in the next [Ordnance Phase](../the-ordnance-phase.md).
 
 Replace the Contact marker with D3+1
 squadrons of [attack craft](../the-ordnance-phase.md#attack-craft). The attacking player
-can select any mix of [fighters](../the-ordnance-phase.md#fighters), [bombers]((../the-ordnance-phase.md#bombers) or
+can select any mix of [fighters](../the-ordnance-phase.md#fighters), [bombers](../the-ordnance-phase.md#bombers) or
 [assault boats](../the-ordnance-phase.md#assault-boats) and may place them together
 into a wave if he wants. The attack craft
 start moving in the next [Ordnance Phase](../the-ordnance-phase.md).
