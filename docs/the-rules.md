@@ -222,7 +222,7 @@ regardless of the source of the re-roll.
 
 ## The Bearing Compass
 
-![The Bearing Compass](assets/image--092.png){ class=small-image }
+![The Bearing Compass](assets/bearing-compass.png){ class=small-image }
 
 A vital instrument in
 the game is the bearing
