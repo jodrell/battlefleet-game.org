@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="400"
+   height="400"
+   viewBox="0 0 399.99999 400"
+   sodipodi:docname="CTNH.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#ffffff"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1232305"
+     inkscape:cx="192.631"
+     inkscape:cy="186.97923"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(115.00002,121.00002)">
+    <rect
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:5.51819;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="394.48181"
+       height="394.48181"
+       x="-112.24093"
+       y="-118.24093"
+       ry="43.554779" />
+    <path
+       style="fill:#ffffff;stroke-width:5.66929;stroke-linejoin:round"
+       d="m 139.78552,-44.23021 18.36824,106.44158 -27.78785,-6.12275 -27.31686,129.9906 66.87922,-40.50432 -17.42628,-27.78784 106.44158,-15.07137 -61.69844,85.71843 -16.01333,-24.49098 -74.88589,46.62706 -38.149416,4.23882 -97.02197,-77.71176 L -45.780771,160.1753 -100.4145,67.39215 2.25923,97.5349 -13.28312,118.72902 66.31257,180.89844 4.14315,23.11999 -21.760769,34.42352 -19.87685,-74.843938 52.65414,3.33881 25.80825,14.64234 84.20983,163.94314 109.17179,50.90784 79.50002,43.84313 Z"
+       id="path2"
+       sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+    <ellipse
+       style="fill:#ffffff;stroke-width:4.25948;stroke-linejoin:round"
+       id="path3"
+       cx="86.329262"
+       cy="201.15062"
+       rx="24.726473"
+       ry="20.731054" />
+  </g>
+</svg>

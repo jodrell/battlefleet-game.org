@@ -647,7 +647,8 @@ rolling leadership, then moving it.
 
 ### All Ahead Full
 
-![](assets/image--110.png){ class=smaller-image }
+![](assets/special-orders/all-ahead-full-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/all-ahead-full-dark.svg#only-dark){ class=smaller-image }
 
 A ship going All Ahead
 Full directs more power
@@ -669,7 +670,8 @@ one roll for the whole squadron).
 
 ### Come to New Heading
 
-![](assets/image--111.png){ class=smaller-image }
+![](assets/special-orders/come-to-new-heading-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/come-to-new-heading-dark.svg#only-dark){ class=smaller-image }
 
 The ship sacrifices
 opportunities to fire
@@ -692,7 +694,8 @@ least 10 cm more before turning again.
 
 ### Burn Retros
 
-![](assets/image--112.png){ class=smaller-image }
+![](assets/special-orders/burn-retros-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/burn-retros-dark.svg#only-dark){ class=smaller-image }
 
 The ship directs additional
 energy to its retro thrusters
@@ -713,7 +716,8 @@ and hold position.
 
 ### Lock On
 
-![](assets/image--113.png){ class=smaller-image }
+![](assets/special-orders/lock-on-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/lock-on-dark.svg#only-dark){ class=smaller-image }
 
 The ship maintains a
 steady course and draws
@@ -734,7 +738,8 @@ batteries](the-shooting-phase.md#direct-firing-weapons-batteries) during the [Sh
 
 ### Reload Ordnance
 
-![](assets/image--114.png){ class=smaller-image }
+![](assets/special-orders/reload-ordnance-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/reload-ordnance-dark.svg#only-dark){ class=smaller-image }
 
 Ships start the game with
 their [ordnance](the-ordnance-phase.md), such as
@@ -756,7 +761,8 @@ reload before it can use its ordnance again.
 
 ### Brace For Impact!
 
-![](assets/image--117.png){ class=smaller-image }
+![](assets/special-orders/brace-for-impact-light.svg#only-light){ class=smaller-image }
+![](assets/special-orders/brace-for-impact-dark.svg#only-dark){ class=smaller-image }
 
 The captain of the vessel
 orders his crew to brace for
