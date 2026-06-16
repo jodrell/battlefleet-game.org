@@ -12,8 +12,8 @@ _(requires [Homebrew](https://brew.sh))_
 
 ### Other Unix & Windows
 
-* Install `python` & `pip`
-* Use `pip` to install `mkdocs-material`
+1. Install `python` & `pip`
+2. Use `pip` to install `mkdocs-material`
 
 ## Run a local web server
 
