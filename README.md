@@ -1,10 +1,28 @@
 # Battlefleet Gothic: Remastered
 
-Steps to build the site:
+## Setup:
+
+### macOS:
+
+```
+brew install mkdocs-material
+```
+
+_(requires [Homebrew](https://brew.sh))_
+
+### Other Unix & Windows
 
 * Install `python` & `pip`
 * Use `pip` to install `mkdocs-material`
 
-On macOS with [Homebrew](https://brew.sh), you can just run `brew install mkdocs-material`.
+## Run a local web server:
 
-* Run `mkdocs serve` to run a web server on http://localhost:8000/, or `mkdocs build` to build the site into `site/`.
+```
+mkdocs serve --livereload --open
+```
+
+## Buid the site:
+
+```
+mkdocs build --site-dir /path/to/destination
+```
