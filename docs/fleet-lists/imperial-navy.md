@@ -346,11 +346,11 @@ fielding battleships.*
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance Class Light Cruiser*</a></td>
+  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance Class Light Cruiser</a>*</td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant Class Light Cruiser*</a></td>
+  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant Class Light Cruiser</a>*</td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -637,7 +637,7 @@ for every three cruisers or battlecruisers.*
   <td>335 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Space Marine Battle barge*</a></td>
+  <td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Space Marine Battle barge</a>*</td>
   <td>425 pts</td>
 </tr>
 </tbody></table>
@@ -678,7 +678,7 @@ fleet for every cruiser.*
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Space Marine Strike Cruiser*</a></td>
+  <td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Space Marine Strike Cruiser</a>*</td>
   <td>145 pts</td>
 </tr>
 <tr>
@@ -686,11 +686,11 @@ fleet for every cruiser.*
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance class light cruiser**</a></td>
+  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance class light cruiser</a>**</td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant class light cruiser**</a></td>
+  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant class light cruiser</a>**</td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -710,27 +710,27 @@ fleet in squadrons of 2–6.*
   <td>35 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova Class Frigate*</a></td>
+  <td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova Class Frigate</a>*</td>
   <td>50 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)*</a></td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)</a>*</td>
   <td>45 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius Class Frigate*</a></td>
+  <td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius Class Frigate</a>*</td>
   <td>45 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer*</a></td>
+  <td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer</a>*</td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)*</a></td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)</a>*</td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)*</a></td>
+  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)</a>*</td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
