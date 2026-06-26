@@ -948,7 +948,7 @@ greatly enhancing its battle effectiveness. Roll on the following table:*
 
 !!! note "Editor's note"
 
-    This table is missing from the Fleets PDF but can be found on [p. 157](fleet-lists/assets/p157.pdf) of the original Battlefleet Gothic Rulebook.
+    This table is missing from the Fleets PDF but can be found on [p. 157 of the original Battlefleet Gothic Rulebook](assets/p157.pdf).
 
 | 2D6 | Troops |
 | :-: | --- |
