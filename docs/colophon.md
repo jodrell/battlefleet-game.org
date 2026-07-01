@@ -30,6 +30,10 @@ The maintainer of this site will not make any changes to the text, as it is inte
 the original documents. The only changes made are to add semantic hypertext markup to allow the
 user to navigate the site.
 
+!!! note "Editor's note"
+
+    Noteworthy amendments or comments will sometimes be called out in an Editor's note, like this one.
+
 If a change has been made to the text which should not have been made, you can report an error
 (see below). Otherwise, the best place to report a problem with the text is the [BFG Discord
 server](https://discord.gg/qUW4qMjdxc).
