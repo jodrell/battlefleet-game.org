@@ -421,7 +421,7 @@ cruisers in the fleet.*
 
 *You may include any number of escorts in your
 fleet in squadrons of 2–6, taken from both the
-Imperial Navy and Space Marines f leet lists
+Imperial Navy and Space Marines fleet lists
 for the point costs listed below but otherwise
 unmodified from their normal profiles.*
 
