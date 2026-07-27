@@ -6,7 +6,7 @@ Adeptus Mechanicus vessels follow all rules
 for [Imperial Navy](imperial-navy.md) vessels except specifically as
 outlined by the following.
 
-## Leadership
+### Leadership
 
 While the Adeptus Mechanicus have
 dedicated starship crews, they are led by
@@ -33,12 +33,12 @@ you get an extra one!). This option cannot
 be used if the vessel embarks an Archmagos
 Veneratus.
 
-## Attack Rating
+### Attack Rating
 
 The Adeptus Mechanicus have a starting
 [attack or initiative rating](../scenarios/index.md#using-an-attack-rating) of 2.
 
-## Boarding Actions and Hit-and-run-attacks
+### Boarding Actions and Hit-and-run-attacks
 
 While Mechanicus vessels have companies of
 Skitarii Troopers embarked aboard in place
@@ -54,7 +54,7 @@ roll stands. Mechanicus vessels (including
 battleships) do not normally utilize [assault
 boats](../the-ordnance-phase.md#assault-boats) or [boarding torpedoes](../the-end-phase.md#boarding-torpedoes).
 
-## Firing Upon Friendly Hulks
+### Firing Upon Friendly Hulks
 
 Every attempt will be made to recover a
 Mechanicus vessel that is lost. However, they
@@ -68,7 +68,7 @@ Mechanicus vessels shooting at Mechanicus
 drifting hulks, and not Imperial Navy, reserve
 or allied vessels in the fleet.
 
-## Vessels of the Adeptus Mechanicus
+### Vessels of the Adeptus Mechanicus
 
 *As the ability to efficiently produce long-range
 lance weaponry by Mars was perfected in late
@@ -89,7 +89,7 @@ Every Mechanicus cruiser (not light cruiser)
 is equipped with a single 60 cm range dorsal
 lance battery firing left/front/right.
 
-## Gifts of the Omnissiah
+### Gifts of the Omnissiah
 
 Adeptus Mechanicus vessels represent the very apex of Mankind's technical prowess, and they
 have access to resources and technology unavailable to the vast majority of the Imperium.
@@ -109,7 +109,7 @@ List. Re-roll any refit that is not applicable to the vessel.
 | 5 | **Gyro-stabilized Targeting Matrix:** Ship weapons are reduced to 75% instead of 50%when on [*All Ahead Full*](../the-rules.md#all-ahead-full), [*Come To New Heading*](../the-rules.md#come-to-new-heading) or [*Burn Retros*](../the-rules.md#burn-retros) special orders. [Nova Cannon](../the-shooting-phase.md#nova-cannon) still cannot fire. |
 | 6 | **Augmented Weapon Relays:** Weapon batteries shift left on the [gunnery table](../the-shooting-phase.md#gunnery-table) before all other modifiers are applied. [Lance](../the-shooting-phase.md#direct-firing-lances) hits count double on rolls of a 6. |
 
-## The Quest for Knowledge
+### The Quest for Knowledge
 
 Quick to incorporate recently-rediscovered
 technology before it is approved for
@@ -136,7 +136,6 @@ normally as desired, a fleet including any
 Adeptus Mechanicus capital ships must roll a
 single D6 against the following subplot table:
 
-
 | D6 ROLL | QUEST FOR KNOWLEDGE |
 | :-: | --- |
 | 1 | **Extended Duty:** The Quest for Knowledge can be long and arduous, sometimes seeing the fleet deep in unexplored space far away from logistical support for exceedingly long periods. Roll a D6 for each Mechanicus capital ship. On a 1 it takes D3 damage, on a 2 it suffers -1 Ld to take [*Lock On*](../the-rules.md#lock-on) or [*Reload*](../the-rules.md#reload-ordnance) special orders. Rolls of 3+ have no effect. You must destroy or cripple more enemy ships than you lose. (+1/0 [renown](../campaign-rules.md#renown)) |
@@ -146,7 +145,7 @@ single D6 against the following subplot table:
 | 5 | **The Prize:** Reliable sources have confirmed that an enemy ship contains an extremely valuable example of archaeotech, or possibly remnants of a working STC system! Even if the ship is only crippled, it will grant an easier venture to capture it. Nominate one enemy capital ship. You must cripple or destroy it. If the ship explodes, no renown is gained or lost. (+1/-2) |
 | 6 | **Experimental Ship:** Recovered ancient technology or alien artefacts are sometimes retrofitted to a ship to change its performance in one way or another. Sometimes the results are beneficial, but very rarely can such devices be accommodated without significant cost or sacrifice to the vessel. Pick one cruiser in the fleet. This vessel has been recently fitted with an experimental system that has not yet been tested operationally. These modifications are in addition to any refits taken normally by a Mechanicus vessel. Roll a D6 on the following two tables to see how the ship has been altered (Re-roll any result that cannot be applied to the vessel). This ship must not be crippled or destroyed so that it can be examined to review its performance. (+1/-1) <table><thead><tr><th align=center>D6 ROLL</th><th align=left>IMPROVEMENT</th></tr><tbody><tr><td>1</td><td>All weapons (except [ordnance](../the-ordnance-phase.md)) increase maximum range by +15 cm.</td></tr><tr><td>2</td><td>The ship gains +1 [Shield](../the-shooting-phase.md#shields).</td></tr><tr><td>3</td><td>All [turrets](../the-ordnance-phase.md#turrets) re-roll misses when defending against ordnance.</td></tr><tr><td>4</td><td>The ship can [turn](../the-movement-phase.md#turning) an additional +45 degrees.</td></tr><tr><td>5</td><td>All friendly vessels within 15 cm gain an additional +1 [leadership](../the-rules.md#leadership) when the enemy is on [special orders](../the-rules.md#special-orders) (max 10).</td></tr><tr><td>6</td><td>Dorsal or prow [lances](../the-shooting-phase.md#direct-firing-lances) ignore [shields](../the-shooting-phase.md#shields) on a roll of 6.</td></tr></tbody></table><table><thead><tr><th align=center>D6 ROLL</th><th align=left>SIDE EFFECT</th></tr><tbody><tr><td>1</td><td>[Weapons battery](../the-shooting-phase.md#direct-firing-weapons-batteries) firepower and [lance](../the-shooting-phase.md#direct-firing-lances) strength reduced by 50% (rounding up).</td></tr><tr><td>2</td><td>The ship loses 2 hit points.</td></tr><tr><td>3</td><td>The ship loses 2 [turrets](../the-ordnance-phase.md#turrets) (this is after adding the +1 turret all Mechanicus capital ships are equipped with).</td></tr><tr><td>4</td><td>The ship must move an additional 5 cm before it can turn.</td></tr><tr><td>5</td><td>The ship loses 5 cm speed.</td></tr><tr><td>6</td><td>Dorsal or prow [lances](../the-shooting-phase.md#direct-firing-lances) can only hit targets on a roll of 6.</td></tr></tbody></table> |
 
-## Weapons of the Adeptus Mechanicus
+### Weapons of the Adeptus Mechanicus
 
 *The Forge Worlds of the Adeptus Mechanicus
 have at their disposal weapon fabrication
@@ -182,7 +181,7 @@ prow armour to 6+ at no cost. However, if
 this option is taken, their turning radius is
 reduced to 45 degrees.
 
-## Escorts
+### Escorts
 
 You may have any number of Adeptus
 Mechanicus escorts in the fleet, chosen from
@@ -212,7 +211,7 @@ Imperial Navy or Space Marine vessels
 painted for another fleet and call them
 Mechanicus vessels!
 
-## Reserves and Allies
+### Reserves and Allies
 
 Adeptus Mechanicus vessels can be used
 as reserves in any Imperial Navy or Space
@@ -270,7 +269,7 @@ in this manner must be taken from the same
 fleet list reserve capital ships are being drawn
 from.
 
-## Campaigns
+### Campaigns
 
 The Mechanicus refit that ships earn at the
 start of a campaign are the ones they keep
@@ -336,7 +335,7 @@ against the Mechanicus Gifts table the
 number of refits they are entitled to and apply
 them to their new flagship.
 
-### Mechanicus Promotions
+#### Mechanicus Promotions
 
 | Renown | Title | Ld | Notes |
 | :-: | --- | :-: | --- |
