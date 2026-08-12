@@ -90,7 +90,6 @@ nav:
   - Fleet Lists:
     - fleet-lists/index.md
     - fleet-lists/refits.md
-    - fleet-lists/ships/index.md
     - fleet-lists/imperial-navy.md
     - fleet-lists/space-marines.md
     - fleet-lists/adeptus-mechanicus.md
@@ -105,5 +104,6 @@ nav:
     - fleet-lists/tau.md
     - fleet-lists/planetary-defences.md
     - fleet-lists/additional-vessels.md
+    - fleet-lists/ships/index.md
   - acknowledgements.md
   - colophon.md
