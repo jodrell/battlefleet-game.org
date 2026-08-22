@@ -572,10 +572,10 @@ targeting almost impossible.
 There are two base sizes:
 small (32 mm diameter) and
 large (60 mm diameter). Any
-ship or defence with either 3
-or more [shields](the-shooting-phase.md#shields) OR greater
-than 10 Hits must use a
-large size base. However, any
+ship or defence with either
+3 or more [shields](the-shooting-phase.md#shields) OR 11 or
+more Hits must use a large
+size base. However, any
 capital ship can elect to use a
 large base and is considered
 to have Tractor Fields for
@@ -873,9 +873,9 @@ unless SPECIFICALLY stated otherwise.
 
 #### Under Fire -1
 
-If a ship has [Blast Markers](the-shooting-phase.md#blast-markers) in contact with
-its base, it is under fire and suffers a -1
-modifier to its Leadership. [Blast Markers](the-shooting-phase.md#blast-markers)
+If a ship has any [Blast Markers](the-shooting-phase.md#blast-markers) in contact
+with its base, it is under fire and suffers a
+-1 modifier to its Leadership. [Blast Markers](the-shooting-phase.md#blast-markers)
 are described more fully in the [Shooting](the-shooting-phase.md)
 section of the rules. For now it’s simply worth
 knowing that they represent weapon impacts,

@@ -107,15 +107,14 @@ launchers and attack craft bays normally.
     craft](#attack-craft) fuelled and ready to go.
 
     However, once the ship has launched
-    its ordnance it must use the [*Reload
-    Ordnance*](the-rules.md#reload-ordnance) special order before it
-    can launch ordnance again. If the
-    ordnance is successfully reloaded
-    and it may launch ordnance in the
-    [Shooting Phase](the-shooting-phase.md), or keep the ordnance
-    ready for launch in a later turn. Use
-    the fleet roster to keep track of which
-    vessels have ordnance loaded.
+    its ordnance it must use the Reload
+    Ordnance special order before it can
+    launch ordnance again. If the ordnance
+    is successfully reloaded it may launch
+    ordnance in the [Shooting Phase](the-shooting-phase.md), or keep
+    the ordnance ready for launch in a later
+    turn. Use the fleet roster to keep track
+    of which vessels have ordnance loaded.
 
 ## Moving Ordnance
 
@@ -271,8 +270,8 @@ the torpedoes travel.
 
 A torpedo salvo (regardless
 of strength) is represented
-with a the original Strength
-3 marker with one or
+with the original Strength-3
+marker with one or
 more D6 indicating the
 actual salvo strength.
 For specific dimensions,
@@ -284,7 +283,7 @@ the end of its movement in
 the turn of launch so that it is
 completely within the correct
 fire arc. Now retrace the
-markers movement, reducing
+marker's movement, reducing
 its strength and conducting
 ordnance interactions as
 appropriate to prevent
@@ -698,7 +697,7 @@ cruiser moves in base contact with. This
 includes [resilient](the-ordnance-phase.md#resilient-attack-craft) bombers such as [Mantas](fleet-lists/tau.md#mantas).
 
 Multi-role ordnance markers that can
-still act as fighters on CAP are capable of
+act as fighters on CAP but are capable of
 attacking ships (such as [Fighta-Bommas](fleet-lists/orks.md#fighta-bommas) and
 [Thunderhawks](fleet-lists/space-marines.md#thunderhawk-gunships)) can only attack ships during
 the Ordnance Phase unless an attacking
