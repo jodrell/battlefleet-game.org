@@ -9,7 +9,7 @@ v1.11 [Rulebook](the-rules.md) and [fleets book](fleet-lists/index.md).
 ## How was it created?
 
 This website is hosted on [GitHub Pages](https://pages.github.com/) and
-is generated from its [Markdown source code](https://github.com/jodrell/bfg)
+is generated from its [Markdown source code](https://github.com/jodrell/battlefleet-game.org)
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 The text and images were extracted from the
