@@ -4,7 +4,7 @@
 
 This website is a mobile-friendly, web-based version of the
 [*Battlefleet Gothic: Remastered*](https://wh40k.lexicanum.com/wiki/Battlefleet_Gothic_Remastered)
-v1.10 [Rulebook](the-rules.md) and [fleets book](fleet-lists/index.md).
+v1.11 [Rulebook](the-rules.md) and [fleets book](fleet-lists/index.md).
 
 ## How was it created?
 
@@ -32,7 +32,7 @@ user to navigate the site.
 
 !!! note "Editor's note"
 
-    Noteworthy amendments or comments will sometimes be called out in an Editor's note, like this one.
+    Noteworthy amendments or comments will sometimes be called out in an "Editor's note", like this one.
 
 If a change has been made to the text which should not have been made, you can report an error
 (see below). Otherwise, the best place to report a problem with the text is the [BFG Discord
