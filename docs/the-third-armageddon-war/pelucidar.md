@@ -16,16 +16,15 @@ their strength will soon increase and threaten to overwhelm the Imperial force.*
 
 The Imperial player may have a fleet of up to
 1500 points, but may only choose Cruisers,
-Battlecruisers and Battleships from his fleet list.
-Up to four Minefields may also be purchased.
-Historically, only Armageddon-class Battleships
-were featured in this battle, but there is no
-reason that an Imperial player cannot use other
-classes just to ‘see what would have happened’.
+Battlecruisers and Battleships from his
+fleet list. Up to four Minefields may also be
+purchased. Historically, only Armageddon-class Battlecruisers were featured in this
+battle, but there is no reason that an
+Imperial player cannot use other classes
+just to ‘see what would have happened’.
 
-The Ork player starts with no ships
-at all and will receive his fleet
-randomly throughout the battle.
+The Ork player starts with no ships at all and will
+receive his fleet randomly throughout the battle.
 
 ## Battlezone
 

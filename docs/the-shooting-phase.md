@@ -559,23 +559,25 @@ If a [squadron](squadrons.md) has a firepower value greater than 20, look up 20 
 A ship can elect to split the
 firepower of its [weapon
 batteries ](the-shooting-phase.md#direct-firing-weapons-batteries)or [lances](the-shooting-phase.md#direct-firing-lances) between
-several enemy vessels, but
-only after halving the effect
-of the weaponry as a result
-of [special orders](the-rules.md#special-orders), [crippling
-damage](the-shooting-phase.md#crippled-ships) and so on.
+several enemy vessels.
+If the effect of weaponry
+is halved as a result of
+[special orders](the-rules.md#special-orders), [crippling
+damage](the-shooting-phase.md#crippled-ships) and so on, this
+applies before firepower
+is split between targets.
 
 You cannot split weapons
 battery or lance fire of any
 type at a single target!
 
-Ships with multiple weapons
-in a given fire arc may
-split their weapon strength
-between two or more
-targets but must still make
-a [leadership check](the-rules.md#other-leadership-tests) to fire on
-any target besides the closest.
+Ships with multiple weapons in
+a given fire arc may split their
+weapon strength between two
+or more targets but must still
+make a [leadership check](the-rules.md#other-leadership-tests) to fire
+on any target besides the closest.
+
 
 !!! note ""
 
@@ -613,19 +615,17 @@ any target besides the closest.
 
 A nova cannon is a huge
 weapon, normally mounted
-in the prow of a ship so
-that the recoil it generates
-can be compensated for
-by the vessel’s engines.
-It fires a projectile at
-incredible velocity, using
-graviometric impellers
-to accelerate it to close to
-light speed. The projectile
-implodes at a preset distance
-after firing, unleashing a
-force more potent than a
-dozen plasma bombs.
+in the prow of a ship so that
+the recoil it generates can be
+compensated for by the vessel’s
+engines. It fires a projectile
+at incredible velocity, using
+graviometric impellers to
+accelerate it to close to light
+speed. The projectile implodes
+at a preset distance after firing,
+unleashing a force more potent
+than a dozen plasma bombs.
 
 #### Nova Cannon Rules
 
@@ -654,30 +654,36 @@ on a single enemy vessel
 and can be placed so that it
 touches more than one ship.
 
+However, a leadership test
+must be made if the closest
+target greater than 30 cm
+is not at least partially
+under the template, and
+the template must not
+touch any friendly ships.
+
 When the template is placed,
 check the range. If placed
-within 45 cm, roll a scatter
-die and 1D6. Roll 2D6 if the
-range is between 45 cm to
-60 cm, and 3D6 if the range
-is beyond 60 cm. Move the
-template a number of cm
-rolled by the dice in the
-direction of the scatter
-die roll. If the scatter die
-rolls a “hit”, the template
+within 45 cm, roll a scatter die
+and 1D6. Roll 2D6 if the range
+is between 45 cm to 60 cm,
+and 3D6 if the range is beyond
+60 cm. Move the template a
+number of cm rolled by the
+dice in the direction of the
+scatter die roll. If the scatter
+die rolls a “hit”, the template
 remains where placed.
 
 After the attacking player
-designates which target
-is being fired on, the
-defending player must
-decide whether or not to
-[brace](the-rules.md#brace-for-impact) ships or [squadrons](squadrons.md)
-BEFORE the weapon is
-fired. This includes targets
-the weapon may hit due to
-miss distance or scatter.
+designates which target is
+being fired on, the defending
+player must decide whether
+or not to [brace](the-rules.md#brace-for-impact) ships or
+[squadrons](squadrons.md) BEFORE the
+weapon is fired. This includes
+targets the weapon may hit
+due to miss distance or scatter.
 
 Any target that is in base
 contact of the template after
@@ -872,7 +878,7 @@ simply drifts helplessly.
 
 A ship which loses half its
 damage points is crippled.
-Being crippled halves
+Being crippled halves (rounding up)
 [shields](the-shooting-phase.md#shields), [turrets](the-ordnance-phase.md#turrets), [ordnance](the-ordnance-phase.md),
 all weapons and affects
 [boarding](the-end-phase.md#boarding-actions). This effect is
@@ -955,11 +961,14 @@ for any damage caused by a critical hit.
 any reason, such as during a boarding
 action, are automatically destroyed.
 
-**Note:** Whenever ships are damaged,
-there’s a good chance that it will be serious.
-Therefore a check for critical damage is
-made for every point of damage scored
-on a ship, no matter what its source is.
+**Note:** Whenever ships are damaged, there’s a
+good chance that it will be serious. Therefore
+a check for critical damage is made for
+every point of damage scored on a ship, no
+matter what its source is. Exceptions to this
+are explicitly noted, e.g. no further critical
+hits for any damage caused by a critical hit,
+or on damage cause by a boarding result.
 
 Critical hits that can be repaired are
 cumulative; meaning ships that take a
@@ -1135,7 +1144,7 @@ previous round of shooting.
 When ships have [stacked or
 overlapping bases](the-movement-phase.md#stacking-ships-and-escort-squadrons), there is no
 limitation to the number of
-ship’s shields a Blast Marker
+ships' shields a Blast Marker
 can take down if one of them is
 in contact with Blast Markers.
 A ship overlapping a ship in

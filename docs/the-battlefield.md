@@ -740,14 +740,16 @@ special orders. They can also be combined
 with [*Come To New Heading*](the-rules.md#come-to-new-heading) special orders.
 
 This does not change the fact that the free
-turn can only be used before the start of
-the move and again only at the end of the
-move. In either or both instance(s) the
-ship must actually be in the gravity well
-to use it, and the free turn is only toward
-the centre of the planet’s or moon’s gravity
-well or toward a space hulk’s stem or no
-more than 45 degrees, whichever is less.
+turn can only be used before the start of the
+move and again only at the end of the move.
+In either or both instance(s) the ship must
+actually be in the gravity well to use it, and
+the free turn can only be taken toward the
+centre of the planet’s or moon’s gravity well
+or toward a space hulk’s stem and up to a
+maximum of 45 degrees. It may not be used
+to turn away from the centre again, even
+if it means turning less than 45 degrees.
 
 A ship within a planet’s gravity well may
 elect to enter high or [low orbit](the-battlefield.md#fighting-in-low-orbit). A ship does
@@ -971,9 +973,9 @@ upon the size of the planet: small = 5 cm;
 medium = 8 cm; large = 10 cm. Any ship that
 moves off of the planet table edge in this way
 is totally destroyed. Escorts and transports
-which voluntarily move off the planet edge
-are said to have landed and are removed from
-play; [capital ships](the-rules.md#capital-ships) cannot land. If a ship in
+may voluntarily move off the planet edge and
+are said to have landed and removed from
+play; [capital ships](the-rules.md#capital-ships) cannot do this. If a ship in
 low orbit moves off the table from any other
 edge, it is assumed to have left low orbit and
 is placed back on the main table, touching the

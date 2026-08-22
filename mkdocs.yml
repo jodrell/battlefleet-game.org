@@ -1,6 +1,6 @@
 site_name: "Battlefleet Gothic: Remastered"
 site_url: https://battlefleet-game.org/
-site_description: "Online version of the Battlefleet Gothic: Remastered Rulebook (v1.10)"
+site_description: "Online version of the Battlefleet Gothic: Remastered Rulebook)"
 
 theme:
   name: material

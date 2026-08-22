@@ -1,0 +1,783 @@
+--- Battlefleet Gothic Remastered Official Rulebook (v1.10).txt	2026-06-18 10:36:40
++++ Battlefleet Gothic Remastered Official Rulebook (v1.11).txt	2026-08-22 14:07:19
+@@ -27,18 +27,18 @@
+ The creator of this document is in no way affiliated with
+ Games Workshop and it is 100% unofficial.
+ The content within is a fan project and made for personal use only.
+-v1.10
++v1.11
+ 
+-Created by Simon Saier
++Remastered project created by Simon Saier
+ Many thanks to all the great people of the BFG Discord server which are constantly
+ providing error reports and feedback to improve this book further.
+-ATTENTION: As more and more people read it and provide feedback, we noted several
+-cases of poorly worded or contradicting rules which were never addressed before. Wherever
+-this happened, we tried to solve it to the best of our possibilities, including contacting
+-members of the old High Admiralty (which was responsible for the 2010 FAQ/Errata)
+-and even Andy Chambers pitched in for an answer from time to time. As such, wording
+-of this document may differ from the original sources. These changes are noted down in
+-the FAQ runs of 2021-2022 and 2023-2024, maintained by Roy 'horizon' Amkreutz
++ATTENTION: As more and more people read it and provide feedback, we noted several cases
++of poorly worded or contradicting rules which were never addressed before. Wherever this
++happened, we tried to solve it to the best of our possibilities, including contacting members
++of the old High Admiralty (which was responsible for the 2010 FAQ/Errata) and even Andy
++Chambers pitched in for an answer from time to time. As such, wording of this document
++may differ from the original sources. These changes are noted down in the collected FAQs
++2016-2024, as well as the ongoing 2026 FAQ, all maintained by Roy 'horizon' Amkreutz
+ 
+ The goal of this project was to compile the 2007 digital rulebook and the 2010
+ Compendium into one document with updated layout and artwork, and without
+@@ -67,7 +67,7 @@
+ was lost in the cataclysmic wars of the Age of Strife. Led by the Immortal God-Emperor and
+ his sacred Primarchs ten millennia ago Mankind rose again from the mire of barbarism and
+ cast back the darkness in the legendary times of the Great Crusade. A new age was forged,
+-the Age of the lmperium.
++the Age of the Imperium.
+ The glittering achievements of the Dark Age of Technology have been all but lost, obscured
+ by uncounted centuries of superstition and fear. The worlds of Man are scattered across the
+ galaxy with vast gulfs of wilderness space separating one from another. But the Age of the
+@@ -89,8 +89,8 @@
+ evil were defeated and driven forth from the sight of Man to join with their foul masters in
+ the outer dark. Ten thousand years has not slaked their thirst for vengeance and their plots
+ to bring ruin upon Mankind are pursued with undimmed malice.
+-This the Age of the lmperium. A time of war and carnage among the stars, of great fleets and
+-mighty armies, selfless heroism and blackest infamy.
++This the Age of the Imperium. A time of war and carnage among the stars, of great fleets
++and mighty armies, selfless heroism and blackest infamy.
+ If you dare enter these dark times, read on.
+ 
+ 6
+@@ -99,8 +99,8 @@
+ Welcome to Battlefleet Gothic, the game of
+ spaceship combat set during the Gothic War
+ in the 41st millennium: a grim time when the
+-lmperium of Mankind battles for survival in a
+-hostile galaxy. Battlefield Gothic allows you to
++Imperium of Mankind battles for survival in a
++hostile galaxy. Battlefleet Gothic allows you to
+ command fleets of warships in deadly combat
+ among the stars, though whether as Mankind’s
+ saviour or its destroyer remains to be seen.
+@@ -298,12 +298,12 @@
+ THE GALAXY OF THE
+ ST
+ 41 MILLENNIUM
+-For ten thousand years the lmperium of Man has endured,
++For ten thousand years the Imperium of Man has endured,
+ under the rule and guidance of the Immortal Emperor of
+ Terra. Humanity populates over a million worlds stretched
+ across the entire galaxy, fighting for survival against hideous
+ nether-entities, hostile aliens and rebellion from within. To live
+-in the Age of the lmperium is to live in troubled times; wars
++in the Age of the Imperium is to live in troubled times; wars
+ are commonplace and millions die each day, as the Emperor’s
+ faithful servants lay down their lives for the future of Humanity.
+ The Imperium is so vast as to be beyond mortal comprehension. It is spread
+@@ -740,7 +740,7 @@
+ faith, scouring their friends and loved ones
+ to atone for real or imagined sins against
+ the Emperor. Yet it was to no avail. Fleet
+-­Admiral Bratha, when sending a message
++Admiral Bratha, when sending a message
+ to the naval base at Port Maw, lamented:
+ “And still the warp swirls and rages and the
+ situation becomes ever more desperate.”
+@@ -1134,7 +1134,7 @@
+ Twenty capital ships, including
+ two Despoiler class battleships
+ and a score of escorting
+-vessels, swept through Reba’s
++vessels, swept through Rebo’s
+ outer defences and attacked
+ Blackstone IV itself.
+ The battle was short and
+@@ -1388,7 +1388,7 @@
+ they’re building up energy
+ to fire, even at this range.
+ 3rd Watch, 1st day of
+-Sanacleus, lmmaterium.
++Sanacleus, Immaterium.
+ We have left behind what
+ remains of Lukitar station.
+ The captured Blackstone
+@@ -2251,7 +2251,7 @@
+ games! As you come across situations that you’re
+ not sure how to deal with, look up the relevant
+ section and read the rules as you are playing.
+-In particular, the sections on Unit Types,
++In particular, the sections on Ship Types,
+ Leadership Tests, The Turn, The Movement Phase,
+ The Shooting Phase, The Ordnance Phase and
+ The End Phase contain all the core rules you need
+@@ -2960,10 +2960,10 @@
+ There are two base sizes:
+ small (32 mm diameter) and
+ large (60 mm diameter). Any
+-ship or defence with either 3
+-or more shields OR greater
+-than 10 Hits must use a
+-large size base. However, any
++ship or defence with either
++3 or more shields OR 11 or
++more Hits must use a large
++size base. However, any
+ capital ship can elect to use a
+ large base and is considered
+ to have Tractor Fields for
+@@ -3053,12 +3053,15 @@
+ or squadron, declaring the order and
+ rolling leadership, then moving it.
+ 
++﻿
++
+ All Ahead Full:
+ 
+ A ship going All Ahead
+ Full directs more power
+ to its engines to produce
+ an extra burst of speed.
++
+ Effect: Increased speed, but must
+ move the full movement distance.
+ Requirement for attempting to ram.
+@@ -3068,6 +3071,8 @@
+ Armament: Half effect. No Nova Cannon.
+ Ordnance: Full effect.
+ 
++﻿
++
+ Come to New Heading:
+ The ship sacrifices
+ opportunities to fire
+@@ -3086,6 +3091,8 @@
+ 
+ 46
+ 
++﻿
++
+ Burn Retros:
+ 
+ The ship directs additional
+@@ -3093,6 +3100,7 @@
+ in order to kill some of
+ its forward momentum
+ and hold position.
++
+ Effect: Decreased speed. Can make a single
+ turn without having to move forward first.
+ Speed: Zero to half cruising speed.
+@@ -3100,6 +3108,8 @@
+ Armament: Half effect. No Nova Cannon.
+ Ordnance: Full effect.
+ 
++﻿
++
+ Lock On:
+ 
+ The ship maintains a
+@@ -3107,6 +3117,7 @@
+ additional energy from its
+ engines to fire its armament
+ in multiple salvoes.
++
+ Effect: Re-roll hit rolls for lances and weapon
+ batteries during the Shooting Phase.
+ Speed: Half to full cruising speed.
+@@ -3129,6 +3140,8 @@
+ Armament: Full effect.
+ Ordnance: Full effect.
+ 
++﻿
++
+ Brace For Impact!
+ 
+ The captain of the vessel
+@@ -3244,9 +3257,9 @@
+ 
+ Under Fire -1
+ 
+-If a ship has Blast Markers in contact with
+-its base, it is under fire and suffers a -1
+-modifier to its Leadership. Blast Markers
++If a ship has any Blast Markers in contact
++with its base, it is under fire and suffers a
++-1 modifier to its Leadership. Blast Markers
+ are described more fully in the Shooting
+ section of the rules. For now it’s simply worth
+ knowing that they represent weapon impacts,
+@@ -4501,21 +4514,22 @@
+ A ship can elect to split the
+ firepower of its weapon
+ batteries or lances between
+-several enemy vessels, but
+-only after halving the effect
+-of the weaponry as a result
+-of special orders, crippling
+-damage and so on.
++several enemy vessels.
++If the effect of weaponry
++is halved as a result of
++special orders, crippling
++damage and so on, this
++applies before firepower
++is split between targets.
+ You cannot split weapons
+ battery or lance fire of any
+ type at a single target!
+-Ships with multiple weapons
+-in a given fire arc may
+-split their weapon strength
+-between two or more
+-targets but must still make
+-a leadership check to fire on
+-any target besides the closest.
++Ships with multiple weapons in
++a given fire arc may split their
++weapon strength between two
++or more targets but must still
++make a leadership check to fire
++on any target besides the closest.
+ 
+ Special Order:
+ Lock On
+@@ -4551,19 +4565,17 @@
+ NOVA CANNON
+ A nova cannon is a huge
+ weapon, normally mounted
+-in the prow of a ship so
+-that the recoil it generates
+-can be compensated for
+-by the vessel’s engines.
+-It fires a projectile at
+-incredible velocity, using
+-graviometric impellers
+-to accelerate it to close to
+-light speed. The projectile
+-implodes at a preset distance
+-after firing, unleashing a
+-force more potent than a
+-dozen plasma bombs.
++in the prow of a ship so that
++the recoil it generates can be
++compensated for by the vessel’s
++engines. It fires a projectile
++at incredible velocity, using
++graviometric impellers to
++accelerate it to close to light
++speed. The projectile implodes
++at a preset distance after firing,
++unleashing a force more potent
++than a dozen plasma bombs.
+ 
+ Nova Cannon Rules
+ 
+@@ -4581,21 +4593,27 @@
+ line. Use the larger hole in
+ the centre of the template
+ if there are two sizes.
++When firing, the template is
++placed anywhere desired so
++that its edge is between 30150 cm from the firing vessel
++in its specified firing arc.
+ 
+-direction of the scatter
+-die roll. If the scatter die
+-rolls a “hit”, the template
++and 3D6 if the range is beyond
++60 cm. Move the template a
++number of cm rolled by the
++dice in the direction of the
++scatter die roll. If the scatter
++die rolls a “hit”, the template
+ remains where placed.
+ After the attacking player
+-designates which target
+-is being fired on, the
+-defending player must
+-decide whether or not to
+-brace ships or squadrons
+-BEFORE the weapon is
+-fired. This includes targets
+-the weapon may hit due to
+-miss distance or scatter.
++designates which target is
++being fired on, the defending
++player must decide whether
++or not to brace ships or
++squadrons BEFORE the
++weapon is fired. This includes
++targets the weapon may hit
++due to miss distance or scatter.
+ Any target that is in base
+ contact of the template after
+ it is moved takes one hit. Any
+@@ -4610,23 +4628,22 @@
+ not contact a target after
+ being moved.
+ 
+-When firing, the template is
+-placed anywhere desired so
+-that its edge is between 30150 cm from the firing vessel
+-in its specified firing arc.
+ It does not have to be centred
+ on a single enemy vessel
+ and can be placed so that it
+ touches more than one ship.
++However, a leadership test
++must be made if the closest
++target greater than 30 cm
++is not at least partially
++under the template, and
++the template must not
++touch any friendly ships.
+ When the template is placed,
+ check the range. If placed
+-within 45 cm, roll a scatter
+-die and 1D6. Roll 2D6 if the
+-range is between 45 cm to
+-60 cm, and 3D6 if the range
+-is beyond 60 cm. Move the
+-template a number of cm
+-rolled by the dice in the
++within 45 cm, roll a scatter die
++and 1D6. Roll 2D6 if the range
++is between 45 cm to 60 cm,
+ 
+ In the diagram above the
+ Steadfast, a Dominator class
+@@ -4816,8 +4833,9 @@
+ A ship which loses half its
+ damage points is crippled.
+ Being crippled halves
+-shields, turrets, ordnance,
+-all weapons and affects
++(rounding up) shields,
++turrets, ordnance, all
++weapons and affects
+ boarding. This effect is
+ cumulative if the ship is
+ braced, meaning if a ship is
+@@ -4890,11 +4908,14 @@
+ Escort ships which suffer a critical hit for
+ any reason, such as during a boarding
+ action, are automatically destroyed.
+-Note: Whenever ships are damaged,
+-there’s a good chance that it will be serious.
+-Therefore a check for critical damage is
+-made for every point of damage scored
+-on a ship, no matter what its source is.
++Note: Whenever ships are damaged, there’s a
++good chance that it will be serious. Therefore
++a check for critical damage is made for
++every point of damage scored on a ship, no
++matter what its source is. Exceptions to this
++are explicitly noted, e.g. no further critical
++hits for any damage caused by a critical hit,
++or on damage cause by a boarding result.
+ 
+ Critical hits that can be repaired are
+ cumulative; meaning ships that take a
+@@ -5137,7 +5158,7 @@
+ When ships have stacked or
+ overlapping bases, there is no
+ limitation to the number of
+-ship’s shields a Blast Marker
++ships' shields a Blast Marker
+ can take down if one of them is
+ in contact with Blast Markers.
+ A ship overlapping a ship in
+@@ -5349,6 +5370,8 @@
+ Iron Duke this turn will score
+ damage on the ship itself
+ because its shields are down.
++
++﻿
+ 
+ CATASTROPHIC DAMAGE
+ A ship with no hits left is effectively out of
+@@ -5574,35 +5597,25 @@
+ 73
+ 
+ Special Order: Reload Ordnance
+-
+-MOVING ORDNANCE
+-
+-However, once the ship has launched
+-its ordnance it must use the Reload
+-Ordnance special order before it
+-can launch ordnance again. If the
+-ordnance is successfully reloaded
+-and it may launch ordnance in the
+-Shooting Phase, or keep the ordnance
+-ready for launch in a later turn. Use
+-the fleet roster to keep track of which
+-vessels have ordnance loaded.
+-
+-All ordnance has a speed value that dictates
+-how far it moves during each Ordnance Phase.
+-Ordnance attacks are represented by markers
+-which are moved on the tabletop. Ordnance
+-markers in a wave or salvo must be spread in
+-contact with each other and cannot be stacked.
+-
+ Ordnance needs to be loaded and
+ armed in order to be launched. Ships
+ are considered to start the game
+ with torpedoes in tubes and attack
+ craft fuelled and ready to go.
+ 
++However, once the ship has launched
++its ordnance it must use the Reload
++Ordnance special order before it can
++launch ordnance again. If the ordnance
++is successfully reloaded it may launch
++ordnance in the Shooting Phase, or keep
++the ordnance ready for launch in a later
++turn. Use the fleet roster to keep track
++of which vessels have ordnance loaded.
++
+ 74
+ 
++MOVING ORDNANCE
+ In the Ordnance Phase players move and
+ attack with any ordnance they have launched
+ including ordnance launched on previous
+@@ -5610,6 +5623,12 @@
+ move ordnance so it’s important to know who
+ moves first. In this case the player whose turn
+ it is moves all their ordnance first.
++All ordnance has a speed value that dictates
++how far it moves during each Ordnance Phase.
++Ordnance attacks are represented by markers
++which are moved on the tabletop. Ordnance
++markers in a wave or salvo must be spread in
++contact with each other and cannot be stacked.
+ 
+ Ordnance and Blast Markers
+ 
+@@ -5743,8 +5762,8 @@
+ the torpedoes travel.
+ A torpedo salvo (regardless
+ of strength) is represented
+-with a the original Strength
+-3 marker with one or
++with the original Strength-3
++marker with one or
+ more D6 indicating the
+ actual salvo strength.
+ For specific dimensions,
+@@ -5756,7 +5775,7 @@
+ the turn of launch so that it is
+ completely within the correct
+ fire arc. Now retrace the
+-markers movement, reducing
++marker's movement, reducing
+ its strength and conducting
+ ordnance interactions as
+ appropriate to prevent
+@@ -6159,7 +6178,7 @@
+ cruiser moves in base contact with. This
+ includes resilient bombers such as Mantas.
+ Multi-role ordnance markers that can
+-still act as fighters on CAP are capable of
++act as fighters on CAP but are capable of
+ attacking ships (such as Fighta-Bommas and
+ Thunderhawks) can only attack ships during
+ the Ordnance Phase unless an attacking
+@@ -6663,6 +6682,10 @@
+ a ship-to-ship boarding action during the
+ enemy’s turn, though it may defend against
+ an enemy boarding action normally.
++Ships involved in boarding actions
++may not be shot at, nor can torpedoes
++be deliberately aimed at them. Attack
++craft also may not attack them.
+ 
+ Boarding Value
+ 
+@@ -6736,21 +6759,21 @@
+ Boarding Action Results
+ 
+ The player with the highest total score is the
+-winner. The losing ship suffers 1 point of
+-damage for each point it lost the combat by.
+-The total score is NOT limited to 6 and can
+-potentially result in a roll of up to 12 or more.
+-There is also a chance of each ship suffering
+-a critical hit during the fighting as shown
+-on the table below. If a ship is reduced
+-to 0 damage by a boarding action do not
+-roll on the Catastrophic Damage table,
+-instead the ship automatically becomes
+-a drifting hulk (exception: if a ship is
+-reduced to 0 damage by a critical hit, roll
+-for catastrophic damage as normal). Ships
+-which survive being boarded may move off
+-normally in their next Movement Phase.
++winner. The total score is NOT limited to 6 and
++can potentially result in a roll of up to 12 or more.
++The losing ship suffers 1 point of damage for each
++point it lost the combat by. Do not check normally
++for critical damage for any damage caused.
++Instead, there is a chance of each ship suffering
++a single critical hit during the fighting as shown
++on the table below. If a ship is reduced to 0
++damage by a boarding action do not roll on the
++Catastrophic Damage table, instead the ship
++automatically becomes a drifting hulk (exception:
++if a ship is reduced to 0 damage by a critical
++hit, roll for catastrophic damage as normal).
++Ships which survive being boarded may move
++off normally in their next Movement Phase.
+ RESULTS TABLE
+ Difference
+ in scores
+@@ -6880,7 +6903,7 @@
+ and escort squadrons it is
+ combining with in the action.
+ 
+-Escorts Ships Boarding
++Escort Ships Boarding
+ 
+ Escort ships can attempt to
+ board other ships using the
+@@ -7332,16 +7355,16 @@
+ In this example, the Unclean
+ is firing on a mixed squadron
+ including a Sword class frigate
+-and a Cobra class destroyer.
++(5+ armour) and a Cobra class
+ 
+ 98
+ 
+-Rolling three dice, it scores
+-a 4, 5 and 6. The 4 is good
+-enough to hit the Cobra
+-and is allocated to it, the 5
+-and 6 can hit the Sword and
+-both are allocated to that
++destroyer (4+ armour). Rolling
++three dice, it scores a 4, 5 and
++6. The 4 is good enough to hit
++the Cobra and is allocated to it,
++the 5 and 6 can hit the Sword
++and both are allocated to that
+ ship as it is a closer target.
+ 
+ CAPITAL SHIP
+@@ -7349,18 +7372,18 @@
+ Capital ships in a squadron
+ that are being fired upon
+ to the point that one of the
+-capital ships is destroyed
+-must roll for and apply
+-all critical damage before
+-counting as destroyed.
+-The easiest way to avoid
+-confusion is to roll each
+-D6 critical roll separately
++capital ships is destroyed must
++roll for and apply all critical
++damage before counting as
++destroyed. The easiest way
++to avoid confusion is to roll
++each D6 critical roll separately
+ while recording damage.
+ For example, if a squadron of
+ three Dauntless light cruisers
+-is fired upon by a squadron
+-of three Carnage cruisers and
++(1 shield and 6 HP each) is
++fired upon by a squadron of
++three Carnage cruisers and
+ takes a total of 13 hits, all
+ critical damage rolls must be
+ made for the first Dauntless
+@@ -7376,16 +7399,16 @@
+ total eight remaining hits to
+ be applied to the next closest
+ Dauntless light cruiser, with
+-shields, Blast Markers, etc.
+-still taking effect normally, for
+-a total of seven HP damage to
+-the second Dauntless, against
++shields, Blast Markers, etc. still
++taking effect normally, for a
++maximum of seven hits applied
++to the second Dauntless, against
+ which it rolls a D6 to check for
+ critical damage while applying
+ hits one at a time (after the
+-shield hit). This means at least
+-one hit would pass to the third
+-Dauntless even if the second
++shield hit). This means at
++least one hit would pass to the
++third Dauntless if the second
+ rolled no critical damage.
+ This rule in particular
+ applies to squadrons of ships
+@@ -8524,6 +8547,19 @@
+ distance from the edge of the planet template
+ and affects a ship’s manoeuvring as follows.
+ 
++Typical planetary templates:
++
++• Small planet (eg the size of Mercury,
++Pluto or Mars) – up to 15 cm diameter.
++• Medium planet (eg equivalent to Venus
++or Earth) – 16-25 cm diameter.
++
++• Large planet (eg the size of Saturn or
++Jupiter) – 26-50 cm(!) diameter.
++
++Typical gravity wells:
++
++column for gunnery purposes if it elects to
+ remain stationary. A ship that enters low
+ orbit, however, is removed from play and
+ (where the scenario requires it) is placed
+@@ -8531,14 +8567,7 @@
+ up from low orbit are placed touching
+ the outer edge of the planet template.
+ 
+-Typical planetary templates:
+-
+ Placement
+-
+-• Small planet (eg the size of Mercury,
+-Pluto or Mars) – up to 15 cm diameter.
+-• Medium planet (eg equivalent to Venus
+-or Earth) – 16-25 cm diameter.
+ 
+ Planets are usually so far apart that only
+ one will be placed on the tabletop, although
+@@ -8546,17 +8575,23 @@
+ scenarios you might want to place two
+ planets in shockingly close proximity.
+ 
+-• Large planet (eg the size of Saturn or
+-Jupiter) – 26-50 cm(!) diameter.
+-
+ RINGED PLANETS
+ 
+-Typical gravity wells:
+-
+-Small planet – up to 10 cm from template edge.
+ Medium planet – up to 15 cm
+ from template edge.
++
++Occasionally planets (usually the larger
++ones) have rings made up of gas, dust and
++asteroids. These are represented by gas
++and dust clouds and/or asteroid fields
++placed in a ring around the planet.
++
+ Large planet – up to 30 cm from template edge.
++
++Placement
++
++Small planet – up to 10 cm from template edge.
++
+ Ships within the gravity well of a planet may
+ make a free 45° turn at the beginning and end
+ of their move, but the turn must always be
+@@ -8569,28 +8604,21 @@
+ special orders. They can also be combined
+ with Come To New Heading special orders.
+ This does not change the fact that the free
+-turn can only be used before the start of
+-the move and again only at the end of the
+-move. In either or both instance(s) the
+-ship must actually be in the gravity well
+-to use it, and the free turn is only toward
+-the centre of the planet’s or moon’s gravity
+-well or toward a space hulk’s stem or no
+-more than 45 degrees, whichever is less.
++turn can only be used before the start of the
++move and again only at the end of the move.
++In either or both instance(s) the ship must
++actually be in the gravity well to use it, and
++the free turn can only be taken toward the
++centre of the planet’s or moon’s gravity well
++or toward a space hulk’s stem and up to a
++maximum of 45 degrees. It may not be used
++to turn away from the centre again, even
++if it means turning less than 45 degrees.
+ A ship within a planet’s gravity well may
+ elect to enter high or low orbit. A ship does
+ not have to move whilst it is in high orbit,
+ but such a stationary ship uses the defences
+-column for gunnery purposes if it elects to
+ 
+-Occasionally planets (usually the larger
+-ones) have rings made up of gas, dust and
+-asteroids. These are represented by gas
+-and dust clouds and/or asteroid fields
+-placed in a ring around the planet.
+-
+-Placement
+-
+ If there is a large planet on the table roll a
+ D6. On a 5 or 6 it has rings around it. Place
+ D3 rings around the planet, then roll a
+@@ -8792,9 +8820,9 @@
+ medium = 8 cm; large = 10 cm. Any ship that
+ moves off of the planet table edge in this way
+ is totally destroyed. Escorts and transports
+-which voluntarily move off the planet edge
+-are said to have landed and are removed from
+-play; capital ships cannot land. If a ship in
++may voluntarily move off the planet edge and
++are said to have landed and removed from
++play; capital ships cannot do this. If a ship in
+ low orbit moves off the table from any other
+ edge, it is assumed to have left low orbit and
+ is placed back on the main table, touching the
+@@ -13747,19 +13775,18 @@
+ 
+ The Imperial player may have a fleet of up to
+ 1500 points, but may only choose Cruisers,
+-Battlecruisers and Battleships from his fleet list.
+-Up to four Minefields may also be purchased.
+-Historically, only Armageddon-class Battleships
+-were featured in this battle, but there is no
+-reason that an Imperial player cannot use other
+-classes just to ‘see what would have happened’.
++Battlecruisers and Battleships from his
++fleet list. Up to four Minefields may also be
++purchased. Historically, only Armageddonclass Battlecruisers were featured in this
++battle, but there is no reason that an
++Imperial player cannot use other classes
++just to ‘see what would have happened’.
+ 
+ The Orks have the first turn in
+ the Defence of Pelucidar.
+ 
+-The Ork player starts with no ships
+-at all and will receive his fleet
+-randomly throughout the battle.
++The Ork player starts with no ships at all and will
++receive his fleet randomly throughout the battle.
+ 
+ BATTLEZONE
+ This battle is fought in the Outer Reaches
+@@ -14373,7 +14400,7 @@
+ the enemy trapped, the
+ Chaos fleet still presented
+ a fearsome amount of
+-firepower By dint of this
++firepower. By dint of this
+ cunning stunt Quarren
+ succeeded, first in dividing
+ the main fleet, and then,
+@@ -15292,7 +15319,7 @@
+ 2007 digital rules and updated with
+ the 2010 FAQ/Compendium.
+ 
+-This the Age of the lmperium. A time of war and
++This the Age of the Imperium. A time of war and
+ carnage among the stars, of great fleets and mighty
+ armies, selfless heroism and blackest infamy.
+ 

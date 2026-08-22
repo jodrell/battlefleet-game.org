@@ -258,14 +258,12 @@ and work your way up.
 *In this example, the Unclean
 is firing on a mixed squadron
 including a Sword class frigate
-and a Cobra class destroyer.*
-
-*Rolling three dice, it scores
-a 4, 5 and 6. The 4 is good
-enough to hit the Cobra
-and is allocated to it, the 5
-and 6 can hit the Sword and
-both are allocated to that
+(5+ armour) and a Cobra class destroyer (4+ armour). Rolling
+three dice, it scores a 4, 5 and
+6. The 4 is good enough to hit
+the Cobra and is allocated to it,
+the 5 and 6 can hit the Sword
+and both are allocated to that
 ship as it is a closer target.*
 
 ### Capital Ship Squadrons
@@ -273,19 +271,18 @@ ship as it is a closer target.*
 [Capital ships](the-rules.md#capital-ships) in a squadron
 that are being fired upon
 to the point that one of the
-capital ships is destroyed
-must roll for and apply
-all [critical damage](the-shooting-phase.md#critical-hits) before
-counting as destroyed.
-The easiest way to avoid
-confusion is to roll each
-D6 critical roll separately
+capital ships is destroyed must
+roll for and apply all [critical damage](the-shooting-phase.md#critical-hits) before counting as
+destroyed. The easiest way
+to avoid confusion is to roll
+each D6 critical roll separately
 while recording damage.
 
 *For example, if a squadron of
 three Dauntless light cruisers
-is fired upon by a squadron
-of three Carnage cruisers and
+(1 shield and 6 HP each) is
+fired upon by a squadron of
+three Carnage cruisers and
 takes a total of 13 hits, all
 [critical damage](the-shooting-phase.md#critical-hits) rolls must be
 made for the first Dauntless
@@ -300,16 +297,16 @@ destroyed, there remains a
 total eight remaining hits to
 be applied to the next closest
 Dauntless light cruiser, with
-[shields](the-shooting-phase.md#shields), [Blast Markers](the-shooting-phase.md#blast-markers), etc.
-still taking effect normally, for
-a total of seven HP damage to
-the second Dauntless, against
+[shields](the-shooting-phase.md#shields), [Blast Markers](the-shooting-phase.md#blast-markers), etc. still
+taking effect normally, for a
+maximum of seven hits applied
+to the second Dauntless, against
 which it rolls a D6 to check for
 [critical damage](the-shooting-phase.md#critical-hits) while applying
 hits one at a time (after the
-shield hit). This means at least
-one hit would pass to the third
-Dauntless even if the second
+shield hit). This means at
+least one hit would pass to the
+third Dauntless if the second
 rolled no critical damage.*
 
 This rule in particular

@@ -98,6 +98,11 @@ a ship-to-ship boarding action during the
 enemy’s turn, though it may defend against
 an enemy boarding action normally.
 
+Ships involved in boarding actions
+may not be shot at, nor can torpedoes
+be deliberately aimed at them. Attack
+craft also may not attack them.
+
 #### Boarding Value
 
 A ship’s boarding value is equal to the
@@ -141,22 +146,21 @@ modifiers from the following list.
 #### Boarding Action Results
 
 The player with the highest total score is the
-winner. The losing ship suffers 1 point of
-[damage](the-shooting-phase.md#damage) for each point it lost the combat by.
-The total score is NOT limited to 6 and can
-potentially result in a roll of up to 12 or more.
-
-There is also a chance of each ship suffering
-a [critical hit](the-shooting-phase.md#critical-hits) during the fighting as shown
-on the table below. If a ship is reduced
-to 0 damage by a boarding action do not
-roll on the [Catastrophic Damage table](the-shooting-phase.md#catastrophic-damage-table),
-instead the ship automatically becomes
-a drifting hulk (exception: if a ship is
-reduced to 0 damage by a critical hit, roll
-for catastrophic damage as normal). Ships
-which survive being boarded may move off
-normally in their next [Movement Phase](the-movement-phase.md).
+winner. The total score is NOT limited to 6 and
+can potentially result in a roll of up to 12 or more.
+The losing ship suffers 1 point of [damage](the-shooting-phase.md#damage) for each
+point it lost the combat by. Do not check normally
+for [critical hit](the-shooting-phase.md#critical-hits) for any damage caused.
+Instead, there is a chance of each ship suffering
+a single critical hit during the fighting as shown
+on the table below. If a ship is reduced to 0
+damage by a boarding action do not roll on the
+[Catastrophic Damage table](the-shooting-phase.md#catastrophic-damage-table), instead the ship
+automatically becomes a drifting hulk (exception:
+if a ship is reduced to 0 damage by a critical
+hit, roll for catastrophic damage as normal).
+Ships which survive being boarded may move
+off normally in their next [Movement Phase](the-movement-phase.md).
 
 ##### Results Table
 
@@ -248,7 +252,7 @@ values of the other ships
 and escort squadrons it is
 combining with in the action.
 
-#### Escorts Ships Boarding
+#### Escort Ships Boarding
 
 [Escort](the-rules.md#escorts) ships can attempt to
 board other ships using the
