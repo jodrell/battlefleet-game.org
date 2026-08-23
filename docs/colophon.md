@@ -13,12 +13,12 @@ is generated from its [Markdown source code](https://github.com/jodrell/battlefl
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 The text and images were extracted from the
-[original PDFs](https://github.com/jodrell/bfg/tree/main/docs/src) using
+[original PDFs](https://github.com/jodrell/battlefleet-game.org/tree/main/docs/src) using
 [pdftotext](https://linux.die.net/man/1/pdftotext) and
 [pdfimages](https://linux.die.net/man/1/pdfimages).
 
-When a change is pushed to the [git repository](https://github.com/jodrell/bfg),
-a [workflow](https://github.com/jodrell/bfg/blob/main/.github/workflows/ci.yml) generates a new
+When a change is pushed to the [git repository](https://github.com/jodrell/battlefleet-game.org),
+a [workflow](https://github.com/jodrell/battlefleet-game.org/blob/main/.github/workflows/ci.yml) generates a new
 version of the site and uploads it to GitHub's web server. Changes become visible within a minute
 or two.
 
@@ -42,9 +42,9 @@ server](https://discord.gg/qUW4qMjdxc).
 
 If there is a problem with the markup or navigation, there are two ways to fix it:
 
-1. [report an issue](https://github.com/jodrell/bfg/issues/new), and I'll fix it when I get round to it.
-2. [fork the repository](https://github.com/jodrell/bfg/fork), fix it yourself in your copy of the site, and
-then [submit a pull request](https://github.com/jodrell/bfg/compare).
+1. [report an issue](https://github.com/jodrell/battlefleet-game.org/issues/new), and I'll fix it when I get round to it.
+2. [fork the repository](https://github.com/jodrell/battlefleet-game.org/fork), fix it yourself in your copy of the site, and
+then [submit a pull request](https://github.com/jodrell/battlefleet-game.org/compare).
 
 [Markdown](https://www.markdownguide.org/getting-started/), the markup language this site uses,
 is very user-friendly and requires little technical knowledge to work with.
