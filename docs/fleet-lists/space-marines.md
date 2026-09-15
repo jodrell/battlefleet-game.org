@@ -675,20 +675,20 @@ vessels at all.
 ### Reserves and Allies
 
 A Space Marine Dominion Fleet has close ties
-with nearby Imperial Navy forces. Contrary
+with nearby [Imperial Navy](imperial-navy.md) forces. Contrary
 to the normal rules, a dominion fleet can take
 Imperial Navy vessels as normal reserves and
-reinforcements, including Adeptus Mechanicus
-and non-xenos Rogue Trader vessels. For
-purposes of choosing reserves, battle barges
+reinforcements, including [Adeptus Mechanicus](adeptus-mechanicus.md)
+and non-xenos [Rogue Trader](rogue-traders.md) vessels. For
+purposes of choosing [reserves](index.md#reserves), battle barges
 count as battleships, and strike cruisers count
 as cruisers for the selection of any cruiser
 (battlecruiser, etc.) type. When reserves are
 taken in this manner, the fleet can have up
 to twelve cruisers. However, in the course of
 a campaign, a Dominion Fleet cannot take
-reinforcements from the Space Marines table
-<!--listed on [??? -->] of the Battlefleet Gothic rulebook.
+[reinforcements](../campaign-rules.md#reinforcements) from the [Space Marines table](../campaign-rules.md#space-marines-table).
+<!--listed on [???] of the Battlefleet Gothic rulebook.-->
 
 ## Venerable Battle Barge
 
