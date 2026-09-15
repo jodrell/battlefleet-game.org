@@ -686,7 +686,7 @@ as cruisers for the selection of any cruiser
 (battlecruiser, etc.) type. When reserves are
 taken in this manner, the fleet can have up
 to twelve cruisers. However, in the course of
-a campaign, a Dominion Fleet cannot take
+a [campaign](../campaign-rules.md), a Dominion Fleet cannot take
 [reinforcements](../campaign-rules.md#reinforcements) from the [Space Marines table](../campaign-rules.md#space-marines-table).
 <!--listed on [???] of the Battlefleet Gothic rulebook.-->
 
