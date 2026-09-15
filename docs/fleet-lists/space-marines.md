@@ -699,7 +699,7 @@ fulfil the role of battle barge. Because of this, it is theoretically possible f
 fulfil this role, although the battle barges specially designed for the Space Marines by the Adeptus
 Mechanicus are the most common example. However, some older Chapters, particularly those
 dating back to the First Founding, maintain much more ancient and revered vessels dating back
-to a time when the Adeptus Astartes and the Imperial Navy were more closely united than they
+to a time when the Adeptus Astartes and the [Imperial Navy](imperial-navy.md) were more closely united than they
 are now and commonly employed reconfigured Navy vessels as battle barges. Such vessels are
 completely unique; indeed, some of them were later used as the basis for new Imperial Navy ship
 classes, and as such are greatly venerated by the Space Marines.*
@@ -708,23 +708,23 @@ classes, and as such are greatly venerated by the Space Marines.*
 some dire threat. Others simply retain vessels they received millennia ago or gained through other
 means. The Space Wolves, a traditionally minded Chapter, is more immersed in the customs
 of its homeworld of Fenris than most Chapters and has access to only the most rudimentary of
-shipyards, and they are perhaps the best known example of this, relying as they do on an Emperor
-class battleship to fulfil the role of battle barge.*
+shipyards, and they are perhaps the best known example of this, relying as they do on an [Emperor
+class battleship](ships/imperial-navy/emperor-class-battleship.pdf) to fulfil the role of battle barge.*
 
 ### Choosing a Battle Barge
 
 In addition to their fleet list, any Space Marine fleet may include a single – meaning only one! –
-Venerable battle barge, which may be any Imperial or Chaos (painted appropriately of course!)
+Venerable battle barge, which may be any [Imperial](imperial-navy.md) or [Chaos](chaos.md) (painted appropriately of course!)
 battleship, grand cruiser, battlecruiser or heavy cruiser (with the exception of any of the unique
-vessels like the *Terminus Est*). This replaces one of the battle barges allowed in the fleet. The
+vessels like the [*Terminus Est*](ships/chaos/terminus-est-death-guard-battle-barge.pdf)). This replaces one of the battle barges allowed in the fleet. The
 normal cost must be paid for the ship, plus an additional +35 points for the cost of the Space
 Marine crew. This vessel represents an ancient, revered icon or a vessel granted with special
 dispensation. It is worth 100 % victory points if crippled or 150 % victory points if destroyed.
 
 A Venerable battle barge benefits from all the Space Marine special rules, but since it is already
 heavily reconfigured to make it into a battle barge, it may not be given any of the optional refits or
-upgrades listed in its profile – it must be used exactly as is, in its basic form. For example, a Mars
-battlecruiser taken as a Venerable battle barge may not be given a salvaged targeting matrix and
+upgrades listed in its profile – it must be used exactly as is, in its basic form. For example, a [Mars
+battlecruiser](ships/imperial-navy/mars-class-battlecruiser.pdf) taken as a Venerable battle barge may not be given a salvaged targeting matrix and
 can only earn such a refit in the course of a campaign normally. The only exceptions to this are the
 special refits that the Space Marines themselves make to their battle barges, as follows:
 
