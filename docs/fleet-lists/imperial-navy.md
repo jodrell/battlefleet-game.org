@@ -116,11 +116,11 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 </tbody></table>
@@ -132,11 +132,11 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/mars-class-battlecruiser.html" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/overlord-class-battlecruiser.pdf" target="_new">Overlord class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/overlord-class-battlecruiser.html" target="_new">Overlord class battlecruiser</a></td>
   <td>220 pts</td>
 </tr>
 </tbody></table>
@@ -145,27 +145,27 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/dominator-class-cruiser.pdf" target="_new">Dominator class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dominator-class-cruiser.html" target="_new">Dominator class cruiser</a></td>
   <td>190 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless class light cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 </tbody></table>
@@ -177,15 +177,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/firestorm-class-frigate.html" target="_new">Firestorm class frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/sword-class-frigate.html" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra class destroyer</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/cobra-class-destroyer.html" target="_new">Cobra class destroyer</a></td>
   <td>30 pts</td>
 </tr>
 </tbody></table>
@@ -271,15 +271,15 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/apocalypse-class-battleship.pdf" target="_new">Apocalypse class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/apocalypse-class-battleship.html" target="_new">Apocalypse class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 </tbody></table>
@@ -293,27 +293,27 @@ fielding battleships.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/exorcist-class-grand-cruiser.pdf" target="_new">Exorcist class grand cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/exorcist-class-grand-cruiser.html" target="_new">Exorcist class grand cruiser</a></td>
   <td>230 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td>
   <td>230 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/avenger-class-grand-cruiser.pdf" target="_new">Avenger class grand cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/avenger-class-grand-cruiser.html" target="_new">Avenger class grand cruiser</a></td>
   <td>200 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/mars-class-battlecruiser.html" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/armageddon-class-battlecruiser.html" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/overlord-class-battlecruiser.pdf" target="_new">Overlord class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/overlord-class-battlecruiser.html" target="_new">Overlord class battlecruiser</a></td>
   <td>220 pts</td>
 </tr>
 </tbody></table>
@@ -322,35 +322,35 @@ fielding battleships.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless class light cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour Class Light Cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour Class Light Cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance Class Light Cruiser</a>*</td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endurance-class-light-cruiser.html" target="_new">Endurance Class Light Cruiser</a>*</td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant Class Light Cruiser</a>*</td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/defiant-class-light-cruiser.html" target="_new">Defiant Class Light Cruiser</a>*</td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -362,15 +362,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/firestorm-class-frigate.html" target="_new">Firestorm class frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/sword-class-frigate.html" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra class destroyer</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/cobra-class-destroyer.html" target="_new">Cobra class destroyer</a></td>
   <td>30 pts</td>
 </tr>
 </tbody></table>
@@ -625,15 +625,15 @@ for every three cruisers or battlecruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/apocalypse-class-battleship.pdf" target="_new">Apocalypse class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/apocalypse-class-battleship.html" target="_new">Apocalypse class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/oberon-class-battleship.pdf" target="_new">Oberon class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/oberon-class-battleship.html" target="_new">Oberon class battleship</a></td>
   <td>335 pts</td>
 </tr>
 <tr>
@@ -649,11 +649,11 @@ fleet for every cruiser.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/mars-class-battlecruiser.pdf" target="_new">Mars class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/mars-class-battlecruiser.html" target="_new">Mars class battlecruiser</a></td>
   <td>270 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/armageddon-class-battlecruiser.html" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 </tbody></table>
@@ -662,19 +662,19 @@ fleet for every cruiser.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td>
   <td>220 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
@@ -682,15 +682,15 @@ fleet for every cruiser.*
   <td>145 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour class light cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour class light cruiser</a></td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance class light cruiser</a>**</td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endurance-class-light-cruiser.html" target="_new">Endurance class light cruiser</a>**</td>
   <td>110 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant class light cruiser</a>**</td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/defiant-class-light-cruiser.html" target="_new">Defiant class light cruiser</a>**</td>
   <td>120 pts</td>
 </tr>
 </tbody></table>
@@ -702,11 +702,11 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm Class Frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/firestorm-class-frigate.html" target="_new">Firestorm Class Frigate</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/falchion-class-frigate.pdf" target="_new">Falchion Class Frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/falchion-class-frigate.html" target="_new">Falchion Class Frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
@@ -884,19 +884,19 @@ the fleet.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>(0-1) <a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td>
+  <td>(0-1) <a href="//ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td>
   <td>365 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td>
   <td>345 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/victory-class-battleship.pdf" target="_new">Victory class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/victory-class-battleship.html" target="_new">Victory class battleship</a></td>
   <td>345 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/vanquisher-class-battleship.pdf" target="_new">Vanquisher class battleship</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/vanquisher-class-battleship.html" target="_new">Vanquisher class battleship</a></td>
   <td>300 pts</td>
 </tr>
 </tbody></table>
@@ -908,15 +908,15 @@ fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/dominion-class-battlecruiser.pdf" target="_new">Dominion class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dominion-class-battlecruiser.html" target="_new">Dominion class battlecruiser</a></td>
   <td>260 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/mercury-class-battlecruiser.pdf" target="_new">Mercury class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/mercury-class-battlecruiser.html" target="_new">Mercury class battlecruiser</a></td>
   <td>255 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/armageddon-class-battlecruiser.pdf" target="_new">Armageddon class battlecruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/armageddon-class-battlecruiser.html" target="_new">Armageddon class battlecruiser</a></td>
   <td>235 pts</td>
 </tr>
 </tbody></table>
@@ -928,31 +928,31 @@ Endurance light cruisers taken in a Bakka fleet.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/dominator-class-cruiser.pdf" target="_new">Dominator class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/dominator-class-cruiser.html" target="_new">Dominator class cruiser</a></td>
   <td>190 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td>
   <td>185 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td>
   <td>180 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endeavour-class-light-cruiser-bakka.pdf" target="_new">Endeavour Class Light Cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser-bakka.html" target="_new">Endeavour Class Light Cruiser</a></td>
   <td>115 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/endurance-class-light-cruiser-bakka.pdf" target="_new">Endurance Class Light Cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/endurance-class-light-cruiser-bakka.html" target="_new">Endurance Class Light Cruiser</a></td>
   <td>115 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/siluria-class-light-cruiser.html" target="_new">Siluria Class Light Cruiser</a></td>
   <td>100 pts</td>
 </tr>
 </tbody></table>
@@ -964,15 +964,15 @@ fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td><a href="../ships/imperial-navy/havoc-class-frigate.pdf" target="_new">Havoc class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/havoc-class-frigate.html" target="_new">Havoc class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword class frigate</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/sword-class-frigate.html" target="_new">Sword class frigate</a></td>
   <td>35 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/imperial-navy/viper-class-destroyer.pdf" target="_new">Viper class destroyer</a></td>
+  <td><a href="//ships.battlefleet-game.org/imperial-navy/viper-class-destroyer.html" target="_new">Viper class destroyer</a></td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
@@ -1022,7 +1022,7 @@ or grand cruisers) always count toward the twelvecruiser fleet limit.*
 
 <table class=fleet-list><tbody>
 <tr>
-  <td>(0-1) <a href="../ships/imperial-navy/jovian-class-battlecruiser.pdf" target="_new">Jovian class battlecruiser</a></td>
+  <td>(0-1) <a href="//ships.battlefleet-game.org/imperial-navy/jovian-class-battlecruiser.html" target="_new">Jovian class battlecruiser</a></td>
   <td>260 pts</td>
 </tr>
 </tbody></table>
