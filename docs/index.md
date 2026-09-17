@@ -12,5 +12,5 @@ hide:
 </div>
 
 <div style="text-align:center;font-style:italic;font-size:smaller" markdown>
-[Acknowledgements](acknowledgements.md)&nbsp;&middot;&nbsp;[Colophon](colophon.md)
+[Acknowledgements](acknowledgements.md)&nbsp;&middot;&nbsp;[Colophon](colophon.md)&nbsp;&middot;&nbsp;[Ship Profiles](https://ships.battlefleet-game.org/)
 </div>
