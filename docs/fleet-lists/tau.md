@@ -285,7 +285,8 @@ If your fleets is worth more than 750 pts it must
 include at least one Explorer.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/galleath-explorer-class-starship.pdf" target="_new">Explorer class starship</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/galleath-explorer-class-starship--borkan-mk-xxiv-configuration.html" target="_new">Explorer class starship</a> (Bor’kan Mk XXIV Configuration)</td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/galleath-explorer-class-starship--vashya-mk-xxiii-configuration.html" target="_new">Explorer class starship</a> (Vash’ya Mk XXIII Configuration)</td><td>230 pts</td></tr>
 </tbody></table>
 
 
@@ -297,8 +298,10 @@ class starship for every Merchant or Explorer in
 the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/larshi-hero-class-starship.pdf" target="_new">Hero class starship</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/tau/ilfannor-merchant-class-starship.pdf" target="_new">Merchant class starship</a></td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--tolku-configuration.html" target="_new">Hero class starship</a> (T’olku Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Hero class starship</a> (Vash’ya Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -317,10 +320,10 @@ only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/sketherqan-messenger-class-starship.pdf" target="_new">Messenger class starship</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/tau/kirqath-defender-class-starship.pdf" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/tau/kirla-warden-class-gunship.pdf" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/tau/kassl-orca-gunship.pdf" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/sketherqan-messenger-class-starship.html" target="_new">Messenger class starship</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirqath-defender-class-starship.html" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirla-warden-class-gunship.html" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kassl-orca-gunship.html" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
@@ -366,7 +369,7 @@ if the fleet is worth 1500 points, or up to two
 Warspheres in games larger than that.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/kroot/warsphere.pdf" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/kroot/warsphere.html" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -376,9 +379,9 @@ Warspheres in games larger than that.*
 for every three Tau capital ships in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/demiurg/stronghold-commerce-vessel.pdf" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
-<tr><td><a href="../ships/demiurg/bastion-commerce-vessel.pdf" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
-<tr><td><a href="../ships/demiurg/citadel-commerce-vessel.pdf" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/stronghold-commerce-vessel.html" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/bastion-commerce-vessel.html" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/citadel-commerce-vessel.html" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
 </tbody></table>
 
 #### Nicassar Vessels
@@ -391,7 +394,7 @@ Dhows, but not both so the gravitic hook capacity
 of the fleet is divided between Orcas and Dhows.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/nicassar/dhow.pdf" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/nicassar/dhow.html" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
 </tbody></table>
 
 
@@ -423,8 +426,8 @@ If the fleet includes a Custodian, a Kor’O must
 lead it.*
 
 <table class=fleet-list><tbody>
-<tr><td>Tau Kor&#39;el (Ld 8)</td><td>50 pts</td></tr>
-<tr><td>Tau Kor&acirc;&#128;&#153;O (Ld 9)</td><td>80 pts</td></tr>
+<tr><td>Tau Kor'el (Ld 8)</td><td>50 pts</td></tr>
+<tr><td>Tau Kor'O (Ld 9)</td><td>80 pts</td></tr>
 </tbody></table>
 
 The commander has one re-roll included in his
@@ -434,8 +437,8 @@ therefore purchase additional re-rolls at the cost
 shown.
 
 <table class=fleet-list><tbody>
-<tr><td>Aun&acirc;&#128;&#153;el (one extra re-roll)</td><td>+25 pts</td></tr>
-<tr><td>Aun&acirc;&#128;&#153;O (two extra re-rolls)</td><td>+75 pts</td></tr>
+<tr><td>Aun'el (one extra re-roll)</td><td>+25 pts</td></tr>
+<tr><td>Aun'O (two extra re-rolls)</td><td>+75 pts</td></tr>
 </tbody></table>
 
 
@@ -453,8 +456,9 @@ Fleets of at least 1,500 points may include two
 Custodians.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/ores-elleath-custodian-class-battleship.pdf" target="_new">Custodian class starship</a></td><td>330 pts</td></tr>
-<tr><td><a href="../ships/tau/galleath-explorer-class-starship.pdf" target="_new">Explorer class starship</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ores-elleath-custodian-class-battleship.html" target="_new">Custodian class starship</a></td><td>330 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/galleath-explorer-class-starship--borkan-mk-xxiv-configuration.html" target="_new">Explorer class starship</a> (Bor’kan Mk XXIV Configuration)</td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/galleath-explorer-class-starship--vashya-mk-xxiii-configuration.html" target="_new">Explorer class starship</a> (Vash’ya Mk XXIII Configuration)</td><td>230 pts</td></tr>
 </tbody></table>
 
 
@@ -466,10 +470,15 @@ include up to one Hero class starship for every
 other type of capital ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/larshivre-protector-class-cruiser.pdf" target="_new">Protector class starship</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/tau/larshi-hero-class-starship.pdf" target="_new">Hero class starship</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/tau/ilporrui-emissary-class-envoy-ship.pdf" target="_new">Emissary class starship</a></td><td>110 pts</td></tr>
-<tr><td><a href="../ships/tau/ilfannor-merchant-class-starship.pdf" target="_new">Merchant class starship</a></td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshivre-protector-class-cruiser--tolku-configuration.html" target="_new">Protector class starship</a> (T’olku Configuration)</td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshivre-protector-class-cruiser--viorla-configuration.html" target="_new">Protector class starship</a> (Vior’la Configuration)</td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--tolku-configuration.html" target="_new">Hero class starship</a> (T’olku Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Hero class starship</a> (Vash’ya Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--borkan-configuration.html" target="_new">Emissary class starship</a> (Bork’an Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--dalyth-configuration.html" target="_new">Emissary class starship</a> (Dal’yth Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--sacea-configuration.html" target="_new">Emissary class starship</a> (Sa’cea Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
 </tbody></table>
 
 
@@ -489,11 +498,11 @@ only be equipped with Wardens and may not have
 other hook-transported escorts.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/kirshashvre-castellan-class-escort.pdf" target="_new">Castellan class starship</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/tau/sketherqan-messenger-class-starship.pdf" target="_new">Messenger class starship</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/tau/kirqath-defender-class-starship.pdf" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/tau/kirla-warden-class-gunship.pdf" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/tau/kassl-orca-gunship.pdf" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirshasvre-castellan-class-escort.html" target="_new">Castellan class starship</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/sketherqan-messenger-class-starship.html" target="_new">Messenger class starship</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirqath-defender-class-starship.html" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirla-warden-class-gunship.html" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kassl-orca-gunship.html" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -542,7 +551,7 @@ Warspheres do not count against cruiser limits
 in a Kor’vattra Fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/kroot/warsphere.pdf" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/kroot/warsphere.html" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 #### Demiurg Vessels
@@ -553,9 +562,9 @@ There cannot be more Stronghold than Bastion
 vessels in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/demiurg/stronghold-commerce-vessel.pdf" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
-<tr><td><a href="../ships/demiurg/bastion-commerce-vessel.pdf" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
-<tr><td><a href="../ships/demiurg/citadel-commerce-vessel.pdf" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/stronghold-commerce-vessel.html" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/bastion-commerce-vessel.html" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/citadel-commerce-vessel.html" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
 </tbody></table>
 
 #### Nicassar Vessels
@@ -571,9 +580,9 @@ or Emissary starship cannot count toward this
 total.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/nicassar/caravan.pdf" target="_new">Nicassar Caravan</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/nicassar/rig.pdf" target="_new">Nicassar Rig</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/nicassar/dhow.pdf" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/nicassar/caravan.html" target="_new">Nicassar Caravan</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/nicassar/rig.html" target="_new">Nicassar Rig</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/nicassar/dhow.html" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
 </tbody></table>
 
 The Dhows from each parent ship fight as a
@@ -599,13 +608,13 @@ single squadron of up to six Xenos escorts can be
 taken as per the Rogue Trader rules and fleet list.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/rogue-traders/rogue-trader-cruiser.pdf" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/xenos-vessel.pdf" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/recommissioned-escort.pdf" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/iconoclast-class-destroyer.pdf" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/rogue-trader-cruiser.html" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 
@@ -820,7 +829,7 @@ the purpose of the closest target.
 two cruiser-class vessels in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/demiurg/stronghold-commerce-vessel.pdf" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/stronghold-commerce-vessel.html" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
 </tbody></table>
 
 
@@ -831,15 +840,20 @@ cruisers. Demiurg Commerce Vessels must
 outnumber all non-Demiurg cruisers combined.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/demiurg/bastion-commerce-vessel.pdf" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
-<tr><td><a href="../ships/demiurg/citadel-commerce-vessel.pdf" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/tau/larshivre-protector-class-cruiser.pdf" target="_new">Protector class starship</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/rogue-trader-cruiser.pdf" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/tau/larshi-hero-class-starship.pdf" target="_new">Hero class starship</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/tau/ilporrui-emissary-class-envoy-ship.pdf" target="_new">Emissary class starship</a></td><td>110 pts</td></tr>
-<tr><td><a href="../ships/tau/ilfannor-merchant-class-starship.pdf" target="_new">Merchant class starship</a></td><td>95 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/bastion-commerce-vessel.html" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/citadel-commerce-vessel.html" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshivre-protector-class-cruiser--tolku-configuration.html" target="_new">Protector class starship</a> (T’olku Configuration)</td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshivre-protector-class-cruiser--viorla-configuration.html" target="_new">Protector class starship</a> (Vior’la Configuration)</td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/rogue-trader-cruiser.html" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--tolku-configuration.html" target="_new">Hero class starship</a> (T’olku Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Hero class starship</a> (Vash’ya Configuration)</td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--borkan-configuration.html" target="_new">Emissary class starship</a> (Bork’an Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--dalyth-configuration.html" target="_new">Emissary class starship</a> (Dal’yth Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--sacea-configuration.html" target="_new">Emissary class starship</a> (Sa’cea Configuration)</td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
 </tbody></table>
 
 #### Kroot Vessels (0–3)
@@ -855,7 +869,7 @@ thereof. These do not count against the number
 of cruisers in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/kroot/warsphere.pdf" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/kroot/warsphere.html" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -880,27 +894,27 @@ be mixed in the same squadrons.*
 #### Tau Escorts
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/tau/kirshashvre-castellan-class-escort.pdf" target="_new">Castellan class starship</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/tau/kirqath-defender-class-starship.pdf" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/tau/kirla-warden-class-gunship.pdf" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/tau/kassl-orca-gunship.pdf" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirshasvre-castellan-class-escort.html" target="_new">Castellan class starship</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirqath-defender-class-starship.html" target="_new">Defender class starship</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kirla-warden-class-gunship.html" target="_new">Warden class gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/kassl-orca-gunship.html" target="_new">Orca class gunship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 
 #### Nicassar Escorts
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/nicassar/dhow.pdf" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/nicassar/dhow.html" target="_new">Nicassar Dhow</a></td><td>45 pts</td></tr>
 </tbody></table>
 
 
 #### Rogue Trader Escorts
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/rogue-traders/xenos-vessel.pdf" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/recommissioned-escort.pdf" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/iconoclast-class-destroyer.pdf" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 
