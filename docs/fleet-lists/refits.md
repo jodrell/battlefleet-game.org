@@ -324,7 +324,7 @@ bay strength, just like attack craft squadrons.
 This means they are launched from the ship's
 stem at the end of the Movement Phase and
 move according to the normal behaviour of
-[Orbital Mines](https://ships.battlefleet-game.org/high-orbit-defences/orbital-mine.html)<!-- on pg. [???] -->. Note that orbital
+[Orbital Mines](planetary-defences.md#orbital-mine)<!-- on pg. [???] -->. Note that orbital
 mines cannot be formed into waves.
 
 Orbital mines are not subject to ordnance
@@ -338,7 +338,7 @@ purposes of ordnance limits.
 ### Attacks
 
 Orbital mines are ordnance which attack and
-behave according to the [rules on page [???]](https://ships.battlefleet-game.org/high-orbit-defences/orbital-mine.html).
+behave according to the [rules](planetary-defences.md#orbital-mine)<!--  on page [???] -->.
 Note that turret defences can be used against
 either attack craft or torpedoes and mines in a
 single ordnance phase, not both.
