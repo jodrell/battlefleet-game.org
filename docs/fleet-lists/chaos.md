@@ -702,7 +702,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 #### Battleships
@@ -711,9 +711,9 @@ include it.*
 for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -722,7 +722,7 @@ You may include up to one grand cruiser in your
 fleet for every three cruisers or heavy cruisers.
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -731,20 +731,20 @@ fleet for every three cruisers or heavy cruisers.
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -752,9 +752,9 @@ fleet for every two cruisers.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 ### Ordnance
@@ -863,7 +863,7 @@ also counts as a battleship when working out how
 many heavy cruisers and cruisers the fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/the-planet-killer.pdf" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
 
 #### 0–1 Chaos Space Hulk
@@ -873,7 +873,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 #### Battleships
@@ -882,9 +882,9 @@ include it.*
 for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -893,10 +893,10 @@ for every three cruisers or heavy cruisers.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/retaliator-class-grand-cruiser.pdf" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/retaliator-class-grand-cruiser.html" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/executor-class-grand-cruiser.html" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -905,20 +905,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -967,9 +967,9 @@ Chaos with the same effects and points cost.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1052,7 +1052,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/the-planet-killer.pdf" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1063,7 +1063,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1076,10 +1076,10 @@ of Prospero* as one of its battleships, subject to
 normal restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 <a href="../ships/chaos/scion-of-prospero-thousand-sons-battle-barge.pdf" target="_new"><em>Scion of Prospero</em></a></td><td>450 pts</td></tr>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td>0-1 <a href="https://ships.battlefleet-game.org/chaos/scion-of-prospero-thousand-sons-battle-barge.html" target="_new"><em>Scion of Prospero</em></a></td><td>450 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1088,10 +1088,10 @@ normal restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/retaliator-class-grand-cruiser.pdf" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/retaliator-class-grand-cruiser.html" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/executor-class-grand-cruiser.html" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1100,20 +1100,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1190,9 +1190,9 @@ required.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1280,7 +1280,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/the-planet-killer.pdf" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1291,7 +1291,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1304,10 +1304,10 @@ Est as one of its battleships, subject to normal
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 <a href="../ships/chaos/terminus-est-death-guard-battle-barge.pdf" target="_new"><em>Terminus Est</em></a></td><td>430 pts</td></tr>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td>0-1 <a href="https://ships.battlefleet-game.org/chaos/terminus-est-death-guard-battle-barge.html" target="_new"><em>Terminus Est</em></a></td><td>430 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1316,10 +1316,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/retaliator-class-grand-cruiser.pdf" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/retaliator-class-grand-cruiser.html" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/executor-class-grand-cruiser.html" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1328,20 +1328,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1422,9 +1422,9 @@ normally on the catastrophic damage table.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1514,7 +1514,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/the-planet-killer.pdf" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1527,7 +1527,7 @@ two battleships, but other restrictions remain
 unchanged.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1540,10 +1540,10 @@ A fleet 1,000 points or more may include the
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td>0-1 <a href="../ships/chaos/slaverer-world-eaters-battle-barge.pdf" target="_new"><em>Slaverer</em></a></td><td>380 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td>0-1 <a href="https://ships.battlefleet-game.org/chaos/slaverer-world-eaters-battle-barge.html" target="_new"><em>Slaverer</em></a></td><td>380 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1552,10 +1552,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/retaliator-class-grand-cruiser.pdf" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/retaliator-class-grand-cruiser.html" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/executor-class-grand-cruiser.html" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1564,20 +1564,20 @@ You may include up to one heavy cruiser in your
 fleet for every two cruisers.
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1648,9 +1648,9 @@ next turn.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -1743,7 +1743,7 @@ out how many heavy cruisers and cruisers the
 fleet requires.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/the-planet-killer.pdf" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
 
 
@@ -1754,7 +1754,7 @@ fleet. See it's profile for restrictions and how to
 include it.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/chaos-space-hulk.pdf" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-space-hulk.html" target="_new">Chaos Space Hulk</a></td><td>650 pts</td></tr>
 </tbody></table>
 
 
@@ -1767,10 +1767,10 @@ Sin* as one of its battleships, subject to normal
 restrictions.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-1 <a href="../ships/chaos/wage-of-sin-emperors-children-battle-barge.pdf" target="_new"><em>Wage of Sin</em></a></td><td>430 pts</td></tr>
-<tr><td><a href="../ships/chaos/chaos-battle-barge.pdf" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
-<tr><td><a href="../ships/chaos/despoiler-class-battleship.pdf" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/chaos/desolator-class-battleship.pdf" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
+<tr><td>0-1 <a href="https://ships.battlefleet-game.org/chaos/wage-of-sin-emperors-children-battle-barge.html" target="_new"><em>Wage of Sin</em></a></td><td>430 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/chaos-battle-barge.html" target="_new">Chaos battle barge</a></td><td>410 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/despoiler-class-battleship.html" target="_new">Despoiler class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/desolator-class-battleship.html" target="_new">Desolator class battleship</a></td><td>300 pts</td></tr>
 </tbody></table>
 
 #### Grand Cruisers
@@ -1779,10 +1779,10 @@ restrictions.*
 fleet for every three cruisers or heavy cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/retaliator-class-grand-cruiser.pdf" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/repulsive-class-grand-cruiser.pdf" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/vengeance-class-grand-cruiser.pdf" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/executor-class-grand-cruiser.pdf" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/retaliator-class-grand-cruiser.html" target="_new">Retaliator class grand cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/repulsive-class-grand-cruiser.html" target="_new">Repulsive class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/vengeance-class-grand-cruiser.html" target="_new">Vengeance class grand cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/executor-class-grand-cruiser.html" target="_new">Executor class grand cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 #### Heavy Cruisers
@@ -1791,20 +1791,20 @@ fleet for every three cruisers or heavy cruisers.*
 fleet for every two cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/styx-class-heavy-cruiser.pdf" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
-<tr><td><a href="../ships/chaos/hecate-class-heavy-cruiser.pdf" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
-<tr><td><a href="../ships/chaos/hades-class-heavy-cruiser.pdf" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
-<tr><td><a href="../ships/chaos/acheron-class-heavy-cruiser.pdf" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/styx-class-heavy-cruiser.html" target="_new">Styx class heavy cruiser</a></td><td>260 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hecate-class-heavy-cruiser.html" target="_new">Hecate class heavy cruiser</a></td><td>230 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/hades-class-heavy-cruiser.html" target="_new">Hades class heavy cruiser</a></td><td>200 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/acheron-class-heavy-cruiser.html" target="_new">Acheron class heavy cruiser</a></td><td>190 pts</td></tr>
 </tbody></table>
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/devastation-class-cruiser.pdf" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/inferno-class-cruiser.pdf" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
-<tr><td><a href="../ships/chaos/slaughter-class-cruiser.pdf" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/devastation-class-cruiser.html" target="_new">Devastation class cruiser</a></td><td>190 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/inferno-class-cruiser.html" target="_new">Inferno class cruiser</a></td><td>180 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>170 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
 ### Chaos Space Marine Crews
@@ -1885,9 +1885,9 @@ Impact.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator class raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel class raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast class destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 These vessels may not contain a Chaos
@@ -2164,8 +2164,8 @@ A Chaos fleet of any size may include one
 Chaos Space Hulk. If taken, it must serve as
 the flagship. It may not be taken in a fleet that
 has the [Planet Killer](#the-planet-killer-in-exterminatus), an [Activated Blackstone
-Fortress](ships/chaos/activated-blackstone-fortress.pdf) or ships that must be used as flagships
-such as the [*Terminus Est*](ships/chaos/terminus-est-death-guard-battle-barge.pdf). It may not take any
+Fortress](https://ships.battlefleet-game.org/chaos/activated-blackstone-fortress.html) or ships that must be used as flagships
+such as the [*Terminus Est*](https://ships.battlefleet-game.org/chaos/terminus-est-death-guard-battle-barge.html). It may not take any
 Chaos Marks, but other ships still can.
 
 A Chaos fleet including a Space Hulk may

@@ -313,13 +313,13 @@ points for its Space Marine crew.*
 
 <table class=fleet-list><tbody>
 <tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
-<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/battle-barge.html" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/strike-cruiser.html" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -329,20 +329,20 @@ points for its Space Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/nova-class-frigate.html" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/gladius-class-frigate.html" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/hunter-class-destroyer.html" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
   <td>45 pts</td>
 </tr>
 
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Sword)</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Cobra)</a></td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
@@ -419,7 +419,7 @@ carry a [Terminator boarding party](../fleet-lists/space-marines.md#terminator-b
 include one [Fortress-Monastery](#fortress-monastery_1).*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/fortress-monastery.pdf" target="_new">Fortress-Monastery</a></td><td>1000 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/fortress-monastery.html" target="_new">Fortress-Monastery</a></td><td>1000 pts</td></tr>
 </tbody></table>
 
 
@@ -454,14 +454,14 @@ Marine crew.*
 
 <table class=fleet-list><tbody>
 <tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
-<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/battle-barge.html" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/strike-cruiser.html" target="_new">Strike cruisers</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -471,9 +471,9 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/nova-class-frigate.html" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/gladius-class-frigate.html" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/hunter-class-destroyer.html" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -616,14 +616,14 @@ Marine crew.*
 
 <table class=fleet-list><tbody>
 <tr><td>(0-1) <a href="#venerable-battle-barge">Venerable battle barge</a></td><td>varies</td></tr>
-<tr><td><a href="../ships/space-marines/battle-barge.pdf" target="_new">Battle barge</a></td><td>425 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/battle-barge.html" target="_new">Battle barge</a></td><td>425 pts</td></tr>
 </tbody></table>
 
 
 #### 0-10 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/strike-cruiser.pdf" target="_new">Strike cruiser</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/strike-cruiser.html" target="_new">Strike cruiser</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -632,24 +632,24 @@ Marine crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/nova-class-frigate.html" target="_new">Nova class Frigate</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/gladius-class-frigate.html" target="_new">Gladius class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/hunter-class-destroyer.html" target="_new">Hunter class Destroyer</a></td><td>40 pts</td></tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Firestorm)</a></td>
   <td>45 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Falchion)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Falchion)</a></td>
   <td>40 pts</td>
 </tr>
 
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Sword)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Sword)</a></td>
   <td>40 pts</td>
 </tr>
 <tr>
-  <td><a href="../ships/space-marines/rapid-strike-vessels.pdf" target="_new">Rapid Strike Vessel (Cobra)</a></td>
+  <td><a href="#rapid-strike-vessels" target="_new">Rapid Strike Vessel (Cobra)</a></td>
   <td>35 pts</td>
 </tr>
 </tbody></table>
@@ -690,6 +690,25 @@ a [campaign](../campaign-rules.md), a Dominion Fleet cannot take
 [reinforcements](../campaign-rules.md#reinforcements) from the [Space Marines table](../campaign-rules.md#space-marines-table).
 <!--listed on [???] of the Battlefleet Gothic rulebook.-->
 
+## Rapid Strike Vessels
+
+All Space Marine Chapters make use of ships known collectively as rapid strike vessels. These ships are
+mainly used for patrols through the Space Marines’ domains, and for providing a mobile escort for the
+battle barges and strike cruisers. Rapid strike vessels are crewed by the Chapters’ serfs, overseen by a cadre
+of Techmarines and other specialists.
+
+### Special Rules
+
+* There are many different types of rapid strike vessel, and their design can vary from
+Chapter to Chapter. Space Marine Fleets may represent these various rapid strike
+vessels by using escorts from other fleet lists, with the additional Space Marine special
+rules, at the points cost indicated in the Space Marine fleet lists. As you will see from
+these fleet lists, these vessels cost an additional 5 points, due to the additional Space
+Marine special rules.
+
+* Rapid strike vessels must be painted in the appropriate chapter colours – you can’t just
+take your Imperial Navy escorts and say that they are rapid strike vessels!
+
 ## Venerable Battle Barge
 
 **PTS: VARY**
@@ -709,14 +728,14 @@ some dire threat. Others simply retain vessels they received millennia ago or ga
 means. The Space Wolves, a traditionally minded Chapter, is more immersed in the customs
 of its homeworld of Fenris than most Chapters and has access to only the most rudimentary of
 shipyards, and they are perhaps the best known example of this, relying as they do on an [Emperor
-class battleship](ships/imperial-navy/emperor-class-battleship.pdf) to fulfil the role of battle barge.*
+class battleship](https://ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html) to fulfil the role of battle barge.*
 
 ### Choosing a Battle Barge
 
 In addition to their fleet list, any Space Marine fleet may include a single – meaning only one! –
 Venerable battle barge, which may be any [Imperial](imperial-navy.md) or [Chaos](chaos.md) (painted appropriately of course!)
 battleship, grand cruiser, battlecruiser or heavy cruiser (with the exception of any of the unique
-vessels like the [*Terminus Est*](ships/chaos/terminus-est-death-guard-battle-barge.pdf)). This replaces one of the battle barges allowed in the fleet. The
+vessels like the [*Terminus Est*](https://ships.battlefleet-game.org/chaos/terminus-est-death-guard-battle-barge.html)). This replaces one of the battle barges allowed in the fleet. The
 normal cost must be paid for the ship, plus an additional +35 points for the cost of the Space
 Marine crew. This vessel represents an ancient, revered icon or a vessel granted with special
 dispensation. It is worth 100 % victory points if crippled or 150 % victory points if destroyed.
@@ -724,7 +743,7 @@ dispensation. It is worth 100 % victory points if crippled or 150 % victory poin
 A Venerable battle barge benefits from all the Space Marine special rules, but since it is already
 heavily reconfigured to make it into a battle barge, it may not be given any of the optional refits or
 upgrades listed in its profile – it must be used exactly as is, in its basic form. For example, a [Mars
-battlecruiser](ships/imperial-navy/mars-class-battlecruiser.pdf) taken as a Venerable battle barge may not be given a salvaged targeting matrix and
+battlecruiser](https://ships.battlefleet-game.org/imperial-navy/mars-class-battlecruiser.html) taken as a Venerable battle barge may not be given a salvaged targeting matrix and
 can only earn such a refit in the course of a campaign normally. The only exceptions to this are the
 special refits that the Space Marines themselves make to their battle barges, as follows:
 

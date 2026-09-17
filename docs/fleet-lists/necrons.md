@@ -182,7 +182,7 @@ The following two exceptions apply:
 
 * It does not save against [hit and run attacks](../the-end-phase.md#hit-and-run-attacks)
 unless the ship is actually braced.
-* [Warp cannons](ships/chaos/activated-blackstone-fortress.pdf) ignore reactive hull saves
+* [Warp cannons](https://ships.battlefleet-game.org/chaos/activated-blackstone-fortress.html) ignore reactive hull saves
 unless the Necron ship is braced.
 
 If the Necron vessel uses [*Brace for Impact*](../the-rules.md#brace-for-impact)
@@ -299,7 +299,7 @@ fleet gets one re-roll and can purchase extra rerolls at the cost shown.
 every Scythe class harvest ship it contains.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/necron/cairn-class-tombship.pdf" target="_new">Cairn class tombship</a></td><td>500 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/necrons/cairn-class-tombship.html" target="_new">Cairn class tombship</a></td><td>500 pts</td></tr>
 </tbody></table>
 
 
@@ -318,8 +318,8 @@ harvest ships and up to three Shroud class light
 cruisers.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-6 <a href="../ships/necron/scythe-class-harvest-ship.pdf" target="_new">Scythe class harvest ship</a></td><td>275 pts</td></tr>
-<tr><td>0-3 <a href="../ships/necron/shroud-class-light-cruiser.pdf" target="_new">Shroud class light cruiser</a></td><td>155 pts</td></tr>
+<tr><td>0-6 <a href="https://ships.battlefleet-game.org/necrons/scythe-class-harvest-ship.html" target="_new">Scythe class harvest ship</a></td><td>275 pts</td></tr>
+<tr><td>0-3 <a href="https://ships.battlefleet-game.org/necrons/shroud-class-light-cruiser.html" target="_new">Shroud class light cruiser</a></td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -331,6 +331,6 @@ raiders, and up to twelve Dirge class raiders, in
 squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td>0-12 <a href="../ships/necron/jackal-class-raider.pdf" target="_new">Jackal class raiders</a></td><td>50 pts</td></tr>
-<tr><td>0-12 <a href="../ships/necron/dirge-class-raider.pdf" target="_new">Dirge class raiders</a></td><td>40 pts</td></tr>
+<tr><td>0-12 <a href="https://ships.battlefleet-game.org/necrons/jackal-class-raider.html" target="_new">Jackal class raiders</a></td><td>50 pts</td></tr>
+<tr><td>0-12 <a href="https://ships.battlefleet-game.org/necrons/dirge-class-raider.html" target="_new">Dirge class raiders</a></td><td>40 pts</td></tr>
 </tbody></table>

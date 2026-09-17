@@ -886,8 +886,8 @@ your Eldar Hero by paying the cost listed below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/eclipse-class-cruiser.pdf" target="_new">Eclipse class cruiser</a></td><td>250 pts</td></tr>
-<tr><td><a href="../ships/eldar/shadow-class-cruiser.pdf" target="_new">Shadow class cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/eclipse-class-cruiser.html" target="_new">Eclipse class cruiser</a></td><td>250 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/shadow-class-cruiser.html" target="_new">Shadow class cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -897,10 +897,10 @@ your Eldar Hero by paying the cost listed below.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/hellebore-class-frigate.pdf" target="_new">Hellebore class frigate</a></td><td>65 pts</td></tr>
-<tr><td><a href="../ships/eldar/aconite-class-frigate.pdf" target="_new">Aconite class frigate</a></td><td>55 pts</td></tr>
-<tr><td><a href="../ships/eldar/hemlock-class-destroyer.pdf" target="_new">Hemlock class destroyer</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/eldar/nightshade-class-destroyer.pdf" target="_new">Nightshade class destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/hellebore-class-frigate.html" target="_new">Hellebore class frigate</a></td><td>65 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/aconite-class-frigate.html" target="_new">Aconite class frigate</a></td><td>55 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/hemlock-class-destroyer.html" target="_new">Hemlock class destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/nightshade-class-destroyer.html" target="_new">Nightshade class destroyer</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -985,17 +985,17 @@ any battleships, while from 1000 to 1,999 points
 you can include one, and so on.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/void-stalker-class-battleship.pdf" target="_new">Void Stalker class battleship</a></td><td>380 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/void-stalker-class-battleship.html" target="_new">Void Stalker class battleship</a></td><td>380 pts</td></tr>
 </tbody></table>
 
 
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/eclipse-class-cruiser.pdf" target="_new">Eclipse class cruiser</a></td><td>250 pts</td></tr>
-<tr><td><a href="../ships/eldar/shadow-class-cruiser.pdf" target="_new">Shadow class cruiser</a></td><td>210 pts</td></tr>
-<tr><td><a href="../ships/eldar/aurora-class-light-cruiser.pdf" target="_new">Aurora class light cruiser</a></td><td>140 pts</td></tr>
-<tr><td><a href="../ships/eldar/solaris-class-light-cruiser.pdf" target="_new">Solaris class light cruiser</a></td><td>130 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/eclipse-class-cruiser.html" target="_new">Eclipse class cruiser</a></td><td>250 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/shadow-class-cruiser.html" target="_new">Shadow class cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/aurora-class-light-cruiser.html" target="_new">Aurora class light cruiser</a></td><td>140 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/solaris-class-light-cruiser.html" target="_new">Solaris class light cruiser</a></td><td>130 pts</td></tr>
 </tbody></table>
 
 
@@ -1005,10 +1005,10 @@ you can include one, and so on.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/hellebore-class-frigate.pdf" target="_new">Hellebore class frigate</a></td><td>65 pts</td></tr>
-<tr><td><a href="../ships/eldar/aconite-class-frigate.pdf" target="_new">Aconite class frigate</a></td><td>55 pts</td></tr>
-<tr><td><a href="../ships/eldar/hemlock-class-destroyer.pdf" target="_new">Hemlock class destroyer</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/eldar/nightshade-class-destroyer.pdf" target="_new">Nightshade class destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/hellebore-class-frigate.html" target="_new">Hellebore class frigate</a></td><td>65 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/aconite-class-frigate.html" target="_new">Aconite class frigate</a></td><td>55 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/hemlock-class-destroyer.html" target="_new">Hemlock class destroyer</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/nightshade-class-destroyer.html" target="_new">Nightshade class destroyer</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -1145,8 +1145,8 @@ _Flame of Asuryan_, an Eldar Hero must lead the
 fleet and be embarked aboard it.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <a href="../ships/eldar/flame-of-asuryan-yriels-flagship.pdf" target="_new"><em>Flame of Asuryan</em></a></td><td>320 pts</td></tr>
-<tr><td><a href="../ships/eldar/dragonship.pdf" target="_new">Dragonship</a></td><td>260 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/eldar/flame-of-asuryan-yriels-flagship.html" target="_new"><em>Flame of Asuryan</em></a></td><td>320 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/dragonship.html" target="_new">Dragonship</a></td><td>260 pts</td></tr>
 </tbody></table>
 
 #### Wraithships
@@ -1154,7 +1154,7 @@ fleet and be embarked aboard it.*
 *Your fleet may include any number of Wraithships.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/wraithship.pdf" target="_new">Wraithship</a></td><td>160 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/wraithship.html" target="_new">Wraithship</a></td><td>160 pts</td></tr>
 </tbody></table>
 
 
@@ -1186,7 +1186,7 @@ crew.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/eldar/shadowhunter.pdf" target="_new">Shadowhunter</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/eldar/shadowhunter.html" target="_new">Shadowhunter</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 
@@ -1223,7 +1223,7 @@ fleet.
 ## Haven Space Station
 
 ### Leadership
-An [Eldar Haven](ships/eldar/haven-space-station.pdf) rolls for [leadership](../the-rules.md#leadership) following
+An [Eldar Haven](https://ships.battlefleet-game.org/eldar/haven-space-station.html) rolls for [leadership](../the-rules.md#leadership) following
 Eldar rules. An Eldar or [Dark Eldar](../fleet-lists/dark-eldar.md) fleet
 commander can lead the battle aboard it
 instead of a ship.

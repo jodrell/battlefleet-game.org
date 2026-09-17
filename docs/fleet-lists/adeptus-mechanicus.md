@@ -399,22 +399,22 @@ special rules.
 cruisers in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <a href="../ships/adeptus-mechanicus/omnissiahs-victory-ark-mechanicus.pdf" target="_new"><em>Omnissiah's Victory</em></a></td><td>415 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/emperor-class-battleship.pdf" target="_new">Emperor class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/retribution-class-battleship.pdf" target="_new">Retribution class battleship</a></td><td>380 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/oberon-class-battleship.pdf" target="_new">Oberon class battleship</a></td><td>370 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/adeptus-mechanicus/omnissiahs-victory-ark-mechanicus.html" target="_new"><em>Omnissiah's Victory</em></a></td><td>415 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td><td>380 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/oberon-class-battleship.html" target="_new">Oberon class battleship</a></td><td>370 pts</td></tr>
 </tbody></table>
 
 #### Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/imperial-navy/dictator-class-cruiser.pdf" target="_new">Dictator class cruiser</a></td><td>255 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td><td>220 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/gothic-class-cruiser.pdf" target="_new">Gothic class cruiser</a></td><td>215 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td><td>215 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour class light cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endurance-class-light-cruiser.pdf" target="_new">Endurance class light cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/defiant-class-light-cruiser.pdf" target="_new">Defiant class light cruiser</a></td><td>130 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td><td>220 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td><td>215 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td><td>215 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour class light cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endurance-class-light-cruiser.html" target="_new">Endurance class light cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/defiant-class-light-cruiser.html" target="_new">Defiant class light cruiser</a></td><td>130 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -426,13 +426,13 @@ for the point costs listed below but otherwise
 unmodified from their normal profiles.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/space-marines/nova-class-frigate.pdf" target="_new">Nova Class Frigate</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm Class Frigate</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/space-marines/gladius-class-frigate.pdf" target="_new">Gladius Class Frigate</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword Class Frigate</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/falchion-class-frigate.pdf" target="_new">Falchion Class Frigate</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/space-marines/hunter-class-destroyer.pdf" target="_new">Hunter Class Destroyer</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra Class Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/nova-class-frigate.html" target="_new">Nova Class Frigate</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/firestorm-class-frigate.html" target="_new">Firestorm Class Frigate</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/gladius-class-frigate.html" target="_new">Gladius Class Frigate</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/sword-class-frigate.html" target="_new">Sword Class Frigate</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/falchion-class-frigate.html" target="_new">Falchion Class Frigate</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/space-marines/hunter-class-destroyer.html" target="_new">Hunter Class Destroyer</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/cobra-class-destroyer.html" target="_new">Cobra Class Destroyer</a></td><td>30 pts</td></tr>
 </tbody></table>
 
 ### Ordnance

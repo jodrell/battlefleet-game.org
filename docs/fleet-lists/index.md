@@ -96,7 +96,7 @@ Lords, Ork Warlords, etc. can gain experience
 improvements can only be based on the ship’s
 or commander’s natural leadership, not on
 any bonuses gained by the ship itself. For
-example, an [Emperor battleship](ships/imperial-navy/emperor-class-battleship.pdf) with a natural
+example, an [Emperor battleship](https://ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html) with a natural
 Ld 7 is effectively Ld 8 in battle because of
 its inherent +1 Ld bonus, but it can only gain
 crew skills once its natural Leadership is at

@@ -363,7 +363,7 @@ protect their host creature.
 A spore cloud will absorb any hit generated
 by weapons fire except from those that
 specifically ignore [shields](../the-shooting-phase.md#shields), such as [Warp
-cannon](ships/chaos/activated-blackstone-fortress.pdf) or [Particle Whip](necrons.md#gauss-particle-whip) rolls of 6. Special
+cannon](https://ships.battlefleet-game.org/chaos/activated-blackstone-fortress.html) or [Particle Whip](necrons.md#gauss-particle-whip) rolls of 6. Special
 weapons designed to affect shields will affect
 spore clouds in an identical manner.
 
@@ -731,7 +731,7 @@ Ships equipped with assault boat launch bays can
 exchange all their launch bays for spore mine
 launchers. Each launch bay can launch one megaspore mine In the [Ordnance phase](../the-ordnance-phase.md) Mega-spore
 mines follow all movement and ordnance rules
-[mines](ships/high-orbit-defences/orbital-mine.pdf) do<!-- on [???] of the Remastered Rulebook -->,
+[mines](https://ships.battlefleet-game.org/high-orbit-defences/orbital-mine.html) do<!-- on [???] of the Remastered Rulebook -->,
 but when rolling against armour to inflict hits,
 it inflicts that number of fire criticals instead.
 Not intended for escorts.
@@ -833,7 +833,7 @@ a force for smaller games in campaigns.
 drone ships.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/vanguard-drone-ship.pdf" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/vanguard-drone-ship.html" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -850,7 +850,7 @@ weapon chosen from the following list:
 *Your fleet may include any number of Kraken.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/kraken.pdf" target="_new">Kraken</a></strong></td><td><strong>25 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/kraken.html" target="_new">Kraken</a></strong></td><td><strong>25 pts</strong></td></tr>
 </tbody></table>
 
 A Kraken must be armed with one weapon
@@ -936,7 +936,7 @@ as long as the fleet contains at least one hive ship.
 purchase 6–12 escort ships and 0–2 capital ships.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/hive-ship.pdf" target="_new">Hive ship</a> (Ld 8)</strong></td><td><strong>200 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/hive-ship.html" target="_new">Hive ship</a> (Ld 8)</strong></td><td><strong>200 pts</strong></td></tr>
 <tr><td>Increase to Ld 9</td><td>+40 pts</td></tr>
 </tbody></table>
 
@@ -974,7 +974,7 @@ from the following list:
 hive ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/cruiser.pdf" target="_new">Cruiser</a></strong></td><td><strong>80 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/cruiser.html" target="_new">Cruiser</a></strong></td><td><strong>80 pts</strong></td></tr>
 </tbody></table>
 
 
@@ -1013,7 +1013,7 @@ only Kraken and Vanguard drone ships may be
 included in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/vanguard-drone-ship.pdf" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/vanguard-drone-ship.html" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
 </tbody></table>
 
 A Vanguard drone ship must be armed with one
@@ -1030,7 +1030,7 @@ be in addition to the 6–12 escorts (of any type)
 that may be taken for every hive ship in the fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/escort-drone.pdf" target="_new">Escort drone</a></strong></td><td><strong>10 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/escort-drone.html" target="_new">Escort drone</a></strong></td><td><strong>10 pts</strong></td></tr>
 </tbody></table>
 
 A Tyranid escort drone must be armed with one
@@ -1043,7 +1043,7 @@ weapon chosen from the following list:
 </tbody></table>
 
 <table style="margin-top:1em" class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/tyranid/kraken.pdf" target="_new">Kraken</a></strong></td><td><strong>25 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/kraken.html" target="_new">Kraken</a></strong></td><td><strong>25 pts</strong></td></tr>
 </tbody></table>
 
 A Kraken must be armed with one weapon

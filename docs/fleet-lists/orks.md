@@ -331,8 +331,8 @@ torpedo salvoes when it fires.
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/terror-ship.pdf" target="_new">Terror ship</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/orks/kill-kroozer.pdf" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/terror-ship.html" target="_new">Terror ship</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/kill-kroozer.html" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -341,11 +341,11 @@ torpedo salvoes when it fires.
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/ravager-attack-ship.pdf" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/orks/onslaught-attack-ship.pdf" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/orks/grunt-assault-ship.pdf" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/savage-gunship.pdf" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/brute-ram-ship.pdf" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/ravager-attack-ship.html" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/onslaught-attack-ship.html" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/grunt-assault-ship.html" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/savage-gunship.html" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/brute-ram-ship.html" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -441,7 +441,7 @@ when it fires.
 your fleet per 1,500 points.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/ork-hulk.pdf" target="_new">Ork hulk</a></td><td>600 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/ork-hulk.html" target="_new">Ork hulk</a></td><td>600 pts</td></tr>
 </tbody></table>
 
 
@@ -464,11 +464,11 @@ in your fleet, you may pick one vessel from the
 list below.*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <a href="../ships/orks/gorbags-revenge-battleship.pdf" target="_new"><em>Gorbag&#39;s Revenge</em></a></td><td>310 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/slamblasta-battleship.pdf" target="_new">Slamblasta</a></td><td>295 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/dethdeala-battleship.pdf" target="_new">Dethdeala</a></td><td>275 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/kroolboy-battleship.pdf" target="_new">Kroolboy</a></td><td>270 pts</td></tr>
-<tr><td><a href="../ships/orks/hammer-class-battlekroozer.pdf" target="_new">Hammer class battlekroozer</a></td><td>245 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/gorbags-revenge-battleship.html" target="_new"><em>Gorbag&#39;s Revenge</em></a></td><td>310 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/slamblasta-battleship.html" target="_new">Slamblasta</a></td><td>295 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/dethdeala-battleship.html" target="_new">Dethdeala</a></td><td>275 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/kroolboy-battleship.html" target="_new">Kroolboy</a></td><td>270 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/hammer-class-battlekroozer.html" target="_new">Hammer class battlekroozer</a></td><td>245 pts</td></tr>
 </tbody></table>
 
 ### Kroozers
@@ -476,8 +476,8 @@ list below.*
 *You may include up to six kroozers in your fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/terror-ship.pdf" target="_new">Terror ship</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/orks/kill-kroozer.pdf" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/terror-ship.html" target="_new">Terror ship</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/kill-kroozer.html" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -486,11 +486,11 @@ list below.*
 fleet in squadrons of 2–6.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/ravager-attack-ship.pdf" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/orks/onslaught-attack-ship.pdf" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/orks/grunt-assault-ship.pdf" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/savage-gunship.pdf" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/brute-ram-ship.pdf" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/ravager-attack-ship.html" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/onslaught-attack-ship.html" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/grunt-assault-ship.html" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/savage-gunship.html" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/brute-ram-ship.html" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 
@@ -500,7 +500,7 @@ fleet in squadrons of 2–6.*
 fleet.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/rok.pdf" target="_new">Rok</a></td><td>80 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/rok.html" target="_new">Rok</a></td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -1005,10 +1005,10 @@ under his command.*
 list:*
 
 <table class=fleet-list><tbody>
-<tr><td>(0-1) <a href="../ships/orks/gorbags-revenge-battleship.pdf" target="_new">Gorbag&#39;s Revenge</a></td><td>310 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/slamblasta-battleship.pdf" target="_new">Slamblasta</a></td><td>295 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/dethdeala-battleship.pdf" target="_new">Dethdeala</a></td><td>275 pts</td></tr>
-<tr><td>(0-1) <a href="../ships/orks/kroolboy-battleship.pdf" target="_new">Kroolboy</a></td><td>270 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/gorbags-revenge-battleship.html" target="_new">Gorbag&#39;s Revenge</a></td><td>310 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/slamblasta-battleship.html" target="_new">Slamblasta</a></td><td>295 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/dethdeala-battleship.html" target="_new">Dethdeala</a></td><td>275 pts</td></tr>
+<tr><td>(0-1) <a href="https://ships.battlefleet-game.org/orks/kroolboy-battleship.html" target="_new">Kroolboy</a></td><td>270 pts</td></tr>
 </tbody></table>
 
 #### Big ship skwadron
@@ -1016,9 +1016,9 @@ list:*
 *1-2 Kroozers, chosen from the following list:*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/terror-ship.pdf" target="_new">Terror ship</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/orks/kill-kroozer.pdf" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
-<tr><td><a href="../ships/orks/lite-kroozer.pdf" target="_new">Lite kroozer</a></td><td>90 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/terror-ship.html" target="_new">Terror ship</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/kill-kroozer.html" target="_new">Kill kroozer</a></td><td>155 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/lite-kroozer.html" target="_new">Lite kroozer</a></td><td>90 pts</td></tr>
 </tbody></table>
 
 #### Tiddla skwadron
@@ -1027,11 +1027,11 @@ list:*
 mix desired:*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/ravager-attack-ship.pdf" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/orks/onslaught-attack-ship.pdf" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/orks/grunt-assault-ship.pdf" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/savage-gunship.pdf" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/orks/brute-ram-ship.pdf" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/ravager-attack-ship.html" target="_new">Ravager attack ship</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/onslaught-attack-ship.html" target="_new">Onslaught attack ship</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/grunt-assault-ship.html" target="_new">Grunt assault ship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/savage-gunship.html" target="_new">Savage gunship</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/brute-ram-ship.html" target="_new">Brute ramship</a></td><td>25 pts</td></tr>
 </tbody></table>
 
 #### Rok skwadron
@@ -1039,7 +1039,7 @@ mix desired:*
 *1–4 Roks*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/rok.pdf" target="_new">Rok</a></td><td>80 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/rok.html" target="_new">Rok</a></td><td>80 pts</td></tr>
 </tbody></table>
 
 
@@ -1056,7 +1056,7 @@ for double the listed cost. Upgrades that increase
 its boarding value or speed may not be taken.
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/orks/ork-hulk.pdf" target="_new">Ork hulk</a></td><td>600 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/orks/ork-hulk.html" target="_new">Ork hulk</a></td><td>600 pts</td></tr>
 </tbody></table>
 
 

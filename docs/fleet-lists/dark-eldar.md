@@ -528,7 +528,7 @@ below.
 #### 0-12 Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/dark-eldar/torture-class-cruiser.pdf" target="_new">Torture class cruiser</a></td><td>210 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/dark-eldar/torture-class-cruiser.html" target="_new">Torture class cruiser</a></td><td>210 pts</td></tr>
 </tbody></table>
 
 
@@ -558,7 +558,7 @@ fleets must contain at least three escorts for every
 capital ship taken.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/dark-eldar/corsair-class-escort.pdf" target="_new">Corsair Class Escort</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/dark-eldar/corsair-class-escort.html" target="_new">Corsair Class Escort</a></td><td>50 pts</td></tr>
 </tbody></table>
 
 

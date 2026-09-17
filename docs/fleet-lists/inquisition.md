@@ -71,7 +71,7 @@ can be purchased for +25 points.
 ## Capital Ships
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/inquisitorial-cruiser.pdf" target="_new">Inquisitorial Cruiser</a></strong></td><td><strong>270 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="https://ships.battlefleet-game.org/inquisition/inquisitorial-cruiser.html" target="_new">Inquisitorial Cruiser</a></strong></td><td><strong>270 pts</strong></td></tr>
 </tbody></table>
 
 Any [Imperial](imperial-navy.md) or [Space Marine](space-marines.md) fleet may include
@@ -80,7 +80,7 @@ takes the place of a battlecruiser or strike cruiser
 in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/blackship.pdf" target="_new">Inquisition Blackship</a></strong></td><td><strong>300 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="https://ships.battlefleet-game.org/inquisition/blackship.html" target="_new">Inquisition Blackship</a></strong></td><td><strong>300 pts</strong></td></tr>
 </tbody></table>
 
 A fleet may include a single Blackship, which as
@@ -88,7 +88,7 @@ a special vessel does not count toward or against
 other ship limits in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong><a href="../ships/inquisition/grey-knights-strike-cruiser.pdf" target="_new">Grey Knights Strike Cruiser</a></strong></td><td><strong>165 pts</strong></td></tr>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/inquisition/grey-knights-strike-cruiser.html" target="_new">Grey Knights Strike Cruiser</a></strong></td><td><strong>165 pts</strong></td></tr>
 </tbody></table>
 
 If an Inquisitor Lord is leading the fleet, up to
@@ -96,7 +96,7 @@ one Grey Knights Strike Cruiser may be taken
 for every 500 points in the fleet.
 
 <table class=fleet-list><tbody>
-<tr><td><strong>(0-1) <a href="../ships/inquisition/grey-knights-battle-barge.pdf" target="_new">Grey Knights Battle barge</a></strong></td><td><strong>440 pts</strong></td></tr>
+<tr><td><strong>(0-1) <a href="https://ships.battlefleet-game.org/inquisition/grey-knights-battle-barge.html" target="_new">Grey Knights Battle barge</a></strong></td><td><strong>440 pts</strong></td></tr>
 </tbody></table>
 
 A [Space Marine](space-marines.md) fleet led by an Ordo Malleus

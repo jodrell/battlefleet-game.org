@@ -33,7 +33,7 @@ Rogue Trader escort squadron.
     Trader fleet, as a cruiser and an escort
     respectively.
 
-    <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+    <table class=fleet-list><tbody><tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/siluria-class-light-cruiser.html" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ## Capital Ships
 
@@ -50,16 +50,16 @@ transports may not be in squadrons with other
 transport types.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/rogue-traders/rogue-trader-cruiser.pdf" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/heavy-transport.pdf" target="_new">Heavy Transport</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/rogue-trader-cruiser.html" target="_new">Rogue Trader Cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/heavy-transport.html" target="_new">Heavy Transport</a></td><td>40 pts</td></tr>
 </tbody></table>
 
 ## Escorts
 
 *A single squadron of 2-6 Rogue Trader escorts
-and auxiliary vessels may accompany each Rogue
+and [auxiliary vessels](#auxiliary-vessels) may accompany each Rogue
 Trader capital ship in a fleet, in any mix desired.
 Separately, it may also be accompanied by any
 number of cargo ships of any type (whether or
@@ -71,11 +71,11 @@ the fleet. Xenos vessels cannot be used in fleets
 that include Space Marine ships.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/rogue-traders/xenos-vessel.pdf" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/recommissioned-escort.pdf" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/iconoclast-class-destroyer.pdf" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/auxiliary-vessels.pdf" target="_new">Auxiliary vessels</a></td><td>varies</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="#auxiliary-vessels" target="_new">Auxiliary vessels</a></td><td>varies</td></tr>
 </tbody></table>
 
 ## Xenos Allies
@@ -85,8 +85,8 @@ special relationships with other spacefaring
 races that have similar trade interests. For
 every 750 points in the fleet, Rogue Traders
 may be accompanied by a single [Demiurg](tau.md#the-demiurg) or
-[Kroot](tau.md#kroot-warsphere) vessel unless the fleet is using auxiliary
-ships that cannot be allies with the Demiurg
+[Kroot](tau.md#kroot-warsphere) vessel unless the fleet is using [auxiliary
+ships](#auxiliary-vessels) that cannot be allies with the Demiurg
 or Kroot (such as [Space Marines](space-marines.md)).
 
 ## Sub-plots
@@ -148,7 +148,7 @@ against the Xenotech System table below for
 +15 points per cruiser or +5 points per escort.
 For an additional +5 points per ship, the player
 can select the desired technology instead of
-rolling randomly for it. Auxiliary vessels in
+rolling randomly for it. [Auxiliary vessels](#auxiliary-vessels) in
 a Rogue Trader escort squadron can only
 use these refits if they are in a squadron that
 includes at least three Rogue Trader escorts.
@@ -228,13 +228,13 @@ Trader Cruisers and/or Endeavour light cruisers,
 following the basic profile for this ship.
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/imperial-navy/lunar-class-cruiser.pdf" target="_new">Lunar class cruiser</a></td><td>195 pts</td></tr>
-<tr><td><a href="../ships/chaos/carnage-class-cruiser.pdf" target="_new">Carnage class cruiser</a></td><td>195 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/rogue-trader-cruiser.pdf" target="_new">Rogue Trader cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/tyrant-class-cruiser.pdf" target="_new">Tyrant class cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/chaos/murder-class-cruiser.pdf" target="_new">Murder class cruiser</a></td><td>185 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/dauntless-class-light-cruiser.pdf" target="_new">Dauntless class light cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/endeavour-class-light-cruiser.pdf" target="_new">Endeavour class light cruiser</a></td><td>110 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td><td>195 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/carnage-class-cruiser.html" target="_new">Carnage class cruiser</a></td><td>195 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/rogue-trader-cruiser.html" target="_new">Rogue Trader cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/murder-class-cruiser.html" target="_new">Murder class cruiser</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless class light cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour class light cruiser</a></td><td>110 pts</td></tr>
 </tbody></table>
 
 !!! note ""
@@ -252,12 +252,12 @@ following the basic profile for this ship.
     respectively.
 
     <table class=fleet-list><tbody>
-    <tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+    <tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/siluria-class-light-cruiser.html" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ### Escorts
 
 *A single squadron of 2-6 Rogue Trader escorts,
-Rogue Trader cargo ships and auxiliary vessels
+Rogue Trader cargo ships and [auxiliary vessels](#auxiliary-vessels)
 may accompany each Rogue Trader cruiser in a
 fleet, in any mix desired. Besides Xenos vessels,
 auxiliary vessels from only one race can be
@@ -267,11 +267,11 @@ and Tyranids. Xenos vessels cannot be employed if
 Space Marine escorts are used as auxiliary vessels.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/rogue-traders/xenos-vessel.pdf" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/recommissioned-escort.pdf" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/iconoclast-class-destroyer.pdf" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/auxiliary-vessels.pdf" target="_new">Auxiliary vessels</a></td><td>varies</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="#auxiliary-vessels" target="_new">Auxiliary vessels</a></td><td>varies</td></tr>
 </tbody></table>
 
 ### Transports
@@ -290,12 +290,12 @@ than 1/3 of the fleet’s total transport value can be
 made up of heavy transports.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/additional-vessels/escort-carrier.pdf" target="_new">Escort Carrier</a></td><td>60 pts</td></tr>
-<tr><td><a href="../ships/additional-vessels/q-ship.pdf" target="_new">Q-Ship</a></td><td>60 pts</td></tr>
-<tr><td><a href="../ships/additional-vessels/heavy-transport.pdf" target="_new">Heavy Transport</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/additional-vessels/armed-freighter.pdf" target="_new">Armed Freighter</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/transport.pdf" target="_new">Cargo Transport</a></td><td>10 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/escort-carrier.html" target="_new">Escort Carrier</a></td><td>60 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/q-ship.html" target="_new">Q-Ship</a></td><td>60 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/heavy-transport.html" target="_new">Heavy Transport</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/armed-freighter.html" target="_new">Armed Freighter</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/transport.html" target="_new">Cargo Transport</a></td><td>10 pts</td></tr>
 </tbody></table>
 
 Transports taken for the fleet can be used for
@@ -309,7 +309,7 @@ three Rogue Trader cruisers in the fleet. Capital
 ships taken count against the cruiser limit, they
 can only be from one fleet and cannot be from
 a fleet list differing from that used to provide
-escort squadron auxiliary vessels. If the fleet is
+escort squadron [auxiliary vessels](#auxiliary-vessels). If the fleet is
 large enough that three reserve or allied capital
 ships are taken, a single (0-1) allied battleship
 may also accompany the fleet for its regular
@@ -329,12 +329,12 @@ vessel taken still counts against the twelve-cruiser
 limit, and no more than one Stronghold may be
 taken. Demiurg vessels may not be employed if
 Space Marines are taken as reserves, allies or
-escort squadron auxiliary vessels.*
+escort squadron [auxiliary vessels](#auxiliary-vessels).*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/demiurg/stronghold-commerce-vessel.pdf" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
-<tr><td><a href="../ships/demiurg/bastion-commerce-vessel.pdf" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
-<tr><td><a href="../ships/demiurg/citadel-commerce-vessel.pdf" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/stronghold-commerce-vessel.html" target="_new">Stronghold Commerce Vessel</a></td><td>350 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/bastion-commerce-vessel.html" target="_new">Bastion Commerce Vessel</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/demiurg/citadel-commerce-vessel.html" target="_new">Citadel Commerce Vessel</a></td><td>185 pts</td></tr>
 </tbody></table>
 
 #### The Kroot
@@ -345,10 +345,10 @@ fleet. This is separate from and in addition to
 any reserve or allied cruisers taken, and the Kroot
 Warsphere does not count against the twelve-cruiser limit. A Kroot Warsphere may not be
 employed if Space Marines are taken as reserves,
-allies or escort squadron auxiliary vessels.*
+allies or escort squadron [auxiliary vessels](#auxiliary-vessels).*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/kroot/warsphere.pdf" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/kroot/warsphere.html" target="_new">Kroot Warsphere</a></td><td>145 pts</td></tr>
 </tbody></table>
 
 
@@ -445,7 +445,7 @@ how many Chaos and/or Imperial cruisers are
 in a single pirate fleet.
 
 <table class=fleet-list><tbody>
-<tr><td>(0-2) <a href="../ships/rogue-traders/fraal-battleship.pdf" target="_new">Fra'al Battleship</a></td><td>250 pts</td></tr>
+<tr><td>(0-2) <a href="https://ships.battlefleet-game.org/rogue-traders/fraal-battleship.html" target="_new">Fra'al Battleship</a></td><td>250 pts</td></tr>
 </tbody></table>
 
 
@@ -466,20 +466,20 @@ rely solely on weapon batteries. Xenos vessels of
 all types don’t count toward this total.*
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/additional-vessels/escort-carrier.pdf" target="_new">Escort Carrier</a></td><td>60 pts</td></tr>
-<tr><td><a href="../ships/additional-vessels/q-ship.pdf" target="_new">Q-Ship</a></td><td>60 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/xenos-vessel.pdf" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
-<tr><td><a href="../ships/chaos/idolator-class-raider.pdf" target="_new">Idolator Raider</a></td><td>45 pts</td></tr>
-<tr><td><a href="../ships/chaos/infidel-class-raider.pdf" target="_new">Infidel Raider</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/firestorm-class-frigate.pdf" target="_new">Firestorm Frigate</a></td><td>40 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/sword-class-frigate.pdf" target="_new">Sword Frigate</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/falchion-class-frigate.pdf" target="_new">Falchion Frigate</a></td><td>35 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/cobra-class-destroyer.pdf" target="_new">Cobra Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/recommissioned-escort.pdf" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/chaos/iconoclast-class-destroyer.pdf" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/rogue-traders/cargo-vessel.pdf" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/additional-vessels/armed-freighter.pdf" target="_new">Armed Freighter</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/imperial-navy/transport.pdf" target="_new">Cargo Transport</a></td><td>10 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/escort-carrier.html" target="_new">Escort Carrier</a></td><td>60 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/q-ship.html" target="_new">Q-Ship</a></td><td>60 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/idolator-class-raider.html" target="_new">Idolator Raider</a></td><td>45 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/infidel-class-raider.html" target="_new">Infidel Raider</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/firestorm-class-frigate.html" target="_new">Firestorm Frigate</a></td><td>40 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/sword-class-frigate.html" target="_new">Sword Frigate</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/falchion-class-frigate.html" target="_new">Falchion Frigate</a></td><td>35 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/cobra-class-destroyer.html" target="_new">Cobra Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/chaos/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/additional-vessels/armed-freighter.html" target="_new">Armed Freighter</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/transport.html" target="_new">Cargo Transport</a></td><td>10 pts</td></tr>
 </tbody></table>
 
 !!! note ""
@@ -496,7 +496,7 @@ all types don’t count toward this total.*
     Trader fleet, as a cruiser and an escort
     respectively.
 
-    <table class=fleet-list><tbody><tr><td><a href="../ships/imperial-navy/siluria-class-light-cruiser.pdf" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+    <table class=fleet-list><tbody><tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/siluria-class-light-cruiser.html" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
 
 ### Xenos Freebooters, Corsairs and Brigands
 
@@ -641,6 +641,25 @@ When a Caravan Vessel is reduced to
 0 Damage it breaks up. Do not roll for
 [Catastrophic Damage](../the-shooting-phase.md#catastrophic-damage), instead the vessel is
 replaced by four [Blast markers](../the-shooting-phase.md#blast-markers).
+
+## Auxiliary Vessels
+
+Rogue Traders will commonly petition for the use of a fleet’s vessels as part payment for their services, and
+on occasion may even retain the vessels permanently. Most fleet commanders are more than happy to have a
+small number of their own ships acting in concert with any Rogue Traders in their employ, not least because
+they are likely to trust their own escort officers and crews rather more than they trust Rogue Traders.
+
+### Special Rules
+
+When a Rogue Trader fleet is accompanying another fleet, up to half the escorts in
+the Rogue Trader fleet may be vessels picked from the fleet list the Rogue Trader is
+accompanying, at the normal cost. For example, if accompanying a [Gothic Sector](imperial-navy.md#segmentum-obscurus-gothic-sector-fleet-list)
+Imperial fleet, up to half the escorts in the fleet can be picked from the Gothic Sector
+Imperial Navy fleet list. These can be mixed in squadrons (up to 6 ships) with Rogue
+Trader escorts in any manner desired.
+
+This restriction is not in place in an [Exploration Fleet](#rogue-trader-exploration-fleet-list) list.
+
 
 ## Rogue Trader Scenarios
 
