@@ -1,5 +1,9 @@
 # Ship Index
 
+!!! warning "Editor's note"
+
+    This page is now obsolete. Please use the [Battlefleet Gothic Ship Profiles](https://ships.battlefleet-game.org/) site instead.
+
 !!! note "Editor's note"
 
     This page provides direct access to the PDF profiles of all ships and defences
