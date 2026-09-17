@@ -13,7 +13,7 @@ is generated from its [Markdown source code](https://github.com/jodrell/battlefl
 using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 The text and images were extracted from the
-[original PDFs](https://github.com/jodrell/battlefleet-game.org/tree/main/docs/src) using
+[original PDFs](https://github.com/jodrell/battlefleet-game.org/tree/main/src) using
 [pdftotext](https://linux.die.net/man/1/pdftotext) and
 [pdfimages](https://linux.die.net/man/1/pdfimages).
 
