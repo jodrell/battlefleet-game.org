@@ -96,7 +96,7 @@ to any planetary defences provided by the
 specific scenario. This allows for the use of
 larger planetary defences such as major fleet
 bases and the like, for which the profile and
-point cost of an Imperial [Blackstone Fortress](ships/high-orbit-defences/blackstone-fortress.pdf) <!-- on p.145 [???] of the rulebook  -->may be used.
+point cost of an Imperial [Blackstone Fortress](https://ships.battlefleet-game.org/high-orbit-defences/blackstone-fortress.html) <!-- on p.145 [???] of the rulebook  -->may be used.
 However, these additional defences come
 directly from the points allowed against
 his or her fleet list. This means trading off
@@ -214,32 +214,32 @@ make [Special Orders](../the-rules.md#special-orders) normally.
 ## High Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td><a href="../ships/high-orbit-defences/orbital-defence-laser-platform.pdf" target="_new">Orbital defence laser platform</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/orbital-torpedo-launcher.pdf" target="_new">Orbital torpedo launcher</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/orbital-weapons-platform.pdf" target="_new">Orbital weapons platform</a></td><td>30 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/orbital-mine.pdf" target="_new">Orbital mine</a></td><td>5 pts</td></tr>
-<tr><td>0-2 <a href="../ships/high-orbit-defences/minefield.pdf" target="_new">Minefields</a></td><td>40 pts</td></tr>
-<tr><td>0-6 <a href="../ships/high-orbit-defences/fire-ship.pdf" target="_new">Fire ships</a></td><td>10 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/system-ship.pdf" target="_new">System ship</a></td><td>20 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/defence-monitor.pdf" target="_new">Defence monitor</a></td><td>60 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/orbital-dock.pdf" target="_new">Orbital dock</a></td><td>90 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/space-station.pdf" target="_new">Space station</a></td><td>150 pts</td></tr>
-<tr><td><a href="../ships/high-orbit-defences/blackstone-fortress.pdf" target="_new">Blackstone fortress</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/orbital-defence-laser-platform.html" target="_new">Orbital defence laser platform</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/orbital-torpedo-launcher.html" target="_new">Orbital torpedo launcher</a></td><td>30 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/orbital-weapons-platform.html" target="_new">Orbital weapons platform</a></td><td>30 pts</td></tr>
+<tr><td><a href="#orbital-mine" target="_new">Orbital mine</a></td><td>5 pts</td></tr>
+<tr><td>0-2 <a href="#minefield" target="_new">Minefields</a></td><td>40 pts</td></tr>
+<tr><td>0-6 <a href="https://ships.battlefleet-game.org/high-orbit-defences/fire-ship.html" target="_new">Fire ships</a></td><td>10 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/system-ship.html" target="_new">System ship</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/defence-monitor.html" target="_new">Defence monitor</a></td><td>60 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/orbital-dock.html" target="_new">Orbital dock</a></td><td>90 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/space-station.html" target="_new">Space station</a></td><td>150 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/high-orbit-defences/blackstone-fortress.html" target="_new">Blackstone fortress</a></td><td>400 pts</td></tr>
 </tbody></table>
 
 ## Low Orbit Defences
 
 <table class=fleet-list><tbody>
-<tr><td>0-8 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Defence laser silos</a></td><td>15 pts</td></tr>
-<tr><td>0-8 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Missile silos</a></td><td>5 pts</td></tr>
-<tr><td>0-4 <a href="../ships/low-orbit-defences/low-orbit-defences.pdf" target="_new">Air bases</a></td><td>20 pts</td></tr>
+<tr><td>0-8 <a href="https://ships.battlefleet-game.org/low-orbit-defences/defence-laser-silo.html" target="_new">Defence laser silos</a></td><td>15 pts</td></tr>
+<tr><td>0-8 <a href="https://ships.battlefleet-game.org/low-orbit-defences/missile-silo.html" target="_new">Missile silos</a></td><td>5 pts</td></tr>
+<tr><td>0-4 <a href="https://ships.battlefleet-game.org/low-orbit-defences/air-base.html" target="_new">Air bases</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 ## Ramilies Class Star Fort
 
 ### Quadrants
 
-The [Ramilies star fort](ships/high-orbit-defences/ramilies-class-star-fort.pdf) is so large that its
+The [Ramilies star fort](https://ships.battlefleet-game.org/high-orbit-defences/ramilies-class-star-fort.html) is so large that its
 weapons, hits and defences are divided up into
 four ‘quadrants’ representing the different
 sides of the space station. When the star fort
@@ -550,3 +550,66 @@ what happens to the vast wreck.
 | 3 | 0 | **Structural Collapse:** The area is filled with huge chunks of wreckage as the fort comes apart. Place a 15 cm diameter [asteroid field](../the-battlefield.md#asteroid-fields) where it was. |
 | 4–5 | 2D6 | **Hyper-plasma Meltdown:** The sophisticated reactor of the Ramilies goes critical in spectacular style. Resolve eight [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship within 4D6 cm. All [ordnance](../the-ordnance-phase.md) within that distance is removed. All other ships, defences and ordnance markers on the table suffer the effects of a [solar flare](../the-battlefield.md#solar-flares) centred on the fort<!-- , as noted on [???] p47 of the Battlefleet Gothic rulebook -->. Finally the fort itself is replaced by 2D6 [blast markers](../the-shooting-phase.md#blast-markers). |
 | 6 | 0 | **Warpbubble Implosion:** The Ramilies is drawn into the Warp by an instantaneous collapse of its warp bubble generator. Resolve four [lance](../the-shooting-phase.md#direct-firing-lances) shots at every ship and [ordnance marker](../the-ordnance-phase.md) within 4D6 cm. Then replace the Ramilies with a [Warp Rift](../the-battlefield.md#warp-rifts) <!-- as detailed on [???] p45 of the Battlelfleet Gothic rulebook -->. All [ordnance](../the-ordnance-phase.md) and ships on the table top are then immediately drawn 15 cm towards the Rift and, if moved into it, will be affected as noted in the [Celestial Phenomena](../the-battlefield.md#celestial-phenomena) rules. |
+
+## Orbital Mine
+
+An orbital mine is a piece of heavy ordnance placed to protect a location such as a planet, moon or
+space station. With its own small engine it will home in on any energy signature it detects which is not
+accompanied by a friendly beacon signal. At close range it detonates a powerful warhead, which can cripple
+even the largest vessel.
+
+## Special Rules
+
+* The orbital mine moves 10 cm towards the nearest enemy ship in each [ordnance phase](../the-ordnance-phase.md).
+* If it moves into contact with the base of an enemy ship it detonates and rolls eight dice
+to hit the target vessel. The target vessel may fire its turrets normally. If the mine is
+hit it rolls four Attack dice instead of eight. [Shields](../the-shooting-phase.md#shields) protect against hits from mines
+normally.
+* An orbital mine is treated like any other ordnance for the purposes of movement,
+[Blast markers](../the-shooting-phase.md#blast-markers) and shooting. Except for [fighters](../the-ordnance-phase.md#fighters), mines are not affected by, and do not
+affect, any other Ordnance markers they come into contact with. If the mine comes
+into contact with fighters, both markers are removed as normal. Friendly attack craft
+(including fighters) will not attack activated mines.
+* Once mines are in play, they are always active until destroyed. This includes individual
+mines purchased separately, from a minefield, as well as mines launched from modified
+carriers.
+* Individual mines purchased separately count for victory points when destroyed,
+regardless of how they are removed from play.
+
+# Minefield
+
+As well as solitary mines, some systems are protected by minefields covering several thousand kilometres. If
+an enemy approaches too close, the motion-tracking surveyors may detect the intruder and activate several
+of the mines to seek out the target and detonate.
+
+## Special Rules
+
+* A minefield covers an area that is D3×5 cm by D3×5 cm and must be placed with an
+edge within 15 cm of a [tabletop feature](../the-battlefield.md) (such as a planet, moon or asteroid field).
+* A minefield will block line of sight through it. Toward friendly ships, a minefield
+behaves as an [asteroid field](../the-battlefield.md#asteroid-fields) in all respects, and they may traverse a minefield as they
+would an asteroid field normally. Foolhardy enemy vessels may attempt to do so using a
+[leadership check](../the-rules.md#taking-command-checks) as when traversing an asteroid field.
+* In the owning players ordnance phase, roll a dice for each enemy ship within 30 cm of
+the edge of the minefield. On a roll of a 5 or 6 the ship has been detected. Add +1 to the
+roll if the ship is on [*All Ahead Full*](../the-rules.md#all-ahead-full) orders and deduct -1 if it is on [*Burn Retros*](../the-rules.md#burn-retros) orders,
+also subtract -1 if the ship is an Escort. For each ship detected, the player may place one
+orbital mine anywhere in contact with the edge of the minefield. Once in play, orbital
+mines follow the rules [above](#orbital-mine)<!-- on pg. 492 -->. Enemy ships inside a minefield will affect activating
+mines just as if they were outside the minefield normally, in which case they would
+be the first ship(s) targeted by any activated mines. If multiple enemy vessels enter
+a minefield and activate mines, the player owning the minefield determines which
+vessels activated mines attack first.
+* [Attack craft](../the-ordnance-phase.md#attack-craft) are not large enough to activate mines and can hide in a minefield the
+same way they may do so in an asteroid field (destroyed on a D6 roll of 6).
+* [Torpedoes](../the-ordnance-phase.md#torpedoes) that contact a minefield are destroyed.
+* It is possible to suppress a minefield with firing, using gun decks and lances to
+create a swirl of gas and debris to blind the field's motion trackers. When shooting at
+minefields, treat them as ordnance for purposes of target priority. A minefield may be
+fired at like an Ordnance marker and has an armour value of 6. Each hit scored allows
+you to place one Blast marker in contact with the minefield. If a minefield has Blast
+markers in contact with it, deduct -1 from any dice rolls to detect ships. In each end
+phase, each minefield will lose D6 Blast markers and these do not count towards the
+number of other Blast markers that can be removed that turn.
+* Individual mines deployed from a minefield do not normally count for victory points
+when destroyed.
