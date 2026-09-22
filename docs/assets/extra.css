@@ -1,3 +1,12 @@
+@font-face {
+  font-family: 'Roboto Sans';
+  src: url('Roboto-VariableFont_wdth,wght.ttf') format('truetype');
+}
+
+*,html,body,p,div,ul,ol,li,table,tr,td,th,input,button,textarea {
+  font-family: "Roboto Sans", Helvetica, Arial, sans;
+}
+
 article img {
   display: block;
   margin: 0 auto 1em auto;

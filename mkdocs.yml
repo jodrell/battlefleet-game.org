@@ -3,6 +3,7 @@ site_url: https://battlefleet-game.org/
 site_description: "Online version of the Battlefleet Gothic: Remastered Rulebook"
 
 theme:
+  font: false
   name: material
   language: en
   palette:
