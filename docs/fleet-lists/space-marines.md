@@ -692,6 +692,8 @@ a [campaign](../campaign-rules.md), a Dominion Fleet cannot take
 
 ## Rapid Strike Vessels
 
+**PTS: VARIES**
+
 All Space Marine Chapters make use of ships known collectively as rapid strike vessels. These ships are
 mainly used for patrols through the Space Marines’ domains, and for providing a mobile escort for the
 battle barges and strike cruisers. Rapid strike vessels are crewed by the Chapters’ serfs, overseen by a cadre
