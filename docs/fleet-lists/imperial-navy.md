@@ -55,11 +55,40 @@ Note that attack craft are always carried into
 battle by larger ships and therefore have no
 separate points value.
 
+### Power Ram
+
+The Imperial Power Ram may be taken by any
+Imperial capital ship with a 6+ prow for +5
+points unless it has a [Nova Cannon](../the-shooting-phase.md#nova-cannon-rules). This is for
+any Imperial fleet list and does not count as a
+separate [refit](refits.md). Ships so equipped impart one
+automatic hit during a successful [ram](../the-movement-phase.md#all-ahead-full-ramming-speed) on a
+target vessel before rolling for hits inflicted.
+
 ### Imperial Navy in Campaigns
 
 The Imperial Navy uses the default rules in
 [campaigns as presented in the Battlefleet
 Gothic Remastered Rulebook](../campaign-rules.md)<!-- on [pg [???]](../campaign-rules.md)-->.
+
+#### Space Marines (Other Appeals)
+
+_A request is made to nearby Space Marine Chapters to send aid to your fleet. Roll 2D6 on the following
+table:_
+
+| 2D6 | Troops |
+| :-: | --- |
+| 2 | One of the Chapter’s handful of battle barges is diverted to support your fleet. You may include one Space Marine battle barge in your next game for free, as long as you have a model to represent it (if not, roll this result again). |
+| 3 | The Chapter dispatches two of its strike cruisers to assist your fleet. You may include two strike cruisers in your next game for free, as long as you have models to represent them (if you don’t, roll this result again). |
+| 4 | The Chapter keeps one of its strike cruisers on station to assist you in your next fight. You may include one strike cruiser in your next game for free, as long as you have a model to represent it (if not, roll again). |
+| 5 | The Chapter sends two companies of Space Marines, stationed aboard two ships of your choice. Add +1 to Boarding Action rolls for those ships for the rest of the campaign. |
+| 6 | The Chapter sends a company of Space Marines, which are stationed aboard one ship of your choice. Add +1 to Boarding Action rolls for that ship for the rest of the campaign. |
+| 7 | The Chapter supplies several squads of Space Marines and Thunderhawk Gunships (which count as assault boats) for one ship of your choice (note that the ship must be capable of carrying attack craft). The ordnance will be repaired or replaced after each game so that the ship may use assault boats for the rest of the campaign. |
+| 8 | The Chapter supplies several squads of Space Marines and boarding torpedoes for one ship of your choice (note that the ship must be capable of launching torpedoes). The ordnance will be repaired or replaced after each game so that the ship may use boarding torpedoes for the rest of the campaign. |
+| 9 | The Chapter sends squads of Space Marine Terminators to be stationed on one ship of your choice. Add +2 to Boarding Action rolls for that ship for the rest of the campaign. |
+| 10 | The Chapter sends a cadre of veteran warriors to train your crews in shipboard combat. You may train one ship’s crew after each game – mark the fact they have been trained on your fleet registry. Ships which have been trained may re-roll the dice in a boarding action. |
+| 11 | The Chapter conducts raids on your enemies’ supply lines, tying up their ships in defending convoys and bases. In your next game your opponent must reduce his points value by D6x30. |
+| 12 | The Chapter conducts coordinated attacks to destroy the orbital defences of worlds you are planning to attack. In the next game you play where your opponent has planetary defences, their value will be reduced by D6x30 points. |
 
 ## Segmentum Obscurus: Gothic Sector Fleet List
 

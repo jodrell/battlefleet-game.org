@@ -948,23 +948,7 @@ greatly enhancing its battle effectiveness. Roll on the following table:*
 
 !!! note "Editor's note"
 
-    This table is missing from the Fleets PDF but can be found on [p. 157 of the original Battlefleet Gothic Rulebook](assets/p157.pdf).
-
-| 2D6 | Troops |
-| :-: | --- |
-| 2 | One of the Chapter’s handful of battle barges is diverted to support your fleet. You may include one Space Marine battle barge in your next game for free, as long as you have a model to represent it (if not, roll this result again). |
-| 3 | The Chapter dispatches two of its strike cruisers to assist your fleet. You may include two strike cruisers in your next game for free, as long as you have models to represent them (if you don’t, roll this result again). |
-| 4 | The Chapter keeps one of its strike cruisers on station to assist you in your next fight. You may include one strike cruiser in your next game for free, as long as you have a model to represent it (if not, roll again). |
-| 5 | The Chapter sends two companies of Space Marines, stationed aboard two ships of your choice. Add +1 to Boarding Action rolls for those ships for the rest of the campaign. |
-| 6 | The Chapter sends a company of Space Marines, which are stationed aboard one ship of your choice. Add +1 to Boarding Action rolls for that ship for the rest of the campaign. |
-| 7 | The Chapter supplies several squads of Space Marines and Thunderhawk Gunships (which count as assault boats) for one ship of your choice (note that the ship must be capable of carrying attack craft). The ordnance will be repaired or replaced after each game so that the ship may use assault boats for the rest of the campaign. |
-| 8 | The Chapter supplies several squads of Space Marines and boarding torpedoes for one ship of your choice (note that the ship must be capable of launching torpedoes). The ordnance will be repaired or replaced after each game so that the ship may use boarding torpedoes for the rest of the campaign. |
-| 9 | The Chapter sends squads of Space Marine Terminators to be stationed on one ship of your choice. Add +2 to Boarding Action rolls for that ship for the rest of the campaign. |
-| 10 | The Chapter sends a cadre of veteran warriors to train your crews in shipboard combat. You may train one ship’s crew after each game – mark the fact they have been trained on your fleet registry. Ships which have been trained may re-roll the dice in a boarding action. |
-| 11 | The Chapter conducts raids on your enemies’ supply lines, tying up their ships in defending convoys and bases. In your next game your opponent must reduce his points value by D6x30. |
-| 12 | The Chapter conducts coordinated attacks to destroy the orbital defences of worlds you are planning to attack. In the next game you play where your opponent has planetary defences, their value will be reduced by D6x30 points. |
-
-_**Notes:** Strike cruisers can be represented by Dauntless light cruisers and battle barges by Emperor class battleship_
+    This table has been moved to the [Imperial Navy Fleet List](fleet-lists/imperial-navy.md#space-marines-other-appeals).
 
 ## The Sub-Sector Maps
 

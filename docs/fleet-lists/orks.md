@@ -256,6 +256,82 @@ a non-moving Space Hulk using the same
 (unchanged) profile and point cost<!-- listed on
 [???] p.145 -->.
 
+## Orks in Campaigns
+
+### Engine Refit
+
+_The ship’s engines are fitted with additional systems or improvements have been made to the power
+generators and energy relays in some fashion. Roll on the following table._
+
+| D6 roll | Engine Refit |
+| :-: | --- |
+| 1 | **Improved Engines:** The Mekaniaks have improved the efficiency of the ship’s engines to an astonishing degree. The ship rolls an extra 2D6 when on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
+| 2 | **A Bigger Red Button:** The Mekaniaks have installed a switch next to the Red button. This channels a short burst of extra power to the engines. Once per game when you use the [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders, you may double the result of the dice roll to see how far you go. You must travel this FULL distance. |
+| 3 | **More Thrusters:** Additional thrusters have been placed all over the ship, enabling the ship make an additional [turn](../the-movement-phase.md#turning) (i.e. 45°/90°) after travelling the minimum distance. |
+| 4 | **Silent Running:** The Mekaniaks on board have installed special relays (hammers) to shut down the engines quickly (knock-out the Gretchin). When rolling to [disengage](../the-movement-phase.md#disengaging-from-combat) add +2 to the [Leadership](../the-rules.md#leadership) value.
+| 5 | **Kustom Force Field:** The Mekboys have managed to improve the shielding systems with a little tinkering. A ship with this refit may ignore the movement penalty for [Blast Markers](../the-shooting-phase.md#blast-markers) in contact with its base, or it travels though (including gas clouds and other [celestial phenomenon](../the-battlefield.md#celestial-phenomena)). |
+| 6 | **Painted Red:** While the ship was being repaired the Meks decided it needed a new coat of paint. Due to the Ork belief red ships go faster, increase the ships speed by 5 cm. Note: the model must be painted red to get this benefit. |
+
+### Ship Refit
+
+_The structure of the ship is improved in some way, new equipment is installed, or better trained or
+specialised crew members are brought in. Roll on the following table._
+
+| D6 roll | Ship Refit |
+| :-: | --- |
+| 1 | **Improved Tellyportas:** Orks are the undisputed masters of Tellyporta Teknologee, and have been able to improve this ship’s Tellyporta to carry extra boyz. Add +1 to all [hit-and-run attacks](../the-end-phase.md#hit-and-run-attacks) made by the Tellyporta. |
+| 2 | **Extra Armour Plating:** The Mekboys have been to work welding extra metal plates all over the ship. This has had the effect of increasing the ships [damage](../the-shooting-phase.md#damage) by 25%, but decreasing its speed by 5 cm. |
+| 3 | **Fire Grots:** Due to an efficient and terrifying (for the Grots) training regime, a group of Gretchin have been taught how to fight fires with maximum efficiency. Fires are extinguished on a 5 or 6 roll to [repair](../the-end-phase.md#damage-control) in the end phase, but normal damage is still repaired on a 6. |
+| 4 | **More Shields:** If one is good two must be better. The Mekaniaks have added an additional [shield](../the-shooting-phase.md#shields) to this ship. |
+| 5 | **Ram Spike:** At the Kaptins order, the Mekaniaks have welded a huge ramming spike to the front of the ship. Due to the extra confidence this spike gives the Krew add +1 to [leadership](../the-rules.md#leadership) when rolling to [ram](../the-movement-phase.md#all-ahead-full-ramming-speed). |
+| 6 | **Overloading the Shield Generators:** Mekaniaks on board have put in switches, buttons, and lots of flashing lights, which somehow allow them to enhance the [shield](../the-shooting-phase.md#shields) output. For each hit against the shields roll a D6; on a 6 the increased shielding absorbs the hit and it is ignored, place no [blast marker](../the-shooting-phase.md#blast-markers). On a 1 roll a further D6; on a 6 take a [critical hit](../the-shooting-phase.md#critical-hits) as the power meant for the shields overloads another system. |
+
+### Weapons Refit
+
+_The ship has been upgraded with additional or more sophisticated weapons systems, greatly enhancing its
+battle effectiveness. Roll on the following table:_
+
+| D6 roll | Weapons Refit |
+| :-: | --- |
+| 1 | **Weirdboy Tower:** During the last battle, the power of the Waagh was too much for one of the boyz on board and he manifested strange powers. Always inventive they have chained the new Weirdboy up and are using him as a weapon. The Weirdboy is the equivalent of a Strength-1 [Lance](../the-shooting-phase.md#direct-firing-lances), with a range of 15 cm. |
+| 2 | **Kans:** The Kaptin ordered the Mekboyz to build Kans to aid in the loading of [torpedoes](../the-ordnance-phase.md#torpedoes) and the readying of [attack craft](../the-ordnance-phase.md#attack-craft). The ship adds +1 to its [leadership](../the-rules.md#leadership) when attempting [*Reload Ordnance*](../the-rules.md#reload-ordnance) special orders (re-roll this if the ship has no ordnance). |
+| 3 | **Dakka Central:** The Mekboys have been able to rig all of the ship's weapons through the Dakka Central. This allows the Orks to still fire with enthusiasm while the ship is performing special manoeuvres and still hit. While on [special orders](../the-rules.md#special-orders), the ships firepower is reduced by 25% (rounded up) rather than halved. |
+| 4 | **Mad Bombers:** The particularly foolhardy Ork pilots from this ship push their [Fightabommas](#fighta-bommas) past the known limits of Ork Technology. Rather than rolling D3 for the number of hits against ships, these Bombers may roll a D6. |
+| 5 | **Grot Targeters:** The Mekaniaks have installed display screens which show the enemy ships as Grots. As Orks have practiced from a very early age how to hit Grots, all of the firing by [weapons batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) now benefits from a left column shift on the [Gunnery Table](../the-shooting-phase.md#gunnery-table) (before any other modifiers for [blast markers](../the-shooting-phase.md#blast-markers) or range). |
+| 6 | **More Dakka:** The Mekaniaks have been adding guns all over the ship, increase the [Turrets](../the-ordnance-phase.md#turrets) value by 1. |
+
+### Ork Crew Skills
+
+_Over the course of a campaign, a ship’s crew develops experience that only comes from serving together in
+the crucible of war. Roll on the following table:_
+
+| D6 roll | Skill |
+| :-: | --- |
+| 1 | **Shooty Boyz:** These boyz are attempting to aim their weapons. When the Ship attempts [*Lock On*](../the-rules.md#lock-on) special orders you may roll 3D6 and discard the highest roll before comparing it to the ship’s [leadership](../the-rules.md#leadership). |
+| 2 | **Bigger Hammers:** Mekboys are able to get nearly anything working again, when they believe they are employing the correct tools and this ship has just received a new supply of hammers. The Ork ship may always [repair](../the-end-phase.md#damage-control) at least one [critical hit](../the-shooting-phase.md#critical-hits) per turn, excepting those that may not be repaired. Note: escorts may re-roll this result. |
+| 3 | **Well Trained Grots:** The Slavers responsible for Gretchin reloaders have trained them well. If the ship/squadron attempts to [*Reload Ordnance*](../the-rules.md#reload-ordnance), you may roll 3D6 and discard the highest die. Note: Ships/Squadrons without ordnance may ignore this roll. |
+| 4 | **Asteroid Pilots:** These particularly foolhardy Ork pilots believe they can pilot their ships anywhere, including [asteroid fields](../the-battlefield.md#asteroid-fields). Using this skill, ships travelling through Asteroid fields on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders roll 3D6 and pick the two lowest. Escorts still get to re-roll this as usual. If the test is failed while using this skill, the ship takes D6+1 impact hits from Asteroids (ignoring shields). |
+| 5 | **Loyal Krew:** The Orks on board this ship look to the ship’s/squadron’s Kaptin with unusual loyalty. Once per game you may re-roll a failed [Leadership or Command check](../the-rules.md#taking-command-checks). |
+| 6 | **Loudhailer and Big Stick:** Due to the effectiveness of the Kaptin’s training methods, the Krew is able to work together with unrivalled efficiency. Once per battle the ship may automatically pass a [Leadership test or Command check](../the-rules.md#taking-command-checks) without rolling any dice. |
+
+### Power of the Waaagh!
+
+_The Power of the Waaagh table should be treated as an ‘Other’ on the appeal chart._
+
+| 2D6 roll | Skill |
+| :-: | --- |
+| 2 | **Look wot I did Boss – changed yoor Kroozer!** Your flagship is changed into a randomly decided different class of kroozer. Any [refits](refits.md) are retained and the Meks add a new one! However, your crew doesn’t know what to do yet and loses 1 [Ld](../the-rules.md#leadership) for the next battle only. |
+| 3 | **Pillagin’:** You may add up to 1 kroozer or squadron of escorts to your roster for each system you control. Each unit you add forces you to reduce the grade of the system as follows: Forge becomes Mining, Civilised becomes Agri, all others become Uninhabited. |
+| 4 | **Lootin’:** For each hulk you captured last scenario you may give one of your kroozers Looted Torpedoes or Extra Power Fields. |
+| 5 | **Oddboyz:** For each civilised system or hive world you control you may give one of your kroozers any warlord upgrade except Looted Torpedoes or Extra Power Fields. |
+| 6 | **Dis is my ship!** A new warlord takes over one of the kroozers and swears allegiance to you. You may add a warlord to your registry. |
+| 7 | **Take us wiv ya:** A mob of boyz piles aboard one of your ships, which receives a +1 [boarding](../the-end-phase.md#boarding-actions) modifier. |
+| 8 | **We iz gonna protect ya:** An entire Stormboy Korps decides to be your bodyguards. Your flagship gains a +2 [boarding](../the-end-phase.md#boarding-actions) modifier for the rest of the campaign. |
+| 9 | **‘Ere we go, ‘ere we go, ‘ere we go!** Hundreds of extra boyz join the fleet. Assign them to two vessels, which receive a +1 [boarding](../the-end-phase.md#boarding-actions) modifier for the rest of the campaign. |
+| 10 | **We iz da best!** The boyz are filled with the spirit of the Waaagh! You win any dice rolls which are drawn during your next campaign turn and battle. |
+| 11 | **We iz gonna liv ’ere:** One uninhabited system you own becomes an agri-world. |
+| 12 | **Waaagh!** The next time you are the attacker in a battle you may nominate two systems to be attacked. The battle will be 1,500 to 2,000 points. If you win you can claim both systems. If your opponent wins he can claim one neutral system. |
+
 ## Ork Pirates: Cyclops Cluster Fleet List
 
 ### Warlord
