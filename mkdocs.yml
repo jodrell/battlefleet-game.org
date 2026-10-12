@@ -20,7 +20,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
   custom_dir: overrides
-  logo: assets/image--004.png
+  logo: assets/Battlefleet_Gothic_Logo_01.png
   favicon: assets/favicon/favicon-96x96.png
   features:
     - navigation.indexes
