@@ -1,5 +1,5 @@
 User-Agent: *
 Disallow: *.pdf$
-Disallow: /src/
+Disallow: /fleet-lists/ships/
 
 Sitemap: https://battlefleet-game.org/sitemap.xml
