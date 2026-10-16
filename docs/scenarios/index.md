@@ -1,13 +1,13 @@
 # Scenarios
 
-_Although some space battles are straightforward
+Although some space battles are straightforward
 affairs, with two fleets engaging each other
 simply to destroy the enemy, it is just as likely
 that the fleets will have a more specific objective
 to achieve, such as escorting a [convoy](convoy.md) or
 supporting a [planetary assault](planetary-assault.md). This section
 of Battlefleet Gothic provides the rules for
-fighting these different types of battle._
+fighting these different types of battle.
 
 ## Choosing a Scenario
 
