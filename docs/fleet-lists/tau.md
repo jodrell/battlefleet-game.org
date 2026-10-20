@@ -301,7 +301,7 @@ the fleet.*
 <tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--tolku-configuration.html" target="_new">Hero class starship</a> (T’olku Configuration)</td><td>180 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Hero class starship</a> (Vash’ya Configuration)</td><td>180 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--kelshan-configuration.html" target="_new">Merchant class starship</a> (Ke’lshan Configuration)</td><td>95 pts</td></tr>
 </tbody></table>
 
 ### Escorts
@@ -478,7 +478,7 @@ other type of capital ship in the fleet.*
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--dalyth-configuration.html" target="_new">Emissary class starship</a> (Dal’yth Configuration)</td><td>110 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--sacea-configuration.html" target="_new">Emissary class starship</a> (Sa’cea Configuration)</td><td>110 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--kelshan-configuration.html" target="_new">Merchant class starship</a> (Ke’lshan Configuration)</td><td>95 pts</td></tr>
 </tbody></table>
 
 
@@ -851,7 +851,7 @@ outnumber all non-Demiurg cruisers combined.*
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--dalyth-configuration.html" target="_new">Emissary class starship</a> (Dal’yth Configuration)</td><td>110 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilporrui-emissary-class-envoy-ship--sacea-configuration.html" target="_new">Emissary class starship</a> (Sa’cea Configuration)</td><td>110 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--dalyth-configuration.html" target="_new">Merchant class starship</a> (Dal’yth Configuration)</td><td>95 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/tau/larshi-hero-class-starship--vashya-configuration.html" target="_new">Merchant class starship</a> (Vash’ya Configuration)</td><td>95 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/tau/ilfannor-merchant-class-starship--kelshan-configuration.html" target="_new">Merchant class starship</a> (Ke’lshan Configuration)</td><td>95 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dauntless-class-light-cruiser.html" target="_new">Dauntless Class Light Cruiser</a></td><td>125 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour Class Light Cruiser</a></td><td>110 pts</td></tr>
 </tbody></table>
