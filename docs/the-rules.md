@@ -216,8 +216,7 @@ of the dice. This is exactly as it sounds – pick
 up the dice you wish to re-roll and roll it/them
 again. The second score counts with a re-roll,
 even if it means a worse result than the first.
-No single [Special Order](#special-orders) or other [leadership](#leadership)
-test can be re-rolled more than once,
+No single [Special Order](#taking-command-checks) or other [leadership test](#other-leadership-tests) can be re-rolled more than once,
 regardless of the source of the re-roll.
 
 ## The Bearing Compass
