@@ -96,13 +96,13 @@ possible distance instead.
     A ship can move faster
     than its basic cruising
     speed by using the
-    [*All Ahead Full*](the-rules.md#all-ahead-full) special
-    order. Using * orders means that
+    *All Ahead Full* special
+    order. Using *All Ahead Full* orders means that
     a ship cannot [turn](the-movement-phase.md#turning) and
     its firing ability is less
     effective, as explained
     in the [Shooting rules](the-shooting-phase.md).
-    [*All Ahead Full*](the-rules.md#all-ahead-full) orders
+    *All Ahead Full* orders
     are most useful for
     closing in on a distant
     foe or escaping from
@@ -116,7 +116,7 @@ possible distance instead.
     A ship can move
     slower than half its
     basic cruising speed by
-    using the [*Burn Retros*](the-rules.md#burn-retros)
+    using the *Burn Retros*
     special order, or even
     remain stationary
     (hold station). A ship
@@ -124,7 +124,7 @@ possible distance instead.
     without having to move
     forward first but its
     firing is less effective.
-    [*Burn Retros*](the-rules.md#burn-retros) orders
+    *Burn Retros* orders
     are handy for holding
     back, when moving at
     full speed would bring
@@ -194,7 +194,7 @@ point in its move.
 
     A ship can turn more
     sharply by using the
-    [*Come To New Heading*](the-rules.md#come-to-new-heading)
+    *Come To New Heading*
     special order. It may
     make an extra turn
     during its movement.
