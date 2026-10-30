@@ -189,7 +189,7 @@ Rulebook -->.
 
 #### The Best Money Can Buy
 
-The Xenotech Systems refits <!-- listed on [???] --> can
+The [Xenotech Systems refits](#the-best-money-can-buy) <!-- listed on [???] --> can
 only be used by Rogue Trader cruisers and
 escorts, not by other reserves or allied vessels
 in the fleet. Over the course of a campaign,
@@ -206,15 +206,14 @@ selecting it.
 
 #### Veteran Rogue Traders
 
-*A Veteran Rogue Trader may be present for every
-two Rogue Trader cruisers in a fleet. At least
-one Veteran Rogue Trader must be assigned to
-a Rogue Trader cruiser in the fleet.*
+*At least one Veteran Rogue Trader must be
+assigned to a Rogue Trader cruiser in the fleet.
+A Veteran Rogue Trader may be present for every
+two Rogue Trader cruisers in a fleet.*
 
 <table class=fleet-list><tbody>
 <tr><td>Veteran Rogue Trader (Ld 9)</td><td>50 pts</td></tr>
 </tbody></table>
-
 
 A Veteran Rogue Trader gets one re-roll, which
 may be used for his vessel or an accompanying
@@ -270,7 +269,7 @@ Space Marine escorts are used as auxiliary vessels.*
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Armed Cargo Vessel</a></td><td>20 pts</td></tr>
 <tr><td><a href="#auxiliary-vessels" target="_new">Auxiliary vessels</a></td><td>varies</td></tr>
 </tbody></table>
 
@@ -435,8 +434,12 @@ of value and opportunity. A human pirate fleet
 may have up to one cruiser for every 500 points
 of ships in the fleet or portion thereof.*
 
+<table class=fleet-list><tbody>
+<tr><td>Pirate Cruiser</td><td>varies</td></tr>
+</tbody></table>
+
 A Pirate Cruiser may consist of a Rogue Trader
-cruiser or any cruiser from the Imperial or Chaos
+cruiser or any cruiser from the [Imperial](imperial-navy.md) or [Chaos](chaos.md)
 fleet lists worth 185 points or less. It may also
 include a single Space Marine strike cruiser!
 Special variants, refits and Nova Cannons cannot
@@ -486,17 +489,16 @@ all types don’t count toward this total.*
 
     #### Notes from Nate Montes
 
-    Siluria Class Light Cruisers and Havoc
+    Havoc
     Class Frigates are older, outdated ships,
     and much more commonly seen outside
     of the Imperial Navy.
 
     If both players agree before the game,
-    these ships can be included in a Rogue
-    Trader fleet, as a cruiser and an escort
-    respectively.
+    this ship can be included in a Rogue
+    Trader fleet as an escort.
 
-    <table class=fleet-list><tbody><tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/siluria-class-light-cruiser.html" target="_new">Siluria Class Light Cruiser</a></td><td>100 pts</td></tr></tbody></table>
+    <table class=fleet-list><tbody><tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/havoc-class-frigate.html" target="_new">Havoc Class Frigate</a></td><td>35 pts</td></tr></tbody></table>
 
 ### Xenos Freebooters, Corsairs and Brigands
 
@@ -789,7 +791,7 @@ To determine the total strength of the
 attacking forces, make D3+5 rolls against
 the table below from the attacker’s fleet list.
 Alternatively, the attacker may use one of the
-alternate threat tables on [???][^1]
+alternate threat tables ([Cruiser Trap](#the-cruiser-trap) or [Wolf Packs](#the-wolf-packs)).
 
 | D6 ROLL | RESULT |
 | :-: | --- |
@@ -805,12 +807,12 @@ the value of 10 regular transport ships, no
 more, no less. Up to 100 points worth of ships
 may be taken to defend the convoy for every
 two normal transports (or their equivalent)
-taken, or 150 points if the attacker uses one of
-the alternate tables on [???] p.83[^1]. Before any
+taken, or 150 points if the attacker uses the [Cruiser Trap](#the-cruiser-trap) or [Wolf Packs](#the-wolf-packs) tables<!-- one of
+the alternate tables on [???] p.83[^1] -->. Before any
 escorting vessels are taken, at least two each
 of armed freighters and Q-ships <!-- from [???]
 p.159-160 of Armada --> as well as two Rogue
-Trader fast clippers must be included in the
+Trader [fast clippers](https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html) must be included in the
 fleet, with each pair of armed freighters or
 fast clippers counting as the value of a single
 regular transport (rounding down normally).
@@ -860,8 +862,7 @@ turn.
 ### Special Rules
 
 The rules for this scenario are as described
-on [[???] p.74 of the Battlefleet Gothic
-Rulebook](../scenarios/convoy.md). In addition, at the beginning of
+in the [Convoy scenario](../scenarios/convoy.md). In addition, at the beginning of
 each defending player’s turn after the first
 turn, the defending player rolls 2D6 against
 the following table. Unless otherwise stated,
@@ -896,8 +897,7 @@ disengaged.
 ### Victory Conditions
 
 Victory conditions are similar to those
-described on [[???] p.75 of the Battlefleet
-Gothic Rulebook](../scenarios/convoy.md). However, use instead the
+described in the [Convoy scenario](../scenarios/convoy.md). However, use instead the
 table below to determine victory conditions.
 The point value of each transport that
 escapes is applied to the defender’s tally when
@@ -1490,5 +1490,3 @@ earn more victory points than they lose before
 the end of the battle. Player #3 only wins the
 battle if both other players lose more victory
 points than they earn.
-
-[^1]: Editor's note: it is unclear what the "[???]" above is supposed to refer to

@@ -25,7 +25,7 @@ of another authority, or they may even travel
 in obscurity aboard a [Rogue Trader](rogue-traders.md) vessel or
 merchant transport.
 
-A single Inquisitorial cruiser led by an Inquisitor
+A single Inquisitorial Cruiser led by an Inquisitor
 can be taken as reserves by any [Imperial Navy](imperial-navy.md),
 [Space Marine](space-marines.md) or [Adeptus Mechanicus](adeptus-mechanicus.md) fleet; or
 an Inquisitor and his retinue may be embarked
@@ -114,13 +114,18 @@ Inquisitor Lord has an attack rating of 3
 unless a Blackship is accompanying the fleet,
 in which case its attack rating is 2.
 
-## Ordnance and Upgrades
+## Weapons, Ordnance and Upgrades
+
+Grey Knights are [Space Marines](space-marines.md) in all respects
+and use all their special rules<!-- described on pg. 94
+onwards -->, including the [Bombardment Cannon](space-marines.md#bombardment-cannon).
 
 If an [Imperial Navy](imperial-navy.md) or [Adeptus Mechanicus](adeptus-mechanicus.md)
 ship embarking an Inquisitor is equipped
 with launch bays, it must replace its attack
 craft with [Thunderhawks](space-marines.md#thunderhawk-gunships), with its launch bay
-strength divided in half (rounding down).
+strength divided in half (rounding down). Grey Knights
+may never take [Thunderhawk Annihilators](space-marines.md#thunderhawk-annihilator).
 
 Ships with torpedo tubes are armed with
 ordinary and [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes), and
@@ -135,8 +140,8 @@ used.
 
 ## Scenarios
 
-[Scenarios](../scenarios/index.md) may be rolled normally in any
-agreed-upon fashion. If a [Convoy Run](../scenarios/convoy.md) scenario
+[Scenarios](../scenarios/index.md) may be rolled normally in any agreed-upon fashion.
+If a [Convoy Run](../scenarios/convoy.md) scenario
 is rolled and the defending fleet list includes an
 Inquisition Blackship, this vessel may be used as
 the objective in the same manner as a transport
@@ -311,13 +316,13 @@ leadership and boarding value bonus.
 
 ### Ordo Malleus Inquisitors
 
-Inquisitors of this Ordo are more
-knowledgeable of the dire threat [Chaos](chaos.md) poses
-to all of humanity than virtually anyone in
-the Imperium. Some radical Inquisitors of this
-Ordo come to believe they can actually control
-this to an extent, turning Chaos against itself
-to humanity's benefit.
+Inquisitors of this Ordo are more knowledgeable
+of the dire threat [Chaos](chaos.md) poses to all of humanity
+than virtually anyone in the Imperium. Some
+radical Inquisitors of this Ordo come to believe
+they can actually control this to an extent,
+turning Chaos against itself to humanity's
+benefit.
 
 <table class=fleet-list><tbody>
 <tr><td><strong>Ordo Malleus Inquisitor Lord</strong></td><td><strong>+25 pts</strong></td></tr>
@@ -328,35 +333,33 @@ Lord is accompanied by several squads of Grey
 Knights Space Marines that serves as their
 personal bodyguard and assault force.
 
-The ship adds +1 to its [leadership](../the-rules.md#leadership) (max. 10)
-and +2 to its roll during a [boarding action](../the-end-phase.md#boarding-actions).
+A vessel embarking an Ordo Malleus Inquisitor
+Lord is accompanied by several squads of Grey
+Knights Space Marines that serves as their
+personal bodyguard and assault force. The vessel
+gains the respective [Space Marine special rules](space-marines.md)<!--
+described on pg. 94 onwards-->; if it doesn’t have
+it already.
 
-[Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks) from this ship add +1 to
-their roll, and such attacks against this ship
-subtract -1 from their roll.
-
-This ship or one Grey Knights vessel may
-board a Grey Knights terminator boarding
-party for +50 points.
-
-Once per turn a vessel equipped with
-Terminator boarding parties may use them
-when conducting a hit and run [teleport
-attack](../the-end-phase.md#teleport-attacks). They roll two dice for its hit and run
-attack and apply both results, including the
-normal +1 bonus for being [Space Marines](space-marines.md).
-Terminators may be used in addition to a
-normal teleport attack that turn.
+This ship or one Grey Knights vessel may board
+a Grey Knights terminator boarding party for
++50 points. Once per turn a vessel equipped with
+Terminator boarding parties may use them when
+conducting a [hit and run teleport attack](../the-end-phase.md#teleport-attacks). They
+roll two dice for its hit and run attack and apply
+both results, including the normal +1 bonus for
+being Space Marines. Terminators may be used
+in addition to a normal teleport attack that turn.
 
 Every Grey Knights vessel in the fleet may
-embark an Honour Guard for +10 points.
-Once per turn you may use the Honour
-Guard. All the normal rules for [teleport
-attacks](../the-end-phase.md#teleport-attacks) apply, except that they may be used
-in addition to a normal teleport attack that
-turn. The player may roll two dice and choose
-which one to use as the result, including the
-normal +1 bonus for being [Space Marines](space-marines.md).
+embark an Honour Guard for +10 points. Once
+per turn you may use the Honour Guard. All the
+normal rules for [teleport attacks](../the-end-phase.md#teleport-attacks) apply, except
+that they may be used in addition to a normal
+teleport attack that turn. The player may roll
+two dice and choose which one to use as the
+result, including the normal +1 bonus for being
+Space Marines.
 
 This ship and every Grey Knights vessel in the
 fleet mounts hexagrammic wards throughout
@@ -366,18 +369,17 @@ its hull and ignores any [Chaos marks](chaos.md#marks-of-chaos) or
 affect the leadership of this vessel, Marks of
 Khorne do not double boarding values against
 this ship, etc. Rules for [Chaos Space Marines](chaos.md#chaos-space-marine-crews)
-still apply normally, and any other special
-rules and effects such as the [Forces of Chaos](chaos.md#forces-of-chaos-other-appeals) <!--listed on p.158 [???] of the Rulebook --> remain
-unaffected.
+still apply normally, and any other special rules
+and effects such as the Forces of Chaos <!--listed on
+pg. 239--> remain unaffected.
 
-An Ordo Malleus Inquisitor will only
-be called when intense demonic activity
-threatens to overrun an entire Sector. The
-enemy [Chaos](chaos.md) fleet may add one Mark of
-Chaos or upgrade a cruiser to a [Daemonship](chaos.md#daemonships)
-at no cost, and may also do so again as many
-times as there are Grey Knights strike cruisers
-in the fleet.
+An Ordo Malleus Inquisitor will only be called
+when intense demonic activity threatens to
+overrun an entire Sector. The enemy [Chaos](chaos.md) fleet
+may add one [Mark of Chaos](chaos.md#marks-of-chaos) or upgrade a cruiser
+to a [Daemonship](chaos.md#daemonships) at no cost, and may also do so
+again as many times as there are Grey Knights
+strike cruisers in the fleet.
 
 #### Reserve/allies
 
@@ -397,3 +399,185 @@ its Grey Knights contingent along with their
 [leadership](../the-rules.md#leadership), [boarding](../the-end-phase.md#boarding-actions) value and other bonuses.
 Likewise, Chaos opponents gain no benefits,
 as the Grey Knights are absent.
+
+## Grey Knights Fleet List
+
+### Fleet Commander
+
+If the fleet is above 750 points you must include
+a Fleet Commander to lead the fleet.
+
+#### 0-1 Inquisitor Lord
+
+_They must be aboard an Inquisitorial Cruiser
+if one is included, otherwise they must be on an
+Inquisition Blackship if one is included. If none
+of these ships is present, they have to be placed on
+the most expensive ship in the fleet._
+
+
+<table class=fleet-list><tbody>
+<tr><td>Inquisitor Lord (Ld 9)</td><td>75 pts</td></tr>
+<tr><td>Ordo Malleus Inquisitor Lord (Ld 10)</td><td>100 pts</td></tr>
+</tbody></table>
+
+An Inquisitor Lord gets one re-roll, which may
+be used for any ship in the fleet. A second re-roll
+can be purchased for +25 points.
+
+A vessel embarking an Ordo Malleus Inquisitor
+Lord is accompanied by several squads of Grey
+Knights Space Marines that serves as their
+personal bodyguard and assault force. The vessel
+gains the respective [Space Marine special rules](space-marines.md)<!--
+described on pg. 94 onwards-->; if it doesn’t have
+it already.
+
+An Ordo Malleus Inquisitor Lord will only be
+called when intense demonic activity threatens
+to overrun an entire Sector. The enemy [Chaos](chaos.md)
+fleet may add one [Mark of Chaos](chaos.md#marks-of-chaos) or upgrade a
+cruiser to a [Daemonship](chaos.md#daemonships) at no cost, and may
+also do so again as many times as there are Grey
+Knights strike cruisers in the fleet.
+
+### Capital Ships
+
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Grey Knights Battle barge</td><td>440 pts</td></tr>
+</tbody></table>
+
+Can only be included, if the rest of the fleet is
+at least worth 1000 points and an Ordo Malleus
+Inquisitor Lord leads the fleet.
+
+<table class=fleet-list><tbody>
+<tr><td>(0-1) Inquisitorial Cruiser</td><td>270 pts</td></tr>
+<tr><td>(0-1) Inquisition Blackship</td><td>300 pts</td></tr>
+</tbody></table>
+
+This is a special vessel and does not count toward
+or against other ship limits in the fleet.
+
+<table class=fleet-list><tbody>
+<tr><td>Grey Knights Strike Cruiser</td><td>165 pts</td></tr>
+</tbody></table>
+
+For every 500 points of the fleet, or part thereof,
+one Grey Knights Strike Cruiser may be included
+in the fleet.
+
+### Escorts
+
+*You may include any number of escorts in your
+fleet in squadrons of 2–6.*
+
+<table class=fleet-list><tbody>
+<tr><td>Nova class Frigate</td><td>50 pts</td></tr>
+<tr><td>Gladius class Frigate</td><td>40pts</td></tr>
+<tr><td>Hunter class Destroyer</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Firestorm)</td><td>45 pts</td></tr>
+<tr><td>Rapid strike vessel (Sword)</td><td>40 pts</td></tr>
+<tr><td>Rapid strike vessel (Cobra)</td><td>35 pts</td></tr>
+</tbody></table>
+
+### Ordnance
+
+Any ship with launch bays carries [Thunderhawks](space-marines.md#thunderhawks).
+Grey Knights may never take [Thunderhawk
+Annihilators](space-marines.md#thunderhawk-annihilator).
+
+Ships with torpedo tubes are armed with
+ordinary and boarding torpedoes, and for no
+cost or modification can also act as [Exterminatus](space-marines.md#planetary-assaults-and-exterminatus)
+vessels.
+
+All Grey Knights capital ships are equipped with
+drop pods.
+
+<table class=fleet-list><tbody>
+<tr><td>Grey Knights Terminators</td><td>+50 pts</td></tr>
+</tbody></table>
+
+The vessel embarking the Inquisitor Lord or
+one Grey Knights vessel may board a Grey
+Knights terminator boarding party. Once per
+turn a vessel equipped with Terminator boarding
+parties may use them when conducting a hit and
+run teleport attack. They roll two dice for its hit
+and run attack and apply both results, including
+the normal +1 bonus for being Space Marines.
+Terminators may be used in addition to a normal
+teleport attack that turn.
+
+<table class=fleet-list><tbody>
+<tr><td>Grey Knights Honour Guard</td><td>+10 pts</td></tr>
+</tbody></table>
+
+Every Grey Knights vessel in the fleet may
+embark an Honour Guard. Once per turn you
+may use the Honour Guard. All the normal rules
+for teleport attacks apply, except that they may be
+used in addition to a normal teleport attack that
+turn. The player may roll two dice and choose
+which one to use as the result, including the
+normal +1 bonus for being Space Marines.
+
+### Special Rules
+
+#### Grey Knights
+
+Grey Knights are [Space Marines](space-marines.md) in all respects
+and use all their special rules<!-- described on pg. 94
+onwards-->, including the [Bombardment Cannon](space-marines.md#bombardment-cannon).
+
+#### Hexagrammic wards
+
+The vessel embarking the Inquisitor Lord and
+every Grey Knights vessel in the fleet mounts
+hexagrammic wards throughout its hull and
+ignores any [Chaos marks](chaos.md#marks-of-chaos) or [Daemonship](chaos.md#daemonships) effects
+affecting [leadership](../the-rules.md#leadership) or [boarding actions](../the-end-phase.md#boarding-actions). Marks
+of Slaanesh do not affect the leadership of this
+vessel, Marks of Khorne do not double boarding
+values against this ship, etc. Rules for [Chaos
+Space Marines](chaos.md#chaos-space-marine-crews) still apply normally, and any
+other special rules and effects such as the Forces
+of Chaos <!-- listed on pg. 239--> remain unaffected.
+
+### Attack Rating
+
+A Grey Knights fleet has an attack rating of 3
+unless a Blackship is accompanying the fleet, in
+which case its attack rating is 2.
+
+### Reserves and Allies
+
+A Grey Knights fleet will not take ships from or
+provide ships to any other fleet list as reserves or
+allies, including [Imperial Navy](imperial-navy.md), [Rogue Trader](rogue-traders.md)
+or [Adeptus Mechanicus](adeptus-mechanicus.md) fleet lists.
+
+### Scenarios
+
+Scenarios may be rolled normally in any agreed-upon fashion. If a [Convoy Run](../scenarios/convoy.md) scenario is
+rolled and the defending fleet list includes
+an Inquisition Blackship, this vessel may be
+used as the objective in the same manner as a
+transport convoy, counting as eight transports
+for purposes of deciding escorting forces. A
+single Inquisitorial Cruiser may be included
+as part of the escorting fleet if desired and the
+points are available, keeping in mind that the
+point value of the Blackship counts against the
+escorting fleet!
+
+### Sub-plots
+
+Inquisitors are almost always in pursuit of
+some higher objective that may be obscured
+by the current conflict at-hand. In addition to
+any sub-plots rolled normally, the fleet led by
+an Inquisitor must take a [Secret Ploys sub-plot](../scenarios/index.md#secret-ploys-roll-of-5-6)
+rolled randomly<!-- from pg. 127 of the Remastered
+Rulebook-->.

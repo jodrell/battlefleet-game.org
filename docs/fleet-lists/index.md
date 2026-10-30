@@ -323,10 +323,9 @@ Imperial, Chaos, Eldar and Ork cut-throats.
     <a href="https://rr30k.com/battlefleet-heresy/" target="_new">Battlefleet Heresy</a>.
 
     Or if you have any ideas that you think
-    other people will enjoy playing, why not
-    go to the [Discord server](https://discord.gg/qUW4qMjdxc), the Facebook
-    group, or head over to the Specialist-Arms
-    forum and share them!
+    other people will enjoy playing, why not go
+    to the [Discord server](https://discord.gg/qUW4qMjdxc), the Facebook group,
+    or head over to Reddit and share them!
 
 ## Reserves
 
@@ -544,7 +543,7 @@ possible allies, but in the end this list is to be
 treated as a guide for what fleets may ally with
 each other, detailed as follows:
 
-### Allies Matrix
+### Allies
 
 !!! note "Editor's note"
 
@@ -562,3 +561,15 @@ each other, detailed as follows:
 10. [Demiurg and/or Kroot](tau.md#demiurg-and-kroot-xenos-fleet-list): will *never* ally with Orks or Space Marines. Even when allied with two fleets that are fighting each other, Demiurg and Kroot ships will never fire up on each other.
 11. [Necrons](necrons.md) *do not ally with any fleet*.
 12. [Tyranids](tyranids.md) *do not ally with any fleet*.
+
+!!! note
+
+    Ships from the following factions use
+    mostly ships of the Imperial Navy and
+    are therefore considered to be part of
+    the Imperial Navy for the purpose of
+    reserves and allies:
+
+    * [Imperial Navy](imperial-navy.md)
+    * [Adeptus Mechanicus](adeptus-mechanicus.md)
+    * [Inquisition](inquisition.md)

@@ -55,6 +55,8 @@ Note that attack craft are always carried into
 battle by larger ships and therefore have no
 separate points value.
 
+<!--
+
 ### Power Ram
 
 The Imperial Power Ram may be taken by any
@@ -65,13 +67,31 @@ separate [refit](refits.md). Ships so equipped impart one
 automatic hit during a successful [ram](../the-movement-phase.md#all-ahead-full-ramming-speed) on a
 target vessel before rolling for hits inflicted.
 
-### Imperial Navy in Campaigns
+-->
 
-The Imperial Navy uses the default rules in
-[campaigns as presented in the Battlefleet
-Gothic Remastered Rulebook](../campaign-rules.md)<!-- on [pg [???]](../campaign-rules.md)-->.
+## Campaigns
 
-#### Space Marines (Other Appeals)
+The Imperial Navy uses the
+default rules in [campaigns](../campaign-rules.md)<!-- as
+presented in the Battlefleet
+Gothic Remastered Rulebook
+on pg. 144 an onwards -->.
+For other [appeals](../campaign-rules.md#6-appeals)<!-- (Remastered
+Rulebook pg. 156) -->, they can use
+the Space Marines table [below](#space-marines-other-appeals).
+
+### Imperial Promotions
+
+| Renown | Title | Ld | Notes |
+| :-: | --- | :-: | --- |
+| 1-5 | Commander | 8 | 1 re-roll |
+| 6-10 | Battle Group Commander | 8 | 2 re-rolls |
+| 11-20 | Sub-sector Commander | 9 | 2 re-rolls |
+| 21-30 | Admiral | 9 | 3 re-rolls |
+| 31-50 | Fleet Admiral | 10 | 3 re-rolls |
+| 51+ | Solar Admiral | 10 | 4 re-rolls |
+
+### Space Marines (Other Appeals)
 
 _A request is made to nearby Space Marine Chapters to send aid to your fleet. Roll 2D6 on the following
 table:_
@@ -773,6 +793,11 @@ Shark assault boats at an additional cost. Ships
 with torpedo tubes are armed with ordinary
 torpedoes.
 
+Space Marine vessels with launch bays carry
+Thunderhawk Gunships. Space Marine Ships
+with torpedo tubes are armed with ordinary
+torpedoes and boarding torpedoes.
+
 ### Reserves
 
 Like other fleets, Armageddon sector fleets can
@@ -1094,4 +1119,4 @@ the Imperium.
 
 | Adeptus Mechanicus | Imperial Navy |
 | --- | --- |
-| When used with Battlefleet Bakka, Adeptus Mechanicus capital ships may take the Fleet Defence Turrets refit instead of rolling randomly on the Mechanicus Gifts table.<br><br><table class=fleet-list><tbody><tr><td>Fleet Defence Turret</td><td>+5 points</td></tr></tbody></table><br>*Two turrets on a ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each ordnance phase, adding +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). These otherwise work exactly as normal turrets do in all other respects.* | Battlefleet Bakka warships need to be well equipped with turrets because of the relative lack of fighter defences, but fleet defence turrets are too complex to be serviced by ratings of the Imperial Navy. A simpler solution was devised for the warships of Battlefleet Bakka.<br><br><table class=fleet-list><tbody><tr><td>+1 turret</td><td>+5 points</td></tr></tbody></table><br>*Any capital ship of Battlefleet Bakka can add this upgrade. It does not count against refits ships can take normally. Reserve vessels may not be given this upgrade, but any vessels from the Battlefleet Bakka fleet list used as reserves in other fleets may take it with them.* |
+| When used with Battlefleet Bakka, Adeptus Mechanicus capital ships may take the Fleet Defence Turrets refit instead of rolling randomly on the Mechanicus Gifts table.<br><br><table class=fleet-list><tbody><tr><td>Fleet Defence Turret</td><td>+5 points</td></tr></tbody></table><br>*Two turrets on the ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each ordnance phase. If they are used to defend the ship itself, they work exactly as normal turrets do in all respects. If another vessel is chosen, they add +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel).* | Battlefleet Bakka warships need to be well equipped with turrets because of the relative lack of fighter defences, but fleet defence turrets are too complex to be serviced by ratings of the Imperial Navy. A simpler solution was devised for the warships of Battlefleet Bakka.<br><br><table class=fleet-list><tbody><tr><td>+1 turret</td><td>+5 points</td></tr></tbody></table><br>*Any capital ship of Battlefleet Bakka can add this upgrade. It does not count against refits ships can take normally. Reserve vessels may not be given this upgrade, but any vessels from the Battlefleet Bakka fleet list used as reserves in other fleets may take it with them.* |

@@ -39,8 +39,8 @@ squadrons and defences may not be equipped
 with special torpedoes at all. Ork ships may
 only use special torpedoes if they have been
 upgraded to have Looted Torpedoes, but count
-as having a Torpedo Strength of up to 6. Eldar
-and Dark Eldar ships pay double points (or
+as having a Torpedo Strength of up to 6. [Eldar](eldar.md)
+and [Dark Eldar](dark-eldar.md) ships pay double points (or
 20% of the ship’s points value in a campaign)
 to use special torpedoes, as their torpedoes
 are pretty special to start with! The Tau, who
@@ -236,9 +236,10 @@ heavy cruiser would pay 60 points to carry
 torpedo bombers, while an Imperial Dictator
 class cruiser would pay 40 points.
 
-Due to the superiority of Eldar, Dark Eldar
-and Tau ordnance, Eldar or Tau vessels
-must pay +15 points per launch bay. An
+Due to the superiority of Eldar (both
+Corsairs and Craftwold), Dark Eldar and Tau
+ordnance, their vessels must pay +15 points
+per launch bay instead. For example, an
 Eldar Eclipse class cruiser carrying torpedo
 bombers would cost an additional 60 points.
 

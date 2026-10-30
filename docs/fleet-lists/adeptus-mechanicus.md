@@ -105,7 +105,7 @@ List. Re-roll any refit that is not applicable to the vessel.
 | 1 | **Emergency Energy Reserves:** When crippled, the ship only reduces [turrets](../the-ordnance-phase.md#turrets), [shielding](../the-shooting-phase.md#shields) and weapons by 25% rather than 50%. The vessel still counts as [crippled](../the-shooting-phase.md#crippled-ships) in every other respect. |
 | 2 | **Advanced Engines:** The ship gains +5cm speed, as well as +1D6 when on [*All Ahead Full*](../the-rules.md#all-ahead-full) special orders. |
 | 3 | **Repulsor Shielding:** Ignore all negative effects of having a [blast marker](../the-shooting-phase.md#blast-markers) or [gas clouds](../the-battlefield.md#gas-and-dust-clouds) in contact with the ship's base as it applies to leadership, movement and [repairing critical damage](../the-end-phase.md#damage-control). This effect goes away if the ship suffers “Shields Collapsed” critical damage. |
-| 4 | **Fleet Defence Turrets:** Up to two turrets on the ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each [ordnance phase](../the-ordnance-phase.md), adding +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). These otherwise work exactly as normal turrets do in all other respects. |
+| 4 | **Fleet Defence Turrets:** Two turrets on the ship are exchanged for fleet defence turrets capable of protecting itself or any one other vessel within 15 cm each [ordnance phase](../the-ordnance-phase.md). If they are used to defend the ship itself, they work exactly as normal turrets do in all respects. If another vessel is chosen, they add +2 to the turret strength of the ship it is defending (this does not alter bomber attack rolls when used to defend another vessel). |
 | 5 | **Gyro-stabilized Targeting Matrix:** Ship weapons are reduced to 75% instead of 50%when on [*All Ahead Full*](../the-rules.md#all-ahead-full), [*Come To New Heading*](../the-rules.md#come-to-new-heading) or [*Burn Retros*](../the-rules.md#burn-retros) special orders. [Nova Cannon](../the-shooting-phase.md#nova-cannon) still cannot fire. |
 | 6 | **Augmented Weapon Relays:** Weapon batteries shift left on the [gunnery table](../the-shooting-phase.md#gunnery-table) before all other modifiers are applied. [Lance](../the-shooting-phase.md#direct-firing-lances) hits count double on rolls of a 6. |
 
@@ -176,7 +176,9 @@ Adeptus Mechanicus Endeavour and
 Endurance light cruisers may replace their
 prow torpedoes with a single 30 cm range
 dorsal lance battery firing left/front/right
-for no cost. They can also upgrade their
+for no cost.
+
+All Adeptus Mechanicus light cruisers can upgrade their
 prow armour to 6+ at no cost. However, if
 this option is taken, their turning radius is
 reduced to 45 degrees.
@@ -365,7 +367,7 @@ included in the fleet.*
 </tbody></table>
 
 A Mechanicus Archmagos can elect up to any one desired item
-from the Adeptus Mechanicus refit table for their own ship as
+from the Adeptus Mechanicus Gift table for their own ship as
 part of their point cost, in addition to (and before) the refit the
 ship rolls for normally. If the second refit rolled is identical to the
 one selected, the commander can select the second refit as well!
@@ -385,7 +387,7 @@ re-rolls, you'll have to pay for them.
 
 The Adeptus Mechanicus will only use
 warships from the following classes, applying
-all the rules described beforehand. The cost
+all the rules described beforehand. These extra rules, where applicable, are already included in the profiles on the following pages, i.e. increased turrets and the dorsal lance. The cost
 listed below replaces the original cost for these
 vessels when used as Adeptus Mechanicus
 ships. The _Omnissiah’s Victory_ may not take
@@ -400,21 +402,21 @@ cruisers in the fleet.*
 
 <table class=fleet-list><tbody>
 <tr><td>(0-1) <a href="https://ships.battlefleet-game.org/adeptus-mechanicus/omnissiahs-victory-ark-mechanicus.html" target="_new"><em>Omnissiah's Victory</em></a></td><td>415 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td><td>400 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td><td>380 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/oberon-class-battleship.html" target="_new">Oberon class battleship</a></td><td>370 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/emperor-class-battleship.html" target="_new">Emperor class battleship</a></td><td>400 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/retribution-class-battleship.html" target="_new">Retribution class battleship</a></td><td>380 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/oberon-class-battleship.html" target="_new">Oberon class battleship</a></td><td>370 pts</td></tr>
 </tbody></table>
 
 #### Cruisers
 
 <table class=fleet-list><tbody>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td><td>255 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td><td>220 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td><td>215 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td><td>215 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endeavour-class-light-cruiser.html" target="_new">Endeavour class light cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/endurance-class-light-cruiser.html" target="_new">Endurance class light cruiser</a></td><td>125 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/imperial-navy/defiant-class-light-cruiser.html" target="_new">Defiant class light cruiser</a></td><td>130 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/dictator-class-cruiser.html" target="_new">Dictator class cruiser</a></td><td>255 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/tyrant-class-cruiser.html" target="_new">Tyrant class cruiser</a></td><td>220 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/gothic-class-cruiser.html" target="_new">Gothic class cruiser</a></td><td>215 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/lunar-class-cruiser.html" target="_new">Lunar class cruiser</a></td><td>215 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/endeavour-class-light-cruiser.html" target="_new">Endeavour class light cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/endurance-class-light-cruiser.html" target="_new">Endurance class light cruiser</a></td><td>125 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/adeptus-mechanicus/defiant-class-light-cruiser.html" target="_new">Defiant class light cruiser</a></td><td>130 pts</td></tr>
 </tbody></table>
 
 ### Escorts

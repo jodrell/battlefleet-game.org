@@ -114,14 +114,12 @@ ordnance marker removes the enemy as
 fighters would. However as they are extremely
 [resilient](../the-ordnance-phase.md#resilient-attack-craft), roll a dice when this happens. On a
 score of 4+, do not remove the Thunderhawk
-marker (However, Thunderhawks can
-only remove one enemy marker in any
-given [ordnance phase](../the-ordnance-phase.md) and stop moving as
+marker. However, they stop moving as
 soon as they intercept an enemy. Also, if a
 Thunderhawk marker uses its save to remain
 in play and comes into contact with another
 ordnance marker in the same ordnance phase,
-it is removed normally.). Note that against
+both are removed normally. Note that against
 [Eldar fighters](eldar.md#attack-craft), which also have this ability, it is
 possible that you end up with neither marker
 being removed! If this happens, either marker
@@ -248,10 +246,10 @@ addition to a normal teleport attack that turn.
 ## Space Marines in Campaigns
 
 In a campaign, the Space Marine fleet has
-access to the same [refits and crew skills](../campaign-rules.md#general-upgrades)
+access to the general [refits and crew skills](../campaign-rules.md#general-upgrades)
 as Imperial fleets<!-- on [???] of the rulebook -->.
 Space Marines may roll [appeals](../campaign-rules.md#6-appeals) against the
-Space Marines table <!-- on [???] --> if desired. Ships
+[Space Marines table](imperial-navy.md#space-marines-other-appeals) <!-- on [???] --> if desired. Ships
 earned as a result of rolling against this table
 are considered to be “for free” and do not
 count against fleet restrictions. For example,
@@ -658,12 +656,13 @@ fleet in squadrons of 2–6.*
 
 Any ship with launch bays carries [Thunderhawks
 gunships](#thunderhawk-gunships). Ships with torpedo tubes are armed
-with ordinary and [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). Imperial
-Navy vessels are equipped with their own
+with ordinary and [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). [Imperial
+Navy](imperial-navy.md) vessels (including [Adeptus Mechanicus](adeptus-mechanicus.md)
+and [Rogue Traders](rogue-traders.md)) are equipped with their own
 standard ordnance (even if they have Space
 Marine Captains) and cannot be given any form
 of Space Marine upgrade. This includes those
-listed in the [Space Marines table](../campaign-rules.md#space-marines-table)<!-- on the table on [???] p.157 of the rulebook -->.
+listed in the [Space Marines table](imperial-navy.md#space-marines-other-appeals)<!-- on the table on [???] p.157 of the rulebook -->.
 
 ### Attack Rating
 
@@ -687,7 +686,7 @@ as cruisers for the selection of any cruiser
 taken in this manner, the fleet can have up
 to twelve cruisers. However, in the course of
 a [campaign](../campaign-rules.md), a Dominion Fleet cannot take
-[reinforcements](../campaign-rules.md#reinforcements) from the [Space Marines table](../campaign-rules.md#space-marines-table).
+[reinforcements](../campaign-rules.md#reinforcements) from the [Space Marines table](imperial-navy.md#space-marines-other-appeals).
 <!--listed on [???] of the Battlefleet Gothic rulebook.-->
 
 ## Rapid Strike Vessels
@@ -755,14 +754,14 @@ Any launch bays on a Venerable battle barge have their launch capacity halved (r
 For example, an Imperial Mars battlecruiser with two launch bays each side is reduced to one
 each side, and a Chaos Styx heavy cruiser with three launch bays on each side is reduced to two
 each side. The launch bays are configured to carry [Thunderhawks](#thunderhawk-gunships) following the rules detailed
-beforehand<!-- and on [???] of Armada -->, and they cannot be used to launch any other form of [attack
+[beforehand](#ordnance)<!-- and on [???] of Armada -->, and they cannot be used to launch any other form of [attack
 craft](../the-ordnance-phase.md#attack-craft). This is a compulsory [refit](../campaign-rules.md#refits) that applies to all Venerable battle barges equipped with launch
 bays. A Venerable battle barge not equipped with launch bays cannot take Thunderhawks.
 
 ### Prow Weapons and Boarding Torpedoes
 
 Any Venerable battle barge equipped with a prow weapon (regardless of what it is) may, if
-desired, replace it with strength-6 [torpedo](../the-ordnance-phase.md#torpedoes) tubes (speed: 30 cm) for no change in cost. As with
+desired, replace it with Strength 6 [torpedo](../the-ordnance-phase.md#torpedoes) tubes (speed: 30 cm) for no change in cost. As with
 all Space Marine vessels, these tubes may also be used to launch [boarding torpedoes](../the-ordnance-phase.md#boarding-torpedoes). These
 boarding torpedoes are manned by Space Marines and get a +1 to their [hit and run attacks](../the-end-phase.md#hit-and-run-attacks) when
 they hit an enemy ship.
