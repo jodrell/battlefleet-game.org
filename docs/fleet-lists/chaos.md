@@ -503,12 +503,12 @@ destruction at Kharlos II.
 
 !!! note ""
 
-    ### Abaddon as Fleet Commander
+    ### Abaddon as Fleet Commander: 195 pts
 
     Abaddon can be chosen to act as fleet commander in any game in which the Chaos fleet is
     worth 1,000 points or more. You may not place a Chaos Lord on the same ship as Abaddon
     (you don’t get to be a Chaos Lord by spending lots of time near a bloody-tempered
-    maniac!). He has the following characteristics:
+    maniac!). If the Planet Killer is present, Abaddon must be aboard it. He has the following characteristics:
 
     **Leadership: 10**
 
@@ -609,7 +609,6 @@ more than once).
 <table class=fleet-list><tbody>
 <tr><td><strong>The Mark of Slaanesh</strong></td><td><strong>+25 pts</strong></td></tr>
 </tbody></table>
-
 
 The Chaos Warmaster is accompanied by the
 dissonant, siren cry of the Daemons of Slaanesh,
@@ -1039,6 +1038,49 @@ a Mark of Tzeentch.
 The vessel is given command of the Fates by its
 patron god and gains +1 re-roll.
 
+### Chaos Space Marine Crews
+ 
+Any capital ship can be designated as having
+a Thousand Sons Chaos Space Marine crew at
++35 points. The ship will be subject to the [Chaos
+Space Marine special rules](#chaos-space-marines-in-battlefleet-gothic) <!-- on pgs. 218–219 -->.
+A ship with a Thousand Sons Chaos Space
+Marine crew may have a Mark of Tzeentch.
+
+For +10 points, battleships and grand cruisers
+with Chaos Space Marine Warmasters, Lords or
+crews may include Chosen Terminators.
+
+### Forces of Chaos
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Warp Beasts</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
+*The garish, terror-spawned leviathans of the
+warp are but playthings to Tzeentch, and he can
+bind these creatures to the hulls of vessels to be
+unleashed in a torrent of coruscating fire and
+nightmare colour.*
+
+Up to two capital ships (including the flagship)
+can have daemonic entities and warp beasts swirl
+about its hull, including daemonships. Once per
+battle, a single enemy ship within 15 cm takes
+D6 hits in the end phase (shields have no effect).
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Strand of Fortune</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
+*Tzeentch may offer glimpses of the future to his
+servants, even those serving his chosen champion.*
+
+Any ship led by a Lord of Tzeentch (and not the
+Warmaster!) may be granted a Strand of Fortune.
+Once per battle it automatically passes a [command
+check](../the-rules.md#taking-command-checks) or [leadership test](../the-rules.md#other-leadership-tests) – no roll required.
+
 ### Capital Ships
 
 #### 0-1 Planet Killer
@@ -1116,19 +1158,6 @@ fleet for every two cruisers.*
 <tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
-### Chaos Space Marine Crews
- 
-Any capital ship can be designated as having
-a Thousand Sons Chaos Space Marine crew at
-+35 points. The ship will be subject to the Chaos
-Space Marine special rules on pgs. 218–219.
-A ship with a Thousand Sons Chaos Space
-Marine crew may have a Mark of Tzeentch.
-
-For +10 points, battleships and grand cruisers
-with Chaos Space Marine Warmasters, Lords or
-crews may include Chosen Terminators.
-
 ### Daemonships
 
 *Except for the flagship or the Scion of Prospero
@@ -1153,37 +1182,6 @@ a Chaos Space Marine crew.
 Daemonships in a Sorcerous Fleet may only take
 the Mark of Tzeentch, paid for separately.
 
-### Forces of Chaos
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Warp Beasts</strong></td><td><strong>+25 pts</strong></td></tr>
-</tbody></table>
-
-*The garish, terror-spawned leviathans of the
-warp are but playthings to Tzeentch, and he can
-bind these creatures to the hulls of vessels to be
-unleashed in a torrent of coruscating fire and
-nightmare colour.*
-
-Up to two capital ships (including the flagship)
-can have daemonic entities and warp beasts swirl
-about its hull, including daemonships. Once per
-battle, a single enemy ship within 15 cm takes
-D6 hits in the end phase (shields have no effect).
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Strand of Fortune</strong></td><td><strong>+25 pts</strong></td></tr>
-</tbody></table>
-
-*Tzeentch may offer glimpses of the future to his
-servants, even those serving his chosen champion.*
-
-Any ship led by a Lord of Tzeentch (and not
-the Warmaster!) may be granted a Strand of
-Fortune. Once per battle it automatically passes
-a [command check](../the-rules.md#taking-command-checks) or [leadership test](../the-rules.md#other-leadership-tests) – no roll
-required.
-
 ### Escorts
 
 *You may include any number of escorts in your
@@ -1198,9 +1196,6 @@ fleet in squadrons of 2–6.*
 These vessels may not contain a Chaos
 Warmaster, a Chaos Lord or have a Chaos Space
 Marine crew, neither can they be given Marks.
-You should feel free to paint and model them to
-be consistent with the rest of your fleet, it will
-not have any game effect however.
 
 ### Ordnance
 
@@ -1262,19 +1257,64 @@ only be given a Mark of Nurgle.
 <tr><td><strong>The Mark of Nurgle</strong></td><td><strong>+35 pts</strong></td></tr>
 </tbody></table>
 
-
 The vessel is rank with putrescence and the
 many plagues of the Lord of Decay. It gains 1
 Damage Point and may not be boarded.
+
+### Chaos Space Marine Crews
+
+Any capital ship can be designated as having a
+Death Guard Chaos Space Marine crew at +35
+points. The ship will be subject to the [Chaos
+Space Marine special rules](#chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
+
+A ship with a Death Guard Chaos Space
+Marine crew may have a Mark of Nurgle.
+
+For +10 points, battleships and grand cruisers
+with Chaos Space Marine Warmasters, Lords or
+crews may include Chosen Terminators.
+
+### Forces of Chaos
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Hives of Nurgle</strong></td><td><strong>+10 pts</strong></td></tr>
+</tbody></table>
+
+*Pustules, hives, and sores fester upon the ship’s
+cankered hull, seeping an obscuring haze of
+corroded debris, waste and filth out into space.*
+
+Any capital ships with the Mark of Nurgle
+may also take Hives of Nurgle. The murky
+haze distorts the ship’s silhouette; vessels
+within 15 cm do not benefit from a left column
+shift when firing at it.
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Ark of Pestilence</strong></td><td><strong>+5 pts</strong></td></tr>
+</tbody></table>
+
+*During the Gothic War, hulks were found to be
+relatively intact but with their entire crews slain
+and their bodies rotted by horrific disease.*
+
+Up to three capital ships with the Mark of
+Nurgle (including the flagship) may also
+become Arks of Pestilence. Ships [boarded](../the-end-phase.md#boarding-actions) by
+them are also infected by plague in addition
+to all damage inflicted normally, affecting
+it the same way as if it suffered a single Fire
+[critical](../the-shooting-phase.md#critical-hits) (repaired normally). Ships hulked in
+this manner do not remain “on fire” and roll
+normally on the [catastrophic damage table](../the-shooting-phase.md#catastrophic-damage-table).
 
 ### Capital Ships
 
 #### 0-1 Planet Killer
 
 *A fleet of 1,000 points or more may include the
-Planet Killer. If you include the Planet Killer,
-Abaddon does not have to be present, but if he is
-he must be aboard the Planet Killer. The Planet
+Planet Killer. The Planet
 Killer also counts as a battleship when working
 out how many heavy cruisers and cruisers the
 fleet requires.*
@@ -1282,7 +1322,6 @@ fleet requires.*
 <table class=fleet-list><tbody>
 <tr><td><a href="https://ships.battlefleet-game.org/chaos/the-planet-killer.html" target="_new">Planet Killer</a></td><td>505 pts</td></tr>
 </tbody></table>
-
 
 #### 0–1 Chaos Space Hulk
 
@@ -1344,20 +1383,6 @@ fleet for every two cruisers.*
 <tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
-### Chaos Space Marine Crews
-
-Any capital ship can be designated as having a
-Death Guard Chaos Space Marine crew at +35
-points. The ship will be subject to the Chaos
-Space Marine special rules on pgs. 218–219.
-
-A ship with a Death Guard Chaos Space
-Marine crew may have a Mark of Nurgle.
-
-For +10 points, battleships and grand cruisers
-with Chaos Space Marine Warmasters, Lords or
-crews may include Chosen Terminators.
-
 ### Daemonships
 
 *Up to a third of the capital ships (not the Terminus
@@ -1381,40 +1406,6 @@ a Chaos Space Marine crew.
 All Daemonships in a Plaguefleet must take
 the Mark of Nurgle, which is already included
 in the cost to upgrade them to Daemonships.
-
-### Forces of Chaos
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Hives of Nurgle</strong></td><td><strong>+10 pts</strong></td></tr>
-</tbody></table>
-
-*Pustules, hives, and sores fester upon the ship’s
-cankered hull, seeping an obscuring haze of
-corroded debris, waste and filth out into space.*
-
-Any capital ships with the Mark of Nurgle
-may also take Hives of Nurgle. The murky
-haze distorts the ship’s silhouette; vessels
-within 15 cm do not benefit from a left column
-shift when firing at it.
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Ark of Pestilence</strong></td><td><strong>+5 pts</strong></td></tr>
-</tbody></table>
-
-During the Gothic War, hulks were found to be
-relatively intact but with their entire crews slain
-and their bodies rotted by horrific disease.
-
-Up to three capital ships with the Mark of
-Nurgle (including the flagship) may also
-become Arks of Pestilence. Ships boarded by
-them are also infected by plague in addition
-to all damage inflicted normally, affecting
-it the same way as if it suffered a single Fire
-critical (repaired normally). Ships hulked in
-this manner do not remain “on fire” and roll
-normally on the catastrophic damage table.
 
 ### Escorts
 
@@ -1444,7 +1435,7 @@ tubes are armed with normal and boarding
 torpedoes.
 
 A ship with a Chaos Space Marine crew may
-be equipped with Thunderhawk Gunships
+be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawks)
 but if so it may only carry Thunderhawks and
 may not launch Swiftdeaths, Doomfires and
 Dreadclaws. Furthermore the launch capacity
@@ -1501,14 +1492,51 @@ Crewed by homicidal, blood-crazed followers
 of Khorne, it doubles its value in boarding
 actions.
 
+
+### Chaos Space Marine Crews
+
+Any capital ship can be designated as having a
+World Eaters Chaos Space Marine crew at +35
+points. The ship will be subject to the [Chaos
+Space Marine special rules](#chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
+
+A ship with a World Eaters Chaos Space
+Marine crew may have a Mark of Khorne.
+
+For +10 points, battleships and grand cruisers
+with Chaos Space Marine Warmasters, Lords or
+crews may include Chosen Terminators.
+
+### Forces of Chaos
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Berzerker Tide</strong></td><td><strong>Free</strong></td></tr>
+</tbody></table>
+
+
+*Bloodlust drives a ship’s crew forward in a battle
+frenzy, ignoring their own vessels’ defences.
+Carriers flush their bays of attack craft to meet
+their foe as crews leave their posts en-masse to
+board the enemy.*
+
+Any ships with the Mark of Khorne
+conducting a [boarding action](../the-end-phase.md#boarding-actions) may roll D3
+extra critical damage rolls if desired, but then
+it may not take any special orders (including
+[*Brace for Impact*](../the-rules.md#brace-for-impact)) in the next turn. Carriers
+with this Mark may launch up to D3 more
+attack craft markers of any type if within less
+than 20 cm of their target. If they do so, they
+must [*Reload Ordnance*](../the-rules.md#reload-ordnance) and not launch in the
+next turn.
+
 ### Capital Ships
 
 #### 0-1 Planet Killer
 
 A fleet of 1,000 points or more may include the
-Planet Killer. If you include the Planet Killer,
-Abaddon does not have to be present, but if he is
-he must be aboard the Planet Killer. The Planet
+Planet Killer. The Planet
 Killer also counts as a battleship when working
 out how many heavy cruisers and cruisers the
 fleet requires.
@@ -1580,24 +1608,10 @@ fleet for every two cruisers.
 <tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
-### Chaos Space Marine Crews
-
-Any capital ship can be designated as having a
-World Eaters Chaos Space Marine crew at +35
-points. The ship will be subject to the Chaos
-Space Marine special rules on pgs. 218–219.
-
-A ship with a World Eaters Chaos Space
-Marine crew may have a Mark of Khorne.
-
-For +10 points, battleships and grand cruisers
-with Chaos Space Marine Warmasters, Lords or
-crews may include Chosen Terminators.
-
 ### Daemonships
 
 *Up to a quarter of the capital ships (not battleships
-or the f lagship) in a Berzerker Fleet may be
+or the flagship) in a Berzerker Fleet may be
 upgraded to Daemonships at the additional points
 cost shown, based upon the type of vessel chosen.*
 
@@ -1617,30 +1631,6 @@ All Daemonships in a Berzerker Fleet must
 take the Mark of Khorne, which is already
 included in the cost to upgrade them to
 Daemonships.
-
-### Forces of Chaos
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Berzerker Tide</strong></td><td><strong>Free</strong></td></tr>
-</tbody></table>
-
-
-*Bloodlust drives a ship’s crew forward in a battle
-frenzy, ignoring their own vessels’ defences.
-Carriers flush their bays of attack craft to meet
-their foe as crews leave their posts en-masse to
-board the enemy.*
-
-Any ships with the Mark of Khorne
-conducting a boarding action may roll D3
-extra critical damage rolls if desired, but then
-it may not take any special orders (including
-[*Brace for Impact*](../the-rules.md#brace-for-impact)) in the next turn. Carriers
-with this Mark may launch up to D3 more
-attack craft markers of any type if within less
-than 20 cm of their target. If they do so, they
-must [*Reload Ordnance*](../the-rules.md#reload-ordnance) and not launch in the
-next turn.
 
 ### Escorts
 
@@ -1670,7 +1660,7 @@ tubes are armed with normal and boarding
 torpedoes.
 
 A ship with a Chaos Space Marine crew may
-be equipped with Thunderhawk Gunships
+be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawk-gunship]
 but if so it may only carry Thunderhawks and
 may not launch Swiftdeaths, Doomfires and
 Dreadclaws. Furthermore the launch capacity
@@ -1729,6 +1719,54 @@ extend into the minds of nearby enemy ships.
 Enemy ships within 15 cm of any ship with a
 Mark of Slaanesh suffer -2 to their leadership
 value.
+
+
+### Chaos Space Marine Crews
+
+Any capital ship can be designated as having a
+Emperor's Children Chaos Space Marine crew at
++35 points. The ship will be subject to the [Chaos
+Space Marine special rules](#chaos-space-marines-in-battlefleet-gothic)<!-- on pgs. 218–219 -->.
+
+A ship with an Emperor's Children Chaos Space
+Marine crew may have a Mark of Slaanesh.
+
+For +10 points, battleships and grand cruisers
+with Chaos Space Marine Warmasters, Lords or
+crews may include Chosen Terminators.
+
+### Forces of Chaos
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Veil of Lust</strong></td><td><strong>+20 pts</strong></td></tr>
+</tbody></table>
+
+
+*The dissonant noise becomes so palpable, even the
+sensors and auguries of enemy vessels are affected.*
+
+Any ships with the Mark of Slaanesh may take
+and be obscured by a Veil of Lust. Ship firing
+on this vessel using the gunnery table suffers a
+right column shift before any other modifiers
+are applied.
+
+<table class=fleet-list><tbody>
+<tr><td><strong>Siren&#39;s Summon</strong></td><td><strong>+25 pts</strong></td></tr>
+</tbody></table>
+
+
+*Vivid sounds and images of unspeakably dark
+pleasures permeate the hulls of enemy vessels and
+enrapt entire crews to inaction.*
+
+Up to two capital ships with the Mark of
+Slaanesh (including the flagship) may take
+the Siren’s Summon. While within 15 cm of
+a vessel with Siren’s Summon, enemy ships
+cannot take special orders or make leadership
+checks of any type, including Brace For
+Impact.
 
 ### Capital Ships
 
@@ -1807,20 +1845,6 @@ fleet for every two cruisers.*
 <tr><td><a href="https://ships.battlefleet-game.org/chaos/slaughter-class-cruiser.html" target="_new">Slaughter class cruiser</a></td><td>165 pts</td></tr>
 </tbody></table>
 
-### Chaos Space Marine Crews
-
-Any capital ship can be designated as having a
-Emperor's Children Chaos Space Marine crew at
-+35 points. The ship will be subject to the Chaos
-Space Marine special rules on pgs. 218–219.
-
-A ship with an Emperor's Children Chaos Space
-Marine crew may have a Mark of Slaanesh.
-
-For +10 points, battleships and grand cruisers
-with Chaos Space Marine Warmasters, Lords or
-crews may include Chosen Terminators.
-
 ### Daemonships
 
 *Up to half of the capital ships (not the Wage of
@@ -1845,39 +1869,6 @@ All Daemonships in a Pleasurefleet must
 take the Mark of Slaanesh, which is already
 included in the cost to upgrade them to
 Daemonships.
-
-### Forces of Chaos
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Veil of Lust</strong></td><td><strong>+20 pts</strong></td></tr>
-</tbody></table>
-
-
-*The dissonant noise becomes so palpable, even the
-sensors and auguries of enemy vessels are affected.*
-
-Any ships with the Mark of Slaanesh may take
-and be obscured by a Veil of Lust. Ship firing
-on this vessel using the gunnery table suffers a
-right column shift before any other modifiers
-are applied.
-
-<table class=fleet-list><tbody>
-<tr><td><strong>Siren&#39;s Summon</strong></td><td><strong>+25 pts</strong></td></tr>
-</tbody></table>
-
-
-*Vivid sounds and images of unspeakably dark
-pleasures permeate the hulls of enemy vessels and
-enrapt entire crews to inaction.*
-
-Up to two capital ships with the Mark of
-Slaanesh (including the flagship) may take
-the Siren’s Summon. While within 15 cm of
-a vessel with Siren’s Summon, enemy ships
-cannot take special orders or make leadership
-checks of any type, including Brace For
-Impact.
 
 ### Escorts
 
@@ -1907,7 +1898,7 @@ tubes are armed with normal and boarding
 torpedoes.
 
 A ship with a Chaos Space Marine crew may
-be equipped with Thunderhawk Gunships
+be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawk-gunship)
 but if so it may only carry Thunderhawks and
 may not launch Swiftdeaths, Doomfires and
 Dreadclaws. Furthermore the launch capacity
