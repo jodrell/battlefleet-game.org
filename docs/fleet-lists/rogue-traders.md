@@ -1323,14 +1323,12 @@ force may start the game on the table with
 the Space Hulk or may enter the table at the
 start of the second turn in any mix and order
 desired. The attacking player sets up in the
-same manner as described [on p.75 [???] of the
-Battlefleet Gothic Rulebook](../scenarios/convoy.md#victory-conditions).
+same manner as described in the [Convoy scenario](../scenarios/convoy.md).
 
 ### First Turn
 
 The defending player takes the first turn
-in the same manner as described [on [???]
-p.74 of the Battlefleet Gothic Rulebook](../scenarios/convoy.md#first-turn). The
+in the same manner as described the [Convoy scenario](../scenarios/convoy.md). The
 defending player may decide how many ships
 start the first turn on his or her short table
 edge, and how many enter on the start of the
@@ -1382,7 +1380,7 @@ destroyed. If the Space Hulk is destroyed
 for any reason, it is a major victory for the
 attacker (+1 renown).
 
-## Scenario six: The Void Malevolent
+## Scenario Six: The Void Malevolent
 
 _**Rogue Traders rarely if ever are graced with a Warrant of Trade with the power and
 authority it bestows based solely on their wealth or social station. More often than
