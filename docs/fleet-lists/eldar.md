@@ -1196,7 +1196,7 @@ with torpedo bombers for +15 points per
 launch bay, with these functioning the same
 way as other Eldar torpedoes.
 
-Reserves and Allies
+### Reserves and Allies
 
 An Eldar Hero must lead the fleet in order to use
 Corsair Eldar vessels as reserves. Following this,
