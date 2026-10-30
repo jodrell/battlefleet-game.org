@@ -5,7 +5,7 @@
 ### Eldar Leadership
 
 All Eldar ships add + 1 to the [Leadership](../the-rules.md#leadership) score
-generated on the [Leadership table](../the-rules.md#starting-leadership-values) <!-- on pg. [???]
+generated on the [Leadership table](../the-rules.md#starting-leadership-values)<!-- on pg. [???]
 of the Remastered [Rulebook](../the-rules.md)-->, giving them a
 Leadership value between 7 and 10.
 
@@ -105,6 +105,12 @@ Eldar movement will apply.
 
 #### Celestial Phenomena
 
+Eldar vessels are particularly nimble and
+piloted by some of the most experienced
+navigators in the galaxy, As a result, their
+ships have different interactions with celestial
+phenomena than other fleets.
+
 Eldar ships can make a [leadership check](../the-rules.md#other-leadership-tests) to
 ignore all effects of [celestial phenomena](../the-battlefield.md#celestial-phenomena) such
 as [gas clouds](../the-battlefield.md#gas-and-dust-clouds), [solar flares](../the-battlefield.md#solar-flares), etc. Escorts may
@@ -115,12 +121,12 @@ during a solar flare, it will take no damage
 but turn directly away from the sun edge and
 move 2D6 cm.
 
-This ability only applies to celestial phenomena,
-not explosions from [catastrophic damage](../the-shooting-phase.md#catastrophic-damage), [nova
-cannon](../the-shooting-phase.md#nova-cannon), etc. It also does not affect negative
-[leadership](../the-rules.md#leadership) modifiers caused by [radiation bursts](../the-battlefield.md#radiation-bursts).
-Leadership checks against [asteroid fields](../the-battlefield.md#asteroid-fields) are
-unchanged from those for other fleets.
+* **[Gas clouds](../the-battlefield.md#gas-and-dust-clouds):** may roll a Leadership test to ignore all negative effects of the gas cloud.
+* **[Asteroids](../the-battlefield.md#asteroid-fields):** No change. Eldar treat these as any other fleet.
+* **[Warp Rifts](../the-battlefield.md#warp-rifts):** The test is made with 2D6 instead of 3D6 for the effect of moving into the warp rift. The Warp Rift will always block the line of fire.
+* **[Planets](../the-battlefield.md#planets) and [Moons](../the-battlefield.md#moons):** No change. Eldar treat these as any other fleet.
+* **[Radiation Burst](../the-battlefield.md#radiation-bursts):** No change. Eldar treat these as any other fleet.
+* **[Solar flares](../the-battlefield.md#solar-flares):** If an Eldar vessel passes its leadership test during a solar flare, it will take no damage but turn directly away
 
 #### Blast Markers and Gravity Wells
 
@@ -157,7 +163,9 @@ scored or a miss is missed again.
 Against attacks that use the [Gunnery table](../the-shooting-phase.md#gunnery-table),
 the holofields cause one column shift to the
 right, in addition to any other column shifts
-for range or [Blast markers](../the-shooting-phase.md#blast-markers). Against any other
+for range or [Blast markers](../the-shooting-phase.md#blast-markers).
+
+Against any other
 form of attack (ALL strength-based weapons,
 [Nova Cannon](../the-shooting-phase.md#nova-cannon) shots, any [ordnance](../the-ordnance-phase.md) attacks and
 any kind of [hit and run attacks](../the-end-phase.md#hit-and-run-attacks), [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) and
@@ -170,22 +178,22 @@ roll for his holofields:
 | 1 | Hit! Score a hit on the Eldar ship. |
 | 2-6 | Missed! Place a Blast marker in contact with the ship. |
 
-Note that holofields do not negate hits or effects
-from moving through [blast markers](../the-shooting-phase.md#blast-markers), area effects,
+**Note:** Holofields do NOT negate hits or effects
+from moving through [blast markers](../the-shooting-phase.md#blast-markers), area effects (such as Warp Drive implosions, Necron Sepulchres, Chaos Marks of
+Slaanesh, etc.),
 exploding ships and [celestial phenomena](../the-battlefield.md#celestial-phenomena).
-They do, however, work against [ordnance](../the-ordnance-phase.md) hits,
-[hit-and-run raids](../the-end-phase.md#hit-and-run-attacks), [boarding actions](../the-end-phase.md#boarding-actions), [teleport
-attacks](../the-end-phase.md#teleport-attacks), [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) or [nova cannon](../the-shooting-phase.md#nova-cannon).
 
-Against [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) and [boarding](../the-end-phase.md#boarding-actions), they save
-once against the ramming or boarding
-attempt, NOT against any damage suffered if
-this save fails.
+When protecting against [damage](../the-shooting-phase.md#damage), Holofields
+roll its save once against each successful attack,
+whether it be from [lance](../the-shooting-phase.md#direct-firing-lances) fire, [ordnance](../the-ordnance-phase.md) hits, etc.
+In other words, its rolls once against a [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed)
+attack, once against each [Nova Cannon](../the-shooting-phase.md#nova-cannon) shot,
+and once against each hit imparted by ordnance
+attacks, [Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks), etc.
 
-They do NOT protect against hits caused by
-celestial phenomena nor any area effects such
-as Warp Drive implosions, [Necron Nightmare
-Fields](necrons.md#sepulchre), Chaos Marks of Slaanesh, etc.
+Against [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) and [boarding](../the-end-phase.md#boarding-actions), they save once
+against the ramming or boarding attempt, NOT
+against any damage suffered if this save fails.
 
 Holofields save against the shell hit of the [nova
 cannon](../the-shooting-phase.md#nova-cannon), meaning both a direct hit from a Nova
@@ -203,20 +211,10 @@ Holofield saves can't be taken against the
 subsequent damage rolls, but if it [braced](../the-rules.md#brace-for-impact)
 beforehand, this works normally.
 
-Eldar must determine if they wish to [brace](../the-rules.md#brace-for-impact)
+Eldar must determine if they wish to brace
 against damage they may face BEFORE rolling
 their holofield save. This includes damage from
 scatter weapons such as [Nova Cannon](../the-shooting-phase.md#nova-cannon) fire.
-
-When protecting against damage (except
-against weapons that use the [gunnery table](../the-shooting-phase.md#gunnery-table)),
-Holofields roll its save once against each
-successful attack, whether it be from [lance](../the-shooting-phase.md#direct-firing-lances)
-fire, [ordnance](../the-ordnance-phase.md) hits, etc. In other words, its
-rolls once against a [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) attack, once
-against each [Nova Cannon](../the-shooting-phase.md#nova-cannon) shot, and once
-against each hit imparted by [ordnance attacks](../the-movement-phase.md),
-[Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks), etc.
 
 ### Eldar Weapons
 
@@ -462,26 +460,14 @@ following manner:
 | 31-50 | Shadow Prince | +2 | 3 re-rolls |
 | 51+ | King | +2 | 4 re-rolls |
 
+The refit tables are for use by any capital ships in a [Corsair Eldar](#gothic-sector-eldar-corsairs-fleet-list) or [Craftworld Eldar](#iyanden-craftworld-fleet) fleet. It is
+not for use by escorts. Eldar [Havens](#haven-space-station) may earn ship or weapon refits but not engine refits.
+
 This crew skills table is for use by the [Haven](#haven-space-station), any capital ships or escort squadrons in a [Corsair
-Eldar](#gothic-sector-eldar-corsairs-fleet-list) or [Craftworld Eldar](#iyanden-craftworld-fleet) fleet. The refit table on the next page is for use by any capital ships
-in a Corsair Eldar or Craftworld Eldar fleet. It is not for use by escorts. Eldar Havens may earn
-ship or weapon refits but not engine refits. Ships that cannot use the refit or crew skill rolled for
-whatever reason may re-roll the result, such as not being equipped with [weapon batteries](../the-shooting-phase.md#direct-firing-weapons-batteries), [attack
-craft](../the-ordnance-phase.md#attack-craft), etc.
+Eldar](#gothic-sector-eldar-corsairs-fleet-list) or [Craftworld Eldar](#iyanden-craftworld-fleet) fleet.
 
-### Eldar Eldar Crew Skills
-
-*Over the course of a campaign, a ship’s crew develops experience that only comes
-from serving together in the crucible of war. Roll on the following table:*
-
-| D6 roll | Skill |
-| :-: | --- |
-| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock-On*](../the-rules.md#lock-on) Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
-| 2 | **Warlock:** A renowned Seer accompanies the vessel, disclosing fragments of possibility to the ship's captain. This vessel may always attempt to go on [Special Orders](../the-rules.md#special-orders), even if another ship or squadron in the fleet has failed a [command check](../the-rules.md#taking-command-checks) this turn. |
-| 3 | **Excellent Pilots:** Even the [bomber](../the-ordnance-phase.md#bombers) pilots assigned to this ship number several ‘Aces’ amongst its crew. Bombers launched by this vessel may survive being intercepted by enemy fighters utilizing the ‘[Resilient Attack Craft](../the-ordnance-phase.md#resilient-attack-craft)’ 4+ save rule in the same manner as Eldar fighters. As they are not fighters themselves, they still ignore other types of [ordnance](../the-ordnance-phase.md) normally. Fighters from this vessel are always moved before enemy [attack craft](../the-ordnance-phase.md#attack-craft) in the [ordnance phase](../the-ordnance-phase.md). Re-roll this result if the ship does not carry attack craft. |
-| 4 | **Battle Stance:** [Aspect Warriors](#aspect-warrior-hosts) or even the dreaded Harlequins have been enticed to join your vessel. This ship may re-roll the dice in a [boarding action](../the-end-phase.md#boarding-actions). The second roll stands (even if less!). This benefit can be combined with having an embarked Aspect Warrior Host. |
-| 5 | **Disciplined Crew:** Whenever this ship checks [leadership](../the-rules.md#leadership) or attempts to go on [Special Orders](../the-rules.md#special-orders), you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
-| 6 | **Elite Command Crew:** Once per battle the ship may automatically pass a [Leadership](../the-rules.md#leadership) test or [command check](../the-rules.md#taking-command-checks) – there is no need to roll any dice. This may be used even if another ship or squadron in the fleet has failed a command check this turn. |
+Ships that cannot use the refit or crew skill rolled for whatever reason may re-roll the result, such
+as not being equipped with weapon batteries, attack craft, etc.
 
 ### Engine Refit
 
@@ -524,6 +510,51 @@ greatly enhancing its battle effectiveness. Roll on the following table:*
 | 4 | **Gravitic Accelerators:** An extra boost is provided to [torpedoes](../the-ordnance-phase.md#torpedoes) and [attack craft](../the-ordnance-phase.md#attack-craft). When first launched, [ordnance](../the-ordnance-phase.md) receives an extra +10 cm to its movement. |
 | 5 | **Anomaly Clarification Stones:** The ship’s scanners are able to compensate for local spatial distortions. [Blast markers](../the-shooting-phase.md#blast-markers) do not cause a column shift when the ship’s [weapon batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) fire through them. |
 | 6 | **Enhanced Crystal Focusing:** Rare ultra-pure crystals and a delicate realignment of the firing mechanisms raise the power transfer ratio of the ship’s weapons, significantly increasing their range. Add +15 cm range to the ship’s [weapon batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) and [lance](../the-shooting-phase.md#direct-firing-lances)-type weapons. |
+
+### Eldar Crew Skills
+
+*Over the course of a campaign, a ship’s crew develops experience that only comes
+from serving together in the crucible of war. Roll on the following table:*
+
+| D6 roll | Skill |
+| :-: | --- |
+| 1 | **Expert Gunnery:** The ship’s gun crews are amongst the finest in the whole sector, able to lay down a devastating barrage. When the ship attempts to make [*Lock-On*](../the-rules.md#lock-on) Special Orders, you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
+| 2 | **Warlock:** A renowned Seer accompanies the vessel, disclosing fragments of possibility to the ship's captain. This vessel may always attempt to go on [Special Orders](../the-rules.md#special-orders), even if another ship or squadron in the fleet has failed a [command check](../the-rules.md#taking-command-checks) this turn. |
+| 3 | **Excellent Pilots:** Even the [bomber](../the-ordnance-phase.md#bombers) pilots assigned to this ship number several ‘Aces’ amongst its crew. Bombers launched by this vessel may survive being intercepted by enemy fighters utilizing the ‘[Resilient Attack Craft](../the-ordnance-phase.md#resilient-attack-craft)’ 4+ save rule in the same manner as Eldar fighters. As they are not fighters themselves, they still ignore other types of [ordnance](../the-ordnance-phase.md) normally. Fighters from this vessel are always moved before enemy [attack craft](../the-ordnance-phase.md#attack-craft) in the [ordnance phase](../the-ordnance-phase.md). Re-roll this result if the ship does not carry attack craft. |
+| 4 | **Battle Stance:** [Aspect Warriors](#aspect-warrior-hosts) or even the dreaded Harlequins have been enticed to join your vessel. This ship may re-roll the dice in a [boarding action](../the-end-phase.md#boarding-actions). The second roll stands (even if less!). This benefit can be combined with having an embarked Aspect Warrior Host. |
+| 5 | **Disciplined Crew:** Whenever this ship checks [leadership](../the-rules.md#leadership) or attempts to go on [Special Orders](../the-rules.md#special-orders), you may roll 3D6 and discard the highest D6 before comparing the roll against the ship’s [leadership](../the-rules.md#leadership). |
+| 6 | **Elite Command Crew:** Once per battle the ship may automatically pass a [Leadership](../the-rules.md#leadership) test or [command check](../the-rules.md#taking-command-checks) – there is no need to roll any dice. This may be used even if another ship or squadron in the fleet has failed a command check this turn. |
+
+!!! note ""
+    ### Prince Yriel: 150 pts
+
+    Yriel may be taken instead of the Hero Fleet Commander as listed in the Corsair and
+    Craftworld Eldar fleet lists, and is treated as an Eldar Hero with the additions listed here.
+    The fleet list chosen becomes the parent fleet when it comes to using reserve ships from
+    the other fleet.
+
+    Prince Yriel must be embarked on a Dragonship equipped with launch bays, or the Flame
+    of Asuryan, even if he is leading a Corsair fleet. He must be embarked aboard the Flame of
+    Asuryan if it is present, in which case Yriel's cost is reduced to 125 points.
+
+    Furthermore, if the Flame of Asuryan with Yriel is added to the parent fleet it is exempt
+    from the reserve rules. (e.g. you do not need to field three capital ships in a Corsair Eldar
+    fleet list).
+
+    **Leadership: 10**
+
+    **Re-rolls: 1**
+
+    A second and third re-roll can be purchased at +25 points each.
+
+    **Pirate Warband**
+
+    Yriel is accompanied by the fiercest members of his own pirate warband, which count as
+    an Aspect Warrior host (pg. 307). His vessel is equipped with Vampire raiders.
+
+    **Attack rating: 4**
+
+    A fleet led by Yriel has an attack rating of 4, even if it includes Craftworld vessels.
 
 ## Scenario: Craftworld Assault
 
@@ -1032,6 +1063,7 @@ Eldar escorts and Shadowhunters may not be in
 the same squadron. If the *Flame of Asuryan* is
 taken, the Eldar Hero must be embarked aboard it.
 
+
 ## Iyanden Craftworld Fleet
 
 ### Fleet Commander
@@ -1091,46 +1123,6 @@ escort squadron within 15 cm.*
 <table class=fleet-list><tbody>
 <tr><td>0-3 Farseers</td><td>+30 pts</td></tr>
 </tbody></table>
-
-!!! note ""
-    ### Prince Yriel, Bearer of the Flame, Autarch of Iyanden
-    
-    Before becoming one of the most feared
-    corsairs in all of the Imperium, he
-    was the Autarch of Iyanden, supreme
-    commander of its war host and battle
-    fleet. Unlike an Exarch, an Autarch
-    is one that has the ability to step away
-    from the Path of the Warrior, seek
-    out other disciplines and assume a
-    leadership role. Despite his considerable
-    martial prowess and tactical acumen, it
-    was along the Path of the Mariner that
-    he found his true calling.
-    
-    <table class=fleet-list><tbody><tr><td><strong>Prince Yriel</strong></td><td><strong>150 pts</strong></td></tr></tbody></table>
-    
-    Prince Yriel has at his disposal the
-    very finest weaponry and resources
-    available to the Iyanden Eldar. Treat
-    this character as an Eldar Hero with the
-    following additions as part of his point
-    cost: he is accompanied by the fiercest
-    members of Yriel’s own pirate warband,
-    which count as an [Aspect Warrior host](#aspect-warrior-hosts).
-    His vessel is equipped with Vampire
-    raiders. He has one re-roll as part of his
-    point cost, but a second or third re-roll
-    can be purchased at +25 points each.
-    
-    Prince Yriel must be embarked on a
-    Dragonship equipped with launch bays,
-    even if he is leading a Corsair fleet. A
-    fleet led by him has an [attack rating](../scenarios/index.md#using-an-attack-rating) of
-    4, even if it includes Craftworld vessels.
-    He must be embarked aboard the Flame
-    of Asuryan if it is present, in which case
-    his cost is 125 points.
 
 ### Capital Ships
 
@@ -1195,7 +1187,9 @@ fleet in squadrons of 2–6.*
 Any ship with launch bays may choose to have
 them launch any mix of Nightwing fighters and
 Phoenix bombers. Ships with torpedo tubes are
-armed with Eldar torpedoes.
+armed with Eldar torpedoes. [Dragonships](#dragonships)
+equipped with launch bays may take Vampire
+raiders at an additional cost of +10 points.
 
 Attack craft carriers may also be equipped
 with torpedo bombers for +15 points per

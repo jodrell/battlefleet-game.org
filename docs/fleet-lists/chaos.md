@@ -1660,7 +1660,7 @@ tubes are armed with normal and boarding
 torpedoes.
 
 A ship with a Chaos Space Marine crew may
-be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawk-gunship]
+be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawks]
 but if so it may only carry Thunderhawks and
 may not launch Swiftdeaths, Doomfires and
 Dreadclaws. Furthermore the launch capacity
@@ -1898,7 +1898,7 @@ tubes are armed with normal and boarding
 torpedoes.
 
 A ship with a Chaos Space Marine crew may
-be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawk-gunship)
+be equipped with [Thunderhawk Gunships](space-marines.md#thunderhawks)
 but if so it may only carry Thunderhawks and
 may not launch Swiftdeaths, Doomfires and
 Dreadclaws. Furthermore the launch capacity
