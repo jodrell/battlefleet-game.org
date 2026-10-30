@@ -16,15 +16,21 @@ and agile, bearing arrays of delicate fins
 and operating sophisticated manoeuvring
 systems which allow them to turn with an
 ease horrifying to the crews of Imperial
-vessels, leaden by comparison. Because of
+vessels, leaden by comparison.
+
+Because of
 this, Dark Eldar ships do not need to pass
 a [Command check](../the-rules.md#taking-command-checks) in order to use [*Come to
 New Heading*](../the-rules.md#come-to-new-heading) special orders and count as
 automatically passing any Command check
-to do so. In addition, Dark Eldar cruisers have
+to do so.
+
+In addition, Dark Eldar cruisers have
 no minimum required movement, even before
 turning, but are unable to use the [*Burn Retros*](../the-rules.md#burn-retros)
-special order. Note: All Eldar ships still fall
+special order.
+
+**Note:** All Eldar ships still fall
 under the restriction that if a ship moves less
 than 5 cm it counts as a defence for shooting
 purposes.

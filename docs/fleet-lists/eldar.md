@@ -556,312 +556,6 @@ from serving together in the crucible of war. Roll on the following table:*
 
     A fleet led by Yriel has an attack rating of 4, even if it includes Craftworld vessels.
 
-## Scenario: Craftworld Assault
-
-_**Direct attacks against a craftworld are exceedingly rare not least because, despite
-their immense size, craftworlds are extremely elusive prey, rarely sighted by non-Eldar. However, when the Tyranid swarms of Hivefleet Kraken descended upon the
-galaxy, they did so in such numbers that Iyanden could not help but cross their path
-and in so doing find itself in the greatest peril of its history…**_
-
-![](assets/craftworld-assault.png)
-
-### Forces
-
-Both fleets are of equal points. The defender
-(Eldar) does not spend extra points on
-[planetary defences](planetary-defences.md) – these are included in
-the special rules for the craftworld instead
-(see below). Since the attackers are Tyranids,
-they do not gain any extra transport models
-(since all Tyranid ships are ‘transports’ in
-effect), but if you want to replay this scenario
-with another attacker, they may take two free
-transports for every 500 points (or part) in his
-fleet.
-
-**Reserves:** Any number of Eldar ships
-(including the flagship!) may be purchased
-against the fleet’s total at 50% cost, but they
-count as reserves and start off the table. Ships
-may not use their [re-rolls](#pulsar-lance) if they are not yet in
-play. How vessels counting as reserves deploy
-is explained in the Craftworld special rules.
-
-### Battlezone
-
-Craftworlds will typically avoid being too
-close to stars but can otherwise be found
-just about anywhere in space. Determine the
-[battlezone](../the-battlefield.md) normally using a D3 for a [Primary
-Biosphere](../the-battlefield.md#4-primary-biosphere-generator), [Outer Reaches](../the-battlefield.md#5-outer-reaches-generator) or [Deep Space](../the-battlefield.md#6-deep-space-generator)
-result. Determine the [sunward edge](../the-battlefield.md#fighting-sunward) and set
-up [celestial phenomena](../the-battlefield.md#celestial-phenomena) normally or in any
-mutually agreed-upon fashion, ignoring any
-outcome that results in a [planet](../the-battlefield.md#planets).
-
-### Set-up
-
-The Craftworld template is placed on the table in
-the same manner as a planet using the [Planetary
-assault](../scenarios/planetary-assault.md) rules<!-- on [???] p.76 of the Rulebook -->.
-The defender can choose to place ships and
-squadrons either on patrol or on standby in high
-orbit, or within the craftworld’s gravity (low
-orbit table). Roll a D6 for each defending ship/
-squadron (except Shadowhunters) on patrol: on
-a 1-3 the attacker may set up the ship/squadron,
-on a 4-6 the defender may set it up.
-
-Ships on patrol may be set up anywhere that
-is not within 30cm of a table edge or within
-an area of [celestial phenomena](../the-battlefield.md#celestial-phenomena). The defender
-always decides the facing of ships, regardless
-of who set them up. The attacker deploys
-his fleet within 15cm of the short table edge
-furthest from the planet. You will also need a
-separate [low orbit table](../the-battlefield.md#fighting-in-low-orbit).
-
-#### Shadowhunter Patrols
-
-Shadowhunters are quite simply the most
-nimble patrol vessels in the galaxy, and so
-must always be set-up on patrol, but no dice
-roll is required, and they are always deployed
-by the defender.
-
-### The Craftworld
-
-In this scenario, the craftworld is considered
-to be the target of an attack, in the same
-manner as a planet would be in a [planetary
-assault](../scenarios/planetary-assault.md). The Tyranid assault of Hive Fleet
-Kraken targetted Iyanden, which is a very
-large craftworld (about 25cm in diameter).
-However, if you are refighting this scenario
-with another craftworld as the target, or if you
-want to introduce some degree of randomness
-into the game, you can always vary the size of
-the craftworld, or roll on a dice: 1 = small (no
-more than 15cm) , 2-5 = medium (no more
-than 20cm, 6 = large (no more than 30cm).
-Craftworlds follow all the rules for [planets](../the-battlefield.md#planets),
-since their immense size means they create
-their own gravity wells, etc. However, they do
-not roll for [moons](../the-battlefield.md#moons), [rings](../the-battlefield.md#ringed-planets), etc.
-
-Small craftworlds have a gravity well of
-10cm, medium craftworlds of 15cm and
-large craftworlds of 20cm. The craftworld
-is placed no more than 150cm from one of
-the short table edges. Whilst craftworlds
-do actually travel through space, their
-progress is so remarkably slow that during
-the course of a battle they will exhibit no
-noticeable movement, and hence the template
-representing the Craftworld itself does
-not move, in just the same way as planets
-do not move during a battle, despite their
-actual movement in orbit of the nearest star.
-Instead of [planetary defenses](planetary-defences.md) in the normal
-sense, individual areas of the Craftworld
-are purpose-constructed to provide for its
-collective defense. In the particular case of
-Iyanden, these roles are fulfilled by three areas
-– the Spear of Light, the Fortress of Tears, and
-the Fortress of the Red Moon. Whilst other
-craftworlds may vary in their defenses, you
-can safely use the following rules as standard
-for all craftworlds.
-
-![](assets/craftworld-iyanden.png)
-
-#### Fortress of Tears & Fortress of the Red Moon
-
-Both these fortresses are designed to repel
-invaders from Iyanden, utilizing powerful
-but indirect plasma shots to disrupt and
-scatter any enemy which manage to evade the
-craftworld’s cruiser patrols. At full effect the
-fortresses are designed to act as the defences
-for the end the entire eastern and western
-halves of the craftworld respectively. Each
-time an Assault Point is scored (or ‘landed’
-on the Craftworld), roll a dice. On a score of
-a 4 or more, one of the fortresses damages the
-attacking wave so heavily that the landing is
-essentially ineffective and no Assault Point is
-scored.
-
-The fortresses also allow the craftworld to
-repel ships in [low orbit](../the-battlefield.md#fighting-in-low-orbit). During the Eldar
-player’s [Shooting phase](../the-shooting-phase.md), the two fortresses
-each unleash one 45cm [pulsar lance]() against
-each escort squadron or capital ship on the
-[Low Orbit table](../the-battlefield.md#fighting-in-low-orbit). These cannot be redirected
-or “stacked” on a single or group of targets;
-each enemy escort squadron or capital ship
-can receive no more than two pulsar lance
-shots that roll to hit in the normal manner
-pulsar lances are used.
-
-There is always the danger that the fortresses
-themselves will fall. During each [End phase](../the-end-phase.md),
-roll one dice for each Assault Point already
-scored on the craftworld. If any of these
-score a ‘6’ one of the fortresses are damaged,
-and the chance of destroying enemy Assault
-Points, or scoring a hit on ships in low orbit, is
-reduced by 1 (ie, to a 5+ the first time, then to
-a 6+, then they are destroyed completely). No
-matter how many 6’s are rolled, only a single
-–1 reduction can apply in each End phase,
-meaning only a single Fortress can be affected
-by a single -1 reduction each end phase. When
-a Fortress is destroyed completely, it can no
-longer fire upon enemy vessels in low orbit.
-The number of pulsar lances fired at each
-enemy ship in low orbit is reduced by 1 for
-every Fortress destroyed.
-
-#### Spear of Light
-
-While the Spear of Light is essentially another
-heavily armed redoubt constructed for the
-defence of the entire Craftworld, it is most
-renowned for the Spear of Light, a titanic
-linear accelerator bearing its name and
-capable of hurling plasma charges at nearly
-the speed of light. Its primary purpose is to
-eliminate dangerous objects in its path, such
-as recalcitrant moonlets! However, when the
-defence of the Craftworld is at stake, it can be
-re-purposed as a weapon with poor accuracy
-by Eldar standards but horrifying destructive
-power. The Spear of Light functions as a
-single [Nova Cannon](../the-shooting-phase.md#nova-cannon) in all respects. Like the
-fortresses, one dice must be rolled during
-each [End Phase](../the-end-phase.md) for each Assault Point already
-scored on the craftworld. If any of these score
-a ‘6’ the Spear of Light is damaged, and a
-[*Reload Ordnance*](../the-rules.md#reload-ordnance) special order must be passed
-each time the weapon is used again. If a ‘6’ is
-rolled again in a subsequent [End Phase](../the-end-phase.md), the
-Spear of Light is considered destroyed for the
-rest of the battle. The Spear of Light is used
-against targets at range and has no effect
-against vessels on the [Low Orbit table](../the-battlefield.md#fighting-in-low-orbit).
-
-#### Forge of the Singers and Forge of Lost Souls
-
-A craftworld’s Bonesingers have at their
-disposal the means to construct and service
-an entire Battlefleet of Eldar vessels. Indeed,
-their construction and fabrication techniques
-are so efficient, they can quite literally have
-at their disposal more starships than there
-are Eldar crew to man them. While even this
-prodigious capacity serves little utility in the
-heat of battle, it can in an emergency aid a
-vessel in dire straits. Any Eldar capital ship
-in [low orbit](../the-battlefield.md#fighting-in-low-orbit) can dock with the Craftworld by
-“landing” on the surface without requiring
-a leadership check. Unlike when coming in
-contact with a planet’s surface, the vessel does
-not count as destroyed by doing so, though it
-must subsequently remain in place for one full
-turn. It gains +4D6 to repair critical damage
-in the [End Phase](../the-end-phase.md) and may regain up to 1Hp
-damage for every roll of 6 not used to [repair
-critical damage](../the-end-phase.md#damage-control) (all critical damage must be
-repaired before this benefit can be taken).
-Additionally, it counts as passing a [*Reload
-Ordnance*](../the-rules.md#reload-ordnance) special order for free. However,
-it may not [move](../the-movement-phase.md), [shoot](../the-shooting-phase.md) or [launch ordnance](../the-ordnance-phase.md#launching-ordnance)
-while docked, critical damage that cannot
-normally be repaired during a battle (such as
-holofields damaged) still remains damaged,
-and while docked to the Craftworld the ship
-counts as defences for purposes of being fired
-upon using the [gunnery table](../the-shooting-phase.md#gunnery-table). [Holofields](#holofields) work
-normally against gunnery-based weapons,
-and the ship benefits from an additional right
-column shift and may ignore [blast markers](../the-shooting-phase.md#blast-markers)
-while docked, as it is inside the sheath of the
-craftworld’s powerful polarization field.
-
-#### Gate of Dreams and Gate of Nightmares
-
-Like virtually all craftworlds, Iyanden has a
-series of webway portals scattered throughout
-its structure. The two largest of these are the
-Gate of Dreams and the Gate of Nightmares.
-Each one of these is capable of opening vast
-portals sizable enough for even the largest
-of the Eldar’s war machines. Together,
-they create a single portal at the rear of
-the Craftworld large enough for traversing
-starships. Beginning turn 2, after the Eldar
-fleet moves roll a D6. On a 5+, D3 capital
-ships and/or escort squadrons of the owning
-player’s choice held in reserve at the start of
-the game now appear along the table edge
-closest to the Craftworld no more than 30cm
-away from it. Eldar ships cannot move or
-shoot in the same turn they appear.
-
-### First Turn
-
-The players roll a D6, with each player adding
-their fleet’s initiative (attack rating) to the roll.
-Whoever got the highest may take either the
-first or second turn.
-
-### Special Rules
-
-Attacking ships must move within 30cm of
-the craftworld table edge (which obviously
-replaces the planet edge) on the [low orbit table](../the-battlefield.md#fighting-in-low-orbit)
-to send troops to the surface and bombard
-enemy positions. Remember that since the
-attackers are most likely Tyranids, you should
-follow the special scenario considerations for
-Tyranids, as presented in Armada. However,
-should you wish to vary the attackers, the
-following basic rules apply:
-
-For each turn an attacking capital ship spends
-within 30cm of the craftworld edge, the
-attacker scores 1 Assault Point. For each turn
-an attacking transport spends within 30cm
-of the craftworld edge, the attacker scores
-2 Assault Points. A ship deploying troops
-or bombarding the craftworld may not do
-anything else that turn.
-
-### Game Length
-
-The game lasts until one fleet is destroyed or
-disengages, or the attacker has scored 10 or
-more Assault Points.
-
-### Victory Conditions
-
-Add up the Assault Points earned by the
-attacker and add +1 to the total for every 500
-[Victory Points](../scenarios/index.md#victory-points) (rounding down) scored by the
-attacker for destroying or [crippling](../the-shooting-phase.md#crippled-ships) ships and
-[planetary defenses](planetary-defences.md). Deduct -1 Assault Point
-for every 500 Victory Points (rounding up)
-scored by the defender. Look up the adjusted
-Assault Point total on the table below:
-
-| ASSAULT POINTS | RESULT |
-| :-: | --- |
-| 0-1 | **Defender’s Victory (+1 Renown)**<br>The attacking forces achieved almost nothing. The pitiful amount of assaulting troops that reached the craftworld will be quickly annihilated. |
-| 2-5 | **Defender’s Marginal Win**<br>The assaulting forces are prevented from making a substantial landing on the craftworld. Nonetheless, enemy detachments will now have to be hunted down and destroyed. |
-| 6-9 |**Attacker’s Marginal Win**<br>The assault dropped enough troops, etc, to capture a large part of the craftworld’s resources. Ongoing battles for control of the world will rage for months, even years. |
-| 10+ | **Attacker’s Victory (+1 Renown)**<br> The attackers succeeded in sweeping aside the defending forces and staging decisive landings at key points all over the craftworld. Within a few weeks of mopping up, the attackers will have complete control of the craftworld. |
-
 ## Gothic Sector: Eldar Corsairs Fleet List
 
 ### Fleet Commander
@@ -1350,3 +1044,309 @@ unchanged.
 | 10 | +0 | **Holofield generators destroyed:** Smashed beyond repair, the station no longer benefits from its [holofields](../fleet-lists/eldar.md#holofields). This damage also affects its [Netherfield](#netherfield) and may not be repaired. |
 | 11 | +D3 | **Hull Breach:** A huge gash is torn in the station’s hull, causing carnage among the crew. |
 | 12 | +D6 | **Bulkhead Collapse:** Internal pillars buckle and twist, whole compartments crumple with a scream of tortured wraithbone. |
+
+## Scenario: Craftworld Assault
+
+_**Direct attacks against a craftworld are exceedingly rare not least because, despite
+their immense size, craftworlds are extremely elusive prey, rarely sighted by non-Eldar. However, when the Tyranid swarms of Hivefleet Kraken descended upon the
+galaxy, they did so in such numbers that Iyanden could not help but cross their path
+and in so doing find itself in the greatest peril of its history…**_
+
+![](assets/craftworld-assault.png)
+
+### Forces
+
+Both fleets are of equal points. The defender
+(Eldar) does not spend extra points on
+[planetary defences](planetary-defences.md) – these are included in
+the special rules for the craftworld instead
+(see below). Since the attackers are Tyranids,
+they do not gain any extra transport models
+(since all Tyranid ships are ‘transports’ in
+effect), but if you want to replay this scenario
+with another attacker, they may take two free
+transports for every 500 points (or part) in his
+fleet.
+
+**Reserves:** Any number of Eldar ships
+(including the flagship!) may be purchased
+against the fleet’s total at 50% cost, but they
+count as reserves and start off the table. Ships
+may not use their [re-rolls](#pulsar-lance) if they are not yet in
+play. How vessels counting as reserves deploy
+is explained in the Craftworld special rules.
+
+### Battlezone
+
+Craftworlds will typically avoid being too
+close to stars but can otherwise be found
+just about anywhere in space. Determine the
+[battlezone](../the-battlefield.md) normally using a D3 for a [Primary
+Biosphere](../the-battlefield.md#4-primary-biosphere-generator), [Outer Reaches](../the-battlefield.md#5-outer-reaches-generator) or [Deep Space](../the-battlefield.md#6-deep-space-generator)
+result. Determine the [sunward edge](../the-battlefield.md#fighting-sunward) and set
+up [celestial phenomena](../the-battlefield.md#celestial-phenomena) normally or in any
+mutually agreed-upon fashion, ignoring any
+outcome that results in a [planet](../the-battlefield.md#planets).
+
+### Set-up
+
+The Craftworld template is placed on the table in
+the same manner as a planet using the [Planetary
+assault](../scenarios/planetary-assault.md) rules<!-- on [???] p.76 of the Rulebook -->.
+The defender can choose to place ships and
+squadrons either on patrol or on standby in high
+orbit, or within the craftworld’s gravity (low
+orbit table). Roll a D6 for each defending ship/
+squadron (except Shadowhunters) on patrol: on
+a 1-3 the attacker may set up the ship/squadron,
+on a 4-6 the defender may set it up.
+
+Ships on patrol may be set up anywhere that
+is not within 30cm of a table edge or within
+an area of [celestial phenomena](../the-battlefield.md#celestial-phenomena). The defender
+always decides the facing of ships, regardless
+of who set them up. The attacker deploys
+his fleet within 15cm of the short table edge
+furthest from the planet. You will also need a
+separate [low orbit table](../the-battlefield.md#fighting-in-low-orbit).
+
+#### Shadowhunter Patrols
+
+Shadowhunters are quite simply the most
+nimble patrol vessels in the galaxy, and so
+must always be set-up on patrol, but no dice
+roll is required, and they are always deployed
+by the defender.
+
+### The Craftworld
+
+In this scenario, the craftworld is considered
+to be the target of an attack, in the same
+manner as a planet would be in a [planetary
+assault](../scenarios/planetary-assault.md). The Tyranid assault of Hive Fleet
+Kraken targetted Iyanden, which is a very
+large craftworld (about 25cm in diameter).
+However, if you are refighting this scenario
+with another craftworld as the target, or if you
+want to introduce some degree of randomness
+into the game, you can always vary the size of
+the craftworld, or roll on a dice: 1 = small (no
+more than 15cm) , 2-5 = medium (no more
+than 20cm, 6 = large (no more than 30cm).
+Craftworlds follow all the rules for [planets](../the-battlefield.md#planets),
+since their immense size means they create
+their own gravity wells, etc. However, they do
+not roll for [moons](../the-battlefield.md#moons), [rings](../the-battlefield.md#ringed-planets), etc.
+
+Small craftworlds have a gravity well of
+10cm, medium craftworlds of 15cm and
+large craftworlds of 20cm. The craftworld
+is placed no more than 150cm from one of
+the short table edges. Whilst craftworlds
+do actually travel through space, their
+progress is so remarkably slow that during
+the course of a battle they will exhibit no
+noticeable movement, and hence the template
+representing the Craftworld itself does
+not move, in just the same way as planets
+do not move during a battle, despite their
+actual movement in orbit of the nearest star.
+Instead of [planetary defenses](planetary-defences.md) in the normal
+sense, individual areas of the Craftworld
+are purpose-constructed to provide for its
+collective defense. In the particular case of
+Iyanden, these roles are fulfilled by three areas
+– the Spear of Light, the Fortress of Tears, and
+the Fortress of the Red Moon. Whilst other
+craftworlds may vary in their defenses, you
+can safely use the following rules as standard
+for all craftworlds.
+
+![](assets/craftworld-iyanden.png)
+
+#### Fortress of Tears & Fortress of the Red Moon
+
+Both these fortresses are designed to repel
+invaders from Iyanden, utilizing powerful
+but indirect plasma shots to disrupt and
+scatter any enemy which manage to evade the
+craftworld’s cruiser patrols. At full effect the
+fortresses are designed to act as the defences
+for the end the entire eastern and western
+halves of the craftworld respectively. Each
+time an Assault Point is scored (or ‘landed’
+on the Craftworld), roll a dice. On a score of
+a 4 or more, one of the fortresses damages the
+attacking wave so heavily that the landing is
+essentially ineffective and no Assault Point is
+scored.
+
+The fortresses also allow the craftworld to
+repel ships in [low orbit](../the-battlefield.md#fighting-in-low-orbit). During the Eldar
+player’s [Shooting phase](../the-shooting-phase.md), the two fortresses
+each unleash one 45cm [pulsar lance]() against
+each escort squadron or capital ship on the
+[Low Orbit table](../the-battlefield.md#fighting-in-low-orbit). These cannot be redirected
+or “stacked” on a single or group of targets;
+each enemy escort squadron or capital ship
+can receive no more than two pulsar lance
+shots that roll to hit in the normal manner
+pulsar lances are used.
+
+There is always the danger that the fortresses
+themselves will fall. During each [End phase](../the-end-phase.md),
+roll one dice for each Assault Point already
+scored on the craftworld. If any of these
+score a ‘6’ one of the fortresses are damaged,
+and the chance of destroying enemy Assault
+Points, or scoring a hit on ships in low orbit, is
+reduced by 1 (ie, to a 5+ the first time, then to
+a 6+, then they are destroyed completely). No
+matter how many 6’s are rolled, only a single
+–1 reduction can apply in each End phase,
+meaning only a single Fortress can be affected
+by a single -1 reduction each end phase. When
+a Fortress is destroyed completely, it can no
+longer fire upon enemy vessels in low orbit.
+The number of pulsar lances fired at each
+enemy ship in low orbit is reduced by 1 for
+every Fortress destroyed.
+
+#### Spear of Light
+
+While the Spear of Light is essentially another
+heavily armed redoubt constructed for the
+defence of the entire Craftworld, it is most
+renowned for the Spear of Light, a titanic
+linear accelerator bearing its name and
+capable of hurling plasma charges at nearly
+the speed of light. Its primary purpose is to
+eliminate dangerous objects in its path, such
+as recalcitrant moonlets! However, when the
+defence of the Craftworld is at stake, it can be
+re-purposed as a weapon with poor accuracy
+by Eldar standards but horrifying destructive
+power. The Spear of Light functions as a
+single [Nova Cannon](../the-shooting-phase.md#nova-cannon) in all respects. Like the
+fortresses, one dice must be rolled during
+each [End Phase](../the-end-phase.md) for each Assault Point already
+scored on the craftworld. If any of these score
+a ‘6’ the Spear of Light is damaged, and a
+[*Reload Ordnance*](../the-rules.md#reload-ordnance) special order must be passed
+each time the weapon is used again. If a ‘6’ is
+rolled again in a subsequent [End Phase](../the-end-phase.md), the
+Spear of Light is considered destroyed for the
+rest of the battle. The Spear of Light is used
+against targets at range and has no effect
+against vessels on the [Low Orbit table](../the-battlefield.md#fighting-in-low-orbit).
+
+#### Forge of the Singers and Forge of Lost Souls
+
+A craftworld’s Bonesingers have at their
+disposal the means to construct and service
+an entire Battlefleet of Eldar vessels. Indeed,
+their construction and fabrication techniques
+are so efficient, they can quite literally have
+at their disposal more starships than there
+are Eldar crew to man them. While even this
+prodigious capacity serves little utility in the
+heat of battle, it can in an emergency aid a
+vessel in dire straits. Any Eldar capital ship
+in [low orbit](../the-battlefield.md#fighting-in-low-orbit) can dock with the Craftworld by
+“landing” on the surface without requiring
+a leadership check. Unlike when coming in
+contact with a planet’s surface, the vessel does
+not count as destroyed by doing so, though it
+must subsequently remain in place for one full
+turn. It gains +4D6 to repair critical damage
+in the [End Phase](../the-end-phase.md) and may regain up to 1Hp
+damage for every roll of 6 not used to [repair
+critical damage](../the-end-phase.md#damage-control) (all critical damage must be
+repaired before this benefit can be taken).
+Additionally, it counts as passing a [*Reload
+Ordnance*](../the-rules.md#reload-ordnance) special order for free. However,
+it may not [move](../the-movement-phase.md), [shoot](../the-shooting-phase.md) or [launch ordnance](../the-ordnance-phase.md#launching-ordnance)
+while docked, critical damage that cannot
+normally be repaired during a battle (such as
+holofields damaged) still remains damaged,
+and while docked to the Craftworld the ship
+counts as defences for purposes of being fired
+upon using the [gunnery table](../the-shooting-phase.md#gunnery-table). [Holofields](#holofields) work
+normally against gunnery-based weapons,
+and the ship benefits from an additional right
+column shift and may ignore [blast markers](../the-shooting-phase.md#blast-markers)
+while docked, as it is inside the sheath of the
+craftworld’s powerful polarization field.
+
+#### Gate of Dreams and Gate of Nightmares
+
+Like virtually all craftworlds, Iyanden has a
+series of webway portals scattered throughout
+its structure. The two largest of these are the
+Gate of Dreams and the Gate of Nightmares.
+Each one of these is capable of opening vast
+portals sizable enough for even the largest
+of the Eldar’s war machines. Together,
+they create a single portal at the rear of
+the Craftworld large enough for traversing
+starships. Beginning turn 2, after the Eldar
+fleet moves roll a D6. On a 5+, D3 capital
+ships and/or escort squadrons of the owning
+player’s choice held in reserve at the start of
+the game now appear along the table edge
+closest to the Craftworld no more than 30cm
+away from it. Eldar ships cannot move or
+shoot in the same turn they appear.
+
+### First Turn
+
+The players roll a D6, with each player adding
+their fleet’s initiative (attack rating) to the roll.
+Whoever got the highest may take either the
+first or second turn.
+
+### Special Rules
+
+Attacking ships must move within 30cm of
+the craftworld table edge (which obviously
+replaces the planet edge) on the [low orbit table](../the-battlefield.md#fighting-in-low-orbit)
+to send troops to the surface and bombard
+enemy positions. Remember that since the
+attackers are most likely Tyranids, you should
+follow the special scenario considerations for
+Tyranids, as presented in Armada. However,
+should you wish to vary the attackers, the
+following basic rules apply:
+
+For each turn an attacking capital ship spends
+within 30cm of the craftworld edge, the
+attacker scores 1 Assault Point. For each turn
+an attacking transport spends within 30cm
+of the craftworld edge, the attacker scores
+2 Assault Points. A ship deploying troops
+or bombarding the craftworld may not do
+anything else that turn.
+
+### Game Length
+
+The game lasts until one fleet is destroyed or
+disengages, or the attacker has scored 10 or
+more Assault Points.
+
+### Victory Conditions
+
+Add up the Assault Points earned by the
+attacker and add +1 to the total for every 500
+[Victory Points](../scenarios/index.md#victory-points) (rounding down) scored by the
+attacker for destroying or [crippling](../the-shooting-phase.md#crippled-ships) ships and
+[planetary defenses](planetary-defences.md). Deduct -1 Assault Point
+for every 500 Victory Points (rounding up)
+scored by the defender. Look up the adjusted
+Assault Point total on the table below:
+
+| ASSAULT POINTS | RESULT |
+| :-: | --- |
+| 0-1 | **Defender’s Victory (+1 Renown)**<br>The attacking forces achieved almost nothing. The pitiful amount of assaulting troops that reached the craftworld will be quickly annihilated. |
+| 2-5 | **Defender’s Marginal Win**<br>The assaulting forces are prevented from making a substantial landing on the craftworld. Nonetheless, enemy detachments will now have to be hunted down and destroyed. |
+| 6-9 |**Attacker’s Marginal Win**<br>The assault dropped enough troops, etc, to capture a large part of the craftworld’s resources. Ongoing battles for control of the world will rage for months, even years. |
+| 10+ | **Attacker’s Victory (+1 Renown)**<br> The attackers succeeded in sweeping aside the defending forces and staging decisive landings at key points all over the craftworld. Within a few weeks of mopping up, the attackers will have complete control of the craftworld. |
