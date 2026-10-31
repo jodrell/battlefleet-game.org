@@ -25,12 +25,12 @@ New Heading*](../the-rules.md#come-to-new-heading) special orders and count as
 automatically passing any Command check
 to do so.
 
-In addition, Dark Eldar cruisers have
+In addition, Dark Eldar vessels have
 no minimum required movement, even before
 turning, but are unable to use the [*Burn Retros*](../the-rules.md#burn-retros)
 special order.
 
-**Note:** All Eldar ships still fall
+**Note:** All Dark Eldar ships still fall
 under the restriction that if a ship moves less
 than 5 cm it counts as a defence for shooting
 purposes.
@@ -77,14 +77,15 @@ vessels through which little information
 can be ascertained. Pinpointing the exact
 location or speed of a Dark Eldar vessel behind
 shadowfields can prove very tricky indeed.
+
 Against attacks that use the [Gunnery table](../the-shooting-phase.md#gunnery-table),
 the shadowfields cause one column shift to the
 right, in addition to any other column shifts
 for range or [Blast markers](../the-shooting-phase.md#blast-markers). Against any other
 form of attack (ALL strength-based weapons,
-[Nova Cannon](../the-shooting-phase.md#nova-cannon) shots, any [ordnance](../the-ordnance-phase.md) attacks and
-any kind of [hit and run attacks](../the-end-phase.md#hit-and-run-attacks), [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) and
-[boarding](../the-end-phase.md#boarding-actions)), roll to hit an Dark Eldar ship as
+[Nova Cannon](../the-shooting-phase.md#nova-cannon) shots, any [ordnance](../the-ordnance-phase.md) attacks,
+any kind of [hit and run attacks](../the-end-phase.md#hit-and-run-attacks), [boarding actions](../the-end-phase.md),
+[teleport attacks](../the-end-phase.md#teleport-attacks) and [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed)), roll to hit an Dark Eldar ship as
 normal, but the Dark Eldar player may then
 make a saving roll for his shadowfields:
 
@@ -93,41 +94,46 @@ make a saving roll for his shadowfields:
 | 1 | **Hit!** Score a hit on the Dark Eldar ship. |
 | 2-6 | **Missed!** Place a [Blast marker](../the-shooting-phase.md#blast-markers) in contact with the ship. |
 
-Note: Shadowfields do not negate hits from
-moving through [blast markers](../the-shooting-phase.md#blast-markers), exploding
-ships and [celestial phenomena](../the-battlefield.md#celestial-phenomena). They do,
-however, work against [ordnance](../the-ordnance-phase.md) hits, [hit-and-run raids](../the-end-phase.md#hit-and-run-attacks), [boarding actions](../the-end-phase.md#boarding-actions), [teleport attacks](../the-end-phase.md#teleport-attacks),
-[ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) or [nova cannon](../the-shooting-phase.md#nova-cannon).
+Note: Shadowfields do NOT negate hits or effects from
+moving through [blast markers](../the-shooting-phase.md#blast-markers),
+area effects (such as Warp Drive implosions,
+Necron Sepulchres, Chaos Marks of Slaanesh,
+etc.), exploding
+ships and [celestial phenomena](../the-battlefield.md#celestial-phenomena).
+
+When protecting against [damage](../the-shooting-phase.md#damage), Shadowfields
+roll its save once against each successful attack,
+whether it be from [lance](../the-shooting-phase.md#direct-firing-lances) fire, [ordnance](../the-ordnance-phase.md) hits, etc.
+
+In other words, its rolls once against a [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed)
+attack, once against each [Nova Cannon](../the-shooting-phase.md#nova-cannon) shot,
+and once against each hit imparted by ordnance
+attacks, [Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks), etc.
 
 Against ramming and boarding, they save once
 against the ramming or boarding attempt, NOT
 against any damage suffered if this save fails.
-They do NOT protect against hits caused by
-celestial phenomena nor any area effects such
-as Warp Drive implosions, [Necron Nightmare
-Fields](necrons.md#sepulchre), Chaos Marks of Slaanesh, etc.
 
 Shadowfields save against the shell hit of the
-[nova cannon](../the-shooting-phase.md#nova-cannon), not the subsequent damage
-rolls. For example, if an Dark Eldar vessel
-is hit and fails to save, it must immediately
-take as many hits as the damage roll allocates
-unless it successfully [braced](../the-rules.md#brace-for-impact) beforehand.
+[nova cannon](../the-shooting-phase.md#nova-cannon), meaning both a direct hit from
+a Nova Cannon where the hole is over the base
+as well as against the single automatic hit for
+coming in base contact with the blast template.
 
-Dark Eldar must determine if they wish to [brace](../the-rules.md#brace-for-impact)
+If this save is successful the effect of the Nova
+Cannon is negated, and a [Blast Marker](../the-shooting-phase.md#blast-markers) is
+placed normally for the save.
+
+If the vessel fails to save, it must immediately
+take as many hits as the damage roll allocates.
+Shadowfield saves can't be taken against the
+subsequent damage rolls, but if it [braced](../the-rules.md#brace-for-impact)
+beforehand, this works normally.
+
+Dark Eldar must determine if they wish to brace
 against damage they may face BEFORE rolling
 their shadowfield save. This includes damage
-from scatter weapons such as [Nova Cannon](../the-shooting-phase.md#nova-cannon) fire.
-
-When protecting against [damage](../the-shooting-phase.md#damage) (except
-against weapons that use the [gunnery table](../the-shooting-phase.md#gunnery-table)),
-shadowfields roll its save once against each
-successful attack, whether it be from [lance](../the-shooting-phase.md#direct-firing-lances)
-fire, [ordnance](../the-ordnance-phase.md) hits, etc. In other words, its
-rolls once against a [ramming](../the-movement-phase.md#all-ahead-full-ramming-speed) attack, once
-against each [Nova Cannon](../the-shooting-phase.md#nova-cannon) shot, and once
-against each hit imparted by [ordnance](../the-ordnance-phase.md) attacks,
-[Hit and Run attacks](../the-end-phase.md#hit-and-run-attacks), etc.
+from scatter weapons such as Nova Cannon fire.
 
 ## Hit-&-Run
 
@@ -145,8 +151,8 @@ attacks. This reflects the desire of the Dark
 Eldar to take captives, often when to do so is
 tactically foolish.
 
-They may forgo rolling on the Hit & Run Critical
-Hit table in return for +10 Victory points.
+They may forgo rolling on the Hit & Run [Critical
+Hit table](../the-shooting-phase.md#critical-hits) in return for +10 Victory points.
 
 When using Impalers for slavetaking, they
 collect +30 victory points instead of +10 points.
@@ -154,7 +160,7 @@ collect +30 victory points instead of +10 points.
 [Brace](../the-rules.md#brace-for-impact) saves may be taken against Slavetaking.
 
 Slavetaking cannot be conducted against
-Necron or Tyranid fleets.
+[Necron](necrons.md) or [Tyranid](tyranids.md) fleets.
 
 Any escort-sized ship is in addition
 considered destroyed if 30 or more victory
