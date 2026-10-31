@@ -228,9 +228,8 @@ planetary defence.
 
 In a campaign, a Tau fleet commander earns
 promotions (re-rolls) in the same manner as
-Imperials. The Tau fleet has access to the same
-[refits](../campaign-rules.md#refits) and [crew skills](../campaign-rules.md#crew-skills) as Imperial and Chaos
-fleets<!-- on pp.156-157 [???] of the rulebook -->.
+Imperials. The Tau fleet has access to the general
+[refits](../campaign-rules.md#refits) and [crew skills](../campaign-rules.md#crew-skills).
 Ships not able to take a particular refit rolled
 randomly may re-roll the result.
 
@@ -248,6 +247,33 @@ normal.
 Their special rules, ships and even a separate
 fleet list can be found [below](#allies-subjects-mercenaries)<!-- from pg. 462 and
 onward -->.
+
+!!! note ""
+    ## Kor’O Vash’ya Y’eldi Mesme: 110 pts
+
+    Kor’O’Mesme is embarked aboard the Kor’or’vesh vessel *Bor’kan Or’es El’Leath Se’arle
+    O’Mesme*. Kor’O’Mesme can be taken instead of a normal commander and has to be placed
+    on a Custodian Class Battleship.
+
+    **Leadership: 9**
+
+    **Re-rolls: 2**
+
+    Aun’Shear, a revered member of the Ethereal Caste and a close personal friend, always
+    accompanies Kor’O’Mesme.
+
+    **Excellent Pilots**
+
+    His love of flight has never diminished, and he continues to fly a fighter out of his own
+    hangar bays, true to his name Y’eldi. This inspires his pilots to drill even harder and
+    accomplish feats of bravery that has made his attack craft wings legendary in the annals of
+    the Tau. The attack craft squadrons of his flagship have the Excellent Pilots crew skill.
+
+    **Improved Logic Engines: +10 pts**
+
+    As a revered fleet commander, his vessel takes advantage of the very best technology the Fio
+    Caste can produce for the Greater Good. His ship can be refitted with Improved Logic Engines
+    enabling his vessel to avoid leadership effects for being in contact with blast markers.
 
 ## Kor’Vattra Merchant Fleet List
 
@@ -453,7 +479,7 @@ Allied vessels don’t count toward this total. For
 example, a fleet that has at least 750 points of
 Tau vessels in it may include a single Custodian.
 Fleets of at least 1,500 points may include two
-Custodians.*
+Custodians, and so on.*
 
 <table class=fleet-list><tbody>
 <tr><td><a href="https://ships.battlefleet-game.org/tau/ores-elleath-custodian-class-battleship.html" target="_new">Custodian class starship</a></td><td>330 pts</td></tr>
@@ -614,7 +640,7 @@ taken as per the Rogue Trader rules and fleet list.*
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Armed Cargo Vessel</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 
@@ -914,7 +940,7 @@ be mixed in the same squadrons.*
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/xenos-vessel.html" target="_new">Xenos Vessel</a></td><td>50 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/recommissioned-escort.html" target="_new">Recommissioned Escort</a></td><td>30 pts</td></tr>
 <tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/iconoclast-class-destroyer.html" target="_new">Iconoclast Destroyer</a></td><td>30 pts</td></tr>
-<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Cargo Vessel</a></td><td>20 pts</td></tr>
+<tr><td><a href="https://ships.battlefleet-game.org/rogue-traders/armed-cargo-vessel.html" target="_new">Armed Cargo Vessel</a></td><td>20 pts</td></tr>
 </tbody></table>
 
 
