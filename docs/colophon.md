@@ -2,9 +2,9 @@
 
 ## What is this site?
 
-This website is a mobile-friendly, web-based version of the
-[*Battlefleet Gothic: Remastered*](https://wh40k.lexicanum.com/wiki/Battlefleet_Gothic_Remastered)
-v1.11 [Rulebook](the-rules.md) and [fleets book](fleet-lists/index.md).
+This website is a mobile-friendly, web-based version of version 1.11 of the
+[*Battlefleet Gothic: Remastered*](https://linktr.ee/bfg.remastered)
+[Rulebook](the-rules.md), and version 0.40 of the [Fleets book](fleet-lists/index.md).
 
 ## How was it created?
 
