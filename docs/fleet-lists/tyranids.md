@@ -5,51 +5,53 @@
 Tyranids have a starting [attack or initiative
 rating](../scenarios/index.md#using-an-attack-rating) of 3.
 
-## Synaptic Control
+## Instinctive Behaviour
 
-Only hive ships have a [leadership](../the-rules.md#leadership) value, which
-is purchased at a fixed value from the Hive
-Fleet list. During the [Movement phase](../the-movement-phase.md), each
-hive ship can make a [Command check](../the-rules.md#taking-command-checks) to
-change or ignore [Instinctive Behaviour](#instinctive-behaviour-flowchart) for
-themselves or another ship/squadron within
-45 cm. If the test is successful the Tyranid
-player has control of the ship/squadron and
-may place it on special orders if desired,
-without requiring a second command check.
-
-Attempts to use synaptic control count as a
-Command check. However, if one hive ship
-fails a command check this does not prevent
-another hive ship attempting to use synaptic
-control. In effect each hive ship can make
-at least one attempt to override Instinctive
-Behaviour.
-
-You may test for synaptic control over a ship
-which failed the test the same turn, including
-other Hive ships, as long as there is another
-Hive ship within range.
-
-Tyranid ordnance (fighters, assault boats,
-torpedoes) is not subject to synaptic control or
-[Instinctive Behaviour](#instinctive-behaviour-flowchart) – just move them like
-normal ordnance.
+Tyranid ships do not generate [Leadership](../the-rules.md#leadership)
+normally. Hive ships purchase their
+Leadership at a fixed value from the fleet list,
+while the rest of the ships use Leadership 7
+unless otherwise specified.
 
 ### Movement & Special Orders
 
-All Tyranid vessels follow Instinctive Orders
+When activating ships or squadrons during the
+[Movement phase](../the-movement-phase.md), all Tyranid ships must follow
+the [Instinctive Behaviour chart](#instinctive-behaviour-flowchart)<!-- on pg. 419 -->,
 unless the Hive Mind (i.e. you, the player!) tells
 a ship or squadron to do something different
 via the psychic conduit of the hive ships.
 
 For ships or squadrons using Instinctive
-Behaviour, read down the flowchart opposite
-and give the ship/squadron the first
-appropriate action or special order you come
-to. No Command check is needed for special
-orders, but there may be specific activities that
-must be undertaken in the vessel’s movement.
+Behaviour, read down the flowchart and give
+the ship/squadron the first appropriate action
+or special order you come to. No Command
+check is needed for special orders, but there
+may be specific activities that must be
+undertaken in the vessel’s movement.
+
+### Synaptic Control
+
+Hive ships can make a [Command check](../the-rules.md#taking-command-checks), using
+the Hive ship's Leadership value and modifiers,
+to change or ignore Instinctive Behaviour for
+themselves or another ship/squadron within
+45 cm. If the test is successful the Tyranid
+player has full control of the ship/squadron
+using normal rules for movement and may
+even place it on special orders if desired,
+without requiring a second command check.
+
+A hive ship can keep testing for the next ship/squadron, until a Command check is failed.
+However, if one hive ship fails a command
+check this does not prevent another hive ship
+attempting to use synaptic control. You may
+select another eligible hive ship in range to
+try and test for synaptic control over a ship/squadron which failed the test the same turn,
+including other Hive ships.
+
+In effect each hive ship can make at least one
+attempt to override Instinctive Behaviour.
 
 *For example: A Tyranid cruiser wishes to
 move towards the enemy fleet in support of
@@ -61,29 +63,35 @@ has to move towards the planet even though
 this actually takes it further away from the
 enemy fleet it wished to close with.*
 
+Tyranid [ordnance](../the-ordnance-phase.md) (fighters, assault boats,
+torpedoes) is not subject to synaptic control or
+Instinctive Behaviour – just move them like
+normal ordnance.
+
 ### Brace for Impact
 
 During either players’ turn, Tyranid
-ships/squadrons can go onto [*Brace for Impact*](../the-rules.md#brace-for-impact)
+ships/ squadrons can go onto [*Brace for Impact*](../the-rules.md#brace-for-impact)
 orders by testing against the leadership of
 the nearest hive ship within 45 cm. If no hive
 ships are within range then bio-ships use a
 default leadership of 7 for the test instead.
 
 As normal this order is only removed at the end
-of the Tyranids’ next turn. Ships on [*Brace for
-Impact*](../the-rules.md#brace-for-impact)orders which are acting instinctively
-obey the movement restrictions listed above
-but do not change their [special orders](../the-rules.md#special-orders).
+of the Tyranids’ next turn. Ships on [*Brace For
+Impact*](../the-rules.md#brace-for-impact) orders which are acting instinctively
+obey the movement restrictions listed above but
+do not change their special orders. A hiveship
+on *Brace For Impact* is still eligble for command
+checks against its leadership by other ships.
 
 ### All Ahead Full
 
 If a ship goes [*All Ahead Full*](../the-rules.md#all-ahead-full) under synaptic
-control (by leadership test) instead of
-[Instinctive Behaviour](#instinctive-behaviour-flowchart), it may move an
-additional +4D6 cm instead of +2D6 cm.
-Having the Adrenaline Sacs refit adds +1D6
-in either case.
+control (by command check) instead of
+Instinctive Behaviour, it may move an additional
++4D6 cm instead of +2D6 cm. Having the
+Adrenaline Sacs refit adds +1D6 in either case.
 
 ### Instinctive Behaviour Flowchart
 
@@ -224,7 +232,7 @@ too).
 The Tyranid ship can continue moving after
 making the feeder tentacle attack and shoot/
 launch [ordnance](../the-ordnance-phase.md) later in the turn, but may
-only attack one ship per turn. Feeder tentacles
+only attack one ship with them per turn. Feeder tentacles
 are unaffected by [special orders](../the-rules.md#special-orders) of any kind.
 If a bio-ship becomes [crippled](../the-shooting-phase.md#crippled-ships), its feeder
 tentacles may no longer attack.
@@ -579,17 +587,17 @@ than once. No hive ship may ever have more
 than three different special refits, no cruiser
 more than two and no escort more than one.
 
+*Example: A Hive ship can have four reinforced
+carapaces, two extra spore cysts and one
+other refit, resulting in no more than three
+different refits.*
+
 These improvements represent the only means
 of evolving against increasingly capable
 foes, for Tyranids operate under Instinctive
 Behaviour or under direction of the Hive
 Mind, and thus they cannot take on any crew
 skills, even in the course of a campaign.
-
-*Example: A Hive ship can have four reinforced
-carapaces, two extra spore cysts and one
-other refit, resulting in no more than three
-different refits.*
 
 Because the equivalent of Tyranid torpedoes are
 always boarding torpedoes, Tyranids cannot use
@@ -933,7 +941,7 @@ as long as the fleet contains at least one hive ship.
 ### Hive Ships
 
 *Each hive ship allows the Tyranid player to
-purchase 6–12 escort ships and 0–2 capital ships.*
+purchase 6–18 escort ships and 0–2 capital ships.*
 
 <table class=fleet-list><tbody>
 <tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/hive-ship.html" target="_new">Hive ship</a> (Ld 8)</strong></td><td><strong>200 pts</strong></td></tr>
@@ -1007,27 +1015,11 @@ chosen from the following list:
 
 ### Escorts
 
-*You may include between 6 and 12 escort class
-ships for each hive ship. If no hive ships are chosen,
-only Kraken and Vanguard drone ships may be
-included in the fleet.*
-
-<table class=fleet-list><tbody>
-<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/vanguard-drone-ship.html" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
-</tbody></table>
-
-A Vanguard drone ship must be armed with one
-weapon chosen from the following list:
-
-<table class=fleet-list><tbody>
-<tr><td>Pyro-acid battery</td><td>+5 pts</td></tr>
-<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
-</tbody></table>
-
 *The fleet must have at least six escort drones for
-every hive ship in the fleet. If desired, this may
-be in addition to the 6–12 escorts (of any type)
-that may be taken for every hive ship in the fleet.*
+every hive ship in the fleet.*
+
+*You may include between 0 and 12 additional
+escort class ships (of any kind) for each hive ship.*
 
 <table class=fleet-list><tbody>
 <tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/escort-drone.html" target="_new">Escort drone</a></strong></td><td><strong>10 pts</strong></td></tr>
@@ -1036,13 +1028,26 @@ that may be taken for every hive ship in the fleet.*
 A Tyranid escort drone must be armed with one
 weapon chosen from the following list:
 
-<table class=fleet-list><tbody>
+<table class=fleet-list style="margin-bottom:1em"><tbody>
 <tr><td>Pyro-acid battery</td><td>+10 pts</td></tr>
 <tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
 <tr><td>Bio-plasma discharge</td><td>+5 pts</td></tr>
+<tr><td>(max. 10 %) Fire ship</td><td>+5 pts</td></tr>
 </tbody></table>
 
-<table style="margin-top:1em" class=fleet-list><tbody>
+<table class=fleet-list><tbody>
+<tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/vanguard-drone-ship.html" target="_new">Vanguard drone ship</a></strong></td><td><strong>20 pts</strong></td></tr>
+</tbody></table>
+
+A Vanguard drone ship must be armed with one
+weapon chosen from the following list:
+
+<table class=fleet-list style="margin-bottom:1em"><tbody>
+<tr><td>Pyro-acid battery</td><td>+5 pts</td></tr>
+<tr><td>Feeder tentacles</td><td>+5 pts</td></tr>
+</tbody></table>
+
+<table class=fleet-list><tbody>
 <tr><td><strong><a href="https://ships.battlefleet-game.org/tyranids/kraken.html" target="_new">Kraken</a></strong></td><td><strong>25 pts</strong></td></tr>
 </tbody></table>
 
@@ -1056,6 +1061,9 @@ chosen from the following list:
 <tr><td>Bio-plasma discharge</td><td>+10 pts</td></tr>
 <tr><td>Boarding torpedoes</td><td>+15 pts</td></tr>
 </tbody></table>
+
+*If no hive ships are chosen, only Kraken and
+Vanguard drone ships may be included in the fleet.*
 
 ### Squadrons
 
