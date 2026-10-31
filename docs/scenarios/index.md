@@ -382,3 +382,16 @@ you complete your sub-plot objectives.
 | 4 | **Desperate Mission:** It was not unusual for individual ships to be detached from the main fleet to undertake special missions. This could range from transporting attack plans, to small raids, or conveying Imperial Agents such as Inquisitors and Assassins to their secret destinations. <br><br>*Nominate one of your capital ships as having to perform the desperate mission. You must prevent this ship from being crippled or destroyed. (+1/-1)* |
 | 5 | **Decoy:** There are instances throughout the war of both sides using decoy ships to distract the enemy and cause confusion. Often these decoys would be incredibly ancient, out-of-service vessels, or transports refitted to outwardly resemble warships. They would only have a skeleton crew and their objective would be to attract enemy fire and divert the enemy’s attention away from your real warships. You may include an extra capital ship in your fleet. However, this vessel really has the characteristics of a transport ship. Do not tell your opponent which of your ships is the decoy until it is fired upon or fires itself. The decoy is worth zero victory points. <br><br>*If the enemy fires with a capital ship at the decoy, then your ploy has succeeded. If he does not, then you have failed. (+1/-1)* |
 | 6 | **Hit-and-Run:** Although the war was a constant battle of attrition, speed was vital on occasion. If a fleet could hit hard and fast, it could attain its objectives before nearby enemy ships could react. If an attack could be quickly repulsed, then a swift counter-attack could scatter or destroy an enemy fleet. <br><br>*Roll 2D6. This is the number of turns you have in which to win the game. If you have not won within this time limit then you have failed in your sub-plot, as your victory will not be as useful to the fleet. (+1/-1)* |
+
+## List of Scenarios
+1.  [Scenario One: Cruiser Clash](cruiser-clash.md)
+2.  [Scenario Two: The Bait](the-bait.md)
+3.  [Scenario Three: The Raiders](the-raiders.md)
+4.  [Scenario Four: Surprise Attack](surprise-attack.md)
+5.  [Scenario Five: Blockade Run](blockade-run.md)
+6.  [Scenario Six: Convoy](convoy.md)
+7.  [Scenario Seven: Planetary Assault](planetary-assault.md)
+8.  [Scenario Eight: Escalating Engagement](escalating-engagement.md)
+9.  [Scenario Nine: Exterminatus](exterminatus.md)
+10. [Scenario Ten: Fleet Engagement](fleet-engagement.md)
+

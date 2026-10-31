@@ -60,33 +60,33 @@ nav:
   - squadrons.md
   - planetary-defences.md
   - the-battlefield.md
-  - Scenarios:
-    - scenarios/index.md
-    - scenarios/cruiser-clash.md
-    - scenarios/the-bait.md
-    - scenarios/the-raiders.md
-    - scenarios/surprise-attack.md
-    - scenarios/blockade-run.md
-    - scenarios/convoy.md
-    - scenarios/planetary-assault.md
-    - scenarios/escalating-engagement.md
-    - scenarios/exterminatus.md
-    - scenarios/fleet-engagement.md
+  # - Scenarios:
+  - scenarios/index.md
+    # - scenarios/cruiser-clash.md
+    # - scenarios/the-bait.md
+    # - scenarios/the-raiders.md
+    # - scenarios/surprise-attack.md
+    # - scenarios/blockade-run.md
+    # - scenarios/convoy.md
+    # - scenarios/planetary-assault.md
+    # - scenarios/escalating-engagement.md
+    # - scenarios/exterminatus.md
+    # - scenarios/fleet-engagement.md
   - campaign-rules.md
-  - The Third Armageddon War:
-    - the-third-armageddon-war/index.md
-    - the-third-armageddon-war/the-gauntlet.md
-    - the-third-armageddon-war/parols-bait.md
-    - the-third-armageddon-war/pelucidar.md
-  - "Abaddon's 13th Black Crusade":
-    - abaddons-13th-black-crusade/index.md
-    - abaddons-13th-black-crusade/chance-encounter.md
-    - abaddons-13th-black-crusade/rearguard-attack.md
-    - abaddons-13th-black-crusade/alien-intervention.md
-    - abaddons-13th-black-crusade/above-belis-corona.md
-    - abaddons-13th-black-crusade/daemon-blockade.md
-    - abaddons-13th-black-crusade/navigate-the-storm.md
-    - abaddons-13th-black-crusade/macharias-end.md
+#  - The Third Armageddon War:
+  - the-third-armageddon-war/index.md
+#    - the-third-armageddon-war/the-gauntlet.md
+#    - the-third-armageddon-war/parols-bait.md
+#    - the-third-armageddon-war/pelucidar.md
+#  - "Abaddon's 13th Black Crusade":
+  - abaddons-13th-black-crusade/index.md
+#    - abaddons-13th-black-crusade/chance-encounter.md
+#    - abaddons-13th-black-crusade/rearguard-attack.md
+#    - abaddons-13th-black-crusade/alien-intervention.md
+#    - abaddons-13th-black-crusade/above-belis-corona.md
+#    - abaddons-13th-black-crusade/daemon-blockade.md
+#    - abaddons-13th-black-crusade/navigate-the-storm.md
+#    - abaddons-13th-black-crusade/macharias-end.md
   - andy-chambers-notes.md
   - Fleet Lists:
     - fleet-lists/index.md
