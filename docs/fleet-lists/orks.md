@@ -141,7 +141,7 @@ provide a bonus attack for turret suppression.
 
 In the beginning of any turn after the turn they
 are launched, each torpedo-bomma marker may
-be converted into a Strength-2 torpedo salvo.
+be converted into a Strength 2 torpedo salvo.
 Torpedo-bommas in a wave may combine their
 salvoes into a single salvo, or any number of
 markers may launch their salvoes separately.
@@ -243,18 +243,18 @@ makes contact with an [asteroid field](../the-battlefield.md#asteroid-fields) or
 
 When playing the defender in [scenarios](../scenarios/index.md) that
 call for [planetary defences](planetary-defences.md), Orks have access
-to all the defences listed <!-- on [???] pp.141-146 -->
-in the rulebook. These can be represented
-as captured Imperial or Chaos defences, or
+to all the defences listed in [Planetary
+Defences](planetary-defences.md)<!-- on pg. 496 onward -->. These can be represented
+as captured [Imperial](imperial-navy.md) or [Chaos](chaos.md) defences, or
 weapon emplacements installed on small
 asteroids. System ships, defence monitors and
 fireships can all be captured vessels, worn out
 Brute ramships or gunships that have more
-dakka bolted on to defend ‘da planet! In place
-of the Imperial Blackstone Fortress, substitute
-a non-moving Space Hulk using the same
-(unchanged) profile and point cost<!-- listed on
-[???] p.145 -->.
+dakka bolted on to defend ‘da planet! In place of the Imperial Blackstone
+Fortress, substitute a non-moving Space Hulk
+but use the same (unchanged) profile and
+point cost of the Blackstone Fortress<!-- as listed
+on pg. 506 -->.
 
 ## Orks in Campaigns
 
@@ -293,7 +293,7 @@ battle effectiveness. Roll on the following table:_
 
 | D6 roll | Weapons Refit |
 | :-: | --- |
-| 1 | **Weirdboy Tower:** During the last battle, the power of the Waagh was too much for one of the boyz on board and he manifested strange powers. Always inventive they have chained the new Weirdboy up and are using him as a weapon. The Weirdboy is the equivalent of a Strength-1 [Lance](../the-shooting-phase.md#direct-firing-lances), with a range of 15 cm. |
+| 1 | **Weirdboy Tower:** During the last battle, the power of the Waagh was too much for one of the boyz on board and he manifested strange powers. Always inventive they have chained the new Weirdboy up and are using him as a weapon. The Weirdboy is the equivalent of a Strength 1 [Lance](../the-shooting-phase.md#direct-firing-lances), with a range of 15 cm. |
 | 2 | **Kans:** The Kaptin ordered the Mekboyz to build Kans to aid in the loading of [torpedoes](../the-ordnance-phase.md#torpedoes) and the readying of [attack craft](../the-ordnance-phase.md#attack-craft). The ship adds +1 to its [leadership](../the-rules.md#leadership) when attempting [*Reload Ordnance*](../the-rules.md#reload-ordnance) special orders (re-roll this if the ship has no ordnance). |
 | 3 | **Dakka Central:** The Mekboys have been able to rig all of the ship's weapons through the Dakka Central. This allows the Orks to still fire with enthusiasm while the ship is performing special manoeuvres and still hit. While on [special orders](../the-rules.md#special-orders), the ships firepower is reduced by 25% (rounded up) rather than halved. |
 | 4 | **Mad Bombers:** The particularly foolhardy Ork pilots from this ship push their [Fightabommas](#fighta-bommas) past the known limits of Ork Technology. Rather than rolling D3 for the number of hits against ships, these Bombers may roll a D6. |
@@ -332,6 +332,36 @@ _The Power of the Waaagh table should be treated as an ‘Other’ on the appeal
 | 11 | **We iz gonna liv ’ere:** One uninhabited system you own becomes an agri-world. |
 | 12 | **Waaagh!** The next time you are the attacker in a battle you may nominate two systems to be attacked. The battle will be 1,500 to 2,000 points. If you win you can claim both systems. If your opponent wins he can claim one neutral system. |
 
+## Campaign map System Type
+
+### Ork infested
+
+Systems on a [campaign](../campaign-rules.md) map can be Ork
+infested to such a degree that they can never
+truly be recaptured. A perfect example for
+this is the Golgotha sub-sector from the [Third
+Armageddon War campaign](../the-third-armageddon-war/index.md)<!-- (Remastered
+Rulebook pg. 83) -->.
+
+To represent this, the sub-sector map may
+include a new system type, Ork Infested
+worlds (I). An infested world is useless to
+anyone other than an Ork player, and hence
+counts as uninhabited to these players.
+
+If an Ork player controls an infested system
+he may count it as a civilised world. However,
+since these worlds represent what are in all
+likelihood the ancient tribal grounds of many
+of the Ork commanders, their loss would
+prove a terrible blow against their own Orkish
+renown. If an Ork player loses a battle in one
+of his own infested systems, all minus (-1, -2
+etc.) modifiers to his renown are doubled when
+adjusting renown after that particular game.
+
+![](../assets/image--434.png)
+
 ## Ork Pirates: Cyclops Cluster Fleet List
 
 ### Warlord
@@ -341,7 +371,7 @@ fleet, each of whom must be assigned to a ship
 or squadron. If the fleet is worth 500 points or
 more it must include at least 1 Warlord to lead it.
 An Ork fleet can include a max. of one Warlord
-per 500 points. ie, if the fleet is worth up to 500
+per 500 points. i.e, if the fleet is worth up to 500
 points, it may have one Warlord. If it is worth
 500–1,000 points two Warlords may be included,
 etc.*
@@ -878,7 +908,7 @@ with Extra Turrets.
 
 
 Any heavy [gunz batteries](../the-shooting-phase.md#direct-firing-weapons-batteries) on the ship can be
-replaced with a Strength-2 [lance](../the-shooting-phase.md#direct-firing-lances) battery. Range
+replaced with a Strength 2 [lance](../the-shooting-phase.md#direct-firing-lances) battery. Range
 is 15 cm for escorts, 30 cm for capital ships.
 
 <table class=fleet-list><tbody>

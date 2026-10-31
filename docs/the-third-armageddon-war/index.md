@@ -18,6 +18,7 @@
 <tr><th scope="row" align="center">M</th><td>Mining world</td></tr>
 <tr><th scope="row" align="center">P</th><td>Penal world</td></tr>
 <tr><th scope="row" align="center">U</th><td>Uninhabited system</td></tr>
+<tr><th scope="row" align="center">I</th><td><a href="../fleet-lists/orks/#ork-infested">Ork Infested</a></td></tr>
 </tbody></table>
 
 ## Scenarios
